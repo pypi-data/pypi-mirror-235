@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+frye/__init__.py
+frye/frye.py
+frye.egg-info/PKG-INFO
+frye.egg-info/SOURCES.txt
+frye.egg-info/dependency_links.txt
+frye.egg-info/requires.txt
+frye.egg-info/top_level.txt
