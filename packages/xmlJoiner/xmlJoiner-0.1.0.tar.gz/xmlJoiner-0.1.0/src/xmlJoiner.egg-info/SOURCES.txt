@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/xmlJoiner/console.py
+src/xmlJoiner/constants.py
+src/xmlJoiner/loginit.py
+src/xmlJoiner/version.py
+src/xmlJoiner/xmlJoin.py
+src/xmlJoiner.egg-info/PKG-INFO
+src/xmlJoiner.egg-info/SOURCES.txt
+src/xmlJoiner.egg-info/dependency_links.txt
+src/xmlJoiner.egg-info/entry_points.txt
+src/xmlJoiner.egg-info/requires.txt
+src/xmlJoiner.egg-info/top_level.txt
