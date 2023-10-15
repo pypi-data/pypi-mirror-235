@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/nett/__init__.py
+src/nett/example.py
+src/nett_bd.egg-info/PKG-INFO
+src/nett_bd.egg-info/SOURCES.txt
+src/nett_bd.egg-info/dependency_links.txt
+src/nett_bd.egg-info/requires.txt
+src/nett_bd.egg-info/top_level.txt
