@@ -1,0 +1,75 @@
+Metadata-Version: 2.1
+Name: aiaas-falcon
+Version: 0.1.0
+Summary: This python package help to interact with Generative AI - Large Language Models. It interacts with AIaaS LLM , AIaaS embedding , AIaaS Audio set of APIs to cater the request.
+License: MIT
+Author: Your Name
+Author-email: you@example.com
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: google-api-core (>=2.12.0,<3.0.0)
+Requires-Dist: requests (>=2.31.0,<3.0.0)
+Description-Content-Type: text/markdown
+
+
+# AIaaS Falcon
+
+## Description
+
+A Python client to interact with a specific API, allowing operations such as listing models, creating embeddings, and generating text based on certain configurations.
+
+## Installation
+
+Ensure you have the `requests` and `google-api-core` libraries installed:
+
+```bash
+pip install requests
+pip install google-api-core
+```
+
+## Usage
+
+1. **Initialization:**
+
+   ```python
+   from falcon_client import Falcon  # Assuming the class is saved in a file named falcon_client.py
+   
+   falcon_client = Falcon(api_key="<Your_API_Key>", host_name_port="<Your_Host_Name_Port>")
+   ```
+
+2. **Listing Models:**
+
+   ```python
+   models = falcon_client.list_models()
+   print(models)
+   ```
+
+3. **Creating an Embedding:**
+
+   ```python
+   response = falcon_client.create_embedding(file_path="<Your_File_Path>")
+   print(response)
+   ```
+
+4. **Generating Text:**
+
+   ```python
+   response = falcon_client.generate_text(chat_history=[], query="<Your_Query>")
+   print(response)
+   ```
+
+## Methods
+
+- `list_models(self)` - Retrieves available models.
+- `create_embedding(self, file_path)` - Creates embeddings from a provided file.
+- `generate_text(self, chat_history=[], query="", use_default=1, conversation_config={}, config={})` - Generates text based on provided parameters.
+
+## Conclusion
+
+The Falcon API Client simplifies interactions with the specified API, providing a straightforward way to perform various operations such as listing models, creating embeddings, and generating text.
+
