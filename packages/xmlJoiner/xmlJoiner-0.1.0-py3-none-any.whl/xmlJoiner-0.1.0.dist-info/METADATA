@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: xmlJoiner
+Version: 0.1.0
+Summary: ESA EDDS XML Telemetry joiner
+Author-email: Romolo Politi <Romolo.Politi@inaf.it>
+License: GNU GPL ver3
+Project-URL: Repository, https://github.com/SIMBIO-SYS/SimbioReader
+Keywords: ESA,Space Mission,Telemetry
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rich-click
+Requires-Dist: rich
+Requires-Dist: importlib-metadata ; python_version > "3.10"
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+
+# xmlJoiner
+
+Join two or more PARC Telemetry files downloaded from ESA EDDS.
+
+## Installation
+
+To install the reader you can use the command:
+
+```shell
+$ python3 -m pip install xmlJoiner
+```
+
