@@ -1,0 +1,10 @@
+whyslow/__init__.py,sha256=qE6QMvPpo9Ut3E3iZRAGh7-5HSzD7niD7FdwrNsmCk8,59
+whyslow/__main__.py,sha256=ejwYD8pQP_7FnkF1AfnWCvjl2p_QcxgoHHe_wf-wI5A,536
+whyslow/profile.py,sha256=qyfb33meXgf9ME4edhUe7eDck1V_DH490Wr_6aJwR1A,1553
+whyslow/term_process.py,sha256=zKs6pyk2FwMdNXDntAn4sptn68hXDeAHrjIy499ECZk,465
+whyslow/utils.py,sha256=m6DyS12IGTRKiz4SCMFwr-_wSbGJ339F9jV5TUChrw4,1368
+whyslow-0.1.6.dist-info/LICENSE,sha256=yZgcGwlSj6bZe5LOT-7R9PFr_xZ8yWUO5QNphL4JG9M,1068
+whyslow-0.1.6.dist-info/METADATA,sha256=uhfJeEFM5E0034W2zEJOqrlVJrOQEkO_6Ooywc4QIWE,1308
+whyslow-0.1.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+whyslow-0.1.6.dist-info/top_level.txt,sha256=u6OedaK-_NR5_HHw67Y4r6eA_zP24smRZuGup-uTKRQ,8
+whyslow-0.1.6.dist-info/RECORD,,
