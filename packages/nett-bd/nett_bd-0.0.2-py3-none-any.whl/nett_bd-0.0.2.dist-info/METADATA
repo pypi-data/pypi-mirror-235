@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: nett-bd
+Version: 0.0.2
+Summary: A small example package
+Author-email: Example Author <author@example.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: <=3.10.12,>=3.10.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: gym ==0.21.0
+Requires-Dist: mlagents ==1.0.0
+Requires-Dist: stable-baselines3[extra] ==1.8.0
+Requires-Dist: sb3-contrib ==1.8.0
+Requires-Dist: hydra-core ==1.3.2
+
+# Example Package
+
+This is a simple example package. You can use
+[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+to write your content.
