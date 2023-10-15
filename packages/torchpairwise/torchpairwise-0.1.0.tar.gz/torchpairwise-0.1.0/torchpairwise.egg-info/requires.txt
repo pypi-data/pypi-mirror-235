@@ -1,0 +1,11 @@
+torch
+
+[examples]
+scipy
+scikit-learn
+tqdm
+
+[tests]
+scipy
+scikit-learn
+tqdm
