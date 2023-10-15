@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PySideUI"
+version = "0.0.1"
+authors = [
+  { name="Arthur Chan", email="chenzhiguook@foxmail.com" },
+]
+description = "A UI library for PySide"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/arthurchen1906/PySideUI"
+"Bug Tracker" = "https://github.com/arthurchen1906/PySideUI/issues"
