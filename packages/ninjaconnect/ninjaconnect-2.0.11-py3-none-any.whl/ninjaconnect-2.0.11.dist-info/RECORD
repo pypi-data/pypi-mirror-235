@@ -1,0 +1,11 @@
+ninjaconnect-2.0.11.data/scripts/ninja,sha256=27fDujeR5mgjBgR-oDNjeg9TqIZDdKplrEwuEE7kJrE,1886
+wglib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wglib/auth.py,sha256=r1zSNMQN4QxF5580r5htBP8beH4o8mkkxAJXzzS6aLE,6120
+wglib/snaconf.py,sha256=1-WIZ6VYDKMMpfzmHLtdepnrxg3BtJNuWU9nKsuzW-M,218
+wglib/storesess.py,sha256=8JFIjS7TnlRaNIQoX3mB8NhkjukYxynE9_vrLiDGDJc,669
+wglib/test.py,sha256=sVRthTW9hQ-YeaYIm_1x776NViN_FHZDtfexnQ-Ujyk,747
+wglib/wg.py,sha256=ehiefLXJ6bMTtmMxSga6gaEAC9x5ymfbSRWlnJLwpik,18425
+ninjaconnect-2.0.11.dist-info/METADATA,sha256=D5x1Br2kutGuPzkyxPyw0IYZTy-uuL164NzEpmamZbM,2147
+ninjaconnect-2.0.11.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ninjaconnect-2.0.11.dist-info/top_level.txt,sha256=svXNxMkbY51QDaJ1VROvJJhBH9vq7NhJ8jC7vJqSC44,6
+ninjaconnect-2.0.11.dist-info/RECORD,,
