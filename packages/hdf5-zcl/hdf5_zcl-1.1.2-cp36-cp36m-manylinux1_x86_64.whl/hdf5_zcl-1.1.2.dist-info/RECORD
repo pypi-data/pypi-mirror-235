@@ -1,0 +1,10 @@
+hdf5_zcl/__init__.cpython-36m-x86_64-linux-gnu.so,sha256=XjbSgVGDI9s4DfhbdA-d70Q3JqLZrjEenEroo7GdGcY,69520
+hdf5_zcl/hdf5_function.cpython-36m-x86_64-linux-gnu.so,sha256=M1wFfGVK3S2J0i-y-07kJOxEyk15L8zDz6ZSftluNpg,505624
+hdf5_zcl/swmr/library/Bufferlib.cpython-36m-x86_64-linux-gnu.so,sha256=dzgl7hjS-E3O5-Z5fIfHglmO2zTvynjmA29KnbkjWDE,229856
+hdf5_zcl/swmr/library/__init__.cpython-36m-x86_64-linux-gnu.so,sha256=8kujOslryJKnqmoJ_joE3CttNlbwwZ3uaUGHs88vEyc,88264
+hdf5_zcl/swmr/library/swmr_writer.cpython-36m-x86_64-linux-gnu.so,sha256=7fFJfbND2xA9L0Nj1UNs-iMOU-0hcuUN7cRjBMJ07Q0,356688
+hdf5_zcl/swmr/library/swmrlib.cpython-36m-x86_64-linux-gnu.so,sha256=qOI5uAa-VABuVLu1sy8FdRJx-o72IQxdHIPYr2bOCCE,506648
+hdf5_zcl-1.1.2.dist-info/METADATA,sha256=8k5i2_B878Lgg1H0TE_w36ziPlLCgmaj_LcSCvGjOOI,214
+hdf5_zcl-1.1.2.dist-info/WHEEL,sha256=IODkjaibdQL4Y0ih2utemBolHCvYTfxEeli_9oQOqGs,109
+hdf5_zcl-1.1.2.dist-info/top_level.txt,sha256=kHc6MagvtSYAj_5qM5txP3b8NNl-U1wPfi7Qwt6EfUM,9
+hdf5_zcl-1.1.2.dist-info/RECORD,,
