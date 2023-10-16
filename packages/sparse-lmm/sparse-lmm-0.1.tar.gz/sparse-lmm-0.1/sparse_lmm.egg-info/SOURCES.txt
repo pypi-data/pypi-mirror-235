@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+combined_plots.png
+setup.py
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+sparse-lmm/VariableSelection.py
+sparse-lmm/__init__.py
+sparse-lmm/helpingMethods.py
+sparse_lmm.egg-info/PKG-INFO
+sparse_lmm.egg-info/SOURCES.txt
+sparse_lmm.egg-info/dependency_links.txt
+sparse_lmm.egg-info/requires.txt
+sparse_lmm.egg-info/top_level.txt
