@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+cap_from_youtube/__init__.py
+cap_from_youtube/cap_from_youtube.py
+cap_from_youtube_opts.egg-info/PKG-INFO
+cap_from_youtube_opts.egg-info/SOURCES.txt
+cap_from_youtube_opts.egg-info/dependency_links.txt
+cap_from_youtube_opts.egg-info/requires.txt
+cap_from_youtube_opts.egg-info/top_level.txt
