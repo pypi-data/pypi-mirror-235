@@ -1,0 +1,10 @@
+ipython
+papermill
+
+[dev]
+black
+build
+
+[test]
+pytest
+parameterized
