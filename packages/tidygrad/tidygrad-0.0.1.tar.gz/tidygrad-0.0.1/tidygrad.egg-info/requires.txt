@@ -1,0 +1,8 @@
+numpy
+
+[dev]
+black
+nbdev
+matplotlib
+lovely_numpy
+requests
