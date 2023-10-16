@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: latestTouki
+Version: 1.0.1
+Summary: When you want to know the latest date of all date with list.Please use latestTouki.
+Home-page: https://github.com/taotaotao3/latestTouki
+Author: Takao Morita
+Author-email: tmolita077@gmail.com
+License: MIT
+Keywords: Date,registration,convert
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Database
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
+Requires-Dist: pandas ==2.1.1
+
+There are various ways to write the date of registration in Japan. This method extracts only the exact date from them and returns the latest date. Please input the list of dates as a list.
