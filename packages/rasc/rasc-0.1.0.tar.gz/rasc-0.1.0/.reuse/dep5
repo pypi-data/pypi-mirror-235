@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rasc
+Upstream-Contact: Ngô Ngọc Đức Huy <huyngo@disroot.org>
+Source: https://git.sr.ht/~huyngo/rasc/
+
+Files: README.md
+Copyright: 2023 Ngô Ngọc Đức Huy <huyngo@disroot.org>
+License: GPL-3.0-only
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
