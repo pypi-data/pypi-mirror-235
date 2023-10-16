@@ -1,0 +1,21 @@
+
+
+import sys
+import time
+import os
+
+def REPEAT ():	
+	
+	print ("REPEAT, STDERR", file = sys.stderr)
+	print ("REPEAT, STDOUT", file = sys.stdout)
+	
+	#sys.stdout.buffer.write (b"A FEW BYTES")
+	with os.fdopen (sys.stdout.fileno (), "wb", closefd = False) as STDOUT:
+		STDOUT.write (b"A FEW BYTES\n")
+		STDOUT.flush ()
+
+	time.sleep (1)
+
+	REPEAT ()
+	
+REPEAT ()
