@@ -1,0 +1,14 @@
+widdy/__init__.py,sha256=zIurLvoRccNUhCLgJpBhMQSmX3Ox_AcwX4ijeVEERHs,237
+widdy/__main__.py,sha256=5jYVOqqqrdCT4ePWsW4s8BJI3WXYjzEShRbDnHS2MSg,37
+widdy/demos.py,sha256=JZsTCgDjFqRwM8npyEjDZdBqo6xh_IBezxqSYEkFmqg,935
+widdy/styles.py,sha256=rkP-b0DryIYYRlObOwDzpjPTrg0Ti7xaV9kp3Yv50wg,1119
+widdy/widgets.py,sha256=ZKboDokIcNSezdRmZhrvtZdt_bEu7mHz2dUkDZdzXT4,1741
+widdy/examples/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+widdy/examples/chuck.py,sha256=zxmul7TMrRmSmDcvMT41S9nucpZrI_XXgocPGIGl3is,853
+widdy/examples/counter.py,sha256=UZ1jZHNQvNJkAR29kuMHAX72KZOxseSSfZSZTRI1D9U,1581
+widdy-0.2.13.dist-info/LICENSE.txt,sha256=XzeBGDKiKAmMRd54IRd7QHpWO8vHL9_RV3n5g3jJ5Ss,1065
+widdy-0.2.13.dist-info/METADATA,sha256=8H4L4RV8rYp3zIbA84KV3cMe_G173q3FXwKo5o-O8QU,2253
+widdy-0.2.13.dist-info/WHEEL,sha256=a-zpFRIJzOq5QfuhBzbhiA1eHTzNCJn8OdRvhdNX0Rk,110
+widdy-0.2.13.dist-info/entry_points.txt,sha256=z9K1ayKMHiFTuIlIwamEaTbml9L6YRfWQw3s8oLkQDs,37
+widdy-0.2.13.dist-info/top_level.txt,sha256=Trz2tJ6S4nSG_sE7-hsFD_wNBfQBoJQlhY--FVRtfFc,6
+widdy-0.2.13.dist-info/RECORD,,
