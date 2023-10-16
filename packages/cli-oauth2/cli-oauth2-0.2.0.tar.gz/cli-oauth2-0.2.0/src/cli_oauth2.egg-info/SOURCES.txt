@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/cli_oauth2.egg-info/PKG-INFO
+src/cli_oauth2.egg-info/SOURCES.txt
+src/cli_oauth2.egg-info/dependency_links.txt
+src/cli_oauth2.egg-info/entry_points.txt
+src/cli_oauth2.egg-info/requires.txt
+src/cli_oauth2.egg-info/top_level.txt
+src/oauthcli/__init__.py
+src/oauthcli/clean.py
+src/oauthcli/flow.py
+src/oauthcli/providers.py
