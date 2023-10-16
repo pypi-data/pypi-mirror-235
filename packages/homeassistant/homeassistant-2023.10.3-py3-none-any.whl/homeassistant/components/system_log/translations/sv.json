@@ -1,0 +1,16 @@
+{
+    "services": {
+        "clear": {
+            "description": "Tar bort alla loggrader.",
+            "name": "Rensa allt"
+        },
+        "write": {
+            "fields": {
+                "logger": {
+                    "description": "Loggnamn under vilket meddelandet ska loggas. Standardv\u00e4rdet \u00e4r `system_log.external`.",
+                    "name": "Loggare"
+                }
+            }
+        }
+    }
+}

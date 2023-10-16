@@ -1,0 +1,19 @@
+{
+    "options": {
+        "step": {
+            "change_hub_config": {
+                "data": {
+                    "password": "Slapta\u017eodis"
+                }
+            },
+            "change_plm_config": {
+                "description": "Pakeiskite Insteon PLM ry\u0161io informacij\u0105."
+            },
+            "init": {
+                "data": {
+                    "change_plm_config": "Pakeiskite PLM konfig\u016bracij\u0105."
+                }
+            }
+        }
+    }
+}

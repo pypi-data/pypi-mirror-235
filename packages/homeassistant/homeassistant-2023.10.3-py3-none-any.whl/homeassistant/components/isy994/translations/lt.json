@@ -1,0 +1,15 @@
+{
+    "config": {
+        "step": {
+            "reauth_confirm": {
+                "description": "{host} kredencialai nebegalioja.",
+                "title": "I\u0161 naujo autentifikuokite savo ISY"
+            },
+            "user": {
+                "data": {
+                    "password": "Slapta\u017eodis"
+                }
+            }
+        }
+    }
+}

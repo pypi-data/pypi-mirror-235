@@ -1,0 +1,9 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Ar norite sukonfig\u016bruoti paleidimo bibliotek\u0105?"
+            }
+        }
+    }
+}
