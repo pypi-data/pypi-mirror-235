@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: basilsweepercrawler
+Version: 0.0.12
+Author: James Baker
+Author-email: james@talentium.io
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Dist: requests >=2.31.0
+Requires-Dist: searchdatamodels >=0.0.39
+Requires-Dist: selenium ~=4.12.0
+Requires-Dist: beautifulsoup4 ~=4.12.2
+Requires-Dist: openai
+Requires-Dist: jsonschema
+Requires-Dist: tiktoken
+Requires-Dist: python-dotenv
+Requires-Dist: stable-baselines3
+
