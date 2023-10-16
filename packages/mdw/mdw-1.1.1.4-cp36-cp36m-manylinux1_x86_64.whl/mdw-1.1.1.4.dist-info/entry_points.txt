@@ -1,0 +1,5 @@
+[console_scripts]
+detectorWorker = mdw.node.detector.detectorWorker:main
+mdw = mdw.core.mdw_network:mdw_1pm_wrapper
+storageWorker = mdw.node.storage.storageWorker:main
+
