@@ -1,0 +1,10 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+image_analysis.py,sha256=Gh4YARVaVidBOvBJD7Jk_c9MzsXKYl4Lcj_Sc5_IFiI,7596
+main.py,sha256=LZz2ZKgqzfGE-EESNDvBMsV3x-YXY0fVrxfIWU2yIOA,10263
+utilities.py,sha256=E8ISZAEpnGmEVevAz6FuzDfJ0Y6wtrngyZf2HbYpbtE,2366
+EyesOpen-0.1.2.dist-info/LICENSE,sha256=7NdbbbBlK_C8GU89BXGgAcBQM3zMm6yoAz_XjS4plV4,34735
+EyesOpen-0.1.2.dist-info/METADATA,sha256=pBYcxmV-zDJxlS03w-J-axulU65mBO7KqswqcO7m2sc,45135
+EyesOpen-0.1.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+EyesOpen-0.1.2.dist-info/entry_points.txt,sha256=tWJCxo-ZkQYwodg_6wTpE8AKKdnc4d2AUwS-RlZag_8,43
+EyesOpen-0.1.2.dist-info/top_level.txt,sha256=aR1DVBeoyAfiYDt-xL2V3MC-Klzmb0rYqeav3_HemTQ,39
+EyesOpen-0.1.2.dist-info/RECORD,,

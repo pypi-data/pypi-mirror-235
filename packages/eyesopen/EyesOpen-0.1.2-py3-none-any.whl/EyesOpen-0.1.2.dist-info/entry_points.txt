@@ -1,0 +1,2 @@
+[console_scripts]
+eyesopen = src.main:main
