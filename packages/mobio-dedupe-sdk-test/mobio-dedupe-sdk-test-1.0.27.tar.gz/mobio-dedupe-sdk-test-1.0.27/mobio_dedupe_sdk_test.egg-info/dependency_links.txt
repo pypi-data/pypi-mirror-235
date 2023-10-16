@@ -1,0 +1,1 @@
+-e pylbfgs @ git+https://github.com/fzimmermann89/pylbfgs.git@fzimmermann89-cython
