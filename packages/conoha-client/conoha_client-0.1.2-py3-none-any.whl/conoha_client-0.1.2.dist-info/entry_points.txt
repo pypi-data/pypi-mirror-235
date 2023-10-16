@@ -1,0 +1,4 @@
+[console_scripts]
+ccli=conoha_client.cli:main
+conoha-client=conoha_client.cli:main
+
