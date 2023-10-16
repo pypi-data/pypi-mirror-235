@@ -1,0 +1,4 @@
+include LICENCE
+include README.rst
+recursive-include lagran_admin/static *
+recursive-include lagran_admin/templates *
