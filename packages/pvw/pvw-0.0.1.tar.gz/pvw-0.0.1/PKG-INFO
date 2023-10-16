@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pvw
+Version: 0.0.1
+Summary: a lightweight python venv wrapper to manage venvs
+Home-page: https://github.com/hagemon/pvw
+Author: hagemon
+Author-email: ooonefolder@gmail.com
+License: MIT
+Keywords: venv
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+License-File: License
+Requires-Dist: importlib-metadata; python_version >= "3.6"
+Requires-Dist: termcolor
