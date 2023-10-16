@@ -1,0 +1,10 @@
+spacegpt/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spacegpt/catalog/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spacegpt/driver/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+spacegpt/driver/handler.py,sha256=qIZM9fcpUxXE-6eDJz6Gr2N8QZKLT8tS98GPTA5xJq0,96
+spacegpt/intent/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+SpaceGPT-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+SpaceGPT-0.0.1.dist-info/METADATA,sha256=6kSuilC3VtDQ22sUMpDJUlsnGJzgJDNBvlCkTyrgwpU,292
+SpaceGPT-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+SpaceGPT-0.0.1.dist-info/top_level.txt,sha256=CP7DhpM1tRYEHpC6Jt_6FgMnF3cV-8OoMz_GvPcuYic,9
+SpaceGPT-0.0.1.dist-info/RECORD,,
