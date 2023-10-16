@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+sdk.py
+corlace_py.egg-info/PKG-INFO
+corlace_py.egg-info/SOURCES.txt
+corlace_py.egg-info/dependency_links.txt
+corlace_py.egg-info/top_level.txt
