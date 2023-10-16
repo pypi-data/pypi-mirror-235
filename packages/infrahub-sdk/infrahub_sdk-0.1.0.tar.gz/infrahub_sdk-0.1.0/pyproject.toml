@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "infrahub-sdk"
+version = "0.1.0"
+description = "Python Client to interact with Infrahub"
+authors = ["OpsMill <contact@opsmill.com>"]
+readme = "README.md"
+license = "Apache-2.0"
+homepage = "https://opsmill.io"
+repository = "https://opsmill.io"
+documentation = "https://opsmill.io"
+packages = [
+    {include = "infrahub_sdk"}
+]
+classifiers = [
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+httpx = "^0.25.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

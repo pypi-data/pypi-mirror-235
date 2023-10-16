@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: infrahub-sdk
+Version: 0.1.0
+Summary: Python Client to interact with Infrahub
+Home-page: https://opsmill.io
+License: Apache-2.0
+Author: OpsMill
+Author-email: contact@opsmill.com
+Requires-Python: >=3.8,<4.0
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: httpx (>=0.25.0,<0.26.0)
+Project-URL: Documentation, https://opsmill.io
+Project-URL: Repository, https://opsmill.io
+Description-Content-Type: text/markdown
+
+
