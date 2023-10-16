@@ -1,0 +1,11 @@
+airflow/providers/apache/impala/__init__.py,sha256=ZZDFvqht0cmL7T4f4_HrBwqE-8BBuaDWkddDfN__IJ0,1582
+airflow/providers/apache/impala/get_provider_info.py,sha256=dtVYywmZkJttm0--zsveqaMlRasAXhT7f5Egsz1IiAw,2132
+airflow/providers/apache/impala/hooks/__init__.py,sha256=mlJxuZLkd5x-iq2SBwD3mvRQpt3YR7wjz_nceyF1IaI,787
+airflow/providers/apache/impala/hooks/impala.py,sha256=qx8l3CFakvmTijSKeDwy4odDlhv4mztrsyI602mXRjY,1616
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/LICENSE,sha256=gXPVwptPlW1TJ4HSuG5OMPg-a3h43OGMkZRR1rpwfJA,10850
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/METADATA,sha256=IairE9Gw2R5SfPeruUzw_UxTIQb54MENt6vFTL48Sd8,5787
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/NOTICE,sha256=m-6s2XynUxVSUIxO4rVablAZCvFq-wmLrqV91DotRBw,240
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/entry_points.txt,sha256=6unqRPD-1FjdnSxCBwgQiy4wvJFcLrUdDOvHIglVVaE,110
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/top_level.txt,sha256=OeMVH5md7fr2QQWpnZoOWWxWO-0WH1IP70lpTVwopPg,8
+apache_airflow_providers_apache_impala-1.2.0rc1.dist-info/RECORD,,
