@@ -1,0 +1,12 @@
+README.md
+setup.py
+mirageml.egg-info/PKG-INFO
+mirageml.egg-info/SOURCES.txt
+mirageml.egg-info/dependency_links.txt
+mirageml.egg-info/entry_points.txt
+mirageml.egg-info/top_level.txt
+mirageml_pip/__init__.py
+mirageml_pip/__main__.py
+mirageml_pip/commands/__init__.py
+mirageml_pip/commands/chat.py
+mirageml_pip/commands/hello.py
