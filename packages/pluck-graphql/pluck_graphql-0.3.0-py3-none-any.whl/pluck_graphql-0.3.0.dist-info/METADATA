@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pluck-graphql
+Version: 0.3.0
+Summary: Transform GraphQL queries into Pandas data-frames.
+Home-page: https://github.com/galpin/pluck
+License: MIT
+Author: Martin Galpin
+Author-email: galpin@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: graphql-core (>=3.2.1,<4.0.0)
+Requires-Dist: pandas (>=1.4)
+Project-URL: Repository, https://github.com/galpin/pluck
