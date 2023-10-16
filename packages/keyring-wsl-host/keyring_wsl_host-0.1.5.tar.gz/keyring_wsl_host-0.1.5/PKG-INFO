@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: keyring-wsl-host
+Version: 0.1.5
+Summary: Keyring proxy for wsl (win part)
+Author-Email: Kalle Aagaard <git@k-moeller.dk>
+License: MIT
+Project-URL: Repository, https://github.com/KalleDK/py-keyring-wsl-host
+Requires-Python: >=3.10
+Requires-Dist: keyring>=24.2.0
+Requires-Dist: typer>=0.9.0
+Description-Content-Type: text/markdown
+
+# keyring-wsl-host
+
+## Instal keyring in the host env
+
+```shell
+pipx install keyring
+pipx inject keyring keyring-wsl-host --include-apps
+# Optional
+pipx inject keyring artifacts-keyring
+```
