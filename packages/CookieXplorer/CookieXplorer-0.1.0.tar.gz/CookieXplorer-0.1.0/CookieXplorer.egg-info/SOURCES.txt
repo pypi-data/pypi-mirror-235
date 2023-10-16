@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+CookieXplorer.egg-info/PKG-INFO
+CookieXplorer.egg-info/SOURCES.txt
+CookieXplorer.egg-info/dependency_links.txt
+CookieXplorer.egg-info/requires.txt
+CookieXplorer.egg-info/top_level.txt
+handle_accept_cookie/__init__.py
+handle_accept_cookie/cookie_acceptance_handler.py
+tests/__init__.py
+tests/test.py
