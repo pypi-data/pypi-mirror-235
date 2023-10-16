@@ -1,0 +1,7 @@
+syncdirs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+syncdirs/__main__.py,sha256=8WYllbbfd9ExcxdMd_rt4eiV9lSkfM9Z_bs_dmf2k1w,1784
+syncdirs/syncdir.py,sha256=bvuhnFHhuIao03fFhlbpoi7mOmjJzD6aeTwfX7CCHMI,5183
+syncdirs-0.1.6.dist-info/METADATA,sha256=150BG3cYjr4oFA45mVv69-vPhnxOHHN00HEFNWHvKTg,1062
+syncdirs-0.1.6.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+syncdirs-0.1.6.dist-info/entry_points.txt,sha256=dhA2wJvHDQ6j6PYvqLiHr6v0HDbHzCVI9BFFvoP6Enw,51
+syncdirs-0.1.6.dist-info/RECORD,,
