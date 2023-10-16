@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ign-gpao-utils
+Version: 0.2.3
+Summary: Library used for build project with ign-gpao
+Author-email: Léa Vauchier <lea.vauchier@ign.fr>, Guillaume Liégard <guillaume.liegard@ign.fr>, Yoann Apel <yoann.apel@ign.fr>, Elliot Luçon <elliot.lucon@ign.fr>
+Description-Content-Type: text/markdown
+
+# gpao-utils
+Projet regroupant les utilitaires permettant de créer un projet utilisant la gpao
