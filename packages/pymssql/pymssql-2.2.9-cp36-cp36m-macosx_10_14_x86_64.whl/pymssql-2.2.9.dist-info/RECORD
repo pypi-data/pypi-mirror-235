@@ -1,0 +1,10 @@
+pymssql/__init__.py,sha256=gCvDAOmyYHayctLk18bhGfRWthMG5xpXwM1EFyzm_3s,101
+pymssql/_mssql.cpython-36m-darwin.so,sha256=-x-ORoYiz4hiP2Q4OYgeOz-EW0DSNeBO6FoL6vYOafE,1112544
+pymssql/_pymssql.cpython-36m-darwin.so,sha256=A9cV97tvno2m0DZsjRHbUS2hvONJH9Qh7ptPviU4gEk,385936
+pymssql/.dylibs/libssl.1.1.dylib,sha256=x6WhpTLDulkWaKni9AlUfaFOM_zNwkRLbei8VmaNKPA,522720
+pymssql/.dylibs/libcrypto.1.1.dylib,sha256=691cp8cwNGzXxrIGVHpDzmFXYDZGl8f8k0H0FWkpMHU,2448096
+pymssql-2.2.9.dist-info/RECORD,,
+pymssql-2.2.9.dist-info/LICENSE,sha256=XfBwBxmJicYi9dQd6NcD577z0OedYuJDMu5zmkUq9io,26436
+pymssql-2.2.9.dist-info/WHEEL,sha256=L2ysQRpzaZ_dwmB2jbkklv0iP3gp4u98o7Dm87lh-Xk,111
+pymssql-2.2.9.dist-info/top_level.txt,sha256=HlTBOE3UmM9y83_GIjyFhGMgISoya2SiN-iIO9Efa8o,8
+pymssql-2.2.9.dist-info/METADATA,sha256=K30S5u4vt2WW1FrpKulXfCLyTHegC5zPP2tyir90qiY,4379
