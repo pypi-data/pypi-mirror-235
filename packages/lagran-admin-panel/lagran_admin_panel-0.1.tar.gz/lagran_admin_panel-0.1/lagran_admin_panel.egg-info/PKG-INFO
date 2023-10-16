@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: lagran-admin-panel
+Version: 0.1
+Summary: Admin Panel
+Home-page: https://github.com/lagransubal/lagran_admin.git
+Author: Subal Das
+Author-email: dassubal75@gmail.com
+License: MIT  # Choose the appropriate license
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Quick Start
+==============
+
+INSTALLED_APPS = [
+    ...
+    'lagran_admin'
+]
+
+python manage.py migrate
