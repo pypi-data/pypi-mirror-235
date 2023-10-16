@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: metricflow-to-zenlytic
+Version: 0.1.0
+Summary: Adapters for Zenyltic
+Home-page: https://github.com/Zenlytic/zenlytic-adapters
+License: MIT
+Keywords: Metrics Layer,Business Intelligence,Analytics
+Author: Paul Blankley
+Author-email: paul@zenlytic.com
+Requires-Python: >=3.8.1,<3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: PyYAML (>=6.0,<7.0)
+Requires-Dist: click (>=8.0,<9.0)
+Project-URL: Documentation, https://github.com/Zenlytic/zenlytic-adapters
+Project-URL: Repository, https://github.com/Zenlytic/zenlytic-adapters
+Description-Content-Type: text/markdown
+
+# Zenlytic Adapters
+
+Utilities for converting semantic layer YAML files to Zenlytic's format.
+
+## Steps for usage:
+1. Clone this repo in a valid dbt project
+1. Run `dbt parse` to generate model yaml files in Metricflow format, if you haven't already. They should live in your dbt project's `models` directory.
+1. `cd` into the newly cloned repo
+1. Run `python3 -m pip install .`
+1. `cd` back into the dbt project
+1. Run `mf_to_zen --project_name .`
+1. You should now see a `views` directory in your dbt project containing your Metricflow semantic models represented as Zenlytic views.
+
+## To test
+`pytest`
