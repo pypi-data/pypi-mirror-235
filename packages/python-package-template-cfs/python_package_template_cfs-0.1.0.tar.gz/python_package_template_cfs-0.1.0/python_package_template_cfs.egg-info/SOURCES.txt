@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+python_package_template_cfs.egg-info/PKG-INFO
+python_package_template_cfs.egg-info/SOURCES.txt
+python_package_template_cfs.egg-info/dependency_links.txt
+python_package_template_cfs.egg-info/top_level.txt

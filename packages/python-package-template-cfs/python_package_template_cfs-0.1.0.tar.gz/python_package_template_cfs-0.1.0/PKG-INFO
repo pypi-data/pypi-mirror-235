@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: python_package_template_cfs
+Version: 0.1.0
+Summary: Example package for testing PyPi distribution
+Home-page: https://github.com/Ceiling-Fan-Studios/python-package-template
+Author: Caden Lackey
+Author-email: steelarrow21@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+Example package for testing with a calculator module that adds 2 + 2
+
