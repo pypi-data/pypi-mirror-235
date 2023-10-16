@@ -1,0 +1,28 @@
+{
+  "_lib-bf728f91.cjs": {
+    "file": "lib-bf728f91.cjs"
+  },
+  "_lib-c76936d1.js": {
+    "file": "lib-c76936d1.js"
+  },
+  "src/lib.ts": {
+    "file": "lib.cjs",
+    "imports": [
+      "_lib-bf728f91.cjs"
+    ],
+    "isEntry": true,
+    "src": "src/lib.ts"
+  },
+  "src/main.tsx": {
+    "file": "main.cjs",
+    "imports": [
+      "_lib-bf728f91.cjs"
+    ],
+    "isEntry": true,
+    "src": "src/main.tsx"
+  },
+  "style.css": {
+    "file": "style.css",
+    "src": "style.css"
+  }
+}
