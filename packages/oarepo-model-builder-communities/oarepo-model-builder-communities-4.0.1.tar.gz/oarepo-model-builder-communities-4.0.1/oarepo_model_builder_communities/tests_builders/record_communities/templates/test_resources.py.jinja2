@@ -1,0 +1,82 @@
+# todo move to conftest
+{{ vars.resource_config|generate_import }}
+from invenio_communities import current_communities
+from invenio_pidstore.errors import PIDDoesNotExistError
+from invenio_communities.communities.records.api import Community
+
+RECORD_COMMUNITIES_BASE_URL = {{ vars.resource_config.class|base_name }}.url_prefix
+
+def _create_and_publish(client_with_credentials, input_data):
+    """Create a draft and publish it."""
+    # Create the draft
+    response = client_with_credentials.post(
+        RECORD_COMMUNITIES_BASE_URL, json=input_data
+    )
+
+    assert response.status_code == 201
+
+    recid = response.json["id"]
+
+    # Publish it
+    response = client_with_credentials.post(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/draft/actions/publish"
+    )
+
+    assert response.status_code == 202
+    return recid
+
+def _community_get_or_create(community_dict, identity):
+    """Util to get or create community, to avoid duplicate error."""
+    slug = community_dict["slug"]
+    try:
+        c = current_communities.service.record_cls.pid.resolve(slug)
+    except PIDDoesNotExistError:
+        c = current_communities.service.create(
+            identity,
+            community_dict,
+        )
+        Community.index.refresh()
+    return c
+
+def _recid_with_community(client_with_credentials, input_data, minimal_community, community_owner, search_clear):
+    recid = _create_and_publish(client_with_credentials, input_data)
+    community = _community_get_or_create(minimal_community, community_owner.identity)
+    response = client_with_credentials.get(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities"
+    )
+    add = client_with_credentials.post(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities",
+        json={
+            "communities": [
+                {"id": minimal_community["slug"]},  # test with slug
+            ]
+        }
+    )
+    return recid
+
+def test_add(client_with_credentials, input_data, minimal_community, community_owner, search_clear):
+    recid = _recid_with_community(client_with_credentials, input_data, minimal_community, community_owner, search_clear)
+    response = client_with_credentials.get(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities"
+    )
+    assert len(response.json['hits']['hits']) == 1
+    assert response.json['hits']['hits'][0]['slug'] == 'public'
+
+
+
+def test_remove(client_with_credentials, input_data, minimal_community, community_owner, search_clear):
+    recid = _recid_with_community(client_with_credentials, input_data, minimal_community, community_owner, search_clear)
+    id = client_with_credentials.get(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities"
+    ).json['hits']['hits'][0]["id"]
+    remove = client_with_credentials.delete(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities",
+        json={
+            "communities": [
+                {"id": id},  # test with slug
+            ]
+        }
+    )
+    assert len(client_with_credentials.get(
+        f"{RECORD_COMMUNITIES_BASE_URL}{recid}/communities"
+    ).json['hits']['hits']) == 0

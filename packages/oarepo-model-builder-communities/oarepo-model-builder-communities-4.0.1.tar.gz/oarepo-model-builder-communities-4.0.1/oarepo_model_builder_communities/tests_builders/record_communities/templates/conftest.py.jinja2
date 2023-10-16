@@ -1,0 +1,42 @@
+import pytest
+
+@pytest.fixture()
+def community_owner(UserFixture, app, db):
+    """Community owner."""
+    u = UserFixture(
+        email="community_owner@inveniosoftware.org",
+        password="community_owner",
+    )
+    u.create(app, db)
+    return u
+
+@pytest.fixture(scope="module")
+def minimal_community():
+    """Minimal community metadata."""
+    return {
+        "access": {
+            "visibility": "public",
+            "record_policy": "open",
+        },
+        "slug": "public",
+        "metadata": {
+            "title": "My Community",
+        },
+    }
+
+@pytest.fixture(scope="module", autouse=True)
+def location(location):
+    return location
+
+@pytest.fixture(scope="module")
+def app_config(app_config):
+    app_config["FILES_REST_STORAGE_CLASS_LIST"] = {
+        "L": "Local",
+        "F": "Fetch",
+        "R": "Remote",
+    }
+    app_config["FILES_REST_DEFAULT_STORAGE_CLASS"] = "L"
+
+    return app_config
+
+

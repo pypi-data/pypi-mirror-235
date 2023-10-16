@@ -1,0 +1,4 @@
+from {{ published_record.proxy.module }} import {{ published_record.service.proxy }}
+#todo variables for the rest
+class {{ vars.service_config|class_header }}:
+    record_service = {{ published_record.service.proxy|base_name }}
