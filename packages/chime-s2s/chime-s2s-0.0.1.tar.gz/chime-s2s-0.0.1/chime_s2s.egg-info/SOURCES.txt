@@ -1,0 +1,6 @@
+setup.py
+chime-s2s/__init__.py
+chime_s2s.egg-info/PKG-INFO
+chime_s2s.egg-info/SOURCES.txt
+chime_s2s.egg-info/dependency_links.txt
+chime_s2s.egg-info/top_level.txt
