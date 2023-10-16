@@ -1,0 +1,34 @@
+
+#
+#	poetry build
+#
+
+[tool.poetry]
+name = "cyte"
+version = "0.0.5"
+description = ""
+authors = ["Bryan Grace"]
+license = "THL"
+readme = "CYTE.txt"
+packages = [
+	{ include = "LOVELY/STRUCTURES" }
+]
+include = [
+	"*.HTML"
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tinydb = "^4.8.0"
+
+
+#
+#	https://setuptools.pypa.io/en/latest/userguide/datafiles.html
+#
+#[tool.poetry.package-data]
+#"*" = [ "*.HTML" ]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
