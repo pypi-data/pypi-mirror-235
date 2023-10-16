@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pythonverse
+Version: 0.0.2
+Summary: A Debug logging package
+Project-URL: Homepage, https://github.com/grotewortel/pythonverse
+Project-URL: Bug Tracker, https://github.com/grotewortel/pythonverse/issues
+Author-email: Grote Wortel <intothepythonverse@gmail.com>
+License-File: LICENSE
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# PythonVerse
+
+Send your debug data Into the pythonVerse!
