@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+src/pythreadex/__init__.py
+src/pythreadex.egg-info/PKG-INFO
+src/pythreadex.egg-info/SOURCES.txt
+src/pythreadex.egg-info/dependency_links.txt
+src/pythreadex.egg-info/requires.txt
+src/pythreadex.egg-info/top_level.txt
