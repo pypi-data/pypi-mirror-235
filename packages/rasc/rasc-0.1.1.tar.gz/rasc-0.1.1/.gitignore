@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2023 Ngô Ngọc Đức Huy <huyngo@disroot.org>
+#
+# SPDX-License-Identifier: GPL-3.0-only
+
+dist/
+venv
