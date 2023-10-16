@@ -1,0 +1,9 @@
+numpy
+
+[docs]
+sphinx
+pydata-sphinx-theme
+
+[test]
+coverage
+astropy
