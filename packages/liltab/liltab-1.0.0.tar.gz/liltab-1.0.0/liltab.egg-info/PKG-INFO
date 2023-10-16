@@ -1,0 +1,46 @@
+Metadata-Version: 2.1
+Name: liltab
+Version: 1.0.0
+Summary: Package for meta-learning across data with varying attributes spaces.
+Author-email: Antoni Zajko <antoni.zajko.1@gmail.com>, Dawid Płudowski <dawid.pludowski@gmail.com>
+Project-URL: Homepage, https://github.com/azoz01/liltab
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flake8==6.0.0
+Requires-Dist: black==23.3.0
+Requires-Dist: pytest==7.3.1
+Requires-Dist: pytest_cov==4.1.0
+Requires-Dist: torch==2.0.1
+Requires-Dist: pandas==2.0.3
+Requires-Dist: numpy==1.25.0
+Requires-Dist: torchtest==0.5
+Requires-Dist: scikit-learn==1.3.0
+Requires-Dist: pytorch_lightning==2.0.6
+Requires-Dist: typer==0.9.0
+Requires-Dist: loguru==0.7.0
+Requires-Dist: seaborn==0.12.2
+Requires-Dist: tensorboard==2.14.0
+
+# liltab
+
+## Dev
+You need to have Python 3.10 and pip.
+
+To get dependencies run: 
+```
+make get_dependencies
+```
+
+To format and check code with linter run:
+```
+make prepare_code
+```
+
+Run tests using following: 
+```
+make run_tests
+```
