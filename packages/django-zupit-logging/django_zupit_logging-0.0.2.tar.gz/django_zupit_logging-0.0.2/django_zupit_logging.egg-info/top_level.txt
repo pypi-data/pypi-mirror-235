@@ -1,0 +1,2 @@
+django-zupit-logging
+tests
