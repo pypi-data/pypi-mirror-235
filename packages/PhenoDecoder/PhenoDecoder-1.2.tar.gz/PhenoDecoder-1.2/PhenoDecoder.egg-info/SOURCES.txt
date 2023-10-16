@@ -1,0 +1,8 @@
+setup.py
+PhenoDecoder/GetPheno.py
+PhenoDecoder/__init__.py
+PhenoDecoder.egg-info/PKG-INFO
+PhenoDecoder.egg-info/SOURCES.txt
+PhenoDecoder.egg-info/dependency_links.txt
+PhenoDecoder.egg-info/requires.txt
+PhenoDecoder.egg-info/top_level.txt
