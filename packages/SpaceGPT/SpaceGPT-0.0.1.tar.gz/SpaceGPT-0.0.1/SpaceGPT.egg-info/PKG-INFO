@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: SpaceGPT
+Version: 0.0.1
+Summary: SpaceGPT python library
+Home-page: UNKNOWN
+Author: SpaceGPT Team
+Author-email: silveryfu@gmail.com
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8

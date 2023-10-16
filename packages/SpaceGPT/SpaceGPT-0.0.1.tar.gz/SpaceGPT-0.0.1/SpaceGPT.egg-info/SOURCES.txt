@@ -1,0 +1,12 @@
+README.md
+setup.py
+SpaceGPT.egg-info/PKG-INFO
+SpaceGPT.egg-info/SOURCES.txt
+SpaceGPT.egg-info/dependency_links.txt
+SpaceGPT.egg-info/requires.txt
+SpaceGPT.egg-info/top_level.txt
+spacegpt/__init__.py
+spacegpt/catalog/__init__.py
+spacegpt/driver/__init__.py
+spacegpt/driver/handler.py
+spacegpt/intent/__init__.py
