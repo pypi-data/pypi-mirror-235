@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: langs_vall
+Version: 0.0.2
+Summary: Paquete de vall-e-x
+Author: Breyston Gonzalez
+Author-email: <breystonbarton15@gmail.com>
+Keywords: python,vall-e-x
+Requires-Dist: soundfile==0.12.1
+Requires-Dist: numpy==1.25.2
+Requires-Dist: torch==2.1.0
+Requires-Dist: torchvision==0.16.0
+Requires-Dist: torchaudio==2.1.0
+Requires-Dist: tokenizers==0.14.1
+Requires-Dist: encodec==0.1.1
+Requires-Dist: langid==1.1.6
+Requires-Dist: wget==3.2
+Requires-Dist: Unidecode==1.3.7
+Requires-Dist: pyopenjtalk-prebuilt==0.3.0
+Requires-Dist: pypinyin==0.49.0
+Requires-Dist: inflect==7.0.0
+Requires-Dist: cn2an==0.5.22
+Requires-Dist: jieba==0.42.1
+Requires-Dist: eng-to-ipa==0.0.2
+Requires-Dist: openai-whisper==20230918
+Requires-Dist: matplotlib==3.8.0
+Requires-Dist: gradio==3.47.1
+Requires-Dist: nltk==3.8.1
+Requires-Dist: SudachiPy==0.6.7
+Requires-Dist: SudachiDict-core==20230927
+Requires-Dist: vocos==0.0.3
+Requires-Dist: IPython==8.16.1
+
+Packete de vall-e-x para proyecto de traduccion de lenguajes
