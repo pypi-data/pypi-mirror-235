@@ -1,0 +1,11 @@
+floof-0.1.9.dist-info/METADATA,sha256=155ERoWBQqOU5yRnqWII_6CSlJCucRqmTs42GF_CkMM,3178
+floof-0.1.9.dist-info/WHEEL,sha256=4QAkUlNFykXhzdHRCTlfmROG3vBuu1cP7y8MC9pf5QI,131
+floof/_matcher.py,sha256=KvryWXMpzrlKe61Jp0OLEK_1MLgaPbNtgwfDCj2oY00,11273
+floof/utils/types.py,sha256=ryNqvnu6nGFQDrswfn3Z6F7wc5EH7yd60tPXFqlY24k,564
+floof/utils/utils.py,sha256=TsbSnodRipnpAdhEnJr3a0tSBaggplZfsXV1WTA-Ir4,1432
+floof/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+floof/__init__.py,sha256=olEs-JiY_pt1HdU-V4qhUIUdljoxIPwIf9bQusPRTGE,89
+floof/_rustyfloof.pyi,sha256=vm3H76PzgvU5vMKe7IhPJVO_YzdVm4aIugxgY0LSrFY,11576
+floof/_comparer.py,sha256=k1XhUitoXk-pXVZUZ7N6xadKYmAP18e0niPHz-I-EHE,5450
+floof/_rustyfloof.cpython-311-aarch64-linux-gnu.so,sha256=nl9ItoWzlKISgl05D8PACg2GXjy45jBAPLx2lT3_vgg,1329672
+floof-0.1.9.dist-info/RECORD,,
