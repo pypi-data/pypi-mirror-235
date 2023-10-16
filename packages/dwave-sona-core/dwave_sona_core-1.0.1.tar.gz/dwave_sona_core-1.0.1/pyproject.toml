@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "dwave-sona-core"
+version = "1.0.1"
+description = ""
+authors = ["dwave-dev"]
+license = ""
+readme = "README.md"
+packages = [{include = "sona"}]
+
+
+[tool.poetry.dependencies]
+python = "^3.8"
+boto3 = "^1.28.62"
+fastapi = "^0.103.2"
+python-ffmpeg = "^2.0.4"
+loguru = "^0.7.2"
+pydantic = "^2.4.2"
+pydantic-settings = "^2.0.3"
+typer = "^0.9.0"
+requests = "^2.31.0"
+uvicorn = "^0.23.2"
+google-api-python-client = { version = "^2.102.0", optional = true }
+yt-dlp = { version = "^2023.3.4", optional = true }
+wget = { version = "^3.2", optional = true }
+confluent-kafka = { version = "^2.2.0", optional = true }
+redis = { version = "^5.0.1", optional = true }
+
+
+[tool.poetry.extras]
+all = ["google-api-python-client", "yt-dlp", "confluent-kafka", "fastapi", "redis"]
+worker = ["confluent-kafka", "redis"]
+downloads = ["google-api-python-client", "yt-dlp", "wget"]
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
