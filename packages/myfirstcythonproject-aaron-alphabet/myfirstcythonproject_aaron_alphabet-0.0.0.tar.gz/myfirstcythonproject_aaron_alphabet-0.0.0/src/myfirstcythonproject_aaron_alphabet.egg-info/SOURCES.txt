@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/myfirstcythonproject_aaron_alphabet.egg-info/PKG-INFO
+src/myfirstcythonproject_aaron_alphabet.egg-info/SOURCES.txt
+src/myfirstcythonproject_aaron_alphabet.egg-info/dependency_links.txt
+src/myfirstcythonproject_aaron_alphabet.egg-info/top_level.txt

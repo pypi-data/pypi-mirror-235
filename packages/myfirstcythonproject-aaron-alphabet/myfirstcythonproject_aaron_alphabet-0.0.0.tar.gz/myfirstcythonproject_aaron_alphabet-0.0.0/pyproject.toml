@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "myfirstcythonproject_aaron_alphabet"
+version = "0.0.0"
+description = "my first Cython project"
+license = { file = "LICENSE" }
+authors = [{ name = "Aaron Alphabet", email = "aaron.alphabet@posteo.org" }]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["Cython"]
+dependencies = [
+]
+requires-python = ">=3.11"
+
+[project.urls]
+source = "https://github.com/aaron-alphabet/myfirstcythonproject_aaron_alphabet"
