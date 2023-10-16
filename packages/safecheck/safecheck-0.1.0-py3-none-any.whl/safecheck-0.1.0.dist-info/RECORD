@@ -1,0 +1,7 @@
+safecheck/__init__.py,sha256=KBFJPCOX8qpLYlr3QUOhI47zJFJxioXwTeM3E00qzb0,4614
+safecheck/_protocol.py,sha256=Zmg86Wyo0BQWtf-iIt-QwJbbOQxUFwRsn0lYihfw6pQ,4949
+safecheck/_typecheck.py,sha256=DgPi7DkaFj_NVxxmzh_IddTWG64GRcrk7i8QE4ipTTM,1191
+safecheck/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+safecheck-0.1.0.dist-info/METADATA,sha256=EkJk4wFW0AL1O0VfosAVVbK_6HEcVhXHTBmrLa43BIQ,1514
+safecheck-0.1.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+safecheck-0.1.0.dist-info/RECORD,,
