@@ -1,0 +1,8 @@
+ch5mpy
+h5dataframe
+numpy
+tqdm
+anndata
+scipy
+pandas
+numpy_indexed
