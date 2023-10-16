@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: ligo-calibplot
+Version: 0.0.4
+Summary: Tool for querying and plotting LIGO calibration monitoring data from influxDB.
+Author-email: Matthew Carney <matthew.carney@ligo.org>
+Project-URL: Homepage, https://git.ligo.org/matthew.carney/ligo-calibplot
+Project-URL: Bug Tracker, https://git.ligo.org/matthew.carney/ligo-calibplot/-/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: ligo-scald
+Requires-Dist: configparser
+
+# CalPlot
+Eventually, this repository will serve as a tool (mostly likely a python package) to facilitate querying and plottling influx data for quick and easy LIGO calibration monitoring. Currently, this project is in the early development stage, will change frequently, and most builds will be unstable. 
+
+## Current features
+ - Querying influxDB data via LIGO scald for arbitrary measurments and fields.
+ - Filtering queried data based on arbitrary conditions placed on measurements and fields such as time ranges, lock status, and data channels
+ - Query results are returned in Pandas DataFrames for easy manipulation and data organization
+ - VERY rough plotting script to plot queried data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
