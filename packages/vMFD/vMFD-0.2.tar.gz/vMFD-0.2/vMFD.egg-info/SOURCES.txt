@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+vMFD/__init__.py
+vMFD.egg-info/PKG-INFO
+vMFD.egg-info/SOURCES.txt
+vMFD.egg-info/dependency_links.txt
+vMFD.egg-info/requires.txt
+vMFD.egg-info/top_level.txt
