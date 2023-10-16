@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: BOTANY
+Version: 0.0.6
+Summary: Various calculator tools
+Description-Content-Type: text/plain
+
+
+
+
+<b>BOTANY</b>
+
+<p>CAUTION: A lot of the functions pass strings to subprocesses.</p>
+
+</p>Various calculator tools</p>
+
+<section>
+<header>Directory Equalizer</header>
+<code>
+import BOTANY.FS.DIRECTORY.EQUALIZE as EQUALIZE
+EQUALIZE.MULTIPLE ({
+	"DIRECTORY 1": "",
+	"DIRECTORY 2": "",
+	
+	"DIRECTORIES": [
+		
+	],
+	
+	"START": "yes"	
+})
+</code>
+</section>
