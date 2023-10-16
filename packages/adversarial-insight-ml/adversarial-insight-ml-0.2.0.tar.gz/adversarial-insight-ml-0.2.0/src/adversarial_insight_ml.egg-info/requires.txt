@@ -1,0 +1,15 @@
+adversarial-robustness-toolbox
+torch
+detectors
+lightning
+torchmetrics
+
+[dev]
+autopep8
+bumpver
+pytest
+sphinx
+sphinx_rtd_theme
+scikit-learn
+jupyterlab
+pip-tools
