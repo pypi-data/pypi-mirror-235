@@ -1,0 +1,13 @@
+PermutiveAPI/APIRequestHandler.py,sha256=xPjAYVEC7Pl2qooiVVtYpAkIYSn4J_EJzqwSzTePdxA,4469
+PermutiveAPI/AudienceAPI.py,sha256=r4Uj07tPJXL1EQNFmO4-KpyBnjbkvIARGZNlVdAD6-c,9166
+PermutiveAPI/CohortAPI.py,sha256=nYigWLGn_cnGCwYv2-xWphQLg7kOp2LYOwcMhZJL1Ao,6876
+PermutiveAPI/Query.py,sha256=IdyFJpeZXbhqyBn-LI8CvKDxRzIGwQvFYwcglq7QDAs,37712
+PermutiveAPI/UserAPI.py,sha256=qE8AFQCO1AI07Rkp1OZufsza4vFnMZnMwgX-3zw74SI,1447
+PermutiveAPI/Utils.py,sha256=KujztfJKF0WOeVwdOMv3Y2EQ5dzhvZmXhDFv0eA3PdU,3187
+PermutiveAPI/Workspace.py,sha256=Ytz3g3xJoqsZjBNeEK5r27Xxcs9T3lPvfv6HeUqA4Hc,2125
+PermutiveAPI/__init__.py,sha256=LG-zblOfMP6hVPKsBg0_Vu7Np90aDwZoQtZkamDOsus,46
+PermutiveAPI-2.0.3.dist-info/LICENSE,sha256=hMErKLb6YZR3lRR5zr-vxeFkvY69QAaafgSpZ5-P1dQ,1067
+PermutiveAPI-2.0.3.dist-info/METADATA,sha256=nuX_9EcpLXsAK-BsrEB2ZIJb6oakNztirjMrzYNc95c,181
+PermutiveAPI-2.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+PermutiveAPI-2.0.3.dist-info/top_level.txt,sha256=EH6wFHputuFQmis0kJxogWA7ExUIfCET_7gtGUGSe-M,13
+PermutiveAPI-2.0.3.dist-info/RECORD,,
