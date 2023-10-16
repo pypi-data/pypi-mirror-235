@@ -1,0 +1,3 @@
+0.0.1 - Tried making a stable version
+1.0.1 - Failed to make a stable version
+1.0.2 - Actually made a stable version
