@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "djangorestframework-jwt-treet"
+version = "1.12.0"
+description = "JSON Web Token Authentication support for Django REST Framework"
+authors = ["José Padilla"]
+packages = [{ include = "rest_framework_jwt" }]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyjwt = ">=1.5.2,<2.0.0"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+flake8 = "^4.0.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+pytest-django = "^4.5.2"
+cryptography = "^41.0.4"
+django = "^4.2.0"
+djangorestframework = "3.14.0"
+pytest-cov = "^4.1.0"
