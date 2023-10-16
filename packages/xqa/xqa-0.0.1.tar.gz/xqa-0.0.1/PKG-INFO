@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: xqa
+Version: 0.0.1
+Summary: ExeQution Analytics Python API
+Author: ExeQution Analytics
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

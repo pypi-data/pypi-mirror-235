@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+xqa/__init__.py
+xqa/xqa.py
+xqa.egg-info/PKG-INFO
+xqa.egg-info/SOURCES.txt
+xqa.egg-info/dependency_links.txt
+xqa.egg-info/not-zip-safe
+xqa.egg-info/requires.txt
+xqa.egg-info/top_level.txt
