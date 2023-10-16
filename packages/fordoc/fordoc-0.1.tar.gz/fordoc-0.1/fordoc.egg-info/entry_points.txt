@@ -1,0 +1,2 @@
+[console_scripts]
+fordoc = fordoc:print_meme

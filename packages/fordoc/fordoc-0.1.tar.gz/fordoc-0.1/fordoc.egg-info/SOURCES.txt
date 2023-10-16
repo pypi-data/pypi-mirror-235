@@ -1,0 +1,8 @@
+README.md
+setup.py
+fordoc/__init__.py
+fordoc.egg-info/PKG-INFO
+fordoc.egg-info/SOURCES.txt
+fordoc.egg-info/dependency_links.txt
+fordoc.egg-info/entry_points.txt
+fordoc.egg-info/top_level.txt
