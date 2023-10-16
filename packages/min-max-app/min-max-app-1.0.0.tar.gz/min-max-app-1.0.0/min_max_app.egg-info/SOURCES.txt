@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+min_max_app.egg-info/PKG-INFO
+min_max_app.egg-info/SOURCES.txt
+min_max_app.egg-info/dependency_links.txt
+min_max_app.egg-info/top_level.txt
