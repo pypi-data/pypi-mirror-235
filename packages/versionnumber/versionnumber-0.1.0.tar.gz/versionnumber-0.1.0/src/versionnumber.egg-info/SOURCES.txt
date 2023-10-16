@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/versionnumber/__init__.py
+src/versionnumber.egg-info/PKG-INFO
+src/versionnumber.egg-info/SOURCES.txt
+src/versionnumber.egg-info/dependency_links.txt
+src/versionnumber.egg-info/requires.txt
+src/versionnumber.egg-info/top_level.txt
+src/versionnumber/semantic/__init__.py
+src/versionnumber/semantic/v1.py
+src/versionnumber/semantic/v2.py
