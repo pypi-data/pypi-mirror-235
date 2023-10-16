@@ -1,0 +1,27 @@
+v0.5.2 (????)
+-------------
+
+API changes
+###########
+
+New features
+############
+
+Documentation
+#############
+
+Bug fixes
+#########
+
+Testing
+#######
+
+Other changes
+#############
+
+* Improved compatibility with upcoming oemof.network
+
+Contributors
+############
+
+* Patrik Schönfeldt
