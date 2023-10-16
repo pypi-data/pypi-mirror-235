@@ -1,0 +1,14 @@
+uun_guardman/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+uun_guardman/data/sample-config.json,sha256=pYHiUg0UntOPhddXkRZ9v-7RDbR6yT0JGNmAKSGEubk,4005
+uun_guardman/data/start.sh,sha256=UTbJ0sL9zBDJm-Yd_E9fqSu0TayWk_ODh8RP_q8mVQY,64
+uun_guardman/data/systemd.service,sha256=Y_KXUlLdfcBPRuoazOZR98KOOOV0fyvenyoOB2g_6f8,300
+uun_guardman/modules/GuardMan.py,sha256=Tz56CsGy25Ue5Yn3F0oa5P2bZGlYKT-5YWfsARPogg4,8818
+uun_guardman/modules/__init__.py,sha256=PBZoHP3hDOemk_UNGUWVhPtDEGslVNRBu1oJ7BR_u2A,407
+uun_guardman-0.1.6.data/scripts/uun-guardman,sha256=lQX7ugrYzWQ33ti4PeTfL32goupijzKIDHgnYH5YrLk,3007
+uun_guardman-0.1.6.data/scripts/uun-guardman-install,sha256=q91qknJ4yJsJ5mUVmvFgA4YTI11mQ4YN4COL56eWmlA,486
+uun_guardman-0.1.6.data/scripts/uun-guardman-setup,sha256=MnvBwUNev4hcan5O0c7wS7jxQs8Y5mfqfBnDEDtvuUc,1891
+uun_guardman-0.1.6.dist-info/LICENSE.md,sha256=y95L2RCH40RDih7PZcPF5iY9jyZEKaqvM6WsMHl6mq8,1075
+uun_guardman-0.1.6.dist-info/METADATA,sha256=e6q4IhLWrpwkwgldunsmxdJUyfJXdQ-0qG2C9zgw-cI,602
+uun_guardman-0.1.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+uun_guardman-0.1.6.dist-info/top_level.txt,sha256=WIs8CYXWuswme8z8LDP1OOHcwFUzOBqq0FvzoS2sxH0,13
+uun_guardman-0.1.6.dist-info/RECORD,,
