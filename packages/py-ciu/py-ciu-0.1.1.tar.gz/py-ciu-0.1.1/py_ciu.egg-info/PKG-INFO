@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: py-ciu
+Version: 0.1.1
+Summary: Python implementation of the Contextual Importance and Utility (CIU) explainable AI method
+Home-page: https://github.com/KaryFramling/py-ciu
+Author: Vlad Apopei, Kary Främling‚ others
+Author-email: kary.framling@umu.se
+License: MIT
+Description: Please read the README file
+Keywords: Contextual Importance and Utility,CIU,Explainable AI,Explainable Artificial Intelligence
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
