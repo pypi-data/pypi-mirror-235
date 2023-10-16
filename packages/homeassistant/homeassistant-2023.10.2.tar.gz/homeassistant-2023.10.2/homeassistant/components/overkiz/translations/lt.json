@@ -1,0 +1,26 @@
+{
+    "entity": {
+        "climate": {
+            "overkiz": {
+                "state_attributes": {
+                    "preset_mode": {
+                        "state": {
+                            "external": "I\u0161orinis",
+                            "freeze": "U\u017e\u0161aldyti",
+                            "frost_protection": "Apsauga nuo \u0161al\u010dio",
+                            "manual": "Rankinis",
+                            "night": "Naktis"
+                        }
+                    }
+                }
+            }
+        },
+        "sensor": {
+            "battery": {
+                "state": {
+                    "medium": "Vidutinis"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "config": {
+        "abort": {
+            "reauth_unsuccessful": "Pakartotinis autentifikavimas nepavyko. \u012ejunkite televizori\u0173 ir bandykite dar kart\u0105."
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "entity": {
+        "sensor": {
+            "destination": {
+                "name": "Kelion\u0117s tikslas"
+            },
+            "distance": {
+                "name": "Atstumas"
+            },
+            "duration": {
+                "name": "Trukm\u0117"
+            },
+            "duration_in_traffic": {
+                "name": "Trukm\u0117 eisme"
+            },
+            "origin": {
+                "name": "Kilm\u0117"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "entity": {
+        "sensor": {
+            "consumption_day": {
+                "name": "Vartojimo diena"
+            },
+            "consumption_total": {
+                "name": "Bendras suvartojimas"
+            },
+            "current_phase_l1": {
+                "name": "Dabartin\u0117 faz\u0117 L1"
+            },
+            "current_phase_l2": {
+                "name": "Srov\u0117s faz\u0117 L2"
+            },
+            "current_phase_l3": {
+                "name": "Srov\u0117s faz\u0117 L3"
+            },
+            "power_production": {
+                "name": "Energijos gamyba"
+            },
+            "pulse_count": {
+                "name": "Impuls\u0173 skai\u010dius"
+            },
+            "voltage_phase_l1": {
+                "name": "\u012etampos faz\u0117 L1"
+            },
+            "voltage_phase_l2": {
+                "name": "\u012etampos faz\u0117 L2"
+            },
+            "voltage_phase_l3": {
+                "name": "\u012etampos faz\u0117 L3"
+            }
+        }
+    }
+}

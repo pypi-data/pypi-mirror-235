@@ -1,0 +1,12 @@
+{
+    "entity": {
+        "sensor": {
+            "electricity_tariff": {
+                "state": {
+                    "low": "\u017demas",
+                    "normal": "Normalus"
+                }
+            }
+        }
+    }
+}
