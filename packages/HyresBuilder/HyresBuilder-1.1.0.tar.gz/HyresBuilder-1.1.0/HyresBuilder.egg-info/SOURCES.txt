@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+HyresBuilder/Geometry.py
+HyresBuilder/HyresBuilder.py
+HyresBuilder/__init__.py
+HyresBuilder.egg-info/PKG-INFO
+HyresBuilder.egg-info/SOURCES.txt
+HyresBuilder.egg-info/dependency_links.txt
+HyresBuilder.egg-info/requires.txt
+HyresBuilder.egg-info/top_level.txt
+tests/test_Geometry.py
+tests/test_PeptideBuilder.py
