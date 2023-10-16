@@ -1,0 +1,8 @@
+PyCSPSolver/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+PyCSPSolver/constraint.py,sha256=b4m-XmBlvoDkg8CTbpzroJ3jx1hw4ud7ymq6MLpYCsY,8134
+PyCSPSolver/csp.py,sha256=qPZ30ptzYEjWIvJOcQ6r9JnejAac8G6B_QnodB0ASjk,4368
+PyCSPSolver-0.0.1.dist-info/LICENSE,sha256=YtqBLRfO6iH4ilcIbAg6fI8wAskb92blawFcMF38Q0U,1091
+PyCSPSolver-0.0.1.dist-info/METADATA,sha256=GqJOLo9eBKNDGaxMf4SxxzYHEmmQg9JXTljvHc6_yY8,4242
+PyCSPSolver-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+PyCSPSolver-0.0.1.dist-info/top_level.txt,sha256=lATEPpiLw8p9OebpY3HNqbokA47ab1vcoBr3tqSU7r8,12
+PyCSPSolver-0.0.1.dist-info/RECORD,,
