@@ -1,0 +1,4 @@
+[console_scripts]
+tb = tb:cli_entrypoint
+tb_setup = tb_setup:cli_entrypoint
+
