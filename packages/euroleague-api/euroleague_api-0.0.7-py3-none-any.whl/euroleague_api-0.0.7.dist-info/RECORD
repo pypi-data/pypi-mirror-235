@@ -1,0 +1,14 @@
+euroleague_api/__init__.py,sha256=lLekerP-gNO6IRDlcCxJ9tpcRm8hmVkWGA0iubpQ7mM,387
+euroleague_api/boxscore_data.py,sha256=3HZ9tAbMoeBNnaP9sq5mDcvt1DJ876Gy0jn7_Wt3m-4,5941
+euroleague_api/game_stats.py,sha256=CiwwTmuYC38D8VrZRNM4NTmiXFXKiDSNwlELxc6hdtU,4413
+euroleague_api/play_by_play_data.py,sha256=MZoMWjh-7U_uE44LKjCX0R9FeltOub_J6ai0G_mHhX4,2713
+euroleague_api/player_stats.py,sha256=d-mCOcao-8G7CS2DYg2dEUpuWU1Z6oqIr-GyQUZUE5g,10352
+euroleague_api/shot_data.py,sha256=RlQO26Wvf4Bmno1EbAujMuymQBt3T938v6WIt6h1Fno,2470
+euroleague_api/standings.py,sha256=314M8vj9Rdoga20DsgaLEMZesNsVyobcf0P0mOjlDt4,1323
+euroleague_api/team_stats.py,sha256=kgLzs8IzzxgOJQfRr6o0Q5Wo7AO7oW9n6yhiW9SPcmk,3804
+euroleague_api/utils.py,sha256=PH2UcUAP5pD9-6FOI6rtqnfXRmowuvEPQibk7c_Nl3c,20237
+euroleague_api-0.0.7.dist-info/LICENSE,sha256=7ewgJhk_PJVAHia6GSjcK0MYBHAqG5UPjvAiMp3P7WQ,1097
+euroleague_api-0.0.7.dist-info/METADATA,sha256=e0lYl1qLK86BTWXbQ4F1lBfdXJQIRKWr97upCrZIDq0,2493
+euroleague_api-0.0.7.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+euroleague_api-0.0.7.dist-info/top_level.txt,sha256=5T8dO_W1DtYs4xqPraDkV-xWlTKn5HJJp7uLJ-RdYRw,15
+euroleague_api-0.0.7.dist-info/RECORD,,
