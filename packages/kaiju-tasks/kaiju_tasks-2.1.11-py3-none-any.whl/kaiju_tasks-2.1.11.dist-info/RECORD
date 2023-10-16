@@ -1,0 +1,12 @@
+kaiju_tasks/__init__.py,sha256=NPusn6PyRMsMtakOpZhLSJus2LHWQC5gCZKE4NB30e4,152
+kaiju_tasks/gui.py,sha256=FiG8EHxRuNObvADnr7KSvhcTqsta0RxKJuCVmqELrr0,6313
+kaiju_tasks/services.py,sha256=MU628AwP-5eEkfa5un88M4josYnWzrxJiDR1ttcHpK0,46074
+kaiju_tasks/types.py,sha256=vSrCwjKb1oWnwEjzuIFMJvuZT3DiGu9jiKErw9oqwM0,10388
+kaiju_tasks/tests/__init__.py,sha256=WlPruePOcaMi5ikqn6GheE1Z-zYcysb9M1dj6SteWGY,42
+kaiju_tasks/tests/fixtures.py,sha256=7hLaDyE3Sjibnt5zZ9YNNJ2586541NRPC4Y3qIQzI2s,2272
+kaiju_tasks/tests/test_tasks.py,sha256=tKMlSMPKLzOLxE7zhhUrWrgmp_Y4EjK1HN6jNHhzidE,16773
+kaiju_tasks-2.1.11.dist-info/LICENSE,sha256=XIlN2qA8UqpBDA-PteoYP4hTU0qBW0G9PRB__khO2zc,610
+kaiju_tasks-2.1.11.dist-info/METADATA,sha256=gwYZ7twEunhQM8QIVFG34RABXiBTFFDEd4jFrvqbckM,2895
+kaiju_tasks-2.1.11.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+kaiju_tasks-2.1.11.dist-info/top_level.txt,sha256=QyLogqOVVajJlalq6RfikGx5VGn_lLeTANJEsfZZlM0,12
+kaiju_tasks-2.1.11.dist-info/RECORD,,
