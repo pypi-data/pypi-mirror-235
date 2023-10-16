@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: IR2Vec
+Version: 2.0.0
+Summary: LLVM IR based Program Embeddings for Compiler Optimizations and Program Comprehension
+Home-page: https://github.com/IITH-Compilers/IR2Vec
+Author: IR2Vec Developers
+License: BSD 4-Clause
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Compilers
+Description-Content-Type: text/markdown
+
+given input .ll/.bc generates corresponding IR2Vec embeddings in a file or on stdout
+
+
