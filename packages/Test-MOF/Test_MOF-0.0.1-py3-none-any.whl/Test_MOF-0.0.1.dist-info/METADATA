@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Test-MOF
+Version: 0.0.1
+Summary: a package that contain my lovely plant
+Home-page: 
+Author: Test
+Author-email: author@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy
+
+# Dillinger
+## _The Last Markdown Editor, Ever_
