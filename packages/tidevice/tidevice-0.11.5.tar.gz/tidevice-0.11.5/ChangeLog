@@ -1,0 +1,11 @@
+CHANGES
+=======
+
+0.11.5
+------
+
+* prompt: not support ios 17
+* 优化imagemount,支持当前版本的DeveloperImage.dmg查找不到时,自动降版本
+* add develper --rebook-ok
+* catch up cleanup
+* format app\_start error message
