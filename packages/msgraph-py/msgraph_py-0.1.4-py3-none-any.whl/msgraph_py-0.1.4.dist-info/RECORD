@@ -1,0 +1,11 @@
+msgraph/__init__.py,sha256=ngyVO6jN1eB2bK-6CUYAvfFcKgCiv22LK4HXQiWJnWM,354
+msgraph/core.py,sha256=dhsHPdIaStdBBoBD-sfV_eBkFbJ9BWfYu_xIKaQ1mB0,2933
+msgraph/devices.py,sha256=y0mQPx-GCd5vdUClC-4jaegAeyBLVZB_xcHuPJXGivA,2376
+msgraph/groups.py,sha256=_fp3CCW2kwN5vJoXRQsamVznyLmLQVPi7bJcMCW9zSA,4609
+msgraph/identity.py,sha256=2E-t8eHPBWVBIB_Ll3hyIpurKNRHG6Q1_oFNT8s2Xxg,9239
+msgraph/mail.py,sha256=KuKtxp1RX_0cDIvhDEd1PRxWUmEXMR2GBTmTGTuvtW0,3505
+msgraph_py-0.1.4.dist-info/LICENSE,sha256=ST0G9CCA-SrFuiJzrLlZCMHS-AxYhaiCvHgIfzFqKCU,1072
+msgraph_py-0.1.4.dist-info/METADATA,sha256=1aGorV8f2mpcZ8IZnZN_Z3rJRS2A2wRhD274iJcvh8M,4532
+msgraph_py-0.1.4.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+msgraph_py-0.1.4.dist-info/top_level.txt,sha256=qzCUvu-Vrn8e1z3CinbT30NCsPhPRF30hjoIC_X9Nrw,8
+msgraph_py-0.1.4.dist-info/RECORD,,
