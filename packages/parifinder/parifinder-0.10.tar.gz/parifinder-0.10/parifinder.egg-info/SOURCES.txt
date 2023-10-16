@@ -1,0 +1,13 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+parifinder/README.MD
+parifinder/__init__.py
+parifinder/requirements.txt
+parifinder/thirdparty.json
+parifinder.egg-info/PKG-INFO
+parifinder.egg-info/SOURCES.txt
+parifinder.egg-info/dependency_links.txt
+parifinder.egg-info/top_level.txt

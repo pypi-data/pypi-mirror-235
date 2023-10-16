@@ -1,0 +1,3 @@
+include parifinder/requirements.txt
+include parifinder/thirdparty.json
+include parifinder/README.MD
