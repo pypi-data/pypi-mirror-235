@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: langs_vall
+Version: 0.0.1
+Summary: Paquete de vall-e-x
+Home-page: UNKNOWN
+Author: Breyston Gonzalez
+Author-email: <breystonbarton15@gmail.com>
+License: UNKNOWN
+Keywords: python,vall-e-x
+Platform: UNKNOWN
+
+Packete de vall-e-x para proyecto de traduccion de lenguajes
+
