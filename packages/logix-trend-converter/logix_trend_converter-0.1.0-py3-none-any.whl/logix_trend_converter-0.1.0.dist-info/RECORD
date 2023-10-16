@@ -1,0 +1,7 @@
+logix_trend_converter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+logix_trend_converter/converter.py,sha256=d9hnVGGVVpwUkl3NjZFoCCfUFN7CXF5QvE_q4W1bhec,13813
+logix_trend_converter/dbf.py,sha256=Xf8oEw1JOTRWPD0t-zsPJYylgXSgdvWEkrBw93UT0u0,30571
+logix_trend_converter-0.1.0.dist-info/LICENSE,sha256=OMK4ulSv3Xm_K8QR5ELGS1ihFOPSUiTZgIGgLKRRORI,1091
+logix_trend_converter-0.1.0.dist-info/METADATA,sha256=sDMZccd1muNBUH1HSfpRoeJfjxdRDaP39aGPpIlZp4s,2389
+logix_trend_converter-0.1.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+logix_trend_converter-0.1.0.dist-info/RECORD,,
