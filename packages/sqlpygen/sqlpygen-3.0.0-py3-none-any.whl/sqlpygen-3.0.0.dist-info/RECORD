@@ -1,0 +1,16 @@
+sqlpygen/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sqlpygen/ast.py,sha256=oV6ddUX3tpr9s7A9WjG-fFg8J_8S6nrIeGAkBg6UiIE,13057
+sqlpygen/cli.py,sha256=NapJd4UXHOtd8Abmvo8cH5AT3aFCmHEcOebzuuRf8-k,532
+sqlpygen/codegen.py,sha256=9cu-1SxkonS0Qe5_Q8ftNxUs25aPO3TNkSyAzFc6zMI,4352
+sqlpygen/errors.py,sha256=8458j58MyPqX16lyFlcAZ2KrqzUjlgK8jdeOOzsBihc,2105
+sqlpygen/language_server.py,sha256=aIv80TCbvVaKeIwlruDcatuBN1hr2DRlgwhd1wRk9Ao,3372
+sqlpygen/parse_tree.py,sha256=K_HM-fy5Ws5IKXEh4VUNR_Nh_GRGtehEWyGGZhvcmJM,1869
+sqlpygen/tree_sitter_bindings.py,sha256=9Zsl1rNS__GMZVxz3TwVI94MEXYd869SJ75WbcuN3GE,655
+sqlpygen/templates/sql_test_sqlite3.py.jinja2,sha256=tWYGEGmjHRetkVq32F5S00H8QJdPAlor2hKCnXzbVV4,1985
+sqlpygen/templates/sqlite3.py.jinja2,sha256=hIMthg6DSp2u4_Eq2erPZZaQEs6B54BqAhRPKiq2Uqk,2711
+sqlpygen/tree-sitter-sqlpygen/src/parser.c,sha256=b4u5wGpShDnzRpoOrjskcBhE7ELazr0s3cbo0RV_-Uw,44110
+sqlpygen-3.0.0.dist-info/METADATA,sha256=IS5YzKQ8qpaE8DiqDziuCrd6ErsT0YwaRl3KbLPvLbs,1556
+sqlpygen-3.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+sqlpygen-3.0.0.dist-info/entry_points.txt,sha256=VInYwZrkBnPb1upaH4hiSlEhd9l4Et2EHcNIF-ROSXQ,46
+sqlpygen-3.0.0.dist-info/top_level.txt,sha256=DHQ8ExVfVpy4Pe0f6jYXyktglmM8FdcXxUVFr68AgIg,9
+sqlpygen-3.0.0.dist-info/RECORD,,
