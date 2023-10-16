@@ -1,0 +1,11 @@
+hh_polygons/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hh_polygons/__main__.py,sha256=5rg_VQQHoT8TZgi5DJgqb8NVUAZUhuOIzrKyBIRQ08w,414
+hh_polygons/polygons.py,sha256=hJsssPA4TeUL4bnVvbKYrOXVPWmsJWnJPfODF4G1hhQ,9151
+hh_polygons/server.py,sha256=vbTF7DMFMvoSSNlRciSAmRgmC81TvMRsWKnHTQcgOV0,4883
+hh_polygons/sql.py,sha256=nwseT1foQzA5r9K7ymN7gi6JdMQCTvt-ahLILOWKdkg,4735
+hh_polygons/util.py,sha256=7BbaICDbdkJtAQV-1JEqlFEcpxD2Ce79opzXbuwuw1o,239
+hh_polygons-0.0.10.dist-info/LICENSE,sha256=awOCsWJ58m_2kBQwBUGWejVqZm6wuRtCL2hi9rfa0X4,1211
+hh_polygons-0.0.10.dist-info/METADATA,sha256=G160AnRj8aNQpeiBvd9Dqj_ixMGemoiPYYOUaWtSntc,437
+hh_polygons-0.0.10.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+hh_polygons-0.0.10.dist-info/top_level.txt,sha256=G4CSL3FZjk98oB_Py1_13GdBasoCBft4wSUl4l_zXeI,12
+hh_polygons-0.0.10.dist-info/RECORD,,
