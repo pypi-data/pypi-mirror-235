@@ -1,0 +1,5 @@
+conda_xdgpatch/__init__.py,sha256=8UnignF49m2Vrwa8IVwV5yDH7X2wLbLc5s3vigvkrbQ,1391
+conda_xdgpatch-0.1.dist-info/METADATA,sha256=eKPCeu5AXV6eCWvCWN299kMRPRLDNty3fTHQq_OiliU,3259
+conda_xdgpatch-0.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+conda_xdgpatch-0.1.dist-info/entry_points.txt,sha256=S7CQSsq3PC-X_QHoysDAc8wE1oUJQxTRMKUSEX7tGb0,53
+conda_xdgpatch-0.1.dist-info/RECORD,,

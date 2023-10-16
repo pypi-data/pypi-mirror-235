@@ -1,0 +1,3 @@
+[sitecustomize]
+conda_xdgpatch=conda_xdgpatch:patch
+
