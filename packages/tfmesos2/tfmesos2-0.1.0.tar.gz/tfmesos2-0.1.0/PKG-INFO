@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: tfmesos2
+Version: 0.1.0
+Summary: Tensorflow for Apache Mesos
+Home-page: https://www.aventer.biz/
+Author: Andreas Peters
+Author-email: support@aventer.biz
+License: Apache License 2.0
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Tensorflow V2 for Mesos
+
+## Requirements
+
+- Apache Mesos minimum 1.6.x
+
+## How to use
+
+Tensorflow for Mesos need some environment variables to know how and which Mesos it should use.
+
+```bash
+
+export MESOS_SSL=true
+export MESOS_MASTER=localhost:5050
+export MESOS_USERNAME=<MESOS_PRINCIPAL>
+export MESOS_PASSWORD=<MESOS_SECRET>
+
+python examples/plus.py
+
+```
