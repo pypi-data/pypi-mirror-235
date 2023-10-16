@@ -1,0 +1,2 @@
+[console_scripts]
+re-renamer = re_renamer.cli:main
