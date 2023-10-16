@@ -1,0 +1,33 @@
+[project]
+name = "xmlJoiner"
+version = "0.1.1"
+description="ESA EDDS XML Telemetry joiner"
+dependencies = [
+    "rich_click",
+    "rich",
+    'importlib-metadata; python_version>"3.10"',
+]
+
+authors = [{name="Romolo Politi", email ="Romolo.Politi@inaf.it" }]
+license = {text = "GNU GPL ver3"} 
+readme = "README.md"
+
+keywords = ["ESA", "Space Mission", "Telemetry"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)"
+]
+
+[project.urls]
+Repository = "https://github.com/RomoloPoliti-INAF/xmlJoiner"
+
+[project.optional-dependencies]
+docs = ["sphinx"]
+
+[project.scripts]
+xmlJoin = "xmlJoiner.xmlJoin:action"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+

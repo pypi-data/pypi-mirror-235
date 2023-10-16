@@ -1,0 +1,1 @@
+from xmlJoiner.xmlJoin import xmlJoin
