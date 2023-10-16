@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/ezsdtf.egg-info/PKG-INFO
+src/ezsdtf.egg-info/SOURCES.txt
+src/ezsdtf.egg-info/dependency_links.txt
+src/ezsdtf.egg-info/requires.txt
+src/ezsdtf.egg-info/top_level.txt
+src/ezstdf/StdfReader.py
+src/ezstdf/StdfReaderBase.py
+src/ezstdf/__init__.py
+src/ezstdf/atdf_cst.py
+src/ezstdf/parsers.py
+src/ezstdf/stdf_cst.py
