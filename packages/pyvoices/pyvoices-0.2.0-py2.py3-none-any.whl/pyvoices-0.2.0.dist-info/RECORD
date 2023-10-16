@@ -1,0 +1,11 @@
+pyvoices/__init__.py,sha256=b4upzXQoN8BCgT4sVY6dodEYWQs9_HkskpOQIWJHf6c,25
+pyvoices/__main__.py,sha256=2E87Kw_jTjHprxIHRo5g8mMurRxrgG20mFnNyM20pQU,1505
+pyvoices/doculect.py,sha256=9s5VNmIe6NQpAp5Uw1QstEIFwg_i-J04WV8TGgJcl4Y,3155
+pyvoices/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyvoices/commands/chunk.py,sha256=OH-xTxpt1Yeo3vXRDQEqCwZAIJbCRUaFx166RZuXNIw,6255
+pyvoices-0.2.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+pyvoices-0.2.0.dist-info/METADATA,sha256=m9eOpkIFbitX9PTQ2ixkQMSmndhQNFvmhAiV_ISvt_c,1810
+pyvoices-0.2.0.dist-info/WHEEL,sha256=bb2Ot9scclHKMOLDEHY6B2sicWOgugjFKaJsT7vwMQo,110
+pyvoices-0.2.0.dist-info/entry_points.txt,sha256=oGnnkQfkKsSjMuTI0Ja30C_TYwRXX0qQr8x5D-qz4Os,50
+pyvoices-0.2.0.dist-info/top_level.txt,sha256=KZ32zsOwWPY8Tx82Dr-3OBA0jejr1L34tsoAFU95DuY,9
+pyvoices-0.2.0.dist-info/RECORD,,
