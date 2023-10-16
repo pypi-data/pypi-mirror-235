@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: getter_setter
+Version: 1.0
+Summary: Getter/Setter. Implements new syntax so you can implement getter and setter in one line.
+Home-page: https://github.com/xzripper/GetterSetter
+Author: Ivan Perzhinsky.
+Author-email: name1not1found.com@gmail.com
+License: MIT
+Download-URL: https://github.com/xzripper/GetterSetter/archive/refs/tags/v1.0.tar.gz
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable 
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
