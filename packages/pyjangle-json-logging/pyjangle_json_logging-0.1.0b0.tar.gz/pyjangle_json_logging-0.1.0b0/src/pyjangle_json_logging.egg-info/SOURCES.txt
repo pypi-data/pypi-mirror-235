@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+readme.md
+src/pyjangle_json_logging/__init__.py
+src/pyjangle_json_logging/logging.py
+src/pyjangle_json_logging.egg-info/PKG-INFO
+src/pyjangle_json_logging.egg-info/SOURCES.txt
+src/pyjangle_json_logging.egg-info/dependency_links.txt
+src/pyjangle_json_logging.egg-info/requires.txt
+src/pyjangle_json_logging.egg-info/top_level.txt
