@@ -1,0 +1,13 @@
+biocgenerics/__init__.py,sha256=vl3k8QgblZxlS5wdzFGGuwROhxyRstgYO8-DTWql4VU,791
+biocgenerics/colnames.py,sha256=TngBJZsqgHnClluyzebBnMz5fRPVb96kVk_xw-yFcYE,1403
+biocgenerics/combine.py,sha256=gM-BSTcrnpi-6-0OQhqgiWLEFUCwd-M5Ea_hY5Z-jRI,1962
+biocgenerics/combine_cols.py,sha256=-0di81AHLupWBpjWEYzB0x2fVQHJIKnCQNy7BEivWaU,4035
+biocgenerics/combine_rows.py,sha256=8dLfVqzdul3RhrS77-3lL0N_1RVXb_GfJFGenr9e754,4050
+biocgenerics/combine_seqs.py,sha256=6o6EvaJoV2l5S7euWRm-QGz9b9J-9qYo3yaQSxsv1fQ,5376
+biocgenerics/rownames.py,sha256=GE34OG6Jxb56iQjvCzF1tuVLzS52-LEuXHwO_N3tlhg,1399
+biocgenerics/utils.py,sha256=fbVhTWlFM5J5kAHm-uQE5C5EO_rDzDwx8a8nrnWiZYY,2343
+BiocGenerics-0.1.1.dist-info/LICENSE.txt,sha256=W8h9ZCvPiytutCW9oWFH6g1wEystrFlUBgTRBDj6-eQ,1074
+BiocGenerics-0.1.1.dist-info/METADATA,sha256=Acv70Obc7Ls3A_6B8Sfsg1K_g6Tm_41wMK39OMsiv-g,4009
+BiocGenerics-0.1.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+BiocGenerics-0.1.1.dist-info/top_level.txt,sha256=9ZT_zO2qxDcwUKpEPSFjkmj_nj2T8BtdeWgneySc32U,13
+BiocGenerics-0.1.1.dist-info/RECORD,,
