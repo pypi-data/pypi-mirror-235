@@ -1,0 +1,16 @@
+dataflowutil/config/__int__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dataflowutil/config/extra_var.py,sha256=jgeTaqvuK6x5xfGDg4bnc9WoZ2UK6fM5wfccvDi0cmM,786
+dataflowutil/libs/__int__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dataflowutil/libs/app_struct.py,sha256=JcJfmtZ9si_ZFiIeT8XJAgdzHheJ15sXtRBDkyhU0yU,2584
+dataflowutil/libs/data_check.py,sha256=fDAUafT07oQG80PoVqxuh0HJbJVnTLs7MBmNL-tNfKk,4661
+dataflowutil/libs/load_bucket.py,sha256=zpmlgs7IYMcwWFPzdc3L5rEEI0-qvaST5BtO5013sBQ,2523
+dataflowutil/libs/load_connection.py,sha256=IBde4kGBplJ90bYwQmK3ik4g5NlVNLwuYsUnlwTGj9E,2038
+dataflowutil/libs/load_data.py,sha256=mkgZvjIkUymV22krRCPgzgq_jnbLgNKY92dFo62lK-c,2692
+dataflowutil/libs/load_processing.py,sha256=wcg8ooEHybSBXMsavufHS7OB5sP_zHrLrCrLgP_q8Vg,7076
+dataflowutil/libs/load_report.py,sha256=QkLquYrAOMGtxhWACXhbeh-TkvGy2dgWeqKhoMr3LfM,15540
+dataflowutil/libs/load_spreadsheets.py,sha256=kG9zYFj6RjG_SdGESP8RE1XfjOgy7CsJOwEAxVB5SXE,2445
+dataflowutil/libs/upload_data.py,sha256=L9TLxg7rncWGTKiIy1x7Jc96gHGOIJU4NvweJpJM09g,2226
+dataflowutil-0.0.4.dist-info/METADATA,sha256=ibqQTmk-Tjftwa18nrE4026gNQb8O5mRM9I4jZ7ktOg,10662
+dataflowutil-0.0.4.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+dataflowutil-0.0.4.dist-info/top_level.txt,sha256=SizvVwADCkxNMg1ac2waIJcS33l7EH_Cx7N10McY1Oo,13
+dataflowutil-0.0.4.dist-info/RECORD,,
