@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pytextsearch
+Version: 0.0.1
+Summary: A Python library for string search algorithms like KMP, Boyer-Moore, and Rabin-Karp
+Author: Magomedali Magomedov
+Author-email: magaali.741@gmail.com
