@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "fourdle"
+version = "0.1.8"
+description = "Small fourdle game"
+authors = ["Filip Cederquist"]
+readme = "README.md"
+packages = [{include = "fourdle"}]
+include = ["data/words.txt"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
