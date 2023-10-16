@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: automlex
+Version: 0.0.1
+Summary: Say hello!
+Home-page: https://github.com/nityanandmathur/AutoML
+Author: Nityanand mathur
+Author-email: nityanandmathur@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy >=1.13.3
+Provides-Extra: dev
+Requires-Dist: pytest >=3.7 ; extra == 'dev'
+Requires-Dist: check-manifest ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+
+# AutoMLx
+
+Library to interpretable models!
+
+## Installation
+Run the following to install:
+
+```python
+pip install automlx
+```
+
+## Usage
+
+```python
+from hellowortd import say _ hello
+# Generate "Hello, World!
+say_hello()
+# Generate "Hello, Everybody!
+say_hello("Everybody")
+```
