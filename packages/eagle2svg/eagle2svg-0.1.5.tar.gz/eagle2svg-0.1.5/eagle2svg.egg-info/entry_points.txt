@@ -1,0 +1,2 @@
+[console_scripts]
+eagle2svg = eagle2svg.render:render_main
