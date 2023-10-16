@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rasc
+Version: 0.1.0
+Summary: Generic key-value storage handling library
+Author-email: Ngô Ngọc Đức Huy <huyngo@disroot.org>
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Project-URL: Home, https://git.sr.ht/~huyngo/rasc/
