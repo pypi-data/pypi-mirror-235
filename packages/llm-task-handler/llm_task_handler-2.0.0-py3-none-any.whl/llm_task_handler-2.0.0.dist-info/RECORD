@@ -1,0 +1,10 @@
+llm_task_handler/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+llm_task_handler/chatroom.py,sha256=q8o2MMswDIDyIPbPs738ED1Mu988rdYitYDSDmKmM5w,2707
+llm_task_handler/dispatch.py,sha256=BTxr0mSMDmNwfjwx71wd0v7ertJyl7FAysM-YNw0hmA,805
+llm_task_handler/handler.py,sha256=yGxZRoyaIpyTop8s8GJF7nXDJkErgQ43nJhau0f4IAc,1284
+llm_task_handler/select.py,sha256=Qx3Vl-jVwpkJRl8sFdsWAwM9LrBLpGQKrOWIZQuMs58,2536
+llm_task_handler-2.0.0.dist-info/LICENSE,sha256=1lL2rTZBNOnV6UJTV2nd95LClzrDSUpXjH9xjN_2RCQ,1069
+llm_task_handler-2.0.0.dist-info/METADATA,sha256=xvC4QF1D3drMOJ4FQNFM4PlgFSUwvZKOKEB7wVpBTgI,467
+llm_task_handler-2.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+llm_task_handler-2.0.0.dist-info/top_level.txt,sha256=_jiG2XcuOzrg-tVu1glP8Fk0LntLiTjUweLXieHm_AQ,17
+llm_task_handler-2.0.0.dist-info/RECORD,,
