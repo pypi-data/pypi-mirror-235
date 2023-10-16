@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/simplesocks/__init.py
+src/simplesocks/client.py
+src/simplesocks/server.py
+src/simplesocks.egg-info/PKG-INFO
+src/simplesocks.egg-info/SOURCES.txt
+src/simplesocks.egg-info/dependency_links.txt
+src/simplesocks.egg-info/requires.txt
+src/simplesocks.egg-info/top_level.txt
