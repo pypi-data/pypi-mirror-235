@@ -1,0 +1,2 @@
+[flake8.extension]
+ALR = flake8_vedro_allure.plugins:VedroAllurePlugin

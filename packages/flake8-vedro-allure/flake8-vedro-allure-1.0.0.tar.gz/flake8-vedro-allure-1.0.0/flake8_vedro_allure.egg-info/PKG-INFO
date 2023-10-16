@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: flake8-vedro-allure
+Version: 1.0.0
+Summary: flake8 based linter for vedro framework with integrated allure
+Home-page: https://github.com/mytestopia/flake8-vedro-allure
+Author: Anna
+Author-email: testopia13@gmail.com
+License: Apache-2.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flake8<7.0,>=6.0
+Requires-Dist: flake8-plugin-utils<2.0,>=1.3.2
+
+# flake8-vedro-allure
+Flake8 based linter for Vedro framework and allure
+
+## Installation
+
+```bash
+pip inslall flake8-vedro-allure
+```
+
+
+## Rules
+
+1. **ALR001**: missing @allure_labels for scenario
+2. **ALR002**: missing required allure tag
+3. **ALR003**: duplication of unique allure tag
+
+**Rules configuration**
+```editorconfig
+[flake8]
+is_allure_labels_optional = false                 ;ALR001
+required_allure_labels = Feature,Story,Priority   ;ALR002
+unique_allure_labels = Priority                   ;ALR003
+```
+
+## Configuration
+Flake8-vedro-allure is flake8 plugin, so the configuration is the same as [flake8 configuration](https://flake8.pycqa.org/en/latest/user/configuration.html).
+
+You can ignore rules via
+- file `setup.cfg`: parameter `ignore`
+```editorconfig
+[flake8]
+ignore = ALR001
+```
+- comment in code `#noqa: ALR001`
