@@ -1,0 +1,12 @@
+ortega/STPoint.py,sha256=Wmm4OV1dfXrVv0-DhXsqLDzo1uIOrbmX2BreG1KtFk0,2602
+ortega/__init__.py,sha256=Gv_SKk0dz-dJ2fXI0Ejwqkv062XPfH2Z2GGoNZEJe_s,98
+ortega/common.py,sha256=e18vYSIQKD458iB54oMovpFQX__J8_n9f2SPp9kTjBg,1236
+ortega/ellipses.py,sha256=uOosZemUUp_cO8Tn28neky-PhFGhx8l9rqA4EQqalPY,9837
+ortega/ortega.py,sha256=GJ-cxIos508jYImv3oaK8jfudjBDxwGDC3Kwi9jZ2ek,27455
+ortega/output.py,sha256=NDWahLvCrMhOTxwV4jgSZVD6Awa0s6yUwakTFroXppQ,2780
+ortega/visualization.py,sha256=2J4bfEck3eTdJSrXMyabK7_7T265faff_Zxz1DEvLjo,3230
+ortega-1.0.15.dist-info/LICENSE,sha256=0ibmkwnYDly_LWKKYh-wxYqydlOWCmUpZjv6ha-wQQc,1069
+ortega-1.0.15.dist-info/METADATA,sha256=SPVGme7Ngd28oLcvTmMr4_7Je4WdQ9g29ApggE8IJBU,359
+ortega-1.0.15.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+ortega-1.0.15.dist-info/top_level.txt,sha256=gkIkwbWl9yfofKm0tMpL0C0hd3RvhOQBleCsnRysmFE,7
+ortega-1.0.15.dist-info/RECORD,,
