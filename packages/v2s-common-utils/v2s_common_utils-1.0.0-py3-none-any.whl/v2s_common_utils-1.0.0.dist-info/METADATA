@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: v2s-common-utils
+Version: 1.0.0
+Summary: This is package used for django restframework
+Author: Vishwajeet Kale
+Requires-Dist: djangorestframework
+Requires-Dist: drf-yasg
+
