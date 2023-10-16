@@ -1,0 +1,9 @@
+setup.py
+H2oMojoPredict/__init__.py
+H2oMojoPredict/h2o_predict_java8.jar
+H2oMojoPredict/test.py
+H2oMojoPredict.egg-info/PKG-INFO
+H2oMojoPredict.egg-info/SOURCES.txt
+H2oMojoPredict.egg-info/dependency_links.txt
+H2oMojoPredict.egg-info/requires.txt
+H2oMojoPredict.egg-info/top_level.txt
