@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "EBA_calculator_package"
+version = "0.0.1"
+authors = [
+  { name="Ema", email="emabartasyte@gmail.com" },
+]
+description = "A calculator package for basic arithmetic operations."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Source" = "https://packaging.python.org/en/latest/tutorials/packaging-projects/?fbclid=IwAR2HftvQkAYDb0yTm4lbhN1RSnii_MbFE3ZLwtLdAmDy14Fi-VNlzATC6fo"
