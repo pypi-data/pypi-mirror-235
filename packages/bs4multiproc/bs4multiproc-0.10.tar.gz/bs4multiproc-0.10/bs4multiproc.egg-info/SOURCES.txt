@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+bs4multiproc/README.MD
+bs4multiproc/__init__.py
+bs4multiproc/requirements.txt
+bs4multiproc/thirdparty.json
+bs4multiproc.egg-info/PKG-INFO
+bs4multiproc.egg-info/SOURCES.txt
+bs4multiproc.egg-info/dependency_links.txt
+bs4multiproc.egg-info/requires.txt
+bs4multiproc.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+include bs4multiproc/requirements.txt
+include bs4multiproc/thirdparty.json
+include bs4multiproc/README.MD
