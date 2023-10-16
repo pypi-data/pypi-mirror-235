@@ -1,0 +1,2 @@
+[console_scripts]
+pdfnumbering = pdfnumbering.cli:main
