@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+cardsboard/__init__.py
+cardsboard/__main__.py
+cardsboard/cardsboard.py
+cardsboard/config.py
+cardsboard/fsdb.py
+cardsboard.egg-info/PKG-INFO
+cardsboard.egg-info/SOURCES.txt
+cardsboard.egg-info/dependency_links.txt
+cardsboard.egg-info/entry_points.txt
+cardsboard.egg-info/top_level.txt
