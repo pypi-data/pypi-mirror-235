@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+openlens.egg-info/PKG-INFO
+openlens.egg-info/SOURCES.txt
+openlens.egg-info/dependency_links.txt
+openlens.egg-info/requires.txt
+openlens.egg-info/top_level.txt
