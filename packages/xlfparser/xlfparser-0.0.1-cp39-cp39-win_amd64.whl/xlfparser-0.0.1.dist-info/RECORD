@@ -1,0 +1,13 @@
+xlfparser/__init__.py,sha256=iYkLSx3FqFD65mdiPKOSF8vANycYNomadGb5eR9E_JE,132
+xlfparser/_xlfparser.cp39-win_amd64.pyd,sha256=Xw-X_KfaFySUkfSFH0daA9NPl8W3570mgFxcunFCVjU,129024
+xlfparser/_xlfparser.cpp,sha256=Se4sTmBV_EkZmCoLksPYFNjOEkEjJH8UAdr_Vwn9ZPU,364560
+xlfparser/_xlfparser.pxd,sha256=Y6S_hAKGxmaSLssZGEnPUY-sOVO33AmoJPQLVtx-Ph0,2010
+xlfparser/_xlfparser.pyx,sha256=YX5w-e0LUUaJmnuTCcTiQzA0uL8PY56VUS5lAiq8vA0,4251
+xlfparser/ast.py,sha256=fuwQm6uGYazxVtibLClzHdhgZv9nbB61Tvj_bUEaPVI,7561
+xlfparser/options.py,sha256=pwIId7fZdGmQkz87lFaJklq9WUoZ4KI91-W_4VDtEvU,1401
+xlfparser/token.py,sha256=nDUO1QytrufmAT6Zpxi6dppWV7nQz6kE-nO1PVbDkSI,5086
+xlfparser-0.0.1.dist-info/LICENSE,sha256=wgQYLQbL1dO80UFLakpT71Uk7nvQkkAR2z6onsKx7xE,1078
+xlfparser-0.0.1.dist-info/METADATA,sha256=j206yEVrghh2B1aRj98TfkIzz2QTGBqqnHfqTSmmxhY,1629
+xlfparser-0.0.1.dist-info/WHEEL,sha256=2xSj8c4s_gFbWpcImYQptdXS3JLuzC2uK5Om8I_SEKg,100
+xlfparser-0.0.1.dist-info/top_level.txt,sha256=oBr7IAc2L5JmLXkcWV7DQNCF0QWYEli1K4TtZWp5moU,10
+xlfparser-0.0.1.dist-info/RECORD,,
