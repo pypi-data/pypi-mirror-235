@@ -1,0 +1,2 @@
+[console_scripts]
+smel = bin.smel:main

@@ -1,0 +1,16 @@
+bin/__init__.py,sha256=McuD3LfDL6soIVSl-b6RKRG1xhjJXGQajUfiqjzOJlU,57
+bin/amplicon.py,sha256=hIgeGkJSmvLANTzkPJX8vuCvBc-4PmRNy-MsV0MHxmg,29883
+bin/smel.py,sha256=E-OM_6i5oMknTKiC9AyS-eoe0fq5pj4d1RT5e3MxKss,4832
+src/__init__.py,sha256=X0EJTcCUX-RJTJpYAeSFkrUREizucOPxaOlsndFKuCw,265
+src/data_import.py,sha256=9Ggvu1vSDkVl40c_TTVUTNyQy00SuIY-NB4oiitmC4k,7064
+src/denoising.py,sha256=5Qrs5V1FhoLTndZjU6Tx-6lKoh787uWzy94BT1_R9Hc,20855
+src/diversity.py,sha256=gVpLOTOfUeSSwZqCgNghd-K9k51cmp_e-b8Nl8PDyYQ,14387
+src/phylogeny.py,sha256=aLeM8PNxkWwl1GdEh1UfqV0oWp5-1XYADOt4Z5o91mA,2729
+src/remove_adapters.py,sha256=dKANxciY5BqaBTBuR_nf_V0oVjweEOKcEDqAc6mm95I,4743
+src/taxonomy_classification.py,sha256=EzT47lRafBB9PdyzAUH7Ao3StvLFeGlCw9fRN2_Gu-k,9190
+src/utils.py,sha256=ic2NL-gxvxE6wq1_Jo0A9uAVb72ktwqKGOYuW197jB0,9082
+smel-0.0.3.dist-info/METADATA,sha256=lCSgRxnDv9ve6onrQBidtpYN3xx6cz9e5Amjv89K6Mk,446
+smel-0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+smel-0.0.3.dist-info/entry_points.txt,sha256=D6A-OI0z0vh7XQwfE7FgvwgEakNZIBWkeHqXBhsqr4s,39
+smel-0.0.3.dist-info/top_level.txt,sha256=7eVNInJEOMvsOjjfJNWkdcR2pQUK4H0Tlvyv6v1KlZ8,8
+smel-0.0.3.dist-info/RECORD,,
