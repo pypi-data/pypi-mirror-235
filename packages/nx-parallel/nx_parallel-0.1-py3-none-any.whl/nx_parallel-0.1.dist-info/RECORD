@@ -1,0 +1,15 @@
+nx_parallel/__init__.py,sha256=0u-HLGDpUSE6LXRNhEiaESwjJooNlh7Ak4hzOKiSy8Y,93
+nx_parallel/interface.py,sha256=psV9i0yUDklCPzAE0HB1IGbbNkHngXZWwVZ623Jym4A,1711
+nx_parallel/algorithms/__init__.py,sha256=DHkzSIuSqeG-KuWilQ35XJZYcRdhOh73NVyetQmStkM,135
+nx_parallel/algorithms/efficiency_measures.py,sha256=tLF3UiKxqLs0l2JC0GNfnhRokIFcQ9jIK1MN5waFUPk,1976
+nx_parallel/algorithms/isolate.py,sha256=MnekcuSzl-ZRImNX_JkXnPOWPVYSkZFjY1Pp6SgoBds,869
+nx_parallel/algorithms/tournament.py,sha256=0NAwSAPC0ymF4vvrVVsv91RUEFwfSfgVoqaT3mKRM1s,5166
+nx_parallel/algorithms/vitality.py,sha256=_3hItxyiGwVUt7TKGmA_FVRTs2lbwHAoinlUAYNlTTo,2407
+nx_parallel/algorithms/centrality/__init__.py,sha256=aCw5jUIWYegsfRvk4CM6rU-C9hbAqYzGmzxjmEfdrVo,27
+nx_parallel/algorithms/centrality/betweenness.py,sha256=fr2Mdjm4JIcuwTfxv_e6eHoi69ke_BhxYJBCbjG7FNM,3985
+nx_parallel/utils/__init__.py,sha256=Rs9uqeQcPDr1Y4tlEN-xU0QSCntdxgL0AOyvcLfF2Cc,21
+nx_parallel/utils/chunk.py,sha256=1Ealxa-hSGm9E-3O6Bp9cRGMqT0wTe1aVO1EGHmUxmY,422
+nx_parallel-0.1.dist-info/METADATA,sha256=9uO8jYc_op7AEJVHgRqWf4uzm9cWPmFA-LxrTtprl2Y,2815
+nx_parallel-0.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+nx_parallel-0.1.dist-info/entry_points.txt,sha256=STMZRvIGDohpr5VEVAJ4nfRLVA2hiBj8i0KLutqDuJw,63
+nx_parallel-0.1.dist-info/RECORD,,

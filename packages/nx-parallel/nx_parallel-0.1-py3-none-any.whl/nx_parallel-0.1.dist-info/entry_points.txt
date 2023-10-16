@@ -1,0 +1,2 @@
+[networkx.plugins]
+parallel = nx_parallel.interface:Dispatcher
