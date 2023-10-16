@@ -1,0 +1,5 @@
+setup.py
+aimos.egg-info/PKG-INFO
+aimos.egg-info/SOURCES.txt
+aimos.egg-info/dependency_links.txt
+aimos.egg-info/top_level.txt
