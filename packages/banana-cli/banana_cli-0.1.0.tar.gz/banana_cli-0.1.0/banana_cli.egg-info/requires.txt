@@ -1,0 +1,10 @@
+Click
+gitpython
+termcolor
+requests
+yaspin
+prompt_toolkit
+opencv-python
+gitignore_parser
+fastapi
+uvicorn[standard]
