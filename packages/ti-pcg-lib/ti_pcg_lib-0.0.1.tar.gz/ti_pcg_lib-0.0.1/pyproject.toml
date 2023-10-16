@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ti_pcg_lib"
+version = "0.0.1"
+authors = [
+  { name="Tim Hespel", email="timothee.hespel@adeo.com" },
+]
+description = "A small GCP utility library"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+ "google-cloud-secret-manager"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "http://github.com"
+"Bug Tracker" = "http://github.com"
