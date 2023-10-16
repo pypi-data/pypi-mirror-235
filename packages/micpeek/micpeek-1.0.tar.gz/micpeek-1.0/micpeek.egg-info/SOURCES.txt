@@ -1,0 +1,10 @@
+LICENSE
+README.md
+micpeek
+pyproject.toml
+setup.cfg
+micpeek.egg-info/PKG-INFO
+micpeek.egg-info/SOURCES.txt
+micpeek.egg-info/dependency_links.txt
+micpeek.egg-info/requires.txt
+micpeek.egg-info/top_level.txt
