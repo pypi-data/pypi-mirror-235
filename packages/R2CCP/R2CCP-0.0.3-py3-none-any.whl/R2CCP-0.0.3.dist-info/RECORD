@@ -1,0 +1,14 @@
+R2CCP/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+R2CCP/argparser.py,sha256=8cFmcCrh6BKYxeKwHISOWYWdk9CNX_jFKfYd3MT-4oc,3479
+R2CCP/cp.py,sha256=l4Hlt7sQrE_t2W4xUuWhBl-7T-iGTjXh2cVLYCrnzY4,3536
+R2CCP/data.py,sha256=UQkvuRPwurmqW4vjxC1hrf3U3mAL5VlxyYM48noE2Ag,1488
+R2CCP/main.py,sha256=PSIqshrsIEPCaX_QM6x2oIajHmswmRM-YcqjnN4QglE,5551
+R2CCP/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+R2CCP/models/callbacks.py,sha256=gS8krj4v7Kqw2lR7n_UpgRns9kJecOegtelR6PRkelo,1175
+R2CCP/models/mlp.py,sha256=Zc8IT-ZI_jNbV3DX7DRVKqkMVN9xFVghPmq2jtuzi8Q,1453
+R2CCP/models/model.py,sha256=BiqEJFujkf5Mmkon8-PlysVzOcsq7zEUXeURet8Hwmw,4374
+R2CCP/models/transformer.py,sha256=IbGDC6HVojGzful3Ny_R8ILu_Ajuu79jZwkXphZFNTg,1396
+R2CCP-0.0.3.dist-info/METADATA,sha256=Rz07XBM868RAd-840LsfrTOaIImNZdtqpF3LyRO2Mvo,851
+R2CCP-0.0.3.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+R2CCP-0.0.3.dist-info/top_level.txt,sha256=rd-xnbTsoZleFkGR217O5tQXT3pw8mUDF_zXextPGPM,6
+R2CCP-0.0.3.dist-info/RECORD,,
