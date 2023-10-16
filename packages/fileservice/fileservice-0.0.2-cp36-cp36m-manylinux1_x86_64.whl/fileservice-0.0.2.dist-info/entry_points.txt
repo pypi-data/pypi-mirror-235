@@ -1,0 +1,3 @@
+[console_scripts]
+fileservice = fileservice.fileServiceProcess:main
+

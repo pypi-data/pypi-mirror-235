@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: fileservice
+Version: 0.0.2
+Summary: HDF5 and Posix remote file service
+Home-page: UNKNOWN
+Author: zhangchenglong
+Author-email: zhangchl@ihep.ac.cn
+License: Mozilla Public License 2.0
+Platform: UNKNOWN
+Requires-Python: >=3.0
+Requires-Dist: h5py
+Requires-Dist: zmq
+Requires-Dist: flatten-json
+
+UNKNOWN
+

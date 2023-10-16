@@ -1,0 +1,10 @@
+fileservice/__init__.cpython-36m-x86_64-linux-gnu.so,sha256=YdsErSXFoTPTs8TinX_kJyjw9ufEuXYMKrc5zzF98Lg,64776
+fileservice/fileServiceProcess.cpython-36m-x86_64-linux-gnu.so,sha256=090dKzKenk_szcVAfulAcfysq-1eIB4T38ecNZ2TreU,236456
+fileservice/hdf5.cpython-36m-x86_64-linux-gnu.so,sha256=1TlxEi06PCiPqqPeR0PfgtuwCkUoqKLRhuzt7hY8kzs,279208
+fileservice/backend/HDF5Service.cpython-36m-x86_64-linux-gnu.so,sha256=y5GLkGds961-hSXM52BDYz46Znt11yXbxfKfYZwdTzI,592168
+fileservice/backend/__init__.cpython-36m-x86_64-linux-gnu.so,sha256=u1-v8ZhcJKSi1PIMk5WUXQZIFr0bZ_4GwAIu8BQDapo,60376
+fileservice-0.0.2.dist-info/METADATA,sha256=rafFs_Gc5bwXzmSyRIY76hYUXSIxLPttXylaMa_QN00,329
+fileservice-0.0.2.dist-info/WHEEL,sha256=IODkjaibdQL4Y0ih2utemBolHCvYTfxEeli_9oQOqGs,109
+fileservice-0.0.2.dist-info/entry_points.txt,sha256=YhowsMSMZTRbqGeyoow1Uwn9c-5bIeaIfElp5gHIEvM,69
+fileservice-0.0.2.dist-info/top_level.txt,sha256=aFvD04UuEDU32QZ3aLwJ5BwwPeXLMhDxSUJMPOumJjc,12
+fileservice-0.0.2.dist-info/RECORD,,
