@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: python-artisan
+Version: 0.1.0
+Summary: Artisan CLI for Python Developer in AWS
+Author: nerdmonkey
+Author-email: sydel.palinlin@gmail.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: typer[all] (>=0.9.0,<0.10.0)
+Description-Content-Type: text/markdown
+
+# Andeng
+
+The awesome Artisan CLI for Python Developer in AWS
+
