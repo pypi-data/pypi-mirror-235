@@ -1,0 +1,14 @@
+{
+    "entity": {
+        "sensor": {
+            "status": {
+                "state": {
+                    "seeding_and_downloading": "Auk\u0161tyn / \u017eemyn"
+                }
+            },
+            "upload_speed": {
+                "name": "\u012ek\u0117limo greitis"
+            }
+        }
+    }
+}

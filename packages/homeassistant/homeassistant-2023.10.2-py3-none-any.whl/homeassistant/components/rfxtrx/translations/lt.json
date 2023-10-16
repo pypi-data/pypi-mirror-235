@@ -1,0 +1,42 @@
+{
+    "entity": {
+        "sensor": {
+            "total_energy_usage": {
+                "name": "Bendras energijos suvartojimas"
+            },
+            "uv_index": {
+                "name": "UV indeksas"
+            },
+            "wind_average_speed": {
+                "name": "V\u0117jo vidutinis greitis"
+            },
+            "wind_direction": {
+                "name": "V\u0117jo kryptis"
+            },
+            "wind_gust": {
+                "name": "V\u0117jo g\u016bsis"
+            }
+        }
+    },
+    "options": {
+        "step": {
+            "prompt_options": {
+                "data": {
+                    "protocols": "Protokolai"
+                }
+            }
+        }
+    },
+    "services": {
+        "send": {
+            "description": "Per radij\u0105 siun\u010dia neapdorot\u0105 \u012fvyk\u012f.",
+            "fields": {
+                "event": {
+                    "description": "\u0160e\u0161ioliktain\u0117 eilut\u0117, kuri\u0105 reikia si\u0173sti.",
+                    "name": "\u012evykis"
+                }
+            },
+            "name": "Si\u0173sti"
+        }
+    }
+}

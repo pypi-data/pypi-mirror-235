@@ -1,0 +1,9 @@
+{
+    "entity": {
+        "sensor": {
+            "wind_heading": {
+                "name": "V\u0117jo kryptis"
+            }
+        }
+    }
+}

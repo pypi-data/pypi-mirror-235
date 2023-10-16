@@ -1,0 +1,18 @@
+{
+    "entity": {
+        "sensor": {
+            "favorite_points": {
+                "name": "M\u0117gstamiausi ta\u0161kai"
+            },
+            "find_count": {
+                "name": "Viso radini\u0173"
+            },
+            "hide_count": {
+                "name": "Visi\u0161kai slepiasi"
+            },
+            "souvenir_count": {
+                "name": "Visi suvenyrai"
+            }
+        }
+    }
+}

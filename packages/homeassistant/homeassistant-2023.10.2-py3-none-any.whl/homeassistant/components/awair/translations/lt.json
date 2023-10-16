@@ -1,0 +1,12 @@
+{
+    "entity": {
+        "sensor": {
+            "score": {
+                "name": "Rezultatas"
+            },
+            "sound_level": {
+                "name": "Garso lygis"
+            }
+        }
+    }
+}

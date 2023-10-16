@@ -1,0 +1,14 @@
+{
+    "issues": {
+        "deprecated_service_set_doorbell_message": {
+            "fix_flow": {
+                "step": {
+                    "confirm": {
+                        "title": "set_doorbell_message yra nebenaudojamas"
+                    }
+                }
+            },
+            "title": "set_doorbell_message yra nebenaudojamas"
+        }
+    }
+}

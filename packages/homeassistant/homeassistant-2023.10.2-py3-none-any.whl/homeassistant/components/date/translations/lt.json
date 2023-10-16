@@ -1,0 +1,14 @@
+{
+    "services": {
+        "set_value": {
+            "description": "Nustato dat\u0105.",
+            "fields": {
+                "date": {
+                    "description": "Nustatyti data.",
+                    "name": "Data"
+                }
+            },
+            "name": "Nustatykite dat\u0105"
+        }
+    }
+}
