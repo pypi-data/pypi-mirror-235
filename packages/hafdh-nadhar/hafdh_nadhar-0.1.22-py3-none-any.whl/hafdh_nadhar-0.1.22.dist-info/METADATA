@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: hafdh-nadhar
+Version: 0.1.22
+Summary: Blur humans from a picture
+Author-Email: karim-bouchez <bouchez.karim@gmail.com>
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: opencv-python>=4.8.0.76
+Requires-Dist: typer[all]>=0.9.0
+Description-Content-Type: text/markdown
+
+# hafdh-nadhar
+
+Package Python that blur human representations from an image
+
+
+### Installation
+
+```sh
+pdm install --dev
+```
+
+### Build and publish
+
+```sh
+pdm publish --password <API_TOKEN>
+```
+
+### Usage 
+
+#### From Python code
+
+```py
+from hafdh_nadhar.hafdh import hafdh_img
+
+hafdh_img(img_path="/path/to/img.jpg")
+```
+
+#### From CLI
+
+```sh
+hafdh "/path/to/img.jpg"
+```
+
+### Exemple
+
+Before:
+
+![Before](https://raw.githubusercontent.com/itkho/hafdh-nadhar/master/tests/images/boy.jpg)
+
+After:
+
+![After](https://raw.githubusercontent.com/itkho/hafdh-nadhar/master/tests/images/boy-result.jpg)
