@@ -1,0 +1,8 @@
+dagster_snowflake_pyspark/__init__.py,sha256=dWjc48ASaSugpewtr71snkK6nm7bNXg4EYoloTdzv5E,421
+dagster_snowflake_pyspark/snowflake_pyspark_type_handler.py,sha256=GBd6FpCINCKEsVFFPq1zPdTIjkfhLrny4w_xtZwYX24,9245
+dagster_snowflake_pyspark/version.py,sha256=OuyMnGmg358HwAdxiwjFQLgs9GVfgE0ScR1LQr-0UX4,23
+dagster_snowflake_pyspark-0.21.3.dist-info/LICENSE,sha256=tAkwu8-AdEyGxGoSvJ2gVmQdcicWw3j1ZZueVV74M-E,11357
+dagster_snowflake_pyspark-0.21.3.dist-info/METADATA,sha256=pA_gQMyE8mMmPXJR0s_F0E5qUNB5puC2pKB45jTe6p4,809
+dagster_snowflake_pyspark-0.21.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+dagster_snowflake_pyspark-0.21.3.dist-info/top_level.txt,sha256=NH48Qcesg34H5Ih-KKuOhwmWzvcaqVkN9lvADwCJv8U,26
+dagster_snowflake_pyspark-0.21.3.dist-info/RECORD,,
