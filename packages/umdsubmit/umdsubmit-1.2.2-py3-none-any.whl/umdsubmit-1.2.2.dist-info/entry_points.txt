@@ -1,0 +1,3 @@
+[console_scripts]
+umdsubmit=src.umdsubmit.submit:main
+
