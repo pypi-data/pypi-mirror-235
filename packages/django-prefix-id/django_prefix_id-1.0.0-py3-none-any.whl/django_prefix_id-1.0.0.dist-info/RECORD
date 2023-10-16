@@ -1,0 +1,8 @@
+prefix_id/__init__.py,sha256=vIsIRe5OMCSNSg-Mp36zh1pQxfkZMHpcd7GsakP4MrM,187
+prefix_id/base62.py,sha256=L1qDUy0Aura__7QQPo_9UmLUtaFCd96OZtzZMvfREYA,764
+prefix_id/field.py,sha256=EdktObBnttl2JmX_UBlTQAL5laHB2OLQcasJAlHHgf4,2759
+django_prefix_id-1.0.0.dist-info/LICENSE,sha256=Io8MvlcbLmpfhoP6bUwKVkXiyYM1r2URpXjj4RGPCGo,1070
+django_prefix_id-1.0.0.dist-info/METADATA,sha256=5--DBL3xCHSCQlQ7tFcYd_5IJiVg7xc3b8S3KLh7VZU,3474
+django_prefix_id-1.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+django_prefix_id-1.0.0.dist-info/top_level.txt,sha256=8ddwoPSxD-73fHNI8OcQJgiZCbmQPJu3RGgxIzxqfHc,10
+django_prefix_id-1.0.0.dist-info/RECORD,,
