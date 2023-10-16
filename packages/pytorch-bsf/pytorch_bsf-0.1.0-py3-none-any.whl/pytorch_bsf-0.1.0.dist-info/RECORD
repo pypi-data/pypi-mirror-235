@@ -1,0 +1,10 @@
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/bezier_simplex.py,sha256=7YhuB85coveDI9Lccke28jnbYa3Fn73lt6d8qQ00SVk,807
+torch_bsf/__init__.py,sha256=AcMoDNJvIGIi7BN-xeC8PP9VdF7AoypMS1D9chQNaD8,235
+torch_bsf/__main__.py,sha256=6QIiRl2V0f4iLHNp1D7qiuKBGfZurXO7beezdPOURlM,3004
+torch_bsf/bezier_simplex.py,sha256=RuHhCkawBusn741BelSDu5ra5Kp-kKqX5sli9p9hq3k,11726
+pytorch_bsf-0.1.0.dist-info/LICENSE,sha256=T60WEK4CNG0-J8bPiS081qJQPadhUhtFRbbemSHdkNk,1082
+pytorch_bsf-0.1.0.dist-info/METADATA,sha256=MyczHuse_YaMpaBmf2etscAF99uYnsFTdsIxeG0ICPc,7438
+pytorch_bsf-0.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pytorch_bsf-0.1.0.dist-info/top_level.txt,sha256=MQlyHTv2_bpEG91Kj2oAGj5FRIwUv10UW4G7RA64E6o,16
+pytorch_bsf-0.1.0.dist-info/RECORD,,
