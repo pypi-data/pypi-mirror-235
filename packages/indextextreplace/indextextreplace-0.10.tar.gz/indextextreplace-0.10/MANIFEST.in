@@ -1,0 +1,3 @@
+include indextextreplace/requirements.txt
+include indextextreplace/thirdparty.json
+include indextextreplace/README.MD
