@@ -1,0 +1,13 @@
+tidygrad/__init__.py,sha256=sXLh7g3KC4QCFxcZGBTpG2scR7hmmBsMjq6LqRptkRg,22
+tidygrad/_modidx.py,sha256=l7bVTsjZrgOA2BgMV-nwKzaJV9GlhATPg7wDK-gUpr8,8397
+tidygrad/functional.py,sha256=rNeeveG7iUHVxu5npHkTNBZ9JtyxcCEEU4Goah52WEk,1267
+tidygrad/tensor.py,sha256=ffSDeL5hmZlgHtsqTcvGbKhRJaIHX-8tZzrEt78nuVE,11421
+tidygrad/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tidygrad/utils/datasets.py,sha256=gpoG_sfmrokGXU_3a7vA-NMZfgtno6gg-Da8U2lYux8,954
+tidygrad/utils/grad_check.py,sha256=2d_HP67kru_oPTr_MsMqlgUL77PUi5m-BaDjXKlqF5o,1638
+tidygrad-0.0.1.dist-info/LICENSE,sha256=XyxX_Wdh8GAZwRaAMjj1VJ0ICWj5520TQN0weXYFFMA,1071
+tidygrad-0.0.1.dist-info/METADATA,sha256=Zt2BL0ezYrN7PUsuEBhumcvzb4K-JkAjHWjNeLAJ79w,1864
+tidygrad-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+tidygrad-0.0.1.dist-info/entry_points.txt,sha256=vJKJWWEu1nUyobT6sXXJaWt1OVFBOnnsKtohmLrGXtM,38
+tidygrad-0.0.1.dist-info/top_level.txt,sha256=b8R75dlmI9SiZ4tBkyXIXIHKB35swJClfqUOqNuW3pE,9
+tidygrad-0.0.1.dist-info/RECORD,,
