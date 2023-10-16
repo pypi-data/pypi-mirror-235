@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+confbuilder/__init__.py
+confbuilder/main.py
+spark_config_builder.egg-info/PKG-INFO
+spark_config_builder.egg-info/SOURCES.txt
+spark_config_builder.egg-info/dependency_links.txt
+spark_config_builder.egg-info/requires.txt
+spark_config_builder.egg-info/top_level.txt
