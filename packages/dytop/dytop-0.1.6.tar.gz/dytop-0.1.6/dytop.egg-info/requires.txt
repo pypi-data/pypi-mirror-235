@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+CMGDB
+pychomp2
+os
+csv
+matplotlib
+datetime
