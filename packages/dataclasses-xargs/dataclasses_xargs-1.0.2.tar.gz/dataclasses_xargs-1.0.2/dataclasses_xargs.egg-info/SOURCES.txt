@@ -1,0 +1,11 @@
+LICENSE
+README.md
+dataclasses_xargs.py
+pyproject.toml
+setup.py
+dataclasses_xargs.egg-info/PKG-INFO
+dataclasses_xargs.egg-info/SOURCES.txt
+dataclasses_xargs.egg-info/dependency_links.txt
+dataclasses_xargs.egg-info/requires.txt
+dataclasses_xargs.egg-info/top_level.txt
+dataclasses_xargs.egg-info/zip-safe
