@@ -1,0 +1,10 @@
+save_url/__init__.py,sha256=VEMsiOR3cVBGYAWrAwJWJCME96X2o5d0GePPNybsl0I,143
+save_url/core.py,sha256=OkjfQHwXHogeCcvKJzFWnXS_xZxNEv9Go487WM_KhhU,4435
+save_url/locale/en.po,sha256=iQd3zNctpjlvAm1LA1MxAq2imsN7GQKqcEPdk9gdXpY,738
+save_url/locale/es.po,sha256=tuauzvFSryIm97xKJkDMNerIu89k_6vV8SnS9f2rkQc,2376
+save_url/poethepoet.py,sha256=lZ88NQqCd0_RvPyt9RKkjvqkTyDUfR0NXZRSq7DGZH8,1387
+save_url-0.7.0.dist-info/LICENSE.txt,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+save_url-0.7.0.dist-info/METADATA,sha256=xr6bWlZghZqAp_4tY0LjjEBe_xC0cRC0YanBoQuBrww,1929
+save_url-0.7.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+save_url-0.7.0.dist-info/entry_points.txt,sha256=LvhqkuP6v2_AeXqFxTYrd5fYvWhiSQOUGFKXwQrMAN4,59
+save_url-0.7.0.dist-info/RECORD,,
