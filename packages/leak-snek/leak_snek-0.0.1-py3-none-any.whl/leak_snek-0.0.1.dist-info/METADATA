@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: leak-snek
+Version: 0.0.1
+Summary: 
+Author: Daniil Fedyaev
+Author-email: wintercitizen@outlook.com
+Requires-Python: >=3.12,<4.0
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+
