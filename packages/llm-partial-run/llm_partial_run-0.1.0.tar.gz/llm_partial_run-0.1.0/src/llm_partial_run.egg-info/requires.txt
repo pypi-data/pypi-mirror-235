@@ -1,0 +1,6 @@
+socket_rpc
+llm_weights_mmap
+
+[dev]
+pytest
+tqdm
