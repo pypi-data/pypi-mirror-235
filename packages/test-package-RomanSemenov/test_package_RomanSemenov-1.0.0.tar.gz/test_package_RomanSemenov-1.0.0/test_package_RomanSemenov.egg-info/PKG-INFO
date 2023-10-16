@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: test-package-RomanSemenov
+Version: 1.0.0
+Summary: This is my first module
+Home-page: UNKNOWN
+Author: RomanSemenov
+Author-email: romansemenov2109@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+Тут длинное описание всего проекта (в данном случае мой пакет добавляет 1 к числу)
+

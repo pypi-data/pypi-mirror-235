@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+test_package_RomanSemenov/__init__.py
+test_package_RomanSemenov/main.py
+test_package_RomanSemenov.egg-info/PKG-INFO
+test_package_RomanSemenov.egg-info/SOURCES.txt
+test_package_RomanSemenov.egg-info/dependency_links.txt
+test_package_RomanSemenov.egg-info/top_level.txt
