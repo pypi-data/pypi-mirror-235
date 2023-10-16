@@ -1,0 +1,15 @@
+app:
+  appname: demo
+  env: dev
+  team: myteam
+version:
+  image_version: v1.3.4
+  kreate_version: 0.5.*
+  shared_github: master
+file:
+  application.properties: konf:files/application.properties
+  environment.properties: konf:files/environment.properties
+  some-file-from-package: py:kreate.kube.other_templates:__init__.py
+  credential.properties:  dekrypt:konf:secret_files/credential.properties.encrypted
+inklude:
+- framework.konf
