@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: lonboard
+Version: 0.1.0b7
+Summary: Extremely fast geospatial data visualization in Python.
+License: MIT
+Author: Kyle Barron
+Author-email: kyle@developmentseed.org
+Requires-Python: >=3.8,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: anywidget (>=0.6.3,<0.7.0)
+Requires-Dist: comm (>=0.1.4,<0.2.0)
+Requires-Dist: geopandas (>=0.13)
+Requires-Dist: matplotlib (>=3.7,<4.0)
+Requires-Dist: palettable (>=3.3.3,<4.0.0)
+Requires-Dist: pyarrow (>=13.0.0,<14.0.0)
+Requires-Dist: shapely (>=2,<3)
+Description-Content-Type: text/markdown
+
+# lonboard
+
+[![PyPI version](https://badge.fury.io/py/lonboard.svg)](https://pypi.org/project/lonboard/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/developmentseed/lonboard/HEAD)
+
+Python library for extremely fast geospatial vector data visualization in Jupyter.
+
+![](assets/scatterplot-layer-network-speeds.jpg)
+
+## Install
+
+```
+pip install --pre lonboard
+```
+
+## Documentation
+
+Refer to the documentation at [developmentseed.org/lonboard](https://developmentseed.org/lonboard/).
+
+## Why the name?
+
+This is a new binding to the [deck.gl](https://deck.gl) geospatial data visualization library. A "deck" is the part of a skateboard you ride on. What's a fast, geospatial skateboard? A <em>lon</em>board.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Longboard.JPG" height="300" />
+
+[CC-BY from Wikipedia](https://commons.wikimedia.org/wiki/File:Longboard.JPG)
+
