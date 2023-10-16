@@ -1,0 +1,11 @@
+airflow/providers/papermill/__init__.py,sha256=wyH3yrf7F7fUd5TtO1a_Fw-xfUpksMR_N-hzh49-79s,1578
+airflow/providers/papermill/get_provider_info.py,sha256=uWAJiTaj3yJAKBNedZg3kZcW9oDYX7S1dCLopcrIQ9Q,2318
+airflow/providers/papermill/operators/__init__.py,sha256=mlJxuZLkd5x-iq2SBwD3mvRQpt3YR7wjz_nceyF1IaI,787
+airflow/providers/papermill/operators/papermill.py,sha256=FieidZFM8vaNPeyBSz-cv7RZcUX9Ku7hF0SwX5m9OD0,3381
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/LICENSE,sha256=gXPVwptPlW1TJ4HSuG5OMPg-a3h43OGMkZRR1rpwfJA,10850
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/METADATA,sha256=ffORFf4zxVYU0OLi9OGENU3wbrB1eRpOtN-05zPvY6A,4577
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/NOTICE,sha256=m-6s2XynUxVSUIxO4rVablAZCvFq-wmLrqV91DotRBw,240
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/entry_points.txt,sha256=tboP0EkEB9HjDrh3NCQ7M0qYtv8E9vBqZIu0bEItyJE,106
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/top_level.txt,sha256=OeMVH5md7fr2QQWpnZoOWWxWO-0WH1IP70lpTVwopPg,8
+apache_airflow_providers_papermill-3.4.0rc1.dist-info/RECORD,,
