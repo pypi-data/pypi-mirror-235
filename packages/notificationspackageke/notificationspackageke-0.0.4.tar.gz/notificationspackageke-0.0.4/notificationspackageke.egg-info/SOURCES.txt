@@ -1,0 +1,9 @@
+README.md
+setup.py
+notificationpackage/__init__.py
+notificationpackage/notificationmethods/__init__.py
+notificationpackage/notificationmethods/mail.py
+notificationspackageke.egg-info/PKG-INFO
+notificationspackageke.egg-info/SOURCES.txt
+notificationspackageke.egg-info/dependency_links.txt
+notificationspackageke.egg-info/top_level.txt
