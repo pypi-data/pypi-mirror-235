@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/fourdle.egg-info/PKG-INFO
+src/fourdle.egg-info/SOURCES.txt
+src/fourdle.egg-info/dependency_links.txt
+src/fourdle.egg-info/top_level.txt
