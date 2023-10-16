@@ -1,0 +1,8 @@
+quinten-cli
+yad
+
+[dev]
+pre-commit
+
+[test]
+pytest
