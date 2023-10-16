@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+filapp/__init__.py
+filapp/api.py
+filapp.egg-info/PKG-INFO
+filapp.egg-info/SOURCES.txt
+filapp.egg-info/dependency_links.txt
+filapp.egg-info/requires.txt
+filapp.egg-info/top_level.txt
