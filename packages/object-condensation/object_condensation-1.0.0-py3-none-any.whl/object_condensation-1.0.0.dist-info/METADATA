@@ -1,0 +1,112 @@
+Metadata-Version: 2.1
+Name: object_condensation
+Version: 1.0.0
+Summary: Efficient implementations of the Object Condensation losses (Jan Kieseler, 2020)
+Project-URL: Homepage, https://github.com/object-condensation/object_condensation
+Project-URL: Bug Tracker, https://github.com/object-condensation/object_condensation/issues
+Project-URL: Discussions, https://github.com/object-condensation/object_condensation/discussions
+Project-URL: Changelog, https://github.com/object-condensation/object_condensation/releases
+Author-email: Kilian Lieret <kilian.lieret@posteo.de>, Philipp Zehetner <philipp.zehetner@cern.ch>
+License-File: LICENSE
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Scientific/Engineering
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Provides-Extra: dev
+Requires-Dist: pytest-cov>=3; extra == 'dev'
+Requires-Dist: pytest>=6; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: furo>=2023.08.17; extra == 'docs'
+Requires-Dist: myst-parser>=0.13; extra == 'docs'
+Requires-Dist: sphinx-autodoc-typehints; extra == 'docs'
+Requires-Dist: sphinx-copybutton; extra == 'docs'
+Requires-Dist: sphinx>=7.0; extra == 'docs'
+Provides-Extra: pytorch
+Requires-Dist: torch>=1.0; extra == 'pytorch'
+Provides-Extra: tensorflow
+Requires-Dist: tensorflow>=2.0; extra == 'tensorflow'
+Provides-Extra: test
+Requires-Dist: pytest-cov>=3; extra == 'test'
+Requires-Dist: pytest>=6; extra == 'test'
+Description-Content-Type: text/markdown
+
+# object_condensation
+
+[![Actions Status][actions-badge]][actions-link]
+[![Documentation Status][rtd-badge]][rtd-link]
+
+[![PyPI version][pypi-version]][pypi-link]
+[![Conda-Forge][conda-badge]][conda-link]
+[![PyPI platforms][pypi-platforms]][pypi-link]
+
+[![GitHub Discussion][github-discussions-badge]][github-discussions-link]
+
+<!-- SPHINX-START -->
+
+<!-- prettier-ignore-start -->
+[actions-badge]:            https://github.com/object-condensation/object_condensation/workflows/CI/badge.svg
+[actions-link]:             https://github.com/object-condensation/object_condensation/actions
+[conda-badge]:              https://img.shields.io/conda/vn/conda-forge/object_condensation
+[conda-link]:               https://github.com/conda-forge/object_condensation-feedstock
+[github-discussions-badge]: https://img.shields.io/static/v1?label=Discussions&message=Ask&color=blue&logo=github
+[github-discussions-link]:  https://github.com/object-condensation/object_condensation/discussions
+[pypi-link]:                https://pypi.org/project/object_condensation/
+[pypi-platforms]:           https://img.shields.io/pypi/pyversions/object_condensation
+[pypi-version]:             https://img.shields.io/pypi/v/object_condensation
+[rtd-badge]:                https://readthedocs.org/projects/object_condensation/badge/?version=latest
+[rtd-link]:                 https://object_condensation.readthedocs.io/en/latest/?badge=latest
+
+<!-- prettier-ignore-end -->
+
+The Object Condensation loss -
+[developed by Jan Kieseler](https://arxiv.org/abs/2002.03605) - is now being
+used by several groups in high energy physics for both track reconstruction and
+shower reconstruction in calorimeters.
+
+Several implementations of this idea already exist, but often they are
+maintained by very few people. This repository aims to provide an easy to use
+implementation for both the TensorFlow and PyTorch backend.
+
+Existing Implementations:
+
+- [cms-pepr](https://github.com/cms-pepr/HGCalML) [TensorFlow]
+- [mlpf](https://github.com/selvaggi/mlpf/blob/main/README.md) [PyTorch]
+- [gnn-tracking](https://github.com/gnn-tracking/gnn_tracking/tree/main)
+  [PyTorch]
+
+## Installation
+
+Clone project and run
+
+```bash
+python3 -m pip install -e '.[pytorch]'
+# or
+python3 -m pip install -e '.[tensorflow]'
+```
+
+### Development setup
+
+For the development setup, also add `dev` and `testing`, e.g.,
+
+```bash
+python3 -m pip install -e '.[pytorch,dev,testing]'
+```
+
+Please also install pre-commit:
+
+```bash
+python3 -m pip install pre-commit
+pre-commit install  # in top-level directory of repository
+```

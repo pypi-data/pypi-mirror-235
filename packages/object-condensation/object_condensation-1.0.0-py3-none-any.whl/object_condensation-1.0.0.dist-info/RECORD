@@ -1,0 +1,12 @@
+object_condensation/__init__.py,sha256=5RcNSFmvMF8m0g-FZZgfAK8tGhX6nvCnxsTsl4py7F8,295
+object_condensation/_version.py,sha256=DGJ4pj32xs3_DRJhSzQwCiRNnAQrMgo09USYpyMZsKc,411
+object_condensation/_version.pyi,sha256=j5kbzfm6lOn8BzASXWjGIA1yT0OlHTWqlbyZ8Si_o0E,118
+object_condensation/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+object_condensation/pytorch/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+object_condensation/pytorch/losses.py,sha256=T8NWZMvg3fxf2-6w-jL7Mf1aNbuJIeRJrFNi0vG37pc,2974
+object_condensation/tensorflow/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+object_condensation/tensorflow/losses.py,sha256=NsMB-p4s6f9rJyMUuV9QXoHb3EZnFyJytIH06m-Hbw4,3127
+object_condensation-1.0.0.dist-info/METADATA,sha256=I7q2IW0_lsTji3rQcX53QsvXhvQQCcO1hvIu8mkj64E,4613
+object_condensation-1.0.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+object_condensation-1.0.0.dist-info/licenses/LICENSE,sha256=S_jLN7slJQ4B7Fb9nEz26MH7_6PZhY-MLFHGjXGXM-Q,1071
+object_condensation-1.0.0.dist-info/RECORD,,
