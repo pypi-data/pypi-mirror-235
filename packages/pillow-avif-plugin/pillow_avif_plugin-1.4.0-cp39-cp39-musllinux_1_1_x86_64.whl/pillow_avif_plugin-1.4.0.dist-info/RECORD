@@ -1,0 +1,10 @@
+pillow_avif/AvifImagePlugin.py,sha256=GeBGlSqlc7BxefTzMKK-YRTJcvo7GeE68jqDdraUnkA,8434
+pillow_avif/_avif.cpython-39-x86_64-linux-gnu.so,sha256=Ry4G7WvOX0XUJf_CZ5dT-UPItfmPlYnPv06NjLJ_TNw,21722953
+pillow_avif/__init__.py,sha256=KOvHpXQefN5SKRheYSTMIbRHWVvp6ClvnfT0cjDmL5M,84
+pillow_avif_plugin.libs/libgcc_s-a04fdf82.so.1,sha256=YxqJNaesQMhDswHEQpXsiLnVvMBBbYO6KYMDZFPWKSM,81257
+pillow_avif_plugin-1.4.0.dist-info/METADATA,sha256=-t1rfG3DAYJqocic2KMehZij-n-6_S1PUozPJvLJ6t4,1668
+pillow_avif_plugin-1.4.0.dist-info/LICENSE,sha256=2l49eVdgaNy9JTEPbstz1GaaPKw02gFdtuThTNUi730,25213
+pillow_avif_plugin-1.4.0.dist-info/WHEEL,sha256=Hp3KPZqrQYshC_LJJaFzC6y1haTh2q7vm4PrdofEPO4,111
+pillow_avif_plugin-1.4.0.dist-info/RECORD,,
+pillow_avif_plugin-1.4.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pillow_avif_plugin-1.4.0.dist-info/top_level.txt,sha256=xrg4zRnqDyl_JEyEQh3oCcAU4BHneocD-DCFDzf4g9E,12
