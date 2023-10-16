@@ -1,0 +1,4 @@
+include README.md LICENSE src/python/aimos/VERSION
+recursive-include src/python/aimos/_core/storage *.h *.hpp *.cpp *.cxx *.pxd *.pyx
+recursive-include src/aimcore/web/migrations *
+recursive-include pkgs/aimstack *.py
