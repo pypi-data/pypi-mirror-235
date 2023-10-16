@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: dytop
+Version: 0.1.6
+Summary: dytop: combinatorial DYnamics and TOPology
+Home-page: https://github.com/Ewerton-Vieira/dytop.git
+Author: Ewerton Rocha Vieira
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: CMGDB
+Requires-Dist: pychomp2
+Requires-Dist: os
+Requires-Dist: csv
+Requires-Dist: datetime
+
+# dytop
+Combinatorial dynamics and topology
+
+## Installation
+```
+git clone https://github.com/Ewerton-Vieira/dytop.git
+cd dytop
+pip install -e .
+```
