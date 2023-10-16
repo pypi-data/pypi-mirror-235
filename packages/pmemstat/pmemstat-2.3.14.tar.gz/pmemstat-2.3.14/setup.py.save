@@ -1,0 +1,73 @@
+#!/usr/bin/env python3
+"""
+Setup script for the 'pmemstat' project.
+
+Some ways to use this script...
+
+=== Ensure setuptools is up-to-date:
+
+    python3 -m pip install --upgrade setuptools # update setuptools
+    python3 -m pip install --upgrade pip
+    python3 -m pip install --upgrade build
+    python3 -m pip install --upgrade twine
+
+=== Install into virtualenv (editable)
+
+    cd ~/Projects/pmemstat # or wherever the project dir resides
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install -e . # '-e' for editable
+    ## run tests and use, then
+    deactivate # disable virtualenv
+    rm -rf .venv # cleanup virtualenv
+
+=== Install into home directory
+
+     cd ~/Projects/pmemstat # or wherever the project dir resides
+     pip install . --user # add '-e' for editable
+
+==== Test Publish
+    rm -r dist; python3 setup.py sdist
+    python3 -m twine upload --repository testpypi dist/*
+    ## Enter __token__ and the saved TOKEN (in bitwarden)
+    ## VISIT  https://test.pypi.org/project/pmemstat and delete old versions
+    python3 -m pip install --index-url https://test.pypi.org/simple/ --no-deps pmemstat
+
+==== Final Publish
+    rm -r dist; python3 setup.py sdist
+    python3 -m twine upload dist/*
+    ## Enter __token__ and the saved TOKEN (in bitwarden)
+    ## VISIT  https://pypi.org/project/pmemstat and delete old versions
+    python3 -m pip install pmemstat
+
+"""
+import io
+import os
+from setuptools import setup, find_packages
+
+def read(file_name):
+    """Read a text file and return the content as a string."""
+    pathname = os.path.join(os.path.dirname(__file__), file_name)
+    with io.open(pathname, encoding="utf-8") as fh:
+        return fh.read()
+
+setup(
+    name='pmemstat',
+    version='2.3.8',
+    license='MIT',
+    description='Report proportional memory use on Linux',
+    long_description=read('README.md'),
+    long_description_content_type='text/markdown',
+    author='Joe Defen',
+    author_email='joedef@gmail.com',
+    url='https://github.com/joedefen/pmemstat',
+    scripts=['pmemstat'],
+    packages=find_packages(),
+    classifiers=[
+        'Development Status :: 4 - Beta',
+        'Operating System :: POSIX',
+        'Programming Language :: Python :: 3',
+        'Intended Audience :: End Users/Desktop',
+        ],
+    install_requires=[]
+    )
