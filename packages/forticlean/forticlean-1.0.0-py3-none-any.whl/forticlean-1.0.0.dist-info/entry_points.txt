@@ -1,0 +1,3 @@
+[console_scripts]
+forticlean=src.main:app
+

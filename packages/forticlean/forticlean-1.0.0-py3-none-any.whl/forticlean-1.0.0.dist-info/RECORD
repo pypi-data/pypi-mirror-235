@@ -1,0 +1,9 @@
+src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/conf/config_schema.yaml,sha256=0ngZ7cqzwtOnDG02QMgRTxaup6BwPl8WfRWPRw8hzK0,868
+src/conf/default.yaml,sha256=0ZMuRWJDoukHPsCbOCX1scbq_m0umjE2cQjzJ9vKe8g,318
+src/main.py,sha256=g7fzG1Bf6DzLXto5t6Fu33GvZd2w3j5dKs4ujIYLJW4,6312
+src/utils.py,sha256=B9XWz4iPSey9yb50yrRgSoJKeSzHYawHPR2obM-g_ag,4515
+forticlean-1.0.0.dist-info/METADATA,sha256=kEuOrLuADUKd-Q-sp9xWzoV_dOut-bbelphLDU_n1kg,5974
+forticlean-1.0.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+forticlean-1.0.0.dist-info/entry_points.txt,sha256=FsPazpNz33lFGX1ZrIHjv2ZvTbj2V0Tj2bEH1yQXsUg,43
+forticlean-1.0.0.dist-info/RECORD,,
