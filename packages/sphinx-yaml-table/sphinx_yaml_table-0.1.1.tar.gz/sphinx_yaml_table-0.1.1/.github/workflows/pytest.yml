@@ -1,0 +1,28 @@
+# A general GHA+Python reference: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
+name: pytest
+on: [push]
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.x']
+        # sphinx 3 and less fails but I think it's because of
+        # something else
+        sphinx-version: ['4.*', '6.*', '7.*', '']
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v4
+      # https://github.com/actions/setup-python
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: |
+          pip install .[test]
+          if [[ -n '${{matrix.sphinx-version}}' ]] ; then pip install sphinx==${{matrix.sphinx-version}} ; fi
+      - name: pytest
+        run: |
+          pytest test.py
