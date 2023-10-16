@@ -1,0 +1,3 @@
+[console_scripts]
+bobj = open_bobj:main.main
+open-bobj = open_bobj:main.main
