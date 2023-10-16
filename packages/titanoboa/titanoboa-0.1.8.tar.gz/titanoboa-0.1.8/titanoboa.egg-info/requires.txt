@@ -1,0 +1,13 @@
+vyper>=0.3.10
+eth-stdlib
+eth-abi
+py-evm>=0.7.0a4
+eth-typing
+hypothesis
+pytest
+rich
+requests
+eth-account
+
+[forking-recommended]
+ujson
