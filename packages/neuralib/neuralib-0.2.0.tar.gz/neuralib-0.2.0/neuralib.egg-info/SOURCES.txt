@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+neuralib.py
+pyproject.toml
+setup.py
+neuralib.egg-info/PKG-INFO
+neuralib.egg-info/SOURCES.txt
+neuralib.egg-info/dependency_links.txt
+neuralib.egg-info/requires.txt
+neuralib.egg-info/top_level.txt

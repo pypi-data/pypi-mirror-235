@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: neuralib
+Version: 0.2.0
+Summary: A Neural-AV library for identifying and classifying malware
+Author: MSA
+Author-email: admin@sufi.win
+License: MIT
+Keywords: neural-av neuralib neural av malware antivirus
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+Requires-Dist: torch
+Requires-Dist: transformers
