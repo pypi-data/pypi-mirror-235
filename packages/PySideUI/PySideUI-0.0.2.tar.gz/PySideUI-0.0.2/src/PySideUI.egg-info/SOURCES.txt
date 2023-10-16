@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/test.py
+src/PySideUI/__init__.py
+src/PySideUI.egg-info/PKG-INFO
+src/PySideUI.egg-info/SOURCES.txt
+src/PySideUI.egg-info/dependency_links.txt
+src/PySideUI.egg-info/top_level.txt
+src/PySideUI/components/__init__.py
+src/PySideUI/components/button.py
+src/PySideUI/utils/attrs.py
