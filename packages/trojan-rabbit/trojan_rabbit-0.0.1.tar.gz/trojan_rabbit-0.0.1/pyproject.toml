@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trojan_rabbit"
+version = "0.0.1"
+authors = [
+  { name="Janos Gerzson", email="gerzsonj@gmail.com" },
+]
+description = "Collection of python extras, like decorator @dynamicmethod"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/grzs/trojan-rabbit"
+"Bug Tracker" = "https://github.com/grzs/trojan-rabbit/issues"

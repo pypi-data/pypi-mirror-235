@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/trojan_rabbit/__init__.py
+src/trojan_rabbit/dynamicmethod.py
+src/trojan_rabbit.egg-info/PKG-INFO
+src/trojan_rabbit.egg-info/SOURCES.txt
+src/trojan_rabbit.egg-info/dependency_links.txt
+src/trojan_rabbit.egg-info/top_level.txt
