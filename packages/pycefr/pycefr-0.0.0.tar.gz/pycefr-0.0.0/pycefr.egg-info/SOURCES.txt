@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+pycefr.egg-info/PKG-INFO
+pycefr.egg-info/SOURCES.txt
+pycefr.egg-info/dependency_links.txt
+pycefr.egg-info/requires.txt
+pycefr.egg-info/top_level.txt
