@@ -1,0 +1,1 @@
+from dumbconf.configuration import update, save, restore
