@@ -1,0 +1,15 @@
+ensembl_rest/__init__.py,sha256=mTOOEBYhmDcSnqrj5PGIKMlBPn_ftJ4Kf73S4AN7FJ8,689
+ensembl_rest/assemblymapper.py,sha256=2RAAQ7HDQ7oefqLepflBstU59PVb32bCMjtl8Eqi6PM,6678
+ensembl_rest/ensemblclient.py,sha256=7iJ7fBwpqA24Cig7GfrkHSGdwnfVgUK0V7Jymtfk9g8,721
+ensembl_rest/utils.py,sha256=K1jS2xkLEHNm5KyJOZXc4_9xGBA33BKtRgVE4Y6QqOs,342
+ensembl_rest/core/__init__.py,sha256=35vHI4h3NZOqJLMMUAKrCKblEFPF3RFLTBxRelU7SCg,134
+ensembl_rest/core/baseclient.py,sha256=DqdvYgMYhg3Gxy7YeSp4JvAKgqejNEMg8kzXw7OSgDI,5512
+ensembl_rest/core/restclient.py,sha256=8GYvCroeT9HXK4HNsTmizMnSU0UQBKHlI_Dqeu59Ces,4407
+ensembl_rest/data/__init__.py,sha256=a99mtb8qROZYvqLuhmlasVCgbmAL9nzVzOJFrVSWLGE,3
+ensembl_rest/data/ensembl_response_codes.json,sha256=gZoRtwbgA0Vsk0TS3BwTooXeTi5ulUjeTTQeQ85l6uM,1424
+ensembl_rest/data/ensembl_rest_endpoints.json,sha256=jxIgvbJaZ77VxKocUYzYg1tKclpSyL3JsGWTYJ1Xox8,191890
+ensembl_rest-0.3.4.dist-info/LICENSE,sha256=EE9fxZmhEsgB7_i_jlJjOJN8GnNjBS8NhQfEFwvwJTY,1093
+ensembl_rest-0.3.4.dist-info/METADATA,sha256=1nJNpA_Hc-B8FMZihYdYIzT7QyJ0XhE4I7ku_RImmPs,14218
+ensembl_rest-0.3.4.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+ensembl_rest-0.3.4.dist-info/top_level.txt,sha256=aUpYT98mIp7XorL1-ikrpNsEnhQhMVP8uZEkW48uj-A,13
+ensembl_rest-0.3.4.dist-info/RECORD,,
