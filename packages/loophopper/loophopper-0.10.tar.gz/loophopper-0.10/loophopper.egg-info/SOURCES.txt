@@ -1,0 +1,13 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+loophopper/README.MD
+loophopper/__init__.py
+loophopper/requirements.txt
+loophopper/thirdparty.json
+loophopper.egg-info/PKG-INFO
+loophopper.egg-info/SOURCES.txt
+loophopper.egg-info/dependency_links.txt
+loophopper.egg-info/top_level.txt

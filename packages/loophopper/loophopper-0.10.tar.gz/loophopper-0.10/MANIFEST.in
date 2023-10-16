@@ -1,0 +1,3 @@
+include loophopper/requirements.txt
+include loophopper/thirdparty.json
+include loophopper/README.MD
