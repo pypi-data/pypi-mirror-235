@@ -1,0 +1,10 @@
+README.md
+setup.py
+tonygrad/__init__.py
+tonygrad/engine.py
+tonygrad/nn.py
+tonygrad/trace_graph.py
+tonygrad.egg-info/PKG-INFO
+tonygrad.egg-info/SOURCES.txt
+tonygrad.egg-info/dependency_links.txt
+tonygrad.egg-info/top_level.txt
