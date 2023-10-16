@@ -1,0 +1,8 @@
+README.md
+setup.py
+DeltaLogging.egg-info/PKG-INFO
+DeltaLogging.egg-info/SOURCES.txt
+DeltaLogging.egg-info/dependency_links.txt
+DeltaLogging.egg-info/requires.txt
+DeltaLogging.egg-info/top_level.txt
+tests/test.py
