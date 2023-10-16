@@ -1,0 +1,13 @@
+airflow/providers/microsoft/mssql/__init__.py,sha256=Y41yX5-2CENkeXrck-8pUsW32bn1ENL6Y6QAgxZtpY0,1584
+airflow/providers/microsoft/mssql/get_provider_info.py,sha256=n-BrvDe4ErbCOqh2EqrxNYJ6cPXGEzMhMrMF4S33mpk,3039
+airflow/providers/microsoft/mssql/hooks/__init__.py,sha256=mlJxuZLkd5x-iq2SBwD3mvRQpt3YR7wjz_nceyF1IaI,787
+airflow/providers/microsoft/mssql/hooks/mssql.py,sha256=N8KAqZDQ2-kod9gkOzqpO-65N1XYRXmOqEfU_sUEr_k,4199
+airflow/providers/microsoft/mssql/operators/__init__.py,sha256=mlJxuZLkd5x-iq2SBwD3mvRQpt3YR7wjz_nceyF1IaI,787
+airflow/providers/microsoft/mssql/operators/mssql.py,sha256=Vnz2CJEKgKw3vTTyMXj1krzHWvi6UPVlo7BYaVscnwY,2910
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/LICENSE,sha256=gXPVwptPlW1TJ4HSuG5OMPg-a3h43OGMkZRR1rpwfJA,10850
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/METADATA,sha256=nWEazx7O23DDHdmeFO9f11Zk7O1RkRdWjYGUqes51us,6013
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/NOTICE,sha256=m-6s2XynUxVSUIxO4rVablAZCvFq-wmLrqV91DotRBw,240
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/entry_points.txt,sha256=YNSGT_Xl6LoG11gbE2DuFWa3IixV9oAwfA25zlPInL8,112
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/top_level.txt,sha256=OeMVH5md7fr2QQWpnZoOWWxWO-0WH1IP70lpTVwopPg,8
+apache_airflow_providers_microsoft_mssql-3.5.0rc1.dist-info/RECORD,,
