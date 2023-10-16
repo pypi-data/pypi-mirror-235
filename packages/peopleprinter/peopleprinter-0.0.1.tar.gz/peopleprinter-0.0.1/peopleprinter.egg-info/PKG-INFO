@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: peopleprinter
+Version: 0.0.1
+Summary: This is the simplest module for parsing printers in local network.
+Home-page: https://github.com/Forsunkin/PeoplePrinter
+Author: forsunkin
+Author-email: guazah@gmail.com
+Project-URL: GitHub, https://github.com/Forsunkin/PeoplePrinter
+Keywords: printer parsing
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# People Printer #
+
+## What is this? ##
+## Printers for Peoples ##

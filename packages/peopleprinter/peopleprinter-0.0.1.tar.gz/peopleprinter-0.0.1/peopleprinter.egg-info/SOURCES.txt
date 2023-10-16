@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+peopleprinter.egg-info/PKG-INFO
+peopleprinter.egg-info/SOURCES.txt
+peopleprinter.egg-info/dependency_links.txt
+peopleprinter.egg-info/requires.txt
+peopleprinter.egg-info/top_level.txt
