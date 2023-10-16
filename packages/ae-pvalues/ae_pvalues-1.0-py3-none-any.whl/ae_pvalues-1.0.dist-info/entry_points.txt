@@ -1,0 +1,2 @@
+[console_scripts]
+ae-pvalues = ae_pvalues:main
