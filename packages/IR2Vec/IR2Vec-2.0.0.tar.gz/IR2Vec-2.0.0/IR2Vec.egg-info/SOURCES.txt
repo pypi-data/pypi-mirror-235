@@ -1,0 +1,10 @@
+setup.py
+IR2Vec/__init__.py
+IR2Vec/core.cpp
+IR2Vec/preparation.py
+IR2Vec/seedEmbeddingVocab-300-llvm12.txt
+IR2Vec.egg-info/PKG-INFO
+IR2Vec.egg-info/SOURCES.txt
+IR2Vec.egg-info/dependency_links.txt
+IR2Vec.egg-info/top_level.txt
+tests/test_ir2vec.py
