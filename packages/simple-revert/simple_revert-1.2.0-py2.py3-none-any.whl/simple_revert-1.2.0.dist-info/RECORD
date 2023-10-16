@@ -1,0 +1,10 @@
+simple_revert/__init__.py,sha256=Ul8QePL1kK19UdcDMYTZIaITodDhhqr81FpZvZ-nhQg,307
+simple_revert/common.py,sha256=UpxI36TkFvEcA6y33N84I8kJbQ-dr03hBfBWXLX1fQI,8132
+simple_revert/restore_version.py,sha256=KbOFxuKTEKlOvlYdLwVwBtcQ3fKazUl_dz4_7Yn-554,9764
+simple_revert/simple_revert.py,sha256=jj3YNo_xQRWj_aj8GIDRydnAd-r9KxB5lFsFwRC2ld4,13469
+simple_revert-1.2.0.dist-info/LICENSE.md,sha256=lCu1pB39NBxb8jUuj9sUPSwEyHAiT96uZRjQAIbsSlg,730
+simple_revert-1.2.0.dist-info/METADATA,sha256=5kL4BAyx-1ujvHsB5vFZJN1YcuOC58xnc6W71bnRPpk,2570
+simple_revert-1.2.0.dist-info/WHEEL,sha256=iYlv5fX357PQyRT2o6tw1bN-YcKFFHKqB_LwHO5wP-g,110
+simple_revert-1.2.0.dist-info/entry_points.txt,sha256=ULa6hGpqYjOiTdeqDp-y4hZsF_TIR-OFQuzvsHSl9Jk,120
+simple_revert-1.2.0.dist-info/top_level.txt,sha256=05cMGcMfPKk1An3ROmQOvAdVnYUdxzBYrPIKax-FU-M,14
+simple_revert-1.2.0.dist-info/RECORD,,
