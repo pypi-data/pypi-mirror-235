@@ -1,0 +1,35 @@
+[build-system]
+requires = ["hatchling", "hatch-vcs"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sphinx-query-param-ref"
+authors = [
+  { name="Peyton Murray", email="peynmurray@gmail.com" },
+]
+description = "A Sphinx extension that adds the ability to create references with attached URL query parameters "
+dependencies = [
+    "sphinx",
+]
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dynamic = [
+    "version"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/peytondmurray/sphinx-query-param-ref"
+"Bug Tracker" = "https://github.com/peytondmurray/sphinx-query-param-ref/issues"
+
+[tool.hatch.build]
+include = [
+    'sphinx_query_param_ref/*.py'
+]
+
+[tool.hatch.version]
+source = "vcs"
