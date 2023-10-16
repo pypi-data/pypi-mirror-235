@@ -1,0 +1,15 @@
+magicbits/__init__.py,sha256=dotOZiglWJ0AdGk7izADpy75cGpueWupESIxdlJE7jo,359
+magicbits/factorial.py,sha256=N0DuaIyRjpD2oUPCldx9dbcVNfZNCeueaDeh0w_WaMw,382
+magicbits/fcfs.py,sha256=rH-z_V-xVZbYVyz3V7PSEPRkCOGFwqHNqTtJyuDJGH8,1250
+magicbits/fibonacci.py,sha256=gDp7plGEIxqDspT3-iO07aQx006Z_yBCJ2qjdsLtz_I,434
+magicbits/fifo.py,sha256=36-WKa1KbbdHtIn2hzbf2-R2hbTpncoekC4yS9RKVDo,1359
+magicbits/filesystem.py,sha256=nCzSqmxLTP0v0sCsJYjRdVHfp9qzAN_zzwBAquiLsKQ,1662
+magicbits/lru.py,sha256=st4pATb6-B56qe9W8TM8Cwob0LWXkRtq97G22o7hPDs,856
+magicbits/rr.py,sha256=Q19RlwfXt4DkiFhpUcNIJnE8ynkkte3mEsFUjLwoyTY,1419
+magicbits/rw.py,sha256=m74kk7qgT_PQA-fCry2SKQu3G-XgdEEyz3an7HmyjeI,1047
+magicbits/sjf.py,sha256=Mee4z28PD2dITQlBf2UAIUM2ESi_C0SLqBwj4Z06pEM,1250
+magicbits/threads.py,sha256=xmgdfMM00kq6vfENNCg7HMQFYSEsiMKbgi-W_167j-A,345
+magicbits-0.0.2.dist-info/METADATA,sha256=XZC_4oJwgB1s1qr1mZIUl_9EM0wBNJtcs1rKqubIVX8,704
+magicbits-0.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+magicbits-0.0.2.dist-info/top_level.txt,sha256=5ENlKiGrKMInM9zbbHESARavvwIyFquDf7LyUbL-etw,10
+magicbits-0.0.2.dist-info/RECORD,,
