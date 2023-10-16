@@ -1,0 +1,9 @@
+README.md
+setup.py
+contentful_rich_text_to_markdown_converter.egg-info/PKG-INFO
+contentful_rich_text_to_markdown_converter.egg-info/SOURCES.txt
+contentful_rich_text_to_markdown_converter.egg-info/dependency_links.txt
+contentful_rich_text_to_markdown_converter.egg-info/entry_points.txt
+contentful_rich_text_to_markdown_converter.egg-info/top_level.txt
+wrapper/__init__.py
+wrapper/wrapper.py
