@@ -1,0 +1,7 @@
+setup.py
+vkplaylive.py
+vkplaylive.egg-info/PKG-INFO
+vkplaylive.egg-info/SOURCES.txt
+vkplaylive.egg-info/dependency_links.txt
+vkplaylive.egg-info/not-zip-safe
+vkplaylive.egg-info/top_level.txt
