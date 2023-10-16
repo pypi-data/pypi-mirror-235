@@ -1,0 +1,9 @@
+requests>=2.31.0
+searchdatamodels>=0.0.39
+selenium~=4.12.0
+beautifulsoup4~=4.12.2
+openai
+jsonschema
+tiktoken
+python-dotenv
+stable-baselines3
