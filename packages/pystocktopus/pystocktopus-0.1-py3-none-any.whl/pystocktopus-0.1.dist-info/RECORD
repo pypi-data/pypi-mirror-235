@@ -1,0 +1,12 @@
+pystocktopus/__init__.py,sha256=62aXLRjqPLSoNs4Y4HGbP7qf8oJqVl90oO6g3n9eX4g,410
+pystocktopus/config.py,sha256=NlOFpw8srmVpI_plW7KYFzKSnsQyXsJ_rjkzquw29U8,431
+pystocktopus/core.py,sha256=q0HQjjosmi6nXMz2sEO4Y5O--aSwYrGs42HaBf5ny7A,3058
+pystocktopus/news_analysis.py,sha256=NRENeerzSxDgqa0ZHf3npGCsaov8wmz2kMoVJBbSdZw,5065
+pystocktopus/pattern_tool.py,sha256=xeZYA51UzlRy-xe8PY2du_fTbL-nFEFDBFZMdzu4DEw,12595
+pystocktopus/stock_csv.py,sha256=6-CQM1q93fylPe64Eoryd-R1Z6vqb62zJBXUXgHxbtw,6735
+pystocktopus/stock_forecasting.py,sha256=iHZgy_OE1EuIvFmQamPQEBuLf-lk_XDlyLQRM_ewA4U,10143
+pystocktopus/Data/Pattern/ascending_triangle.json,sha256=Ldvj3QUt3Y9vMaHSSghphe7NVK_Hopvdz0yJtlSuGMg,342
+pystocktopus-0.1.dist-info/METADATA,sha256=ErZssHRpAAEVfM3EuQVr2D3r8IM0y1G7zgUm6jx7D_w,11428
+pystocktopus-0.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+pystocktopus-0.1.dist-info/licenses/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+pystocktopus-0.1.dist-info/RECORD,,
