@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: trobin
+Version: 0.2.0
+Summary: A small example package
+Author-email: trobin <trobin@student.42.fr>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+A test package for 42 python piscine
