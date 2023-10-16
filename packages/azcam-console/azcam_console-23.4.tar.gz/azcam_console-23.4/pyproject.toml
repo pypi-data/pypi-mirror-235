@@ -1,0 +1,20 @@
+[project]
+name = "azcam-console"
+version = "23.4"
+description = "Console application for the AzCam acquisition and analysis package"
+license = { file = "LICENSE" }
+readme = "README.md"
+keywords = ["ccd", "imaging", "astronomy", "sensors"]
+authors = [{ name = "Michael Lesser" }, { email = "mlesser@arizona.edu" }]
+dependencies = ["numpy", "matplotlib"]
+
+[tool.flit.module]
+name = "azcam_console"
+
+[project.urls]
+Documentation = "https://azcam.readthedocs.io/"
+Repository = "https://github.com/mplesser/azcam-console/"
+
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
