@@ -1,0 +1,124 @@
+ToastRack {
+  margin-bottom: 2;
+}
+
+DataTable {
+  height: 1fr;
+  margin: 1;
+}
+
+DataTable > .datatable--cursor {
+  background: $secondary 10%;
+}
+
+DataTable:focus > .datatable--cursor {
+  background: $secondary;
+}
+
+Options {
+  margin: 1 0;
+  padding: 0 1;
+  height: auto;
+}
+
+Checkbox {
+  padding: 0 2 0 1;
+  height: 3;
+}
+
+Inputs {
+  grid-size: 2;
+  grid-rows: 3;
+  height: auto;
+}
+
+Inputs Static {
+  padding: 0 1;
+  height: 1;
+  color: $error;
+}
+
+Buttons {
+  grid-size: 2;
+  grid-gutter: 1;
+  height: auto;
+  padding: 1;
+}
+
+Buttons Button {
+  width: 100%;
+}
+
+Log {
+  margin: 0;
+  height: auto;
+}
+
+#log-header {
+  grid-size: 2;
+  grid-gutter: 1;
+  height: 1;
+  padding: 0 1;
+}
+
+#overwrite-protection-status-container {
+  align: right middle;
+}
+
+Button#overwrite-protection {
+  dock: right;
+  height: 1;
+  width: auto;
+  border: none;
+}
+
+Button#overwrite-protection:focus {
+  text-style: none;
+}
+
+
+Button#overwrite-protection.disabled {
+  background: $error;
+  color: $text;
+}
+
+#rich-log {
+  height: 7;
+  border: solid grey;
+  padding: 0 1;
+}
+
+DisableOverwriteProtectionModal, PathRowInfoModal {
+  align: center middle;
+}
+
+#dialog {
+  grid-size: 2;
+  grid-gutter: 1 2;
+  padding: 0 1;
+  width: 50;
+  height: auto;
+  border: thick $secondary 80%;
+  background: $surface;
+}
+
+#title {
+  column-span: 2;
+  height: auto;
+  width: 1fr;
+  content-align: center middle;
+  color: $secondary;
+}
+
+#question {
+  column-span: 2;
+  height: auto;
+  width: 1fr;
+  content-align: center middle;
+}
+
+#dialog Button {
+  height: auto;
+  width: 1fr;
+  margin: 0 1;
+}
