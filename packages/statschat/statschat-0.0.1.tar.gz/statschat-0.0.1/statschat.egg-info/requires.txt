@@ -1,0 +1,8 @@
+typing_extensions
+openpyxl
+et-xmlfile
+openai
+pydantic
+numpy
+matplotlib
+pandas
