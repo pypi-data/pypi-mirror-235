@@ -1,0 +1,11 @@
+setup.py
+tb.py
+tb_setup.py
+tbcore.py
+terrabuddy.egg-info/PKG-INFO
+terrabuddy.egg-info/SOURCES.txt
+terrabuddy.egg-info/dependency_links.txt
+terrabuddy.egg-info/entry_points.txt
+terrabuddy.egg-info/not-zip-safe
+terrabuddy.egg-info/requires.txt
+terrabuddy.egg-info/top_level.txt
