@@ -1,0 +1,60 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yr-weather"
+dynamic = ["version"]
+authors = [
+    { name = "ZeroWave022" }
+]
+description = "Retrieve weather data from Norwegian Meteorological Institute's APIs easily."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Natural Language :: English",
+    "Topic :: Internet",
+    "Intended Audience :: Developers",
+    "Typing :: Typed"
+]
+dependencies = [
+    "requests",
+    "requests-cache",
+    "pytz",
+    "xmltodict"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ZeroWave022/yr-weather"
+"Bug Tracker" = "https://github.com/ZeroWave022/yr-weather/issues"
+
+[tool.setuptools.dynamic]
+version = { attr = "yr_weather.__version__" }
+
+[tool.setuptools.package-data]
+yr_weather = ["py.typed"]
+
+[tool.mypy]
+exclude = [
+    ".venv/",
+    "docs/",
+    "tests/"
+]
+
+[tool.pytest.ini_options]
+addopts = [
+    "--import-mode=importlib"
+]
+testpaths = [
+    "tests"
+]
+pythonpath = [
+    "."
+]
