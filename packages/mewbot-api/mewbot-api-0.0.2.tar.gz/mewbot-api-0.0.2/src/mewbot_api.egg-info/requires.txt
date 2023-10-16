@@ -1,0 +1,2 @@
+importlib-metadata~=6.8.0
+mewbot-core==0.0.2
