@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: forgejo-api
+Version: 1.20.1.post1
+Summary: Forgejo API.
+Home-page: 
+Author-email: a.berezin@yadro.com
+Keywords: Swagger,Forgejo API.
+Requires-Dist: certifi >=2017.4.17
+Requires-Dist: python-dateutil >=2.1
+Requires-Dist: six >=1.10
+Requires-Dist: urllib3 >=1.23
+
+    This documentation describes the Forgejo API.  # noqa: E501
+    
