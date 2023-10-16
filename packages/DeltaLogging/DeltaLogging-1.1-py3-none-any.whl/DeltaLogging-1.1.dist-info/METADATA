@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: DeltaLogging
+Version: 1.1
+Summary: Simple python logging library
+Home-page: https://github.com/toxinsfx/deltalogging
+Author: toxinsfx
+License: Open Source
+Requires-Dist: pystyle
+
+Check README.md on github!
