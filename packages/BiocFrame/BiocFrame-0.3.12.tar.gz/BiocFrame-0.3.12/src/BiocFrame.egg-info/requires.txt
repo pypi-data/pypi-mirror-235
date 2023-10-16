@@ -1,0 +1,15 @@
+prettytable
+biocgenerics>=0.1.1
+
+[:python_version < "3.8"]
+importlib-metadata
+
+[optional]
+pandas
+
+[testing]
+setuptools
+pytest
+pytest-cov
+numpy
+pandas
