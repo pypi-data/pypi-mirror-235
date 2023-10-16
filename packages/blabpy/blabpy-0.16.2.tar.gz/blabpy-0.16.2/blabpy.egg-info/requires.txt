@@ -1,0 +1,9 @@
+pandas
+numpy
+pyarrow
+pympi-ling
+pydub
+StrEnum
+tqdm
+click
+requests
