@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+alvar/__init__.py
+alvar/main.py
+alvar.egg-info/PKG-INFO
+alvar.egg-info/SOURCES.txt
+alvar.egg-info/dependency_links.txt
+alvar.egg-info/requires.txt
+alvar.egg-info/top_level.txt
