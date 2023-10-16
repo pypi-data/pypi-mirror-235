@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+kerastorch.egg-info/PKG-INFO
+kerastorch.egg-info/SOURCES.txt
+kerastorch.egg-info/dependency_links.txt
+kerastorch.egg-info/requires.txt
+kerastorch.egg-info/top_level.txt
