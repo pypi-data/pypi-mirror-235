@@ -1,0 +1,15 @@
+.*
+!.gitignore
+!.dockerignore
+!.env.template
+
+__pycache__
+
+*private_key*
+keys.json
+
+packages/*
+!packages/{author}
+
+agent/
+service/
