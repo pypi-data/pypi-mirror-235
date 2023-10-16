@@ -1,0 +1,101 @@
+Metadata-Version: 2.1
+Name: image-in-terminal
+Version: 1.1.0
+Summary: Simple Python package to display an image in the terminal by converting it into text
+Home-page: https://github.com/odell0111/image-in-terminal
+Author: Odell
+Author-email: odellgm11012001@gmail.com
+License: MIT License
+        
+        Copyright (c) 2023 Odell
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: repository, https://github.com/odell0111/image-in-terminal
+Keywords: terminal,image,imageonterminal,image-on-terminal,image on terminal,imageinterminal,image in terminal,imageonconsole,image-on-console,image on console,imageinconsole,image-in-console,image in console,imagetotext,image-to-text,image to text
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: argparse >=1.4.0
+Requires-Dist: requests >=2.31.0
+Requires-Dist: rich >=13.5.3
+Requires-Dist: pathlib >=1.0.1
+Requires-Dist: pillow >=10.0.1
+
+# Image In Terminal
+
+Simple Python package to display an image in the terminal by converting it into text. For the desired behavior to be achieved, the terminal must support colors and there should be no spacing between lines (0 line-spacing).
+
+## Installation
+```pip install image-in-terminal``` <br/>
+
+## How to use
+You can use the package either from the terminal or from a script.
+
+```
+imageinterminal -h
+
+usage:
+  imageinterminal image_uris [options]
+
+positional arguments:
+  image_uris            File path(s) or HTTP/HTTPS link(s) of the image(s) to be displayed. A directory can also be
+                        passed in which case all supported images in the directory will be displayed.
+
+options:
+  -h, --help            show this help message and exit
+  -w WIDTH, --width WIDTH
+                        Destination width of the image(s).
+  -wt WHITENESS_THRESHOLD, --whiteness-threshold WHITENESS_THRESHOLD
+                        (float [0 - 1]). Pixels with a whiteness higher than this value will be inverted.
+  -dt DARKNESS_THRESHOLD, --darkness-threshold DARKNESS_THRESHOLD
+                        (float [0 - 1]). Pixels with a whiteness lower than this value will be inverted.
+  -r, --recursive       If a directory is passed as image_uri the image search will be recursively performed within
+                        the directory passed and all its subdirectories.
+```
+
+**From the terminal:**
+```
+imageinterminal "myImage.jpg"
+imageinterminal "https://images/exampleImage.jpg" "myOtherImage.png" -w 128
+imageinterminal "myImagesOnWhiteBackgrounds" -w 256 -wt 0.97 
+```
+
+**From a python script:**
+```
+from imageinterminal import display_image
+display_image("myImage.jpg")
+```
+
+## Screenshots
+<div align='center'>
+  <p>JPG 256x256</p><br/>
+  <img src="https://raw.githubusercontent.com/odell0111/image-in-terminal/main/Screenshots/01.krita_jpg_x256.png"><br/><br/>
+  <p>PNG 128x128</p><br/>
+  <img src="https://raw.githubusercontent.com/odell0111/image-in-terminal/main/Screenshots/02.am_png_x128.png"><br/><br/>
+  <p>PNG 256x256</p><br/>
+  <img src="https://raw.githubusercontent.com/odell0111/image-in-terminal/main/Screenshots/03.ar_png_x256.png"><br/><br/>
+</div>
+
+
