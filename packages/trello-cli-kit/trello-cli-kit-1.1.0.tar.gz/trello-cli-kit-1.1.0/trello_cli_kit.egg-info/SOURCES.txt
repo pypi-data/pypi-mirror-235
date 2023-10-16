@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+tests/test_cli.py
+tests/test_trelloservice.py
+trello_cli_kit.egg-info/PKG-INFO
+trello_cli_kit.egg-info/SOURCES.txt
+trello_cli_kit.egg-info/dependency_links.txt
+trello_cli_kit.egg-info/entry_points.txt
+trello_cli_kit.egg-info/requires.txt
+trello_cli_kit.egg-info/top_level.txt
+trellocli/__init__.py
+trellocli/__main__.py
+trellocli/trelloservice.py
