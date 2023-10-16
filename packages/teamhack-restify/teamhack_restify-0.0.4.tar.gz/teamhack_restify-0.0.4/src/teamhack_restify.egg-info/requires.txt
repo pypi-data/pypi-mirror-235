@@ -1,0 +1,10 @@
+flask
+json
+xmltodict
+
+[rel]
+twine
+
+[test]
+coverage
+pytest
