@@ -1,0 +1,10 @@
+coacd/lib_coacd.so,sha256=dL3l27LfB1gqZ3WKDMEEWiIRk18b8o7lGn2fUpoOvSU,18364265
+coacd/__init__.py,sha256=MaeLQms8DbqalGg_yoclMTWwWVoQwg2o7SRkHuC1fh4,3989
+coacd-0.0.6.data/scripts/coacd,sha256=j9577aNLajL1TyzobuJRyh2kdNHLVjCQjdWZsikAwHg,3763
+coacd.libs/libgomp-cd951527.so.1.0.0,sha256=U2zda7o5P6DwCQHNyzt7Hw13pk9wKHfh-c4ZgCzbfsU,187009
+coacd.libs/libgcc_s-a04fdf82.so.1,sha256=YxqJNaesQMhDswHEQpXsiLnVvMBBbYO6KYMDZFPWKSM,81257
+coacd-0.0.6.dist-info/METADATA,sha256=3WfxO5zOvsw-prwlx19sL4NrY8xP-QSeF-mN09pq4T4,1222
+coacd-0.0.6.dist-info/LICENSE,sha256=_YOt6fXGOaVWLRvQfWXj_KElz4lCdZmzKBppS9y50Eo,1080
+coacd-0.0.6.dist-info/WHEEL,sha256=HwU2KKtvHuWAHkCxxFrK6jJ_GQrbeex1Qq_SFkIRldQ,111
+coacd-0.0.6.dist-info/RECORD,,
+coacd-0.0.6.dist-info/top_level.txt,sha256=Pjh8PCxYeICheWE0S5TiJr9Q0SZ3lP87FpdxB2wNNVE,6
