@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+langs_vall.egg-info/PKG-INFO
+langs_vall.egg-info/SOURCES.txt
+langs_vall.egg-info/dependency_links.txt
+langs_vall.egg-info/requires.txt
+langs_vall.egg-info/top_level.txt
+vall/__init__.py
