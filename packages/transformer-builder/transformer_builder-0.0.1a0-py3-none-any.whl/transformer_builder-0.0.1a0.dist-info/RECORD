@@ -1,0 +1,8 @@
+transformer_builder/__init__.py,sha256=XHG_T52OO7cFrtOv9SRWSyUuYb-4Cnkd81gPiFVjOrc,175
+transformer_builder/builders/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+transformer_builder/builders/self_attention_block.py,sha256=bwVaMADyndHSWIJyMLtvPX_z9-3-tHGGk_ORcBg4TqA,380
+transformer_builder/builders/transformer.py,sha256=N_yCutSR36X53s99bG4EqYu11s4zCK-EcYozcDLscVg,936
+transformer_builder-0.0.1a0.dist-info/LICENSE,sha256=sztyojg-YL48XskcxlR7uXHm-o_AhMqmo3xUK-vIPik,1092
+transformer_builder-0.0.1a0.dist-info/METADATA,sha256=a6MAIIG0rm21jw9XnPNaDjXwvQ0O7yIIc2eU5nDf0eA,5572
+transformer_builder-0.0.1a0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+transformer_builder-0.0.1a0.dist-info/RECORD,,
