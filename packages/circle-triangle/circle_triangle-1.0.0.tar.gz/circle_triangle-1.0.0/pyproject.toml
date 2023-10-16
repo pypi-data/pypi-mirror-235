@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "circle-triangle"
+version = "1.0.0"
+description = "A simple package for circles and triangles"
+authors = ["Matvei2002 <mkozlov116@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
