@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: lfsutils
+Version: 1.0.2
+Summary: A Utility Library and CLI Tool for the Lustre filesystem
+Project-URL: Homepage, https://github.com/GSI-HPC/lfs-utils
+Project-URL: Repository, https://github.com/GSI-HPC/lfs-utils
+Author-email: Gabriele Iannetti <g.iannetti@gsi.de>
+License-Expression: GPL-3.0
+License-File: LICENSE
+Keywords: lustre,utility
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: System :: Filesystems
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10.0
+Requires-Dist: clustershell>=1.8.4
+Requires-Dist: pyyaml>=5.4.1
+Description-Content-Type: text/markdown
+
+# lfs-utils
+
+A utility library and CLI tool for the [Lustre](https://www.lustre.org/) filesystem
+
+## Installation
+
+```pip3 install lfsutils```
+
+## Requirements
+
+### Python
+
+* Python >= 3.10
+* [PyYAML](https://pypi.org/project/PyYAML/)
+* [clustershell](https://clustershell.readthedocs.io/en/latest/index.html)
+
+> Python package dependencies are installed by the Python package manager pip
+
+### Lustre
+
+* `lctl`
+* `lfs`
+
+## Documentation
+
+* [CLI Tool](docs/cli.md)
+* [Library](docs/lib.md)
