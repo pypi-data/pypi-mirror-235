@@ -1,0 +1,8 @@
+include LICENSE.txt
+include README.md
+
+include scripts/*
+include models/*
+include utils/*
+include datasets/*
+include configs/*
