@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+MatplotLibAPI/Bubble.py
+MatplotLibAPI/Composite.py
+MatplotLibAPI/Network.py
+MatplotLibAPI/Pivot.py
+MatplotLibAPI/Table.py
+MatplotLibAPI/TimeSeries.py
+MatplotLibAPI/Utils.py
+MatplotLibAPI/__init__.py
+MatplotLibAPI.egg-info/PKG-INFO
+MatplotLibAPI.egg-info/SOURCES.txt
+MatplotLibAPI.egg-info/dependency_links.txt
+MatplotLibAPI.egg-info/requires.txt
+MatplotLibAPI.egg-info/top_level.txt
