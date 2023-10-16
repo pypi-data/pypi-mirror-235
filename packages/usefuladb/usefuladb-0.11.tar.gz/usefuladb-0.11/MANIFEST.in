@@ -1,0 +1,3 @@
+include usefuladb/requirements.txt
+include usefuladb/thirdparty.json
+include usefuladb/README.MD
