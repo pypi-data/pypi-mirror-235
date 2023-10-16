@@ -1,0 +1,13 @@
+charmeleon/__init__.py,sha256=yT0BO9mVFeW2RfF6ugyqwqor5R32pCxlgk2rzDxYzVY,86
+charmeleon/error.py,sha256=W7MfU0iCP388yNlISa1nxRqoGiABrfk_uha_bAIyv70,114
+charmeleon/table/__init__.py,sha256=RcVjnVSkP3SdbQ2YXSVUN-yO6bPO8gHPNbZxUsT1jaI,63
+charmeleon/table/alpha.py,sha256=uuqMcpOnucIHXDh6j5tEVRazPjGLvYrnSuZKLrHRZSQ,1383
+charmeleon/table/ascii.py,sha256=lnAFLlfrtw2lMdlBi0oxVkqZOwwWzRJTok36_rYUoQY,2438
+charmeleon/table/digit.py,sha256=IqmlfCrO7EQ2kxR26NJoq0xRME-6VhOZhjkU9tZcRt4,324
+charmeleon/table/kana.py,sha256=nOmA8BkKpjTtPsJiQGnq8Dcda6mmEidGPA4BgAa6fl8,2938
+charmeleon/table/punct.py,sha256=Zj9ybx098eim12fOUx7tfcO-McMAtM6BiF__8DhJJM8,885
+charmeleon/width.py,sha256=74RfMMQPaGNpIVk0aiVLbxXGOOEor1UmlbdankMcbtw,3385
+charmeleon-0.1.1.dist-info/LICENSE,sha256=VPrvl3WWFSM6sUnpZRP4K-eSFEMhWuiFlMfPzVmaj_g,1064
+charmeleon-0.1.1.dist-info/METADATA,sha256=o9UTYEee2B8Xa6kNmv0TSePZK3xaw6giXeZareaubfc,1231
+charmeleon-0.1.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+charmeleon-0.1.1.dist-info/RECORD,,
