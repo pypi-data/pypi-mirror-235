@@ -1,0 +1,9 @@
+monitor_utils/__init__.py,sha256=Ngbi7f06mywDzXPhlAWy576kJZgkX0kGQVZQN2L_WkQ,105
+monitor_utils/monitor_imap.py,sha256=3xt1Iwr23v-qCI2QXNGv2esyMaXARbl-z98QYZEDUXY,7718
+monitor_utils/monitor_url_tag.py,sha256=UuPos_geTO90eVtDr0DfFW-Vx44ylievqEQJxR-Bc88,7710
+monitor_utils/monitor_url_tag__implements.py,sha256=UIhVlvqkm_1a8uHJ7N4qO6as3WnByEkNKrBRU6SpAFU,8001
+monitor_utils-0.0.4.dist-info/LICENSE,sha256=BUWiayi7RqcCCQGoo6Mms531bDS9you-qasSm4FOlHE,1082
+monitor_utils-0.0.4.dist-info/METADATA,sha256=p9aLazWJMslIgAvoZ7z6DnynNGXxfdD2McILYWFovZA,4087
+monitor_utils-0.0.4.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+monitor_utils-0.0.4.dist-info/top_level.txt,sha256=vZrtiBKl3YpASQqgFKHR95nbnmZmx3pv-XLhGjWS-I4,14
+monitor_utils-0.0.4.dist-info/RECORD,,
