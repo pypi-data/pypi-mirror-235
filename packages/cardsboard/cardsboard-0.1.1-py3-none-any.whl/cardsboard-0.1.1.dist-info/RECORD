@@ -1,0 +1,11 @@
+cardsboard/__init__.py,sha256=rnObPjuBcEStqSO0S6gsdS_ot8ITOQjVj_-P1LUUYpg,22
+cardsboard/__main__.py,sha256=oX1CphRamElkIpA4TgFuCHc_xg73lqyslKgqwn3RlVc,699
+cardsboard/cardsboard.py,sha256=AcFaPC1rwuYyHwBv2l9S9ndh1AjPNS8Q1bWE-MrcQt0,14559
+cardsboard/config.py,sha256=b5epcUI9J2m0UVlWRQiLck3J1h8WLweYNJMXMjF0trY,2682
+cardsboard/fsdb.py,sha256=vxKvFldkCoQo5Lv3Kk0IYCBS8CaDv59UoBTU4C9ymKs,7164
+cardsboard-0.1.1.dist-info/LICENSE,sha256=wp0ExrR1le_2PMj3VSvIRHZf35hVOLiGzrBzVwzcrPw,1079
+cardsboard-0.1.1.dist-info/METADATA,sha256=AHVLpCDYKA9Be6pLn3ouPwhlCKMDpNpBbwOOypcDZM8,4931
+cardsboard-0.1.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+cardsboard-0.1.1.dist-info/entry_points.txt,sha256=73kTKUPg1_07_lVT90HpCJefnAH-gEBvJJLP_zyCM5k,56
+cardsboard-0.1.1.dist-info/top_level.txt,sha256=WS9Gb5j-PJ9OaLeM4esZufcQAEHtJVYholb8mnuhAc0,11
+cardsboard-0.1.1.dist-info/RECORD,,
