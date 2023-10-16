@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+R34API/__init__.py
+R34API/main.py
+R34API/objects.py
+R34API.egg-info/PKG-INFO
+R34API.egg-info/SOURCES.txt
+R34API.egg-info/dependency_links.txt
+R34API.egg-info/requires.txt
+R34API.egg-info/top_level.txt
