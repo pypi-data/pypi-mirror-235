@@ -1,0 +1,9 @@
+# general things to ignore
+build/
+dist/
+.venv/
+.vscode/
+*.py[cod]
+__pycache__/
+*.so
+*~
