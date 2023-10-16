@@ -1,0 +1,9 @@
+pymsalruntime/PyMsalRuntime.pyi,sha256=RN32S1cmk25_9DoWRtqrPe_MEkdUwDbpYOW-i-UIbYk,5210
+pymsalruntime/__init__.py,sha256=wpQYPhqRsieP5Ptwl8DULZ2gpTLSGk5nb-Q0BZJTm3I,259
+pymsalruntime/libmsalruntime_x86_64.dylib,sha256=Up42TF0KFG29WbOt8u3JDHBuz5ER9ypgSwR3IjbQMvI,7976480
+pymsalruntime/libpyRunloopAPIs_x86_64.dylib,sha256=a3pXG2YrRxUHb6VS2tSUDNPWpYzcslTxGasMfRMdExc,83712
+pymsalruntime/pymsalruntime.cpython-37m-darwin.so,sha256=58b4oEw1Np0Sl3Wib0101QY_XajOB6m1AzXzPGdjtdo,358816
+pymsalruntime-0.13.13.dist-info/METADATA,sha256=2EoVnNR1mxMP67-u6iwA8PXUISZ_gAglJeFygXdr4vA,312
+pymsalruntime-0.13.13.dist-info/WHEEL,sha256=Jr_gEgXYtbPOxQ9-dKj33FWmEKLN1lzW0Yh5VRUXuMA,110
+pymsalruntime-0.13.13.dist-info/top_level.txt,sha256=5neLxVqAQu6DQpG5Y0GRhSXwlRXUZ2X94nw_RHfnUPg,14
+pymsalruntime-0.13.13.dist-info/RECORD,,
