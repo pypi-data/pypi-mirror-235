@@ -1,0 +1,14 @@
+FreeSurfer Software License Agreement
+
+This repository hosts .h5 and .npy files obtained from the FreeSurfer project, which are subject to the terms and conditions of the FreeSurfer Software License Agreement.
+
+For full details, please review the original FreeSurfer Software License Agreement at:
+[FreeSurfer Software License Agreement](https://github.com/freesurfer/freesurfer/blob/dev/LICENSE.txt)
+
+Your use, redistribution, and modification of the .h5 and .npy files in this repository are governed by the terms of the FreeSurfer Software License Agreement.
+
+The .h5 and .npy files are provided "AS IS" and without warranty. The repository's owner and contributors make no guarantees regarding the accuracy or fitness for a particular purpose of these files. Use at your own risk.
+
+---
+
+**Note:** This LICENSE file provides information about the licensing terms applicable to the .h5 and .npy files hosted in this repository. Please ensure compliance with the terms of the FreeSurfer Software License Agreement before using or redistributing these files.

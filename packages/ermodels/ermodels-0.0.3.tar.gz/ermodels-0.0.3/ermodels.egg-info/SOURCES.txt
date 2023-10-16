@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+ermodels/__init__.py
+ermodels.egg-info/PKG-INFO
+ermodels.egg-info/SOURCES.txt
+ermodels.egg-info/dependency_links.txt
+ermodels.egg-info/requires.txt
+ermodels.egg-info/top_level.txt
