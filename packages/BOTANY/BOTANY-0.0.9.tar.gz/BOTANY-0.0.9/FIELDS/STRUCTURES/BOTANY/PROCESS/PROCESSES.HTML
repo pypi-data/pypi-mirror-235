@@ -1,0 +1,44 @@
+
+
+PROCESSES:
+
+	OBJECTIVES:
+	
+		LIVE STREAM WRITES TO { STANDARDS } 
+			https://cplusplus.com/reference/cstdio/stderr/
+			https://cplusplus.com/reference/cstdio/setvbuf/
+	
+		```
+		import sys
+		import time
+
+		def REPEAT ():  
+			print ("repeat, stderr", file = sys.stderr)
+			print ("repeat, stdout", file = sys.stdout)
+
+			time.sleep (1)
+
+			REPEAT ()
+
+		REPEAT ()
+		```
+	
+		```
+		def STDOUT (STRING):
+			print ("stdout from subprocess:", STRING)
+			return
+
+		def STDERR (STRING):
+			print ("stderr from subprocess:", STRING)
+			return
+
+		def START ()
+
+			return
+
+		START (
+			SCRIPT = "python3 SCRIPT.py",
+			STDOUT = STDOUT,
+			STDERR = STDERR
+		)
+		```
