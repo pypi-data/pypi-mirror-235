@@ -1,0 +1,15 @@
+jupyterlab_friendly_traceback/__init__.py,sha256=HVzbRD8-EPEF-w3esA1Jg4ZlyuezXDL1OP5Ph9WQ-rE,288
+jupyterlab_friendly_traceback/_version.py,sha256=W6DIaBZh3c4iERseQh1LSFmmsS5lqkkAwTOt20QcsZg,171
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/package.json,sha256=ZTLyX5YgV4jHrsawgTVAJDyTXiuOLMB0i7hWsfPKQ_4,2759
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/lib_index_js.97379bede0041b44c91e.js,sha256=wz64QSUSvheqeCyiHMiyshgT7UcEaHCwk-ZqKDQJhdk,39153
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/lib_index_js.97379bede0041b44c91e.js.map,sha256=302eKCT4hVAt5XgtY2yGiAgGYRfVIFpfrgvQawkzjzY,4225
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/remoteEntry.21f0146262562f35430f.js,sha256=5w1ncTJ8L66kPf13Bj8sU69yfkfOCiiIbOKJ7IcSqio,28187
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/remoteEntry.21f0146262562f35430f.js.map,sha256=dSxZn_4XAFePVAXaQKNfJl-AgezjUKgmqXx2t8PJVTg,27131
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/style.js,sha256=X6KN29vlEGZSViil1Tdym6R7dwD_-xRGzrV1LpDGcUE,172
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/style_index_js.55568b1489631a955180.js,sha256=HQyMEmdabhQfkt-qEoqaMpoTA5F7l6naNtULBUH-sMM,19370
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/static/style_index_js.55568b1489631a955180.js.map,sha256=bTzF3e2g74MF6d5b168UyrBowK7Ohz3fYXYu-c_TQLo,14944
+jupyterlab_friendly_traceback-0.3.0.data/data/share/jupyter/labextensions/jupyterlab-friendly-traceback/install.json,sha256=93hCk8b1jobSfy12XxSNS-Dx-EEqZuTn5uK33mg3jpw,219
+jupyterlab_friendly_traceback-0.3.0.dist-info/METADATA,sha256=U172pmHlf0RadO6cHLNg_1aNIv1CyMOzo_U7M61aArI,5380
+jupyterlab_friendly_traceback-0.3.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+jupyterlab_friendly_traceback-0.3.0.dist-info/licenses/LICENSE,sha256=8xRXhcnlomVPl_nAhhbKK5o9EZo_hN1eQ8300_s-iis,1516
+jupyterlab_friendly_traceback-0.3.0.dist-info/RECORD,,
