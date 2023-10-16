@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+src/mewbot/test/__init__.py
+src/mewbot/test/py.typed
+src/mewbot_test.egg-info/PKG-INFO
+src/mewbot_test.egg-info/SOURCES.txt
+src/mewbot_test.egg-info/dependency_links.txt
+src/mewbot_test.egg-info/requires.txt
+src/mewbot_test.egg-info/top_level.txt
