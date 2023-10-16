@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dora-base
+Version: 0.1.0
+Summary: Add your description here
+Author-email: lijianan <lijianan@tezign.com>
+Requires-Python: >=3.8
+Requires-Dist: loguru>=0.7.2
+Requires-Dist: pyyaml>=6.0.1
+Requires-Dist: requests>=2.31.0
+Description-Content-Type: text/markdown
+
+# dora-base
+
+dora包底层公共组件
+包含：
+- 日志记录统一封装
+- 进程配置的获取（当前dataflow_id 当前node_id）
+- 需要持久化的数据的读写
