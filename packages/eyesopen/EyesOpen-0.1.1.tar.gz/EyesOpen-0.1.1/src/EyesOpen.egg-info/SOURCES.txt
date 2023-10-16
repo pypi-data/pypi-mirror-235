@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/image_analysis.py
+src/main.py
+src/utilities.py
+src/EyesOpen.egg-info/PKG-INFO
+src/EyesOpen.egg-info/SOURCES.txt
+src/EyesOpen.egg-info/dependency_links.txt
+src/EyesOpen.egg-info/entry_points.txt
+src/EyesOpen.egg-info/requires.txt
+src/EyesOpen.egg-info/top_level.txt
