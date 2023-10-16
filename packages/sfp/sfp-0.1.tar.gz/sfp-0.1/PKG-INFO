@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: sfp
+Version: 0.1
+Summary: A tool to make a project structure for a data science simple project
+Home-page: https://https://github.com/Yairama/simple_fast_project
+Author: Yair Camborda
+Author-email: yairoriginal@gmail.com
+License: Apache 2.0
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: jupyter~=1.0
+Requires-Dist: kedro~=0.18.13
+Requires-Dist: kedro-datasets[pandas.CSVDataSet]~=1.0
+Requires-Dist: kedro-telemetry~=0.2.0
+
+# simple_fast_project
+
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE.md) file for details.
