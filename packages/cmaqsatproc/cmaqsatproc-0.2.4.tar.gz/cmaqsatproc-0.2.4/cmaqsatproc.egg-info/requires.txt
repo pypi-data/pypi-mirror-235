@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+geopandas
+xarray
+pyproj
+shapely
+pygeos
+pycno
+
+[gdal]
+gdal
