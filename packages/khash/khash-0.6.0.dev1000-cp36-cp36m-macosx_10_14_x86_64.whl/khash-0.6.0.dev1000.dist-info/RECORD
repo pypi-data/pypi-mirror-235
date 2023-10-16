@@ -1,0 +1,10 @@
+khash/__init__.py,sha256=O0rbnuUslwP2dEh901f2aVENjv_DrS9Gj8Kpr57__x4,54
+khash/container.cpython-36m-darwin.so,sha256=m8c6LF9OL1ciW1-x8tIz8eXDFuSd2-eAm4ZItw3pGt4,197304
+khash/khash.cpython-36m-darwin.so,sha256=-k_J3eKumPl6Oi03m2yVUVbKfhVnbEZRHbJc6SIEjcY,69592
+khash/siphash.cpython-36m-darwin.so,sha256=JQq-IYopg2Kxf7X97NF_4oAViZCID8ZyHJhNmZSr-ng,40424
+khash/tree.cpython-36m-darwin.so,sha256=YmQuyIIOvPl-r_2wURCCsW0p9yeG_Rr4wBTxhby2NTI,91000
+khash-0.6.0.dev1000.dist-info/LICENSE.md,sha256=3tRK_BW-yd3EvfJQv7l9CHVtXOvdNMcpFiVbALsDHv4,172
+khash-0.6.0.dev1000.dist-info/METADATA,sha256=BwX6MB67a5fgHZ5oLeap_SWPCsp6o59CLZuiRKQwOpg,180
+khash-0.6.0.dev1000.dist-info/WHEEL,sha256=L2ysQRpzaZ_dwmB2jbkklv0iP3gp4u98o7Dm87lh-Xk,111
+khash-0.6.0.dev1000.dist-info/top_level.txt,sha256=v7b-ozFWXCaf4uTK9rLjXt7APm-7cQ10Puktgvz4YFg,6
+khash-0.6.0.dev1000.dist-info/RECORD,,
