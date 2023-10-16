@@ -1,0 +1,5 @@
+setup.py
+joyspace.egg-info/PKG-INFO
+joyspace.egg-info/SOURCES.txt
+joyspace.egg-info/dependency_links.txt
+joyspace.egg-info/top_level.txt
