@@ -1,0 +1,132 @@
+Metadata-Version: 2.1
+Name: dynotree
+Version: 0.0.4
+Summary: Dynotree - Dynamic Kd tree
+Author: Joaquim Ortiz-Haro
+Author-email: quimortiz21@gmail.com
+Project-URL: Link 1, https://github.com/quimortiz/dyn_kdtree/
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Provides-Extra: test
+Requires-Dist: pytest >=6.0 ; extra == 'test'
+
+# dyn_kdtree
+
+Dynamic Kd-Tree:  Euclidean, SO(2), SO(3) and more!
+C++ with Python Bindings
+
+Dynamic KD-Tree: Euclidean, SO(2), SO(3), and more!
+C++ with Python Bindings
+
+The underlying KD-tree implementation is based on [bucket-pr-kdtree](https://github.com/jkflying/bucket-pr-kdtree), but dynotree supports non Euclidean spaces and custom componed spaces. State spaces can be defined at both compile (effiency) and runtime( flexibility).
+
+
+# Try it out!
+
+## PYTHON
+
+```bash
+pip3 install dynotree
+```
+
+A first example:
+[rrt_free.py](test/python/rrt_free.py)
+
+A second example:
+[rrt.py](https://github.com/quimortiz/dyn_kdtree/blob/main/test/python/rrt.py)
+
+## C++
+
+Test and examples are in  [main.cpp](https://github.com/quimortiz/dyn_kdtree/blob/main/src/main.cpp)
+
+```bash
+git clone --recurse-submodules https://github.com/quimortiz/dyn_kdtree
+cd dyn_kdtree
+mkdir build
+cd build
+cmake ..
+make
+./main
+```
+
+use
+```
+./main --run_test=NAME_OF_TEST
+```
+to run only one example or test
+
+
+# DEV
+
+
+## Testing
+
+
+
+## Create wheels
+
+for publishing in pypy
+```bash
+docker pull quay.io/pypa/manylinux2014_x86_64
+docker run -it -v $(pwd):/io quay.io/pypa/manylinux2014_x86_64 /io/build-wheels.sh
+python3 -m twine upload wheelhouse/*
+```
+
+using testpypi
+```bash
+python3 -m twine upload --repository testpypi wheelhouse/*
+```
+
+
+for creating local package:
+```bash
+TODO
+```
+
+
+# Why dyn_kdtree?
+
+* Faster than OMPL and simpler than NIGH
+* Dynamic: Add points one by one -- Ideal for Motion Planning
+* Support Euclidean, SO(2), SO(3) and any combination
+* Performant and flexible C++ code based on Eigen.
+* Single Header File
+* Python Bindings for easy integration
+* Extendable with custom spaces!
+
+
+# Python Bindings
+
+## Option 1
+
+## Option 2
+
+## Option 3
+
+
+# Dependencies
+
+Python: No dependencies
+
+
+C++ Code: Eigen
+
+Develop: Eigen and Boost Testing
+
+# Interface
+
+See this for examples.
+
+# Benchmark
+
+Check this repo for benchmark against
+* [bucket-pr-kdtree](https://github.com/jkflying/bucket-pr-kdtree)
+* OMPL
+* Nigh
+* ...
+
+
+# Roadmap
+
+Code is Stable, currently used in ...
