@@ -1,0 +1,8 @@
+scipy
+matplotlib
+numpy
+xlrd
+hdf5storage
+natsort
+h5py
+docutils>=0.3
