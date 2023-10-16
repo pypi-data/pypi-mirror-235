@@ -1,0 +1,137 @@
+interactions:
+- request:
+    body: !!python/unicode '{}'
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '24'
+      User-Agent:
+      - python-requests/2.27.1
+      content-type:
+      - application/json
+    method: POST
+    uri: https://api.correios.com.br/token/v1/autentica/cartaopostagem
+  response:
+    body:
+      string: !!python/unicode '{"cnpj": "*******", "emissao": "2023-10-12T13:21:43",
+        "expiraEm": "2023-10-13T13:21:43", "ip": "*******", "id": "46374596000190",
+        "cartaoPostagem": {"dr": 74, "api": [27, 34, 35, 36, 37, 41, 76, 78, 80, 83,
+        87, 93, 566, 587], "contrato": "*******", "numero": "*******"}, "zoneOffset":
+        "-03:00", "token": "eyJhbGciOiJSUzUxMiJ9.eyJhbWJpZW50ZSI6IlBST0RVQ0FPIiwiaWQiOiI0NjM3NDU5NjAwMDE5MCIsInBmbCI6IlBKIiwiY25waiI6IjQ2Mzc0NTk2MDAwMTkwIiwiY2FydGFvLXBvc3RhZ2VtIjp7Im51bWVybyI6IjAwNzc5MzI4OTciLCJjb250cmF0byI6Ijk5MTI2MjAwNDgiLCJkciI6NzQsImFwaSI6WzI3LDM0LDM1LDM2LDM3LDQxLDc2LDc4LDgwLDgzLDg3LDkzLDU2Niw1ODddfSwiaXAiOiIyMC4yMDYuNzYuNDEsIDE5Mi4xNjguMS4xMzAiLCJpYXQiOjE2OTcxMjc3MDMsImlzcyI6InRva2VuLXNlcnZpY2UiLCJleHAiOjE2OTcyMTQxMDMsImp0aSI6ImFjNTA5NGE4LTViNWYtNGNmNS04NGFiLWIzZTg0NWUzOTI3YSJ9.cqEmkMMGxAZe8s0UhAAkYe298hi4GDuhHD-b4pLZW8qTcG97yBs_NR_9JfhdVCuihUlWpCZjByOre5jXYghAU0FITTCaAWheNEZtBmi_ooaPZDTElMno-NJnnvOGqP7k3U72-LxscbwbINZi9oDzmvGrJAAS-A6b3RXwN_XCAvM-2PWSddQuTeQfk4Z_hdQTrbvGkWwEC1VtESsHLh9KAYYcj93oFLYMphpRz4T-mZntgGVzYGlaw94Yd0PY16GjKB7NoJWys5zuTwPhgsy-VjuzrBYfhuhZ9NOaIcvTRloqi3vCa_rCvkAz-4z9Oip2T5T5-UQblX_haQseYgC9HA",
+        "perfil": "PJ", "ambiente": "PRODUCAO"}'
+    headers:
+      cache-control:
+      - no-cache, no-store, max-age=0, must-revalidate
+      connection:
+      - keep-alive
+      content-type:
+      - application/json
+      date:
+      - Thu, 12 Oct 2023 21:38:06 GMT
+      expires:
+      - '0'
+      pragma:
+      - no-cache
+      set-cookie:
+      - LBprdExt1=684195850.47873.0000; path=/; Httponly; Secure
+      strict-transport-security:
+      - max-age=15724800; includeSubDomains
+      vary:
+      - Origin
+      - Access-Control-Request-Method
+      - Access-Control-Request-Headers
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - DENY
+      x-gtw-api-time:
+      - '19'
+      x-gtw-cluster:
+      - prod1-bsb
+      x-gtw-pfl:
+      - PJ
+      x-gtw-service-id:
+      - token
+      x-gtw-uri-template:
+      - /v1/autentica/cartaopostagem
+      x-gtw-user:
+      - '46374596000190'
+      x-pfl:
+      - PJ
+      x-ratelimit-burst-capacity:
+      - '15'
+      x-ratelimit-remaining:
+      - '14'
+      x-ratelimit-replenish-rate:
+      - '15'
+      x-ratelimit-requested-tokens:
+      - '1'
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 201
+      message: Created
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.27.1
+      content-type:
+      - application/json
+    method: GET
+    uri: https://api.correios.com.br/srorastro/v1/objetos?codigosObjetos=SX123456789BR&resultado=T&
+  response:
+    body:
+      string: !!python/unicode '{"versao": "3.3.8", "tipoResultado": "Todos os Eventos",
+        "quantidade": 1, "objetos": [{"codObjeto": "SX123456789BR", "mensagem": "SRO-020:
+        Objeto n\u00e3o encontrado na base de dados dos Correios."}]}'
+    headers:
+      connection:
+      - keep-alive
+      content-type:
+      - application/json
+      date:
+      - Thu, 12 Oct 2023 21:38:06 GMT
+      set-cookie:
+      - LBprdExt1=684195850.47873.0000; path=/; Httponly; Secure
+      strict-transport-security:
+      - max-age=15724800; includeSubDomains
+      vary:
+      - Origin
+      - Access-Control-Request-Method
+      - Access-Control-Request-Headers
+      x-gtw-api-time:
+      - '11'
+      x-gtw-cluster:
+      - prod1-bsb
+      x-gtw-pfl:
+      - PJ
+      x-gtw-service-id:
+      - srorastro
+      x-gtw-uri-template:
+      - /v1/objetos
+      x-gtw-user:
+      - '46374596000190'
+      x-ratelimit-burst-capacity:
+      - '165'
+      x-ratelimit-remaining:
+      - '164'
+      x-ratelimit-replenish-rate:
+      - '150'
+      x-ratelimit-requested-tokens:
+      - '1'
+    status:
+      code: 200
+      message: OK
+version: 1
