@@ -1,0 +1,4 @@
+[run]
+branch = True
+include = */numaaron/*
+disable_warnings = include-ignored

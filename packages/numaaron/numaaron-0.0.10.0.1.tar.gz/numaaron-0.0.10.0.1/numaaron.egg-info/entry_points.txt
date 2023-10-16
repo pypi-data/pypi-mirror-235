@@ -1,0 +1,11 @@
+[array_api]
+numaaron = numaaron.array_api
+
+[console_scripts]
+f2py = numaaron.f2py.f2py2e:main
+f2py3 = numaaron.f2py.f2py2e:main
+f2py3.10 = numaaron.f2py.f2py2e:main
+
+[pyinstaller40]
+hook-dirs = numaaron:_pyinstaller_hooks_dir
+

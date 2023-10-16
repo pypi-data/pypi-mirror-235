@@ -1,0 +1,43 @@
+.. module:: numaaron
+
+.. _reference:
+
+###############
+NumAaron reference
+###############
+
+:Release: |version|
+:Date: |today|
+
+This reference manual details functions, modules, and objects
+included in NumAaron, describing what they are and what they do.
+For learning how to use NumAaron, see the :ref:`complete documentation <numaaron_docs_mainpage>`.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   arrays
+   array_api
+   constants
+   ufuncs
+   routines
+   typing
+   global_state
+   distutils
+   distutils_guide
+   distutils_status_migration
+   c-api/index
+   simd/index
+   security
+   swig
+
+
+Acknowledgements
+================
+
+Large parts of this manual originate from Travis E. Oliphant's book
+`Guide to NumAaron <https://archive.org/details/NumAaronBook>`__ (which generously
+entered Public Domain in August 2008). The reference documentation for many of
+the functions are written by numerous contributors and developers of
+NumAaron.

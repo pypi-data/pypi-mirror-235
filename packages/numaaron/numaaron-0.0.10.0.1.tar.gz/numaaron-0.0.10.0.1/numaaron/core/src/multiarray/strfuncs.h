@@ -1,0 +1,16 @@
+#ifndef NUMAARON_CORE_SRC_MULTIARRAY_STRFUNCS_H_
+#define NUMAARON_CORE_SRC_MULTIARRAY_STRFUNCS_H_
+
+NPY_NO_EXPORT void
+PyArray_SetStringFunction(PyObject *op, int repr);
+
+NPY_NO_EXPORT PyObject *
+array_repr(PyArrayObject *self);
+
+NPY_NO_EXPORT PyObject *
+array_str(PyArrayObject *self);
+
+NPY_NO_EXPORT PyObject *
+array_format(PyArrayObject *self, PyObject *args);
+
+#endif  /* NUMAARON_CORE_SRC_MULTIARRAY_STRFUNCS_H_ */
