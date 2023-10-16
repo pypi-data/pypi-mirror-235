@@ -1,0 +1,12 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/akarsu/__init__.py
+src/akarsu/__main__.py
+src/akarsu/akarsu.py
+src/akarsu.egg-info/PKG-INFO
+src/akarsu.egg-info/SOURCES.txt
+src/akarsu.egg-info/dependency_links.txt
+src/akarsu.egg-info/entry_points.txt
+src/akarsu.egg-info/top_level.txt
+tests/test_akarsu.py
