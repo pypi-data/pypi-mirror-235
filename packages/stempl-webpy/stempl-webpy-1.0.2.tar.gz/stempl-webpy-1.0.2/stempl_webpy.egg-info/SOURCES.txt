@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+stempl_webpy/__init__.py
+stempl_webpy.egg-info/PKG-INFO
+stempl_webpy.egg-info/SOURCES.txt
+stempl_webpy.egg-info/dependency_links.txt
+stempl_webpy.egg-info/requires.txt
+stempl_webpy.egg-info/top_level.txt
