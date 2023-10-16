@@ -1,0 +1,4 @@
+setuptools
+types-setuptools
+pyinstaller
+twine
