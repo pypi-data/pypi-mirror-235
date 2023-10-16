@@ -1,0 +1,7 @@
+README.md
+setup.py
+eeg_fConn.egg-info/PKG-INFO
+eeg_fConn.egg-info/SOURCES.txt
+eeg_fConn.egg-info/dependency_links.txt
+eeg_fConn.egg-info/requires.txt
+eeg_fConn.egg-info/top_level.txt
