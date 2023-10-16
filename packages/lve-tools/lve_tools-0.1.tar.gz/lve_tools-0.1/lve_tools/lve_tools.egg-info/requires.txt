@@ -1,0 +1,6 @@
+openai
+pydantic
+questionary
+termcolor
+GitPython
+lmql>=0.7.1
