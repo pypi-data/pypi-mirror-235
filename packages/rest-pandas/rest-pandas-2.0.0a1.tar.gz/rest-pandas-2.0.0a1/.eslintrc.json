@@ -1,0 +1,31 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:jest/recommended",
+        "plugin:react/recommended"
+    ],
+    "globals": {
+        "global": "readonly",
+        "module": "readonly",
+        "__dirname": "readonly"
+    },
+    "parser": "@babel/eslint-parser",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "babelOptions": {
+            "plugins": ["@babel/plugin-syntax-import-assertions"]
+        },
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "plugins": ["react", "jest", "import"],
+    "rules": {
+        "import/extensions": [2, "ignorePackages"]
+    }
+}
