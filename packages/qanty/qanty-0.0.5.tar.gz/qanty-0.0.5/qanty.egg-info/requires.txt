@@ -1,0 +1,2 @@
+httpx[http2]<1,>=0.24.0
+pydantic<3,>=2
