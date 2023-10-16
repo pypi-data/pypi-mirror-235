@@ -1,0 +1,13 @@
+jieba>=0.42.1
+matplotlib>=3.4.3
+scikit-learn>=1.0
+pandas
+numpy
+gensim
+fasttext
+transformers
+torch
+ipywidgets>=7.6.3
+IPython>=7.27.0
+seaborn
+plotly
