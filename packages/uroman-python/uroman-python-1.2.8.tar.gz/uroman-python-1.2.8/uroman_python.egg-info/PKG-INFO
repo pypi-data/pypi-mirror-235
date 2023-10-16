@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: uroman-python
+Version: 1.2.8
+Requires-Dist: langcodes>=3.3.0
