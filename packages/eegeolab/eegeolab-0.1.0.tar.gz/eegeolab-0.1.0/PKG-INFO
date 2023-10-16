@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: eegeolab
+Version: 0.1.0
+Summary: Earth Engine Native Project to contain helpers for d
+Home-page: https://github.com/ryanhamilton-eccc/eegeolab
+Author: Ryan Hamilton
+Author-email: ryan.hamilton@ec.gc.ca
+License: MIT license
+Keywords: eegeolab
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: earthengine-api
+
+# eegeolab
+
+
+[![image](https://img.shields.io/pypi/v/eegeolab.svg)](https://pypi.python.org/pypi/eegeolab)
+[![image](https://img.shields.io/conda/vn/conda-forge/eegeolab.svg)](https://anaconda.org/conda-forge/eegeolab)
+
+
+**Earth Engine Native Project to contain helpers for d**
+
+
+-   Free software: MIT license
+-   Documentation: https://ryanhamilton-eccc.github.io/eegeolab
+    
+
+## Features
+
+-   TODO
