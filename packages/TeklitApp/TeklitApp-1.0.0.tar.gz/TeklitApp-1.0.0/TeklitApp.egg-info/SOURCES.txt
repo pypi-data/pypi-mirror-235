@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+TeklitApp/__init__.py
+TeklitApp/addtonumbers.py
+TeklitApp.egg-info/PKG-INFO
+TeklitApp.egg-info/SOURCES.txt
+TeklitApp.egg-info/dependency_links.txt
+TeklitApp.egg-info/top_level.txt
