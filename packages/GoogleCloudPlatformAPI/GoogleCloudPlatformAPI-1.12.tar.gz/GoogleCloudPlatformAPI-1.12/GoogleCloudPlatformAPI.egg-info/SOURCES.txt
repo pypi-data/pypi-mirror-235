@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+GoogleCloudPlatformAPI.egg-info/PKG-INFO
+GoogleCloudPlatformAPI.egg-info/SOURCES.txt
+GoogleCloudPlatformAPI.egg-info/dependency_links.txt
+GoogleCloudPlatformAPI.egg-info/requires.txt
+GoogleCloudPlatformAPI.egg-info/top_level.txt
