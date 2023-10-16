@@ -1,0 +1,8 @@
+psycopg_dbconn_class/__init__.py,sha256=rYQy-2NZa3VTsP2v6vATxk30ZRcQ65x8wNaMM1xQEa0,899
+psycopg_dbconn_class/src/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+psycopg_dbconn_class/src/psycopg_dbconn_class.py,sha256=qezTLiAfkLHsVlaDlBGWQ4wcf2LVPfvCppsh4RkVGDw,7265
+psycopg_dbconn_class-0.0.1.dist-info/LICENSE,sha256=pmzAgPC73yxHw1a3sLT5NQLVSTSDdNeuRQOiJsw_8po,42803
+psycopg_dbconn_class-0.0.1.dist-info/METADATA,sha256=MxRELok2I0uuTMyH4utF6PRWknj0N8rGyFf5aW4J84M,2865
+psycopg_dbconn_class-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+psycopg_dbconn_class-0.0.1.dist-info/top_level.txt,sha256=7EXvj8aLk_lX3Q_uOBpxmlkEA-z6h3ruftmZ6l84n_Y,21
+psycopg_dbconn_class-0.0.1.dist-info/RECORD,,
