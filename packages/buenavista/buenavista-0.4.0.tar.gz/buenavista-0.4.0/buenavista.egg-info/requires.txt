@@ -1,0 +1,11 @@
+fastapi<1.0.0,>=0.80.0
+pydantic<2.0.0,>=1.2.0
+sqlglot
+
+[duckdb]
+duckdb
+pyarrow
+
+[postgres]
+psycopg
+psycopg-pool
