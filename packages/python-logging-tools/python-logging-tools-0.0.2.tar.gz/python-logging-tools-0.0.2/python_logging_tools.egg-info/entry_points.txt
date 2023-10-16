@@ -1,0 +1,2 @@
+[console_scripts]
+MGS-Daniil = src.main:main
