@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: statschat
+Version: 0.0.1
+Summary: A statschat llm package
+Home-page: https://github.com/
+Author: YueLi
+Author-email: yueli961201@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typing-extensions
+Requires-Dist: openpyxl
+Requires-Dist: et-xmlfile
+Requires-Dist: openai
+Requires-Dist: pydantic
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+
+LLM 模型
