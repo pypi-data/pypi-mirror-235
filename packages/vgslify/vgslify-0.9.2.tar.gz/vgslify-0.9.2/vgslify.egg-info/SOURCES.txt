@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+vgslify/__init__.py
+vgslify/parser.py
+vgslify.egg-info/PKG-INFO
+vgslify.egg-info/SOURCES.txt
+vgslify.egg-info/dependency_links.txt
+vgslify.egg-info/requires.txt
+vgslify.egg-info/top_level.txt
+vgslify/tensorflow/__init__.py
+vgslify/tensorflow/generator.py
