@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: smi-python-runner
+Version: 1.1.0
+Summary: setmy.info Python runner library.
+Home-page: https://github.com/setmy-info/python-runner
+Author: Imre Tabur
+Author-email: info@setmy.info
+License: MIT
+License-File: LICENSE
+
+setmy.info Python runner library.
