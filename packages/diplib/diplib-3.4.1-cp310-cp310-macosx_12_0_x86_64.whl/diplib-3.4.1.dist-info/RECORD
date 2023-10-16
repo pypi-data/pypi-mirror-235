@@ -1,0 +1,17 @@
+diplib/loadjvm.py,sha256=dncFRjK6zck4ZzkmulPr5ADQRySpSyDUqqbvCubIZ00,5347
+diplib/PyDIPjavaio.cpython-310-darwin.so,sha256=FptpbFA60E05X2elFAoZIL4VI-zsHH8uwAVNvGU53jk,185712
+diplib/libDIPviewer.dylib,sha256=Qv839KYp5MTPMZSJ9GM4n436unqTjfTnlfz1D5HXi10,341392
+diplib/__init__.py,sha256=TGZUWycLELmxXqGGUv2x2g0-xPPEUwK34sPwdOh8l2s,7414
+diplib/libDIP.dylib,sha256=2X2blK5oV8CDLR4_iRWbT70eAbEj_n6Jxr3ghFbziC0,17318904
+diplib/PyDIP_bin.cpython-310-darwin.so,sha256=9JA5LFU9ZQ7TsvCPUOLsNpdiKPuQZnLR6YY8vADbkmU,3437776
+diplib/PyDIPviewer.cpython-310-darwin.so,sha256=wFRHM8FwrSTcv2yBQL0l2YPXetWZWYALNPGUL6cMZ-I,236176
+diplib/DIPjavaio.jar,sha256=nOCF6p6TB_B830TVT2eTczKcGmvHr0vtUKE39HPdPCI,5617
+diplib/PyDIP_py.py,sha256=ecwc1rIRFa1-Tq_5Bf3wMWNESL37YUNgn9BfN2l3kSY,10124
+diplib/libDIPjavaio.dylib,sha256=gM3m41R4LW_CgjfCfg-NZjkRnfApadmlHEF2C32CVjw,115328
+diplib/__main__.py,sha256=sPwyLtJFoZwWw40tRld70xnlumwKRmw9t39y19hFdPo,1300
+diplib/.dylibs/libglfw.3.3.dylib,sha256=28hjUUDGpRSTcLfX6MIKUn-iwe2if-WqOHKe13lpVWA,235456
+diplib-3.4.1.dist-info/RECORD,,
+diplib-3.4.1.dist-info/WHEEL,sha256=HL5r1uBRFAF-yH45MRYhIyMem6D63xqydQXUQXiheeQ,111
+diplib-3.4.1.dist-info/top_level.txt,sha256=wRg2iwbFeXJeGBOVOOYBd4M8xTROslPmrDqoT25I57I,7
+diplib-3.4.1.dist-info/LICENSE.txt,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+diplib-3.4.1.dist-info/METADATA,sha256=Lh5PIMYWuwxvreiuHyzsvhCDC7ZjkMJbjqRMqNO4pF0,5953
