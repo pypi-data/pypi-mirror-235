@@ -1,0 +1,7 @@
+README.md
+setup.py
+salkikal_package1/salkikal_module1.py
+salkikal_package1.egg-info/PKG-INFO
+salkikal_package1.egg-info/SOURCES.txt
+salkikal_package1.egg-info/dependency_links.txt
+salkikal_package1.egg-info/top_level.txt
