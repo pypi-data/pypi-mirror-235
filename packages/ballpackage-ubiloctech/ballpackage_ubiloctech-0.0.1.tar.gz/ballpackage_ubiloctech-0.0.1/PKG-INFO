@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ballpackage_ubiloctech
+Version: 0.0.1
+Summary: A package to simulate bouncing balls between 4 walls
+Author-email: "Sunil Baliga (Ubiloc Technologies LLC)" <technical_sb@ubiloctech.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Topic :: Games/Entertainment :: Simulation
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pandas>=2.1.1
+
+# Example Package that simulates a set of bouncing balls in a closed room
+
+Simulates a set of bouncing balls in a closed room. This package uses law of conservation of momentum and energy to simulate different levels of elastic collisions by setting the elastic coefficient (eCoefft).
+
+The number of balls and ball color can also be set.
+
+The library can also save and re-load states.

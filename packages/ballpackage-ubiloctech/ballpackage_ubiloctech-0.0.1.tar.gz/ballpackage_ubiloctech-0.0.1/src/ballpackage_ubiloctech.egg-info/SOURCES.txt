@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/ballpackage_ubiloctech/Background.py
+src/ballpackage_ubiloctech/BouncingBall.py
+src/ballpackage_ubiloctech/CustomExceptions.py
+src/ballpackage_ubiloctech/InelasticBouncingBall-main.py
+src/ballpackage_ubiloctech/Vector.py
+src/ballpackage_ubiloctech/__init__.py
+src/ballpackage_ubiloctech/mathcorrections.py
+src/ballpackage_ubiloctech.egg-info/PKG-INFO
+src/ballpackage_ubiloctech.egg-info/SOURCES.txt
+src/ballpackage_ubiloctech.egg-info/dependency_links.txt
+src/ballpackage_ubiloctech.egg-info/requires.txt
+src/ballpackage_ubiloctech.egg-info/top_level.txt

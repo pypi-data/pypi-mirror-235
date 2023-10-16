@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ballpackage_ubiloctech"
+version = "0.0.1"
+authors = [
+  { name="Sunil Baliga (Ubiloc Technologies LLC)", email="technical_sb@ubiloctech.com" },
+]
+
+description = "A package to simulate bouncing balls between 4 walls"
+readme = "README.md"
+requires-python = ">=3.9"
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Development Status :: 2 - Pre-Alpha",
+    "Topic :: Games/Entertainment :: Simulation"
+]
+
+dependencies = [
+    "numpy >= 1.26.0",
+    "pandas >= 2.1.1",   
+]
+
