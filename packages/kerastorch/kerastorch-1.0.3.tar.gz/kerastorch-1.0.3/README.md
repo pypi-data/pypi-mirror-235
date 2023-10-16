@@ -1,0 +1,75 @@
+kerastorch 是一个通用的pytorch模型训练模版工具，你可以像使用keras一样，使用pytorch,它具有如下优点：
+
+* **好看** (代码优雅，日志美丽，自带可视化)
+
+* **好用** (使用方便，支持 进度条、评估指标、early-stopping等常用功能，支持tensorboard，wandb回调函数等扩展功能)
+
+* **好改** (修改简单，核心代码模块化，仅约200行，并提供丰富的修改使用案例)
+
+
+
+## 使用方法 🍊🍊
+
+
+安装 kerastorch
+```
+pip install kerastorch
+```
+
+通过使用kerastorch，你不需要写自己的pytorch模型训练循环。你只要做这样两步就可以了。
+
+(1) 创建你的模型结构net,然后把它和损失函数传入kerastorch.KerasModel构建一个model。
+
+(2) 使用model的fit方法在你的训练数据和验证数据上进行训练，训练数据和验证数据需要封装成两个DataLoader.
+
+
+
+核心使用代码就像下面这样：
+
+```python
+import torch 
+import kerastorch
+import torchmetrics
+model = kerastorch.KerasModel(net,
+                              loss_fn = nn.BCEWithLogitsLoss(),
+                              optimizer= torch.optim.Adam(net.parameters(),lr = 1e-4),
+                              metrics_dict = {"acc":torchmetrics.Accuracy(task='binary')}
+                             )
+dfhistory=model.fit(train_data=dl_train, 
+                    val_data=dl_val, 
+                    epochs=20, 
+                    patience=3, 
+                    ckpt_path='checkpoint.pt',
+                    monitor="val_acc",
+                    mode="max",
+                    plot=True,
+                    
+                   )
+
+```
+
+在jupyter notebook中执行训练代码，你将看到类似下面的训练可视化图像和训练日志进度条。
+
+![](./data/kerastorch_plot.gif)
+
+
+
+
+## 主要特性 🍉🍉
+
+
+kerastorch 支持以下这些功能特性，稳定支持这些功能的起始版本以及这些功能借鉴或者依赖的库的来源见下表。
+
+
+|功能| 稳定支持起始版本 | 依赖或借鉴库 |
+|:----|:-------------------:|:--------------|
+|✅ 训练进度条 | 3.0.0   | 依赖tqdm,借鉴keras|
+|✅ 训练评估指标  | 3.0.0   | 借鉴pytorch_lightning |
+|✅ notebook中训练自带可视化 |  3.8.0  |借鉴fastai |
+|✅ early stopping | 3.0.0   | 借鉴keras |
+|✅ gpu training | 3.0.0    |依赖accelerate|
+|✅ multi-gpus training(ddp) |   3.6.0 | 依赖accelerate|
+|✅ fp16/bf16 training|   3.6.0  | 依赖accelerate|
+|✅ tensorboard callback |   3.7.0  |依赖tensorboard |
+|✅ wandb callback |  3.7.0 |依赖wandb |
+
