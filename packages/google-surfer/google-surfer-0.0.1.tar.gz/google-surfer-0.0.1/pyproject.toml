@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68.2.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "google-surfer"
+version = "0.0.1"
+authors = [
+  { name="Thai Nguyen", email="thainm.uet@gmail.com" },
+]
+description = "A package to search for URLs"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/thai-nm/google-surfer"
+"Bug Tracker" = "https://github.com/thai-nm/google-surfer/issues"
