@@ -1,0 +1,10 @@
+{
+    "config": {
+        "step": {
+            "zeroconf_confirm": {
+                "description": "Ketinate prid\u0117ti \u201eSoundTouch\u201c \u012frengin\u012f pavadinimu \u201e {name} \u201c prie \u201eHome Assistant\u201c.",
+                "title": "Patvirtinkite Bose SoundTouch \u012frenginio prid\u0117jim\u0105"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "config": {
+        "abort": {
+            "reauth_unsuccessful": "Pakartotinis autentifikavimas nepavyko. \u012ejunkite televizori\u0173 ir bandykite dar kart\u0105."
+        },
+        "step": {
+            "pairing": {
+                "description": "Televizoriuje spustel\u0117kite pateikti ir priimkite susiejimo u\u017eklaus\u0105. \n\n ![Vaizdas](/static/images/config_webos.png)",
+                "title": "webOS TV susiejimas"
+            },
+            "user": {
+                "description": "\u012ejunkite televizori\u0173, u\u017epildykite \u0161iuos laukus, spustel\u0117kite pateikti",
+                "title": "Prisijunkite prie webOS TV"
+            }
+        }
+    },
+    "device_automation": {
+        "trigger_type": {
+            "webostv.turn_on": "\u012erenginio pra\u0161oma \u012fjungti"
+        }
+    },
+    "options": {
+        "error": {
+            "cannot_retrieve": "Nepavyko gauti \u0161altini\u0173 s\u0105ra\u0161o. \u012esitikinkite, kad \u012frenginys \u012fjungtas"
+        },
+        "step": {
+            "init": {
+                "data": {
+                    "sources": "\u0160altini\u0173 s\u0105ra\u0161as"
+                },
+                "description": "Pasirinkite \u012fgalintus \u0161altinius",
+                "title": "\"WebOS Smart TV\" parinktys"
+            }
+        }
+    }
+}
