@@ -1,0 +1,2 @@
+[console_scripts]
+simanager = simanager.cli_tools:main
