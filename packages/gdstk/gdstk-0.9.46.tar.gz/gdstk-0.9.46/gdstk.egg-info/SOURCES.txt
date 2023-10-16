@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+gdstk/__init__.py
+gdstk/gdstk.pyi
+gdstk/py.typed
+gdstk.egg-info/PKG-INFO
+gdstk.egg-info/SOURCES.txt
+gdstk.egg-info/dependency_links.txt
+gdstk.egg-info/not-zip-safe
+gdstk.egg-info/requires.txt
+gdstk.egg-info/top_level.txt
+python/gdstk_module.cpp
