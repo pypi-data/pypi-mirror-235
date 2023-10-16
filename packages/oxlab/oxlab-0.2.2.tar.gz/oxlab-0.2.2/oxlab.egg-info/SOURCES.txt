@@ -1,0 +1,10 @@
+LICENSE.txt
+README.rst
+setup.py
+oxlab/__init__.py
+oxlab/github.py
+oxlab.egg-info/PKG-INFO
+oxlab.egg-info/SOURCES.txt
+oxlab.egg-info/dependency_links.txt
+oxlab.egg-info/entry_points.txt
+oxlab.egg-info/top_level.txt
