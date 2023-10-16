@@ -1,0 +1,7 @@
+tqdm
+requests
+stable_baselines3>=2.1.0
+mlagents-envs>=1.0.0
+toml
+tensorboard
+pandas
