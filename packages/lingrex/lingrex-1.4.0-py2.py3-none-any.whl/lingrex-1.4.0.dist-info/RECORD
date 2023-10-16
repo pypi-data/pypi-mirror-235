@@ -1,0 +1,17 @@
+lingrex/__init__.py,sha256=OsyQLh1bX5tA_7a2amO6Vj_j0SIEu-Z8reyb0khmlnQ,89
+lingrex/align.py,sha256=s2EdfpgTcDcCyRf4cD-7ILuSkcMySm8bZyVcfI2rTZE,6643
+lingrex/borrowing.py,sha256=9QSifxOm97HCnYnPCBI4Z-P0pmxHKMu6PjCS9ixti_c,7748
+lingrex/cognates.py,sha256=1GoDxspIFmjpNtSdrBpMaDHbYYYi9R_xMZ62U5kY8xc,2771
+lingrex/colex.py,sha256=z3Iz9Y0_ps3iKYJKKG441xq5Wxj61ONi0lmGo9DR7Pk,6220
+lingrex/copar.py,sha256=OL3wV1xMQ3TdIwBXcxIqrYA6001A4dHBjWikUVg5fqw,36272
+lingrex/evaluate.py,sha256=WiFNE3G4gUWHNF2-L_j1x08yvbfwXoSSMBSMmVwVDxg,3593
+lingrex/fuzzy.py,sha256=kFMbc9JkO2bFwx3OiZxJ7da4zevKBN8C6nAq49v482A,3952
+lingrex/reconstruct.py,sha256=ASAs07eRfYZrWvs9BkuP_I3oLu8sbN7IBUHe3RntQHg,15966
+lingrex/regularity.py,sha256=MWYpCP3yPBdDzLptLUoain_u-QW1fx3IfRLQZHHPaMU,3943
+lingrex/trimming.py,sha256=0viIvOCAHA5uXkg_VuhsK6V_0_HLt-_yU8blD6BATPk,9659
+lingrex/util.py,sha256=PK3Nbzb9stB-SJIQndMHaRUFIZRDP-BMhzUnSvKH9V4,7803
+lingrex-1.4.0.dist-info/LICENSE,sha256=j43AMzvbG06T2eGCsQaBbuQnLQ_Kp3fE9pa6d3vfx-E,1063
+lingrex-1.4.0.dist-info/METADATA,sha256=ektKnuZp8Go9eLKRJYSyJdtyq19Eweytn4bpPxGCwEU,6450
+lingrex-1.4.0.dist-info/WHEEL,sha256=bb2Ot9scclHKMOLDEHY6B2sicWOgugjFKaJsT7vwMQo,110
+lingrex-1.4.0.dist-info/top_level.txt,sha256=zIyvK0pOG9NMAC4DrlWRNWqazeY3LSW701dFc5NskHQ,8
+lingrex-1.4.0.dist-info/RECORD,,
