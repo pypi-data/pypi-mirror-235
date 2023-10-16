@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <!-- CSS  -->
+
+    <link rel="shortcut icon" type="images/x-icon" href="https://www.portal.nauta.cu/media/img/nauta.gif"/>
+    <title>Portal de usuario</title>
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    <meta name="copyright" content=""/>
+    <script type="text/javascript">
+        var url_base = 'https://www.portal.nauta.cu/';
+    </script>
+    <link type="text/css" href="https://www.portal.nauta.cu/media/css/materialized/page-center.css" rel="stylesheet" media="" /><link type="text/css" href="https://www.portal.nauta.cu/media/css/materialized/icon.min.css" rel="stylesheet" media="" /><link type="text/css" href="https://www.portal.nauta.cu/media/css/materialized/materialize.min.css" rel="stylesheet" media="screen,projection" /><link type="text/css" href="https://www.portal.nauta.cu/media/js/toastr/toastr.min.css" rel="stylesheet" media="screen,projection" /><link type="text/css" href="https://www.portal.nauta.cu/media/js/mailtip/css/mailtip.css" rel="stylesheet" media="screen,projection" /><link type="text/css" href="https://www.portal.nauta.cu/media/css/materialized/style.min.css" rel="stylesheet" media="screen,projection" /></head>
+<body class="orange">
+<div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red">
+        <i class="mdi-content-add"></i>
+    </a>
+    <ul>
+        <li><a class="btn-floating green tooltipped" data-position="left" data-delay="50" href="https://www.portal.nauta.cu/nauta/change_lang/en-en" data-tooltip="English"><i class="mdi-action-language small"></i></a></li>
+        <li><a class="contact_info btn-floating blue tooltipped" data-position="left" data-delay="50" data-tooltip="Información de contacto" href="https://www.portal.nauta.cu/nauta/contact_info"><i class="mdi-communication-quick-contacts-dialer"></i></a></li>
+    </ul>
+</div>
+<div class="row" id="login-page">
+    <div class="col s12 z-depth-4 card-panel">
+        <p class="center"><a href="#"><img
+                        src="https://www.portal.nauta.cu/media/img/materialized/nauta_login.png">
+            </a></p>
+        <form class="login-form" name="login" method="post" autocomplete="off">
+            <input type="hidden" name="csrf" value="security65204377373e3" />            <div class="row">
+                <div class="col s12 center">
+                    <p class="title-blue center"
+                       style="margin-top: 0; margin-bottom: 10px;">Portal de usuario</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col s12 m12 l12" style="text-align: center">
+                    <a href="#" class="enlacePortal" id="enlacePortalNauta">Disponible nuevo portal</a>
+                </div>
+
+<!--                <div class="col s12 m12 l12" style="display: flex;justify-content: center;">-->
+<!--                    <div class="contador">-->
+<!--                        <div class="col s12 m12 l12">-->
+<!--                            <p class="texto_mensaje">Este portal dejará de funcionar el:</p>-->
+<!--                            -->
+<!--                            <div class="col s4 m4 l4 texto-value-contador"> Día</div>-->
+<!--                            <div class="col s4 m4 l4 texto-value-contador"> Horas</div>-->
+<!--                            <div class="col s4 m4 l4 texto-value-contador"> Min</div>-->
+<!--                        </div>-->
+<!---->
+<!--                        <div class="col s12 m12 l12">-->
+<!---->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+            </div>
+
+
+            <div id="alertMensajePromocion" class="alertMensajePromocion">
+
+                <div class="textoHeader">
+                    Nuevo Portal <i>nauta</i>
+                </div>
+                <p class="parrafoInformativo">Para una mejor gestión del servicio hemos desarrollado un nuevo Portal <b>nauta</b>
+                    más <i>intuitivo y funcional</i>. En él podrás gestionar todos los servicios <b>nauta</b>
+                    a los que estás subscrito sin necesidad de acceder múltiples veces.
+                </p>
+                <p class="parrafoInformativo">
+                    Solo debes acceder a la nueva web <a href="https://www.nauta.cu">www.nauta.cu</a> y registrarte
+                    por una única vez. En caso de estar registrado en "Servicios en línea" del sitio web de la empresa,
+                    solo deberás <b>iniciar tu sesión con las mismas credenciales.</b>
+                </p>
+                <input type="button" id="closeMensaje" class="btn-mensaje-informativo" value="Aceptar"/>
+            </div>
+
+
+            <div class="row margin">
+                <div class="input-field col s12">
+                    <i class="mdi-social-person-outline prefix"></i>
+                    <input type="text" id="username" name="login_user"
+                           maxlength="46"
+                           class="user-domain" value="ale@nauta">
+                    <label class="center-align" for="username">Usuario</label>
+                </div>
+            </div>
+            <div class="row margin">
+                <div class="input-field col s12">
+                    <i class="mdi-action-lock-outline prefix"></i>
+                    <input type="password" id="password" name="password_user"
+                           maxlength="20">
+                    <label for="password" class="">Contraseña</label>
+                    <p>
+                        <input type="checkbox" id="show_pass" class="show_password" rel="password"/>
+                        <label for="show_pass">Mostrar contraseña</label>
+                    </p>
+                </div>
+            </div>
+                            <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-image-blur-on prefix"></i>
+                        <input type="text" id="captcha" name="captcha" style="margin-bottom: 1px;"/>
+                        <label for="captcha" class="">Código Captcha</label>
+                        <div id="captcha-content" style="margin-left: 3rem;">
+                            <div id="captcha-code">
+                                <img src="" width="189" height="89" class="captcha hide">
+                                <div class="right">
+                                    <a class="btn-floating waves-effect waves-light green right tooltipped"
+                                       id="captcha_refresh"
+                                       data-position="left" data-delay="50"
+                                       data-tooltip="Recargar o refrescar el código captcha"
+                                       title="Recargar o refrescar el código captcha">
+                                        <i class="mdi-navigation-refresh left"></i></a>
+                                    <br>
+                                    <a class="btn-floating waves-effect waves-light right blue-grey darken-1 tooltipped help"
+                                       data-position="left" data-delay="50"
+                                       data-tooltip="Ayuda sobre el código captcha"
+                                       title="Ayuda sobre el código captcha"
+                                       href="/captchagidess/help/"
+                                    >
+                                        <i class="material-icons left">help_outline</i></a>
+                                </div>
+                            </div>
+                            <div class="captcha-not-load hide red-text text-accent-2"><span
+                                        class="center-align">Imagen Captcha no cargada. Intente recargarla.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            <div class="row">
+                <div class="input-field col s8 offset-s2">
+                    <button name="btn_submit"
+                            class="submit_btn btn waves-effect waves-light col s12 blue darken-4">Aceptar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div><div id="contact_info_box"></div>
+<script type="text/javascript" src="https://www.portal.nauta.cu/media/js/materialized/jquery-2.1.1.min.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/materialized/materialize.min.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/jquery.blockUI.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/toastr/toastr.min.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/mailtip/src/jquery.mailtip.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/materialized/init.js"></script><script type="text/javascript" src="https://www.portal.nauta.cu/media/js/user_aaa/captcha.js"></script><script type="text/javascript">
+    window.toastr.options = {
+        timeOut: 10000
+    }
+    $(function () {
+        $('.contact_info, .help').on("click", function (e) {
+            console.log($(this).attr('href'));
+            e.preventDefault();
+            $("#contact_info_box").load($(this).attr('href'));
+
+        });
+
+
+        $('.show_password').on("click", function () {
+            var target = $(this).attr('rel');
+            if ($(this).prop('checked')) {
+                $('#' + target).attr('type', 'text');
+            } else {
+                $('#' + target).attr('type', 'password');
+            }
+        });
+        $('#enlacePortalNauta').on("click", function () {
+            $.blockUI({
+                message: $('#alertMensajePromocion'),
+                css: {
+                    border: 'none',
+                    borderRadius: 8,
+                    '-webkit-border-radius': '10px',
+                    '-moz-border-radius': '10px',
+                    top: '25%',
+                    width: window.screen.width <= 480 ? '90%' : '40%',
+                    marginRight: window.screen.width <= 480 ? '80px' : '',
+                    left:window.screen.width <= 480 ? '7%' : '30%'
+                }
+            });
+
+        })
+
+        $('#closeMensaje').on("click", function () {
+            $.unblockUI();
+            return false;
+        })
+
+        $('.submit_btn').on('click', function () {
+            $.blockUI({
+                message: '<div class="preloader-wrapper active"><div class="spinner-layer spinner-red-only"> <div class="circle-clipper left"> <div class="circle"></div> </div><div class="gap-patch"> <div class="circle"></div> </div><div class="circle-clipper right"> <div class="circle"></div> </div> </div> </div><div></div><div>Cargando...</div>',
+                css: {
+                    border: 'none',
+                    padding: '15px',
+                    backgroundColor: '#000',
+                    '-webkit-border-radius': '10px',
+                    '-moz-border-radius': '10px',
+                    opacity: .5,
+                    color: '#fff'
+                }
+            });
+        });
+
+        var options = ['nauta.com.cu','nauta.co.cu'];
+        $("input.user-domain").mailtip({
+            mails: options,
+            offsetTop: 2
+        });
+
+    });
+</script>
+<script type="text/javascript">toastr.error('<ul><li class="msg_error">Usuario desconocido o contraseña incorrecta</li></ul>');</script>
+</body>
+</html>
