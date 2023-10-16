@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: RAGchain
+Version: 0.1.1
+Summary: Build advanced RAG workflows with LLM, compatible with Langchain
+Home-page: https://github.com/NomaDamas/RAGchain
+Author: NomaDamas
+Author-email: vkehfdl1@gmail.com
+License: Apache License 2.0
+Keywords: RAG,RAGchain,ragchain,LLM,Langchain,DQA,GPT,ODQA
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: langchain (==0.0.309)
+Requires-Dist: chromadb (==0.4.5)
+Requires-Dist: urllib3
+Requires-Dist: pdfminer.six
+Requires-Dist: click
+Requires-Dist: openpyxl
+Requires-Dist: pinecone-client
+Requires-Dist: python-dotenv (==1.0.0)
+Requires-Dist: tiktoken
+Requires-Dist: rank-bm25
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pydantic
+Requires-Dist: tqdm
+Requires-Dist: pymongo
+Requires-Dist: requests
+Requires-Dist: redis
+Requires-Dist: aiohttp
+Requires-Dist: openai
+Requires-Dist: InstructorEmbedding
+Requires-Dist: sentence-transformers
+Requires-Dist: huggingface-hub
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: pyarrow
+Requires-Dist: fastparquet
+
