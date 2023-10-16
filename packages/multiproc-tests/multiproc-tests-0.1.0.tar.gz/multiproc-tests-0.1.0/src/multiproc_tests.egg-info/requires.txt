@@ -1,0 +1,2 @@
+tentacule==0.1.*
+pytest-reportlog==0.4.*
