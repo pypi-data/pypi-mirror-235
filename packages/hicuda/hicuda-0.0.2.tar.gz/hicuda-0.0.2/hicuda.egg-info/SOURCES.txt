@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+hicuda/__init__.py
+hicuda/hellobinding.cpython-310-x86_64-linux-gnu.so
+hicuda.egg-info/PKG-INFO
+hicuda.egg-info/SOURCES.txt
+hicuda.egg-info/dependency_links.txt
+hicuda.egg-info/top_level.txt
