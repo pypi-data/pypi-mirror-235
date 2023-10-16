@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: dyacon
+Version: 0.0.2
+Summary: Yaml config package
+Author-email: Aleksei Morozov <morozov6420@gmail.com>
+Project-URL: Homepage, https://github.com/morozov6420/dyacon
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Provides-Extra: test
+Provides-Extra: google
+License-File: LICENSE
+
+Package for reading yaml configuration files.
