@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/ezserialize/__init__.py
+src/ezserialize/ezserialize.py
+src/ezserialize.egg-info/PKG-INFO
+src/ezserialize.egg-info/SOURCES.txt
+src/ezserialize.egg-info/dependency_links.txt
+src/ezserialize.egg-info/top_level.txt
+tests/test.py

@@ -1,0 +1,33 @@
+[project]
+name = "ezserialize"
+description = "Easy to use python json serializer and deserializer tool using syntax similar to dataclasses"
+version = "1.0"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+authors = [
+    { name="Damus666", email="macchia.cuordileone@gmail.com" }
+]
+
+dependencies = []
+
+[project.scripts]
+
+[project.urls]
+homepage = "https://github.com/Damus666/EzSerialize"
+bugtracker = "https://github.com/Damus666/EzSerialize/issues"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+addopts = "-rA -s"
+testpaths = [
+    "tests",
+]
