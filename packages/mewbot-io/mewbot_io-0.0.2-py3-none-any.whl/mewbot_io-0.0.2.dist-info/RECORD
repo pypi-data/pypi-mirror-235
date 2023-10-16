@@ -1,0 +1,11 @@
+mewbot/io/common.py,sha256=s4vBcI3IqekIn3Y_-Wro5ghR8Ap_rNIvhCsx-rqEDzM,7739
+mewbot/io/desktop_notification.py,sha256=HQiJgWL2uZRxA7fHQ7ihhykCiblexT8whPI406WCFBw,9853
+mewbot/io/http.py,sha256=xxZmdF8eoQ2KB06OfcOb0rsN6KRkQeMlqqrcfyhKICg,2826
+mewbot/io/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mewbot/io/rss.py,sha256=kK3CxtoX_6c7k3VQ0cny_9J-gb0d45AKhRswsU2Ok2Y,24603
+mewbot/io/socket.py,sha256=7gBH3NJzehTgMXLUJJpOjR-xNaRTiLMoe1fwmTUTXbg,5204
+mewbot_io-0.0.2.dist-info/LICENSE.md,sha256=5ahkWtlKqyTjEt0Ma-KqVCNuuTdEgLGxTqXGFZiHT9U,1287
+mewbot_io-0.0.2.dist-info/METADATA,sha256=iMp_35a819FBDTgyvJCfmN7Y7VSHXF-n_2Ag8ymDyOU,6277
+mewbot_io-0.0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+mewbot_io-0.0.2.dist-info/top_level.txt,sha256=PevFtRfqeuN7_I12tyEOvXXFa571U4EpZnVD2zZPWjA,7
+mewbot_io-0.0.2.dist-info/RECORD,,
