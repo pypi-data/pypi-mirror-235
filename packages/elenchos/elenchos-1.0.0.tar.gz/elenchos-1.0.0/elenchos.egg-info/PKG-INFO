@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: elenchos
+Version: 1.0.0
+Summary: Élenchos: A Nagios plugin framework
+Home-page: https://github.com/NagiosElenchos/elenchos
+Author: Set Based IT Consultancy
+Author-email: info@setbased.nl
+License: MIT
+Keywords: Élenchos,Elenchos
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Software Development :: Code Generators
+Classifier: Topic :: System :: Systems Administration
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE.md
+
+Élenchos
+********
+A `Nagios <https://www.nagios.org/>`_ plugin framework in Python.
+
+Documentation
+*************
+Documentation for developers who want to create Nagios plugins using Élenchos and the documentation for administrators
+who want to install Nagios plugins build with Élenchos can be found at `elenchos.readthedocs.io <https://elenchos.readthedocs.io>`_.
+
+License
+*******
+This project is licensed under the terms of the MIT license.
