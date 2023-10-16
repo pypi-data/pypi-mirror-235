@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: MORALS
+Version: 0.1.1
+Summary: MORALS: Morse Graph-aided discovery of Regions of Attraction in a learned Latent Space
+Home-page: https://github.com/Ewerton-Vieira/MORALS.git
+Author: Aravind Sivaramakrishnan, Dhruv Metha Ramesh, Ewerton Rocha Vieira
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: tqdm
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: wandb
+Requires-Dist: CMGDB
+Requires-Dist: dytop
