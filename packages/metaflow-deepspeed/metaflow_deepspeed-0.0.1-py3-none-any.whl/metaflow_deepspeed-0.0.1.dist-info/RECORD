@@ -1,0 +1,6 @@
+metaflow_extensions/deepspeed/plugins/__init__.py,sha256=yqcOfWZco6zks6A5qktQN_mSYg5Z4Et7cq0p8BkO3nY,13963
+metaflow_deepspeed-0.0.1.dist-info/LICENSE,sha256=ydjCLAcWLldSnWr262KjboD3pUG-FiPgXUsyfPdqdrQ,11348
+metaflow_deepspeed-0.0.1.dist-info/METADATA,sha256=LlBSvSCx3OtDqUhZBBAGN_U-dIGhpJsSVD0Asam3kd8,224
+metaflow_deepspeed-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+metaflow_deepspeed-0.0.1.dist-info/top_level.txt,sha256=NwG0ukwjygtanDETyp_BUdtYtqIA_lOjzFFh1TsnxvI,20
+metaflow_deepspeed-0.0.1.dist-info/RECORD,,
