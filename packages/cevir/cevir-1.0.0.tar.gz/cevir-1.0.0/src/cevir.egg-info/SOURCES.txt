@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/cevir/__init__.py
+src/cevir/examples.py
+src/cevir.egg-info/PKG-INFO
+src/cevir.egg-info/SOURCES.txt
+src/cevir.egg-info/dependency_links.txt
+src/cevir.egg-info/top_level.txt

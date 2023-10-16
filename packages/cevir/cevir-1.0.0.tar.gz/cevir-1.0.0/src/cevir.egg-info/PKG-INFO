@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: cevir
+Version: 1.0.0
+Summary: A small step for me but a huge step for Turkish Python Lovers
+Author-email: xalilcan47 <programlamadunyam@gmail.com>
+Project-URL: Homepage, https://github.com/hackedubuntu/cevir
+Project-URL: Bug Tracker, https://github.com/hackedubuntu/cevir/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+#Python lower ve upper string fonksiyonlarına zaten sahiptir. Fakat Python 3.12 versiyonuna gelmiş olmasına rağmen
+#hala lower ve upper fonksiyonları utf-8 mantığıyla değil ascii mantığıyla çalışmakta ve harf dönüşümleri Türkçe için
+#hatalı olabilmektedir. Bu paket ise bu derdi ortadan kaldırmaya yöneliktir.
+##Bu python paketi şu şekilde kullanılır:
+
+import cevir
+
+yazi = "ÇEMİŞGEZEK"
+print(cevir.lower(yazi)) # Sonuç = çemişgezek
+
+yazi2 = "çemizgezek"
+print(cevir.upper(yazi)) # Sonuç = ÇEMİŞGEZEK
+
+YA DA
+
+from cevir import lower,upper
+
+yazi = "ÇEMİŞGEZEK"
+print(lower(yazi)) # Sonuç = çemişgezek
+
+yazi2 = "çemizgezek"
+print(upper(yazi)) # Sonuç = ÇEMİŞGEZEK
