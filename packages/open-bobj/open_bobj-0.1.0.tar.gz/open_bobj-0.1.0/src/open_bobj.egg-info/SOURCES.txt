@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/open_bobj.egg-info/PKG-INFO
+src/open_bobj.egg-info/SOURCES.txt
+src/open_bobj.egg-info/dependency_links.txt
+src/open_bobj.egg-info/entry_points.txt
+src/open_bobj.egg-info/requires.txt
+src/open_bobj.egg-info/top_level.txt
