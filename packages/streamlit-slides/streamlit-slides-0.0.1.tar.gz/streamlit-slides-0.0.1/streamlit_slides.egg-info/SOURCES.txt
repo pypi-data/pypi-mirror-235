@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+streamlit_slides/__init__.py
+streamlit_slides.egg-info/PKG-INFO
+streamlit_slides.egg-info/SOURCES.txt
+streamlit_slides.egg-info/dependency_links.txt
+streamlit_slides.egg-info/requires.txt
+streamlit_slides.egg-info/top_level.txt
+streamlit_slides/frontend/build/.DS_Store
+streamlit_slides/frontend/build/asset-manifest.json
+streamlit_slides/frontend/build/bootstrap.min.css
+streamlit_slides/frontend/build/index.html
+streamlit_slides/frontend/build/static/js/main.c180beed.js
+streamlit_slides/frontend/build/static/js/main.c180beed.js.LICENSE.txt
+streamlit_slides/frontend/build/static/js/main.c180beed.js.map

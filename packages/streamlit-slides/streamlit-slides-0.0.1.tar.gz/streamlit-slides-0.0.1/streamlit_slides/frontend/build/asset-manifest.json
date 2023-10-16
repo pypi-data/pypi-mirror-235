@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "./static/js/main.c180beed.js",
+    "index.html": "./index.html",
+    "main.c180beed.js.map": "./static/js/main.c180beed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c180beed.js"
+  ]
+}
