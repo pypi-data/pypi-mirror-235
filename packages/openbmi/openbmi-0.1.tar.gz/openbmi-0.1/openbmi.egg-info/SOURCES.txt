@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+openbmi/bmi_gui.py
+openbmi.egg-info/PKG-INFO
+openbmi.egg-info/SOURCES.txt
+openbmi.egg-info/dependency_links.txt
+openbmi.egg-info/requires.txt
+openbmi.egg-info/top_level.txt
