@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: pyjangle-sqlite3
+Version: 0.1.0b0
+Summary: Sqlite3 implementation for PyJangle
+Author-email: Bellstein Labs LLC <bellstein.labs@gmail.com>
+License: MIT License
+        
+        Copyright (c) 2023 Bellstein Labs LLC
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+Project-URL: Homepage, https://github.com/BellsteinLabs/pyjangle_sqlite3
+Keywords: sqlite,sqlite3,pyjangle,jangle
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyjangle==0.*
+
+# PyJangle Sqlite3
+## _A simple way to persist your data_
+
+Contains SQLite3 event, saga, and snapshot repository implementations for [PyJangle][pyjangle].  Bootstrop using [`initialize_pyjangle_sqlite3`][initialize].  See the [reference implementation][reference] of PyJangle for example usage.
+
+[pyjangle]: <https://github.com/BellsteinLabs/pyJangle/tree/main>
+[reference]: <https://github.com/BellsteinLabs/pyJangle/blob/main/example/main.py>
+[initialize]: <https://github.com/BellsteinLabs/pyangle_sqlite3/blob/main/src/pyjangle_sqlite3/initialize.py>
+
+## Installation
+
+```pip install pyjangle_sqlite3```
