@@ -1,0 +1,7 @@
+torch
+tokenizers
+llm_weights_mmap
+
+[dev]
+pytest
+tqdm
