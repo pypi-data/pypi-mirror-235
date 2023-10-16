@@ -1,0 +1,1 @@
+Modifies the linearity correction to divide the process into smaller chunks using less memory. No longer requires that entire ramp set be stored in memory at once.

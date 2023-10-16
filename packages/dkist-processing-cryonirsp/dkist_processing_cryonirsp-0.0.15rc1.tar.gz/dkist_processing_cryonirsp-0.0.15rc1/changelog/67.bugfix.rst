@@ -1,0 +1,3 @@
+Fixed bug in SP solar gain task where lamp gain was being applied to the average solar image,
+causing the spectral transmission profile to be removed from the resulting solar gain image.
+The lamp gain is no longer applied.
