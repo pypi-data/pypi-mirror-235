@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: treadmdr
+Version: 0.0.17
+Summary: MDRTR
+Home-page: https://github.com/sysucai
+Author: sysucai
+Author-email: 411703730@qq.com
+License: UNKNOWN
+Platform: Any platform -- don't need Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: pandas >=1.4.0
+Requires-Dist: numpy >=1.21.0
+
+UNKNOWN
+
