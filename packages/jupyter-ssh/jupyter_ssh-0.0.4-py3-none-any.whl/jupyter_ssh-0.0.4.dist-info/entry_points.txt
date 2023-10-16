@@ -1,0 +1,3 @@
+[console_scripts]
+jupyter-ssh = jupyter_ssh.application:main
+jupyter-ssh-server = jupyter_ssh.serverapplication:main
