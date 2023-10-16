@@ -1,0 +1,10 @@
+pdf2image_dataextraction/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pdf2image_dataextraction/data_extract.py,sha256=VrNsTQM0Xs7yn7YRz-xmh0UAPRC4V1YNIOpTj3GFAQg,760
+pdf2image_dataextraction/data_extraction2parts.py,sha256=lER2oGJ9wROMyReVtA0XoBZXcTivamqQO7T0JGNuinE,1899
+pdf_dataextraction/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pdf_dataextraction/data_extraction_pdf.py,sha256=_Ju_0GAApXF8Xtt6QlRS9a4uZaMnbJ5E3vvVYBhT3as,209
+DataXtractor-1.0.6.dist-info/LICENSE.txt,sha256=yc4eaxCNm6p7it-DR9-TpAD1-DuPPmBbjuUAlq5AzEQ,1070
+DataXtractor-1.0.6.dist-info/METADATA,sha256=60ILn5qNAQ44apgovF_4oKCE6WVb5BE6eHGp5dOeBr8,6281
+DataXtractor-1.0.6.dist-info/WHEEL,sha256=g4nMs7d-Xl9-xC9XovUrsDHGXt-FT0E17Yqo92DEfvY,92
+DataXtractor-1.0.6.dist-info/top_level.txt,sha256=QqP-bq1xEd3kepESaCRDB5mEsA_4JJ5-nug5F5k7m_I,44
+DataXtractor-1.0.6.dist-info/RECORD,,
