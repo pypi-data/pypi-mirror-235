@@ -1,0 +1,33 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "sphinx-yaml-table"
+authors = [{name = "Richard Darst"}]
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Framework :: Sphinx",
+    "Framework :: Sphinx :: Extension",
+    ]
+dynamic = ["version", "description"]
+requires-python = ">=3"
+dependencies = [
+    "docutils",
+    "PyYAML",
+]
+
+[tool.flit.module]
+name = "sphinx_yaml_table"
+
+[project.optional-dependencies]
+test = [
+  "sphinx>1.8",
+  "pytest",
+]
+
+[project.urls]
+Home = "https://github.com/rkdarst/sphinx-yaml-table/"
