@@ -1,0 +1,14 @@
+[project]
+name = "lshplots"
+version = "1.0.1"
+authors = [
+  { name="Sihan Li", email="sil51@pitt.edu" },
+]
+description = "1st try of python package distribution"
+readme = "README.md"
+#requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]

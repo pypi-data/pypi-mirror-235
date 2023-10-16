@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: lshplots
+Version: 1.0.1
+Summary: 1st try of python package distribution
+Author-email: Sihan Li <sil51@pitt.edu>
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
