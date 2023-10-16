@@ -1,0 +1,23 @@
+[project]
+name = "flaskuploadserver"
+version = "0.0.1"
+authors = [
+  { name="Some Sysadmin", email="flaskupload@somesysadmin.com" },
+]
+description = "flask drag drop upload server"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "Flask == 2.2.5",
+]
+
+
+[project.urls]
+"Homepage" = "https://example.com"
+"Bug Tracker" = "https://example.com"
+

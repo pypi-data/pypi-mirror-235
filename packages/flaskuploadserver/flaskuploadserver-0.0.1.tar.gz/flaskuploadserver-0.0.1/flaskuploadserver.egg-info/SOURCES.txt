@@ -1,0 +1,7 @@
+pyproject.toml
+flaskuploadserver/__main__.py
+flaskuploadserver.egg-info/PKG-INFO
+flaskuploadserver.egg-info/SOURCES.txt
+flaskuploadserver.egg-info/dependency_links.txt
+flaskuploadserver.egg-info/requires.txt
+flaskuploadserver.egg-info/top_level.txt
