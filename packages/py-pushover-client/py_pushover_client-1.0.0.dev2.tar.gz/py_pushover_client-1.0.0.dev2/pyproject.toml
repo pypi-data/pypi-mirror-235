@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+[project]
+name = "py_pushover_client"
+description = "A client package for the Pushover API"
+version = "1.0.0.dev2"
+license = {file = "LICENSE"}
+readme = "README.md"
+requires-python = ">=3.7"
+authors = [
+  { name="Tim MacKay", email="simplytim42@gmail.com" },
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    "requests>=2.31.0",
+]
+
+
+[project.urls]
+"Homepage" = "https://github.com/simplytim42/py-pushover-client"

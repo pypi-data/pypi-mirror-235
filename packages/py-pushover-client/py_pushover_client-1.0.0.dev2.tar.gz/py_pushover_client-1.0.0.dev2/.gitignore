@@ -1,0 +1,5 @@
+# packaging files
+dist/
+
+# virutal environment
+venv/
