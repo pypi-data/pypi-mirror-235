@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: BODY-SCAN
+Version: 0.0.23
+License: LL
+Project-URL: GitLab, https://gitlab.com/reptilian_climates/body_scan.git
+Description-Content-Type: text/plain
+License-File: LICENSE.HTML
+Requires-Dist: BOTANIST
+Requires-Dist: click
+Requires-Dist: flask
