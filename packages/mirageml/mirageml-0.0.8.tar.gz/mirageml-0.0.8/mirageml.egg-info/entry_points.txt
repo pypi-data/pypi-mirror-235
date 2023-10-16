@@ -1,0 +1,3 @@
+[console_scripts]
+mirageml = mirageml_pip.__main__:main
+
