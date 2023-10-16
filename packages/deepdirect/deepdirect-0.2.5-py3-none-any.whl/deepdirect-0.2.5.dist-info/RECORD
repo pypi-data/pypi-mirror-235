@@ -1,0 +1,10 @@
+deepdirect/__init__.py,sha256=qSwJ27Lexn5p7sBNlbXcqj0RK8SYV5Jm0YE0yFvuUzQ,382
+deepdirect/model.py,sha256=SBeyRGrLpadQuyv_x4dSAwtaB6f6dqaWVqH24uKFfmA,31279
+deepdirect/mutator.py,sha256=kDBS6AaSKHcExyqvNGwVyHu-CTOsjfd_dfHwOapJ7Ks,424
+deepdirect/weights/model_d_weights.h5,sha256=JfiDYz8GmMuqYiVGd8Mrl9I5vtRaLOymglYTVxkAaEw,4127096
+deepdirect/weights/model_i_weights.h5,sha256=i8e_LxHtBLF6LpogqODSaYzzoCe4v0HuiBdUibWPbEc,4127096
+deepdirect-0.2.5.dist-info/LICENSE,sha256=gXf5dRMhNSbfLPYYTY_5hsZ1r7UU1OaKQEAQUhuIBkM,18092
+deepdirect-0.2.5.dist-info/METADATA,sha256=ZwbHSJ42jfNnH8asP5c7fxOs1Po9DxwELpieTI9Yp_4,3941
+deepdirect-0.2.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+deepdirect-0.2.5.dist-info/top_level.txt,sha256=ijN0nnObwg8j04S_ogRTs0P2smfd5ON2GjTWJbsqouo,11
+deepdirect-0.2.5.dist-info/RECORD,,
