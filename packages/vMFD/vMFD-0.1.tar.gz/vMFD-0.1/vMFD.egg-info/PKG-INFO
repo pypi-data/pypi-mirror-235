@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: vMFD
+Version: 0.1
+Summary: Infer moral appeals from text
+Home-page: https://github.com/yangkcatiu/VecOpt
+Author: Kai-Cheng Yang <yang3kc@gmail.com>, Zening Duan <zening.duan@wisc.edu>
+License: MIT
+License-File: LICENSE
+Requires-Dist: pandas
