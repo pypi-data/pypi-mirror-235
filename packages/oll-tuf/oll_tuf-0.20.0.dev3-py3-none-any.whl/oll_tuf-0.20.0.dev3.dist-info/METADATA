@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: oll-tuf
+Version: 0.20.0.dev3
+Summary: Open Law Library's fork of Python-TUF
+Author-email: info@openlawlib.org
+License: MIT OR Apache-2.0
+Keywords: authentication,compromise,key,revocation,secure,update,updater
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development
+Requires-Python: >=3.7
+Requires-Dist: requests>=2.19.1
+Requires-Dist: securesystemslib>=0.22.0
+Description-Content-Type: text/markdown
+
+# Disclaimer
+
+This is a fork of [Python-TUF](https://github.com/theupdateframework/python-tuf), maintained by the Open Law Library and
+utilized by [The Archive Framework (TAF)](https://github.com/openlawlibrary/taf). The fork was created to make TUF's updater more
+flexible, as TAF requires reading content of metadata and target files from bare Git repositories. Although these updates were
+never merged upstream, this use case was taken into consideration during the rework of Python TUF's updater, and we encourage anyone
+in need of the same flexibility to use the latest version of Python TUF. This fork will reach its end-of-life as soon as TAF's
+codebase is updated, seeing that it currently relies on code that was removed from the newer versions of Python TUF.
+
+For more information, please contact <info@openlawlib.org>
