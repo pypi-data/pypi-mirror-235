@@ -1,0 +1,15 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+src/mewbot/io/common.py
+src/mewbot/io/desktop_notification.py
+src/mewbot/io/http.py
+src/mewbot/io/py.typed
+src/mewbot/io/rss.py
+src/mewbot/io/socket.py
+src/mewbot_io.egg-info/PKG-INFO
+src/mewbot_io.egg-info/SOURCES.txt
+src/mewbot_io.egg-info/dependency_links.txt
+src/mewbot_io.egg-info/requires.txt
+src/mewbot_io.egg-info/top_level.txt
