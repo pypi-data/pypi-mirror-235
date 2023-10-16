@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/multiproc_tests/__init__.py
+src/multiproc_tests/run.py
+src/multiproc_tests.egg-info/PKG-INFO
+src/multiproc_tests.egg-info/SOURCES.txt
+src/multiproc_tests.egg-info/dependency_links.txt
+src/multiproc_tests.egg-info/requires.txt
+src/multiproc_tests.egg-info/top_level.txt
