@@ -1,0 +1,3 @@
+[console_scripts]
+cyrius = cyrius.star_caller:main
+
