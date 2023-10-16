@@ -1,0 +1,7 @@
+django_readonly_field/__init__.py,sha256=GGDvDMPchw_W20NnDnNdDXlvd3xjTLvUQDXzHvMOGTI,134
+django_readonly_field/apps.py,sha256=Bl80OU3LaXzoLvlrle0cbFLDE_WkqcQaJzQn1BJLFD8,1097
+django_readonly_field/compiler.py,sha256=0Vnj7mbumwg4mDN75woVG6gnvHV6kfhHkqkUwAPPAnc,2691
+django_readonly_field-1.2.0.dist-info/LICENSE,sha256=CiD_u4TQQ0XWhcc9cGO9Q6oF9k1Zo2zISEvlntf9Ysw,1103
+django_readonly_field-1.2.0.dist-info/METADATA,sha256=bW3dETRwMXHUsuN1CQZlBGoXKEopLneAKKG6cV9WaLg,5182
+django_readonly_field-1.2.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+django_readonly_field-1.2.0.dist-info/RECORD,,
