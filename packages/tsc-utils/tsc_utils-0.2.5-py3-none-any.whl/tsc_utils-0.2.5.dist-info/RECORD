@@ -1,0 +1,12 @@
+tsc_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tsc_utils/codegen.py,sha256=EYyndlvUNMNfCwMdOq7QZmSsNWa6q62sIu6R5DOHwVw,2110
+tsc_utils/flags.py,sha256=RcHpw-eoK2f_adludFUgcKQjsWNTS7PW9gUto1HzHtM,4961
+tsc_utils/numbers.py,sha256=h_ZypRbre371-kuhJo8G6lRW8tq1tdozDiEPxxmRVhw,4841
+tsc_utils/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tsc_utils/util.py,sha256=2sN9K5TNM5OSh2Qgzrh3MUwMi4-4Tu1BHm5Yl65llyA,360
+tsc_utils/version.py,sha256=7Tv5KcFrUi9pBxqT_B35TCdR7vBvjNUgkvpi6fGwPdU,142
+tsc_utils-0.2.5.dist-info/LICENSE.md,sha256=rdqD7IZ7ejH3iJdSPdA95RxVRHOiYCMDYieTpbAnYgM,1077
+tsc_utils-0.2.5.dist-info/METADATA,sha256=N7MThAtocAn3rcZTxgWDakEhSacU3zifLNLY5rYKnK4,834
+tsc_utils-0.2.5.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+tsc_utils-0.2.5.dist-info/top_level.txt,sha256=m2KrOa3R-GtZOb1-WzA8vl7CMvK6pDga7jZQnxcV3nE,10
+tsc_utils-0.2.5.dist-info/RECORD,,
