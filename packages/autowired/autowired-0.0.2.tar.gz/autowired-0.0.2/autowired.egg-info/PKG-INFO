@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: autowired
+Version: 0.0.2
+Summary: A minimalistic dependency injection library for Python
+Author: Nicolai Großer
+Author-email: nicolai.grosser@googlemail.com
+Description-Content-Type: text/markdown
