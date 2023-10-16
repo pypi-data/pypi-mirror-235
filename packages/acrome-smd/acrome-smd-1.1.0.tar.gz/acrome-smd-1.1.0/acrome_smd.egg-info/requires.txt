@@ -1,0 +1,7 @@
+pyserial
+stm32loader
+crccheck
+requests
+packaging
+hashlib
+tempfile
