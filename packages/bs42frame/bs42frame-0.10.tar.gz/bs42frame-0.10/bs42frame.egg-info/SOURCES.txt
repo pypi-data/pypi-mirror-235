@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+bs42frame/README.MD
+bs42frame/__init__.py
+bs42frame/requirements.txt
+bs42frame/thirdparty.json
+bs42frame.egg-info/PKG-INFO
+bs42frame.egg-info/SOURCES.txt
+bs42frame.egg-info/dependency_links.txt
+bs42frame.egg-info/requires.txt
+bs42frame.egg-info/top_level.txt

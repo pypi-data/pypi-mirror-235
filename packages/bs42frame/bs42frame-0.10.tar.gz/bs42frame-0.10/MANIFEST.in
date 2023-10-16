@@ -1,0 +1,3 @@
+include bs42frame/requirements.txt
+include bs42frame/thirdparty.json
+include bs42frame/README.MD
