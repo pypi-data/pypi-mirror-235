@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: bbo-pysisplit
+Version: 1.0.0
+Summary: Split ScanImage TIFFs into multiple files
+Home-page: https://github.com/bbo-lab/pySIsplit
+Author: BBO-lab @ caesar
+Author-email: kay-michael.voit@mpinb.mpg.de
+License: LGPL
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: tqdm
+Requires-Dist: tifffile
+Requires-Dist: argparse
+
