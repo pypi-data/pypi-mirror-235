@@ -1,0 +1,6 @@
+findspark
+langchain
+openai
+scikit-learn
+tabulate
+pyspark
