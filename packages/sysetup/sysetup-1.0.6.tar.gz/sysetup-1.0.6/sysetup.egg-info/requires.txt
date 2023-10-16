@@ -1,0 +1,12 @@
+backupmaster
+dbus-next
+quinten-cli
+requests
+superpathlib
+
+[dev]
+pre-commit
+
+[test]
+hypothesis
+pytest
