@@ -1,0 +1,34 @@
+[tool.poetry]
+name = "infrahub"
+version = "0.1.0"
+description = "Infrastructure Source of Truth"
+authors = ["OpsMill <contact@opsmill.com>"]
+readme = "README.md"
+homepage = "https://opsmill.io"
+repository = "https://opsmill.io"
+documentation = "https://opsmill.io"
+packages = [
+    {include = "infrahub"}
+]
+classifiers = [
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fastapi = "^0.103.2"
+typer = "^0.9.0"
+graphene = "^3.3"
+uvicorn = "^0.23.2"
+
+[tool.poetry.scripts]
+infrahub = "infrahub.cli:app"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
