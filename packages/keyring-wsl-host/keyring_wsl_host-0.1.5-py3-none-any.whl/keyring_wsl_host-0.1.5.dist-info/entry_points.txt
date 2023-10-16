@@ -1,0 +1,3 @@
+[console_scripts]
+keyring-host = keyring_wsl_host.__init__:main
+
