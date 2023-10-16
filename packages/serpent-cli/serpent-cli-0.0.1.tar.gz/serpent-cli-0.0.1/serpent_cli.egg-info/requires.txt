@@ -1,0 +1,8 @@
+virtualenv
+flit
+tomli
+tomli_w
+
+[templatespack]
+stempl-webpy
+stempl-flask
