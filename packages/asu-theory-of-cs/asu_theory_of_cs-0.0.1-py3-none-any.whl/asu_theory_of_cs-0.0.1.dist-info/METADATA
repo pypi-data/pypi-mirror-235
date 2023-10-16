@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: asu_theory_of_cs
+Version: 0.0.1
+Summary: A python library for simulating and evaluating automata and generating expressions as found in Michael Sipser's Theory of Computation.
+Project-URL: Homepage, https://github.com/SaajanM/asu-theory-of-cs
+Project-URL: Bug Tracker, https://github.com/SaajanM/asu-theory-of-cs/issues
+Author-email: Saajan Maslanka <academia@saajanm.com>
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Requires-Dist: matplotlib
+Requires-Dist: pillow
+Description-Content-Type: text/markdown
+
+# asu-theory-of-cs
+A python library for simulating and evaluating automata and generating expressions as found in Michael Sipser's Theory of Computation.
