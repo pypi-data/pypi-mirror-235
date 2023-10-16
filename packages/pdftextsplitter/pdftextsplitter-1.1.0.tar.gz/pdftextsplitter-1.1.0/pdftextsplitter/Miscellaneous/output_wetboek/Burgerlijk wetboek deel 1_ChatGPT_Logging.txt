@@ -1,0 +1,1 @@
+We used the textsplitter in dummy-mode. So no logging was possible.

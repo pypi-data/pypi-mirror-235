@@ -1,0 +1,58 @@
+##################################################################
+### [TEXTSPLITTER CLASS] #########################################
+### [Breakdown decisions for document Burgerlijk wetboek pag 1] ###
+##################################################################
+
+Left=12.0 | Value=13.98 | Right=14.04 | Freq=0.03697183098591549 | Cascade=1 | Regular=False
+Left=9.96 | Value=10.02 | Right=12.0 | Freq=0.9630281690140845 | Cascade=2 | Regular=True
+
+
+
+L=-4.148742432000001 | Val=-0.8083203599999982 | R=5.283037536000006 | Freq=0.02564102564102564 | Reg=False | small=True | BIG=False | zero=True | valid=True
+L=5.283037536000006 | Val=11.37439543200001 | R=13.732340424000013 | Freq=0.48717948717948717 | Reg=True | small=False | BIG=False | zero=False | valid=True
+L=13.732340424000013 | Val=16.090285416000015 | R=19.82369832000002 | Freq=0.05128205128205128 | Reg=False | small=False | BIG=True | zero=False | valid=True
+L=19.82369832000002 | Val=23.55711122400002 | R=25.71856080000002 | Freq=0.41025641025641024 | Reg=False | small=False | BIG=True | zero=False | valid=True
+L=25.71856080000002 | Val=27.880010376000023 | R=100000.0 | Freq=0.02564102564102564 | Reg=False | small=False | BIG=True | zero=False | valid=True
+
+
+
+[FONTSIZE=14.0] <=> [VERTPOS=737.6601730000001] <=> [WHITELINES=-1.0;16.100000000000023] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Burgerlijk Wetboek Boek 1>]
+[FONTSIZE=14.0] <=> [VERTPOS=721.5601730000001] <=> [WHITELINES=16.100000000000023;16.100000000000023] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Geraadpleegd op 27-06-2023.>]
+[FONTSIZE=14.0] <=> [VERTPOS=705.460173] <=> [WHITELINES=16.100000000000023;27.956000000000017] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Geldend van 01-05-2023 t/m heden>]
+[FONTSIZE=10.0] <=> [VERTPOS=677.504173] <=> [WHITELINES=27.956000000000017;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<Boek 1. Personen- en familierecht>]
+[FONTSIZE=10.0] <=> [VERTPOS=654.004173] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<Titel 1. Algemene bepalingen>]
+[FONTSIZE=10.0] <=> [VERTPOS=630.504173] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Artikel 1>]
+[FONTSIZE=10.0] <=> [VERTPOS=607.004173] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<1. Allen die zich in Nederland bevinden, zijn vrij en bevoegd tot het genot van de burgerlijke>]
+[FONTSIZE=10.0] <=> [VERTPOS=595.504173] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<rechten.>]
+[FONTSIZE=10.0] <=> [VERTPOS=572.004173] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<2. Persoonlijke dienstbaarheden, van welke aard of onder welke benaming ook, worden niet>]
+[FONTSIZE=10.0] <=> [VERTPOS=560.504173] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<geduld.>]
+[FONTSIZE=10.0] <=> [VERTPOS=537.004173] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Artikel 2>]
+[FONTSIZE=10.0] <=> [VERTPOS=513.504173] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dikwijls zijn>]
+[FONTSIZE=10.0] <=> [VERTPOS=502.00417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<belang dit vordert. Komt het dood ter wereld, dan wordt het geacht nooit te hebben bestaan.>]
+[FONTSIZE=10.0] <=> [VERTPOS=478.50417300000004] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Artikel 3>]
+[FONTSIZE=10.0] <=> [VERTPOS=455.00417300000004] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<1. De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de>]
+[FONTSIZE=10.0] <=> [VERTPOS=443.50417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke>]
+[FONTSIZE=10.0] <=> [VERTPOS=432.00417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<vaststelling van het ouderschap of een adoptie als een geboorte.>]
+[FONTSIZE=10.0] <=> [VERTPOS=408.50417300000004] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<2. Door huwelijk of door geregistreerd partnerschap ontstaat tussen de ene echtgenoot dan>]
+[FONTSIZE=10.0] <=> [VERTPOS=397.00417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<wel de ene geregistreerde partner en een bloedverwant van de andere echtgenoot dan>]
+[FONTSIZE=10.0] <=> [VERTPOS=385.50417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<wel de andere geregistreerde partner aanverwantschap in dezelfde graad als er>]
+[FONTSIZE=10.0] <=> [VERTPOS=374.00417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<bloedverwantschap bestaat tussen de andere echtgenoot dan wel de andere>]
+[FONTSIZE=10.0] <=> [VERTPOS=362.50417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<geregistreerde partner en diens bloedverwant.>]
+[FONTSIZE=10.0] <=> [VERTPOS=339.00417300000004] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<3. Door het eindigen van het huwelijk of geregistreerd partnerschap wordt de>]
+[FONTSIZE=10.0] <=> [VERTPOS=327.50417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<aanverwantschap niet opgeheven.>]
+[FONTSIZE=10.0] <=> [VERTPOS=304.00417300000004] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<Titel 2. Het recht op de naam>]
+[FONTSIZE=10.0] <=> [VERTPOS=280.50417300000004] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=1] <=> [TEXTLABEL=<texttype.HEADLINES] <=> [CONTENT=<Artikel 4>]
+[FONTSIZE=10.0] <=> [VERTPOS=257.00417300000004] <=> [WHITELINES=23.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<1. Een ieder heeft de voornamen die hem in zijn geboorteakte zijn gegeven.>]
+[FONTSIZE=10.0] <=> [VERTPOS=233.50417300000004] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<2. De ambtenaar van de burgerlijke stand weigert in de geboorteakte voornamen op te>]
+[FONTSIZE=10.0] <=> [VERTPOS=222.00417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<nemen die ongepast zijn, of overeenstemmen met bestaande geslachtsnamen tenzij deze>]
+[FONTSIZE=10.0] <=> [VERTPOS=210.50417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<tevens gebruikelijke voornamen zijn.>]
+[FONTSIZE=10.0] <=> [VERTPOS=187.00417300000004] <=> [WHITELINES=23.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<3. Geeft de aangever geen voornamen op, of worden deze alle geweigerd zonder dat de>]
+[FONTSIZE=10.0] <=> [VERTPOS=175.50417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<aangever ze door een of meer andere vervangt, dan geeft de ambtenaar ambtshalve het>]
+[FONTSIZE=10.0] <=> [VERTPOS=164.00417300000004] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<kind een of meer voornamen, en vermeldt hij uitdrukkelijk in de akte dat die voornamen>]
+[FONTSIZE=10.0] <=> [VERTPOS=152.50417300000004] <=> [WHITELINES=11.5;23.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<ambtshalve zijn gegeven.>]
+[FONTSIZE=10.0] <=> [VERTPOS=129.00417300000004] <=> [WHITELINES=23.5;11.499999999999986] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.ENUMERATION] <=> [CONTENT=<4. Wijziging van de voornamen kan op verzoek van de betrokken persoon of zijn wettelijke>]
+[FONTSIZE=10.0] <=> [VERTPOS=117.50417300000005] <=> [WHITELINES=11.499999999999986;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<vertegenwoordiger worden gelast door de rechtbank. De wijziging geschiedt doordat van>]
+[FONTSIZE=10.0] <=> [VERTPOS=106.00417300000005] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<de beschikking een latere vermelding aan de akte van geboorte wordt toegevoegd,>]
+[FONTSIZE=10.0] <=> [VERTPOS=94.50417300000005] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<overeenkomstig artikel 20a, eerste lid. In geval van wijziging van de voornamen van een>]
+[FONTSIZE=10.0] <=> [VERTPOS=83.00417300000005] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<buiten Nederland geboren persoon geeft de rechtbank die de beschikking geeft, voor>]
+[FONTSIZE=10.0] <=> [VERTPOS=83.00417300000005] <=> [WHITELINES=11.5;11.5] <=> [TEXTLEVEL=2] <=> [TEXTLABEL=<texttype.BODY] <=> [CONTENT=<>]

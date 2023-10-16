@@ -1,0 +1,234 @@
+################################################################
+### [TEXTSPLITTER CLASS] #######################################
+### [Breakdown results for document Burgerlijk wetboek pag 1] ###
+################################################################
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=0
+ [TITLE] = Burgerlijk wetboek pag 1
+ nativeID=0 parentID=-1 & horizontal_ordering=0
+ texttype=texttype.TITLE & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+Boek 1. Personen- en familierecht Titel 1. Algemene bepalingen 1. Allen die zich in Nederland bevinden, zijn vrij en bevoegd tot het genot van de burgerlijke rechten. 2. Persoonlijke dienstbaarheden, van welke aard of onder welke benaming ook, worden niet geduld. Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dikwijls zijn belang dit vordert. Komt het dood ter wereld, dan wordt het geacht nooit te hebben bestaan. Titel 2. Het recht op de naam 1. De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, 
+
+ [ALINEA-CONTENT]:
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=1
+ [TITLE] = Burgerlijk Wetboek Boek 1 Geraadpleegd op 27-06-2023. Geldend van 01-05-2023 t/m heden
+ nativeID=1 parentID=0 & horizontal_ordering=0
+ texttype=texttype.HEADLINES & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+Boek 1. Personen- en familierecht Titel 1. Algemene bepalingen 
+
+ [ALINEA-CONTENT]:
+Boek 1. Personen- en familierecht
+Titel 1. Algemene bepalingen
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=1
+ [TITLE] = Artikel 1
+ nativeID=2 parentID=0 & horizontal_ordering=1
+ texttype=texttype.HEADLINES & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+1. Allen die zich in Nederland bevinden, zijn vrij en bevoegd tot het genot van de burgerlijke rechten. 2. Persoonlijke dienstbaarheden, van welke aard of onder welke benaming ook, worden niet geduld. 
+
+ [ALINEA-CONTENT]:
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 1. Allen die zich in Nederland ...
+ nativeID=3 parentID=2 & horizontal_ordering=0
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+1. Allen die zich in Nederland bevinden, zijn vrij en bevoegd tot het genot van de burgerlijke rechten. 
+
+ [ALINEA-CONTENT]:
+1. Allen die zich in Nederland bevinden, zijn vrij en bevoegd tot het genot van de burgerlijke
+rechten.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 2. Persoonlijke dienstbaarheden, van welke aard ...
+ nativeID=4 parentID=2 & horizontal_ordering=1
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+2. Persoonlijke dienstbaarheden, van welke aard of onder welke benaming ook, worden niet geduld. 
+
+ [ALINEA-CONTENT]:
+2. Persoonlijke dienstbaarheden, van welke aard of onder welke benaming ook, worden niet
+geduld.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=1
+ [TITLE] = Artikel 2
+ nativeID=5 parentID=0 & horizontal_ordering=2
+ texttype=texttype.HEADLINES & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dikwijls zijn belang dit vordert. Komt het dood ter wereld, dan wordt het geacht nooit te hebben bestaan. 
+
+ [ALINEA-CONTENT]:
+Het kind waarvan een vrouw zwanger is wordt als reeds geboren aangemerkt, zo dikwijls zijn
+belang dit vordert. Komt het dood ter wereld, dan wordt het geacht nooit te hebben bestaan.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=1
+ [TITLE] = Artikel 3
+ nativeID=6 parentID=0 & horizontal_ordering=3
+ texttype=texttype.HEADLINES & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+Titel 2. Het recht op de naam 1. De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke vaststelling van het ouderschap of een adoptie als een geboorte. 2. Door huwelijk of door geregistreerd partnerschap ontstaat tussen de ene echtgenoot dan wel de ene geregistreerde partner en een bloedverwant van de andere echtgenoot dan wel de andere geregistreerde partner aanverwantschap in dezelfde graad als er bloedverwantschap bestaat tussen de andere echtgenoot dan wel de andere geregistreerde partner en diens bloedverwant. 3. Door het eindigen van het huwelijk of 
+
+ [ALINEA-CONTENT]:
+Titel 2. Het recht op de naam
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 1. De graad van bloedverwantschap wordt ...
+ nativeID=7 parentID=6 & horizontal_ordering=0
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+1. De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke vaststelling van het ouderschap of een adoptie als een geboorte. 
+
+ [ALINEA-CONTENT]:
+1. De graad van bloedverwantschap wordt bepaald door het getal der geboorten, die de
+bloedverwantschap hebben veroorzaakt. Hierbij telt een erkenning, een gerechtelijke
+vaststelling van het ouderschap of een adoptie als een geboorte.
+
+          ***          [--- more alinea content ---]        ***          
+
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 2. Door huwelijk of door geregistreerd ...
+ nativeID=8 parentID=6 & horizontal_ordering=1
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+2. Door huwelijk of door geregistreerd partnerschap ontstaat tussen de ene echtgenoot dan wel de ene geregistreerde partner en een bloedverwant van de andere echtgenoot dan wel de andere geregistreerde partner aanverwantschap in dezelfde graad als er bloedverwantschap bestaat tussen de andere echtgenoot dan wel de andere geregistreerde partner en diens bloedverwant. 
+
+ [ALINEA-CONTENT]:
+2. Door huwelijk of door geregistreerd partnerschap ontstaat tussen de ene echtgenoot dan
+wel de ene geregistreerde partner en een bloedverwant van de andere echtgenoot dan
+wel de andere geregistreerde partner aanverwantschap in dezelfde graad als er
+
+          ***          [--- more alinea content ---]        ***          
+
+bloedverwantschap bestaat tussen de andere echtgenoot dan wel de andere
+geregistreerde partner en diens bloedverwant.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 3. Door het eindigen van het ...
+ nativeID=9 parentID=6 & horizontal_ordering=2
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+3. Door het eindigen van het huwelijk of geregistreerd partnerschap wordt de aanverwantschap niet opgeheven. 
+
+ [ALINEA-CONTENT]:
+3. Door het eindigen van het huwelijk of geregistreerd partnerschap wordt de
+aanverwantschap niet opgeheven.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=1
+ [TITLE] = Artikel 4
+ nativeID=10 parentID=0 & horizontal_ordering=4
+ texttype=texttype.HEADLINES & enumeration-type=enum_type.UNKNOWN
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+1. Een ieder heeft de voornamen die hem in zijn geboorteakte zijn gegeven. 2. De ambtenaar van de burgerlijke stand weigert in de geboorteakte voornamen op te nemen die ongepast zijn, of overeenstemmen met bestaande geslachtsnamen tenzij deze tevens gebruikelijke voornamen zijn. 3. Geeft de aangever geen voornamen op, of worden deze alle geweigerd zonder dat de aangever ze door een of meer andere vervangt, dan geeft de ambtenaar ambtshalve het kind een of meer voornamen, en vermeldt hij uitdrukkelijk in de akte dat die voornamen ambtshalve zijn gegeven. 4. Wijziging van de voornamen kan op verzoek van de betrokken 
+
+ [ALINEA-CONTENT]:
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 1. Een ieder heeft de voornamen ...
+ nativeID=11 parentID=10 & horizontal_ordering=0
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+1. Een ieder heeft de voornamen die hem in zijn geboorteakte zijn gegeven. 
+
+ [ALINEA-CONTENT]:
+1. Een ieder heeft de voornamen die hem in zijn geboorteakte zijn gegeven.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 2. De ambtenaar van de burgerlijke ...
+ nativeID=12 parentID=10 & horizontal_ordering=1
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+2. De ambtenaar van de burgerlijke stand weigert in de geboorteakte voornamen op te nemen die ongepast zijn, of overeenstemmen met bestaande geslachtsnamen tenzij deze tevens gebruikelijke voornamen zijn. 
+
+ [ALINEA-CONTENT]:
+2. De ambtenaar van de burgerlijke stand weigert in de geboorteakte voornamen op te
+nemen die ongepast zijn, of overeenstemmen met bestaande geslachtsnamen tenzij deze
+tevens gebruikelijke voornamen zijn.
+
+          ***          [--- more alinea content ---]        ***          
+
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 3. Geeft de aangever geen voornamen ...
+ nativeID=13 parentID=10 & horizontal_ordering=2
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+3. Geeft de aangever geen voornamen op, of worden deze alle geweigerd zonder dat de aangever ze door een of meer andere vervangt, dan geeft de ambtenaar ambtshalve het kind een of meer voornamen, en vermeldt hij uitdrukkelijk in de akte dat die voornamen ambtshalve zijn gegeven. 
+
+ [ALINEA-CONTENT]:
+3. Geeft de aangever geen voornamen op, of worden deze alle geweigerd zonder dat de
+aangever ze door een of meer andere vervangt, dan geeft de ambtenaar ambtshalve het
+kind een of meer voornamen, en vermeldt hij uitdrukkelijk in de akte dat die voornamen
+
+          ***          [--- more alinea content ---]        ***          
+
+ambtshalve zijn gegeven.
+
+---------------------------------------------------------------------------------
+ [ALINEA-TITLE] Cascade-level=2
+ [TITLE] = 4. Wijziging van de voornamen kan ...
+ nativeID=14 parentID=10 & horizontal_ordering=3
+ texttype=texttype.ENUMERATION & enumeration-type=enum_type.DIGIT
+ Summary Flag = False
+
+ [ALINEA-SUMMARY]:
+4. Wijziging van de voornamen kan op verzoek van de betrokken persoon of zijn wettelijke vertegenwoordiger worden gelast door de rechtbank. De wijziging geschiedt doordat van de beschikking een latere vermelding aan de akte van geboorte wordt toegevoegd, overeenkomstig artikel 20a, eerste lid. In geval van wijziging van de voornamen van een buiten Nederland geboren persoon geeft de rechtbank die de beschikking geeft, voor 
+
+ [ALINEA-CONTENT]:
+4. Wijziging van de voornamen kan op verzoek van de betrokken persoon of zijn wettelijke
+vertegenwoordiger worden gelast door de rechtbank. De wijziging geschiedt doordat van
+de beschikking een latere vermelding aan de akte van geboorte wordt toegevoegd,
+
+          ***          [--- more alinea content ---]        ***          
+
+overeenkomstig artikel 20a, eerste lid. In geval van wijziging van de voornamen van een
+buiten Nederland geboren persoon geeft de rechtbank die de beschikking geeft, voor
+
+
+---------------------------------------------------------------------------------
