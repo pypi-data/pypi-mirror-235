@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: indecode
+Version: 1.5
+Summary: Code and decode string
+Author: lolo859
+Keywords: code,incode,indecode,decode,incode,indc
+Classifier: Natural Language :: French
+Classifier: Topic :: Security :: Cryptography
+Classifier: Topic :: Software Development :: Code Generators
+Requires-Dist: docutils >=0.3
+Requires-Dist: pillow
+
+========
+Indecode
+========
+*Code and Decode string*
+
+Install and import
+------------------
+
+For install indecode :
+.. code:: bash
+
+    pip install indecode
+
+For import indecode :
+.. code:: python
+
+    import indecode
+
+Functions
+---------
+
+This module contain four functions :
+
+- generate_key() - return string
+- code(text to code in str, key return by the "generate_key()" function) - return string
+- decode(text return by the "code()" function, key return by the "generate_key()" function) - return string
+- get_key_with_img(complete path of the image) - return string, can replace the "generate_key()" fonction
+
+Errors
+------
+
+The indecode module can trigger the following errors :
+
+- TypeError : one of the arguments is not a string
+- CodeError : one of the caracters in the text argument is not encodable
+- DecodeError : one of the caracters in the text argument is not decodable
+- KeyElementError : one of the caracters in the key argument must not be in the key
+- KeyLengthError : the key is not of the expected length.
+- ImageNotFoundError : '/home/pi/Documents/indecode/img.jpg' not found.
