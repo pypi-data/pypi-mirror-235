@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: geometric-theory-of-diffraction
+Version: 0.0.1
+Summary: Geometric theory of diffraction models.
+Author: Alex
+Project-URL: Homepage, https://github.com/AlexanderMarinsek/geometric-theory-of-diffraction
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Geometric theory of diffraction
+
+Calculate the shadowing gain according to the geometric theory of diffraction (GTD).
+
+For more, see:
+- James, 1986, Geometrical Theory of Diffraction for Electromagnetic Diffraction
+- Gustafson and Tufvesson, 2012, Characterization of 60 GHz Shadowing by Human Bodies and Simple Phantoms
