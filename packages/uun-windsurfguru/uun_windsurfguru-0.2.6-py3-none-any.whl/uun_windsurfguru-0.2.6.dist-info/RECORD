@@ -1,0 +1,14 @@
+uun_windsurfguru/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+uun_windsurfguru/data/sample-config.json,sha256=8B7dXxlncR4ezmdrbcF_e2g4ge2nQZZI2_VXv7CZLfs,3830
+uun_windsurfguru/data/start.sh,sha256=hxjED2cRgl1iBjrJ1w7zFebj6lgC1OPz0XAISELLaRI,68
+uun_windsurfguru/data/systemd.service,sha256=mWOOMhdNEj8U4dT6KRN7MKTWVswm-p6Zts9iir34_U4,304
+uun_windsurfguru/modules/WindSurfGuru.py,sha256=UbYJDcmrIWey2Arw3Axwx4UmrQthSQBgyDpuEDMKyKY,24524
+uun_windsurfguru/modules/__init__.py,sha256=NXf10XWmA_PQ0RNYWHiKav41lG6bscVRQBPN6HSA0yQ,410
+uun_windsurfguru-0.2.6.data/scripts/uun-windsurfguru,sha256=6k8VDNqKvQLHhkUfsmhkOANX9K4KJwG3nCCxaUkV4T0,2936
+uun_windsurfguru-0.2.6.data/scripts/uun-windsurfguru-install,sha256=VbLNavOU2-ZgX5h_7hezQfV3b_AXavXLINoWEw3DTi0,490
+uun_windsurfguru-0.2.6.data/scripts/uun-windsurfguru-setup,sha256=UlAPhH9tIHxqD8Eb4l4TtvCphXVFgb2FNm7UNVUTri4,1920
+uun_windsurfguru-0.2.6.dist-info/LICENSE.md,sha256=y95L2RCH40RDih7PZcPF5iY9jyZEKaqvM6WsMHl6mq8,1075
+uun_windsurfguru-0.2.6.dist-info/METADATA,sha256=t04yWcrzbBmKrqNkbTeln3kukBvpJ2RHrGIKJlEShVI,824
+uun_windsurfguru-0.2.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+uun_windsurfguru-0.2.6.dist-info/top_level.txt,sha256=HC_gF4tjd837Z_xhSJA7nfgCQWkKm7K2pICNVZnBEzA,17
+uun_windsurfguru-0.2.6.dist-info/RECORD,,
