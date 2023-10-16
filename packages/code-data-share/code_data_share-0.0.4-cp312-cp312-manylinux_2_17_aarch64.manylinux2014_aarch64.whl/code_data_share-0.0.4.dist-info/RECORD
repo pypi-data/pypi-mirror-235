@@ -1,0 +1,10 @@
+pycds.pth,sha256=laDCzpGg5HO2oRaWdcWogauwNvVbvNebW_PZntmQik8,32
+_cds.cpython-312-aarch64-linux-gnu.so,sha256=rfQ4QqWHev9Kf_KD20mNTQy5c9X92ugQs6syedmBm-Q,69072
+code_data_share-0.0.4.dist-info/WHEEL,sha256=VR2vpBy-CQVxRg7O2EMttVmjMdpo-U8whXMQmnt5ou4,157
+code_data_share-0.0.4.dist-info/RECORD,,
+code_data_share-0.0.4.dist-info/METADATA,sha256=ncSs6iNyII4mun2ZeAppaEdN7vLMsb8yDNlCwbtd3-M,2670
+code_data_share-0.0.4.dist-info/entry_points.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+code_data_share-0.0.4.dist-info/licenses/LICENSE,sha256=-E0f7Yi8lLkzLBjZF2Ij5M7nV6NpK_WsVm6a0_kljQE,1064
+cds/__init__.py,sha256=kRhFSTYYs9R0YOjJAhs4QbCymqV2ka_-cfvYnxPkmOI,5914
+cds/_cds.pyi,sha256=zLqsvuuLVIimRC8d1y-rbUXe288sN73D-Z5Qky3TczU,401
+cds/dump.py,sha256=S7ZdeHtoGIrS9Ee7KZeucJVZ30uHYc3DNTwQBos9Zxk,3966
