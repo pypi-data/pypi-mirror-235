@@ -1,0 +1,15 @@
+requests
+typing_extensions
+
+[docs]
+sphinx<6.0
+pydata-sphinx-theme
+sphinx-autodoc-typehints
+sphinx-copybutton
+myst-parser
+
+[with_parsing_utils]
+pandas
+
+[with_progress_bars]
+tqdm
