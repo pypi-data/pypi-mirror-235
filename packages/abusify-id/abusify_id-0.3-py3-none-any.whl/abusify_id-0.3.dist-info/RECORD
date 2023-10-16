@@ -1,0 +1,8 @@
+abusify_id/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+abusify_id/abusiveness_detector.py,sha256=jHj3pBkwKY-2gcgZHIWyz5Veitfl4b5Mdz6PAAPx-cs,1376
+abusify_id/model.pkl,sha256=L659xp9Lkh8rdJtV0Lx-EejOKrY_aWAB9vHaUUe-jfQ,207298
+abusify_id/tfidf_vectorizer.pkl,sha256=wgVXTzn9Iw1PvFhF8sjkzB5Msc7m15xBktrJq3V2KXE,750195
+abusify_id-0.3.dist-info/METADATA,sha256=dTwrloSV-EDE_wK0YYtGYiQeOerdn1X5UIVWWQHdRC4,123
+abusify_id-0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+abusify_id-0.3.dist-info/top_level.txt,sha256=WRQHQwrGmLD5NDhbSVsU1YZMfqq_i7UO5POXcyPPOF8,11
+abusify_id-0.3.dist-info/RECORD,,
