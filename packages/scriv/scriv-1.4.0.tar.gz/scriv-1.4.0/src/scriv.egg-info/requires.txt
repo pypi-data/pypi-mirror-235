@@ -1,0 +1,13 @@
+attrs
+click
+click-log
+jinja2
+requests
+
+[toml]
+
+[toml:python_version < "3.11"]
+tomli
+
+[yaml]
+pyyaml
