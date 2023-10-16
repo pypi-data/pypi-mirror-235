@@ -1,0 +1,8 @@
+LICENSE
+pyproject.toml
+stempl_flask/__init__.py
+stempl_flask.egg-info/PKG-INFO
+stempl_flask.egg-info/SOURCES.txt
+stempl_flask.egg-info/dependency_links.txt
+stempl_flask.egg-info/requires.txt
+stempl_flask.egg-info/top_level.txt
