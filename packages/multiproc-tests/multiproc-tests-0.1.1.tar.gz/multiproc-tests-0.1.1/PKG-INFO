@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: multiproc-tests
+Version: 0.1.1
+Summary: ""
+Author: "Charles Smith"
+Author-email: "binarskugga@gmail.com"
+License: "MIT"
+License-File: LICENSE
+Requires-Dist: tentacule==0.1.*
+Requires-Dist: pytest-reportlog==0.4.*
