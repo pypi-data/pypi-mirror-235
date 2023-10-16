@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: alvar
+Version: 0.1
+Summary: Allan variance calculation
+Home-page: https://github.com/sisteralab/alvar
+Author: sisteralab
+Author-email: ya.vodzyanovskiy@lebedev.ru
+Keywords: allan variance
+Requires: numpy
+Description-Content-Type: text/markdown
+
+# Allan variance calculation
