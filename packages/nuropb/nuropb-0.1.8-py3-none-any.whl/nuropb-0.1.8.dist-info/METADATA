@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: nuropb
+Version: 0.1.8
+Summary: NuroPb - A Distributed Event Driven Service Mesh
+Home-page: https://github.com/robertbetts/nuropb
+License: Apache-2.0
+Keywords: python,asynchrous,api,event,rpc,distributed,edd,ddd,sevice-mesh
+Author: Robert Betts
+Author-email: robert.betts@genoa.io
+Requires-Python: >=3.9,<3.12
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Provides-Extra: docs
+Requires-Dist: etcd3-py (>=0.1.6,<0.2.0)
+Requires-Dist: pika (>=1.3.2,<2.0.0)
+Requires-Dist: python-dotenv (>=1.0.0,<2.0.0)
+Requires-Dist: requests[security] (>=2.31.0,<3.0.0)
+Requires-Dist: tornado (>=6.3.3,<7.0.0)
+Requires-Dist: types-requests (>=2.31.0.2,<3.0.0.0)
+Project-URL: Documentation, https://nuropb.readthedocs.io/en/latest/
+Project-URL: Repository, https://github.com/robertbetts/nuropb
+Description-Content-Type: text/markdown
+
+# NuroPb
+
+## Plumbing, routing and communications for Distributed, Asynchronous, Event Driven, Services 
+
+[![codecov](https://codecov.io/gh/robertbetts/nuropb/branch/main/graph/badge.svg?token=DVSBZY794D)](https://codecov.io/gh/robertbetts/nuropb)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![CodeFactor](https://www.codefactor.io/repository/github/robertbetts/nuropb/badge)](https://www.codefactor.io/repository/github/robertbetts/nuropb)
+[![License: Apache 2.0](https://img.shields.io/pypi/l/giteo)](https://www.apache.org/licenses/LICENSE-2.0.txt)
+[![Documentation Status](https://readthedocs.org/projects/nuropb/badge/?version=latest)](https://nuropb.readthedocs.io/en/latest/?badge=latest)
+
+
+If you have code that you want to easily scale, communicate with other services or provide access to consumers, or:
+* You'd like to scale a service horizontally, many times over at an unknown scale.
+* Your service needs to communicate with other services
+* Implement event driven processes and flows
+* A need for websocket endpoints that integrate seamlessly to backend services and events
+* A proxy for REST Consumers to interact with asynchronous services 
+* A growing team of Ml-Ops and Datascience engineers who'd like to deploy their models as services
+* Require service gateway that bridges cloud VPNs and on-premise networks
+* Wrap an existing or legacy service to benefit from any of the above
+
+**If any of these are of interest to you, NuroPb is worth considering.**
+
+<img src="docs/source/nuropb_diagram.png" alt="Diagram of an example NuroPb enabled Application or Domain Service" width="400px">
+
+NuroPb is available under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html), 
+this web site including all documentation is licensed under [Creative
+Commons 3.0](https://creativecommons.org/licenses/by/3.0/).
+
