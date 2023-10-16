@@ -1,0 +1,7 @@
+setup.py
+text_abbreviator.egg-info/PKG-INFO
+text_abbreviator.egg-info/SOURCES.txt
+text_abbreviator.egg-info/dependency_links.txt
+text_abbreviator.egg-info/top_level.txt
+text_abbtreviate/__init__.py
+text_abbtreviate/abbreviate.py
