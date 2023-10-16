@@ -1,0 +1,9 @@
+setup.py
+libname/__init__.py
+libname/buttons.py
+libname/main.py
+pygame_custom_gui.egg-info/PKG-INFO
+pygame_custom_gui.egg-info/SOURCES.txt
+pygame_custom_gui.egg-info/dependency_links.txt
+pygame_custom_gui.egg-info/requires.txt
+pygame_custom_gui.egg-info/top_level.txt
