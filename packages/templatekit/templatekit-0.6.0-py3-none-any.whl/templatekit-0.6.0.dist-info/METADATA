@@ -1,0 +1,76 @@
+Metadata-Version: 2.1
+Name: templatekit
+Version: 0.6.0
+Summary: Tookit for rendering Rubin Observatory project templates
+Author-email: "Association of Universities for Research in Astronomy, Inc. (AURA)" <sqre-admin@lists.lsst.org>, Jonathan Sick <jsick@lsst.org>
+License: MIT License
+        
+        Copyright (c) 2018-2019 Association of Universities for Research in Astronomy
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: Homepage, https://templatekit.lsst.io
+Project-URL: Source, https://github.com/lsst-sqre/templatekit
+Keywords: rubin,lsst
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: POSIX
+Classifier: Typing :: Typed
+Requires-Python: >=3.8
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: Cerberus >=1.2
+Requires-Dist: click
+Requires-Dist: cookiecutter >=1.6.0
+Requires-Dist: GitPython >=3.0.0
+Requires-Dist: Jinja2 >=2.10
+Requires-Dist: pyperclip >=1.6.0
+Requires-Dist: PyYAML >=5.1
+Requires-Dist: scons >=3.0.1
+Provides-Extra: dev
+Requires-Dist: coverage[toml] ; extra == 'dev'
+Requires-Dist: mypy ; extra == 'dev'
+Requires-Dist: pre-commit ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: types-PyYAML ; extra == 'dev'
+Requires-Dist: documenteer[guide] ; extra == 'dev'
+Requires-Dist: sphinx-click ; extra == 'dev'
+
+###########
+Templatekit
+###########
+
+Templatekit is a Python library and command-line app for using and maintaining a centralized repository of project and file templates.
+Templates are built with Cookiecutter_ and Jinja_.
+https://github.com/lsst/templates is the primary repository that Templatekit is built for, but Templatekit can be used for other template repository projects.
+
+Read the docs at https://templatekit.lsst.io
+
+.. _Cookiecutter: https://cookiecutter.readthedocs.io/en/latest/
+.. _Jinja: http://jinja.pocoo.org
+.. _lsst/templates: https://github.com/lsst/templates
