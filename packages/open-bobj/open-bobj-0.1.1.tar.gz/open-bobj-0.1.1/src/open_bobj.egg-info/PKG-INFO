@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: open-bobj
+Version: 0.1.1
+Summary: Open obj files in Blender from Terminal
+Home-page: https://github.com/PraxTube/open-bobj
+Author: Prax
+Project-URL: Bug Reports, https://github.com/PraxTube/open-bobj/issues
+Project-URL: Source, https://github.com/PraxTube/open-bobj
+Keywords: blender,obj
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.8, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Open BOBJ
+
+Simple Python Package to open `.obj` files in Blender
+from the command line.
+It clears the whole scene from any default objects and
+you are left with the `.obj` files you specified.
+
+## Install
+
+You can simply install it using
+
+```
+pip install open-bobj
+```
+
+or if you have `pipx` use
+
+```
+pipx install open-bobj
+```
+
+## Usage
+
+To open any number of `.obj` files in the terminal, run
+
+```
+open-bobj /path/to/file.obj
+```
+
+You can also open multiple at ones. This is going to open all
+of the `.obj` objects in the same blender instance.
+
+```
+open-bobj /path/to/file.obj /another/file.obj /and/another/one.obj
+```
+
+There is also a short handle
+
+```
+bobj /path/to/file.obj
+```
