@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+adbuiautolite/README.MD
+adbuiautolite/__init__.py
+adbuiautolite/requirements.txt
+adbuiautolite/thirdparty.json
+adbuiautolite.egg-info/PKG-INFO
+adbuiautolite.egg-info/SOURCES.txt
+adbuiautolite.egg-info/dependency_links.txt
+adbuiautolite.egg-info/requires.txt
+adbuiautolite.egg-info/top_level.txt
