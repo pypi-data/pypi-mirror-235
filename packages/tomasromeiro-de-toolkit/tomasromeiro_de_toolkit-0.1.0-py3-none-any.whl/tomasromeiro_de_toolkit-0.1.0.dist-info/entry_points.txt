@@ -1,0 +1,3 @@
+[console_scripts]
+deng=tomasromeiro_de_toolkit.main:cli
+
