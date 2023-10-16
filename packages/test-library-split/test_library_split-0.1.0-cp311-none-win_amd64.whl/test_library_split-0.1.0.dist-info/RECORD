@@ -1,0 +1,5 @@
+test_library_split-0.1.0.dist-info/METADATA,sha256=8J9hBHLMcMZaZ2kSfWHPmJk3ODDuXqfJFpa38zma_iE,267
+test_library_split-0.1.0.dist-info/WHEEL,sha256=8UgI5KAmXf-BQ9MXMR0oS8W2awO8vZwNahUMKQueP5A,95
+test_library_split/__init__.py,sha256=zF2llOlE042Ej6vyyIGkClXH1Bq_PuAgAssbwr7vNOc,155
+test_library_split/test_library_split.cp311-win_amd64.pyd,sha256=lVq0U6EIdIWu-FlJEPMfXo0cnl6zsnrBpkjjdcBgYOQ,233472
+test_library_split-0.1.0.dist-info/RECORD,,
