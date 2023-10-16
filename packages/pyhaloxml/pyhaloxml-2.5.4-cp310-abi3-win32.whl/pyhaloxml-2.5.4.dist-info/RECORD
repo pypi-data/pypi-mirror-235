@@ -1,0 +1,16 @@
+pyhaloxml-2.5.4.dist-info/METADATA,sha256=LgkEADnKzRQAnBrhIXJJPdHJw-KCy59bBioPUoekWE8,2608
+pyhaloxml-2.5.4.dist-info/WHEEL,sha256=j33AuZpGYpkW7dSgv6Ju-9ndFOv2058BFWM5K6bclO0,93
+pyhaloxml-2.5.4.dist-info/license_files/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+pyhaloxml/ellipse.py,sha256=tnNCoFRcawLl6PaDgtzZDR-MnY8KXm0Pkhsv7prXJsw,541
+pyhaloxml/HaloXML.py,sha256=00j6mS0D1HoSfEUNinnggUV5ei_b_sY6q2bROpxq3Mk,7255
+pyhaloxml/Layer.py,sha256=eshiPaxj0GGyTxSjckoXNWDDn_wd6E5x1XCgPVZUoMA,2060
+pyhaloxml/misc.py,sha256=YpDTzHsb3iZhreEYBn3Iw8njyET7C0KwYMM0qtauStE,2817
+pyhaloxml/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyhaloxml/pyhaloxml_rs.pyi,sha256=8oomTI9gnU_TMOuJ9ptuUTb1FKfYiZm2H7f4ymoQx88,141
+pyhaloxml/Region.py,sha256=fgnm_zCjtr4P4oLf81cI-K3LQ3ymJUOUcC-oACTsY_Y,4873
+pyhaloxml/shapely/to_shapely.py,sha256=-QztiYfxbOqrwjwBcfX3wnUtVMB50kbRGNk6dPmU0Ig,950
+pyhaloxml/shapely/__init__.py,sha256=e3fOapW8G9kzlVy6kMB-26woIe8DjFGOGDERIVCfrOA,61
+pyhaloxml/version.py,sha256=0e02yDsnq6T9AWPOXLhokZh4iJgKCC4xMJEzIgjVi20,23
+pyhaloxml/__init__.py,sha256=D1Cg3qbELWnB2-DjmCFfgSCZVKzvTIt3-etgAXBKMfU,131
+pyhaloxml/pyhaloxml_rs.pyd,sha256=y2mLI2u9OXkf62ja443cbTIX_Xk4MvqXu6QgY3vox0Y,211456
+pyhaloxml-2.5.4.dist-info/RECORD,,
