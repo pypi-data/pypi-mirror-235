@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: promptmodel
+Version: 0.0.3
+Summary: : Build LLM services in a blink
+Home-page: https://github.com/weavel-ai/promptmodel
+License: UNKNOWN
+Keywords: weavel,agent,llm,tools,promptmodel,llm agent,prompt,versioning
+Platform: UNKNOWN
+Requires-Python: >=3.7.1
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pydantic
+Requires-Dist: peewee
+Requires-Dist: typer[all]
+Requires-Dist: cryptography
+Requires-Dist: pyyaml
+Requires-Dist: InquirerPy
+Requires-Dist: litellm
+Requires-Dist: python-dotenv
+Requires-Dist: websockets
+Requires-Dist: termcolor
+Requires-Dist: watchdog
+Requires-Dist: readerwriterlock
+
+# PromptModel
+
+> Create LLM-powered services in a blink.
+
+## Installation
+
+```bash
+pip install promptmodel
+```
+
+
