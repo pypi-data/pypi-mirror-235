@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dataposts
+Version: 0.1
+Summary: Module to make DataPosts self bot !
+Home-page: https://dataposts.hostycd.com/module/
+Author: V / Lou du Poitou
+License: ISC
+Requires-Python: >=3.11.2
