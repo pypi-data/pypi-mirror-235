@@ -1,0 +1,6 @@
+setup.py
+iitg_pv_energy_generation.egg-info/PKG-INFO
+iitg_pv_energy_generation.egg-info/SOURCES.txt
+iitg_pv_energy_generation.egg-info/dependency_links.txt
+iitg_pv_energy_generation.egg-info/requires.txt
+iitg_pv_energy_generation.egg-info/top_level.txt
