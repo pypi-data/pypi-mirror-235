@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: a4
+Version: 0.0.1
+Summary: Minimal library for command-line applications.
+Author-email: Sun Yijiang <sunyijiang@gmail.com>
+Project-URL: Homepage, https://github.com/sunyj/a4
+Project-URL: Bug Tracker, https://github.com/sunyj/a4/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown
+
+# A4 – Minimal library for command-line applications.
+
+The name comes from A4 paper.  It provides absolutely minimal (but not lousy)
+support for command-line applications.
+
+**A4** is [listed on PyPI](https://pypi.org/project/a4/).
