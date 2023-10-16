@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: rinopy
+Version: 0.0.2
+Summary: Personal utility packages
+Home-page: UNKNOWN
+Author: Gregorino Al Josan
+Author-email: <rino.grego@gmail.com>
+License: UNKNOWN
+Keywords: python,machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Dist: scikit-learn
+
+UNKNOWN
+
