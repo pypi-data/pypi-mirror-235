@@ -1,0 +1,11 @@
+bshot/__init__.py,sha256=LvfOMtZesXQLZ0SVuu_yZ0xTuDp9qlhaVSN03evYyMQ,122
+bshot/__init__.pyi,sha256=h8SLPhRY4hoQUW2p9Uk3oxELs_0k8zY9ojAkSpnd9i8,154
+bshot/exceptions.py,sha256=aZ3U_bkkg6_bMcNw06PAE4Urnh_J11Sncbrz4xKHXs8,181
+bshot/exceptions.pyi,sha256=jgDsOVZWflrpvl2tJ1GpMkw7ooDEO6Q4pDMsqr8dYhU,254
+bshot/screenshot.py,sha256=peetzQFv_8mlvpN-_rRz-nMzRQAsXdWoT3Vd-KGiTng,2485
+bshot/screenshot.pyi,sha256=imqj4njEfE1E0wmLPG-bktaR53VXmrsQnGaR7NWMMoI,492
+bshot-1.0.4.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+bshot-1.0.4.dist-info/METADATA,sha256=BsDTpF1I58FoVKtV3A8MY-Ijn33Bf9sHVR6_ZZN4v58,1556
+bshot-1.0.4.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+bshot-1.0.4.dist-info/top_level.txt,sha256=OWLFXSZH2RMkWl6_iY4dSj0f0F5leyGeTFa0AAWaKb0,6
+bshot-1.0.4.dist-info/RECORD,,
