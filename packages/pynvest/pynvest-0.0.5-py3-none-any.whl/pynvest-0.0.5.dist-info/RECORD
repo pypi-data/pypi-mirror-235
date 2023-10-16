@@ -1,0 +1,14 @@
+pynvest/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pynvest/scrappers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pynvest/scrappers/fundamentus.py,sha256=bdQEOJ_m1HkjA-Bqiu9tJfnqlnCchAjZVtDYToNnZ1A,27141
+pynvest/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pynvest/utils/log.py,sha256=GyoLpryYOtcEDHQm-9SA4G-txTr-ihY5J8FUUQ8sSQ8,2064
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/conftest.py,sha256=x49lDf43CQs_h9EAiYN55xhUXyfzGWLgKXEk25EfqRc,2238
+tests/test_scrappers_fundamentus.py,sha256=L4p4SjHoX4UyZuySHqeW2FyV6MP9rOKVOrjOP1XjfPo,2837
+tests/test_utils_log.py,sha256=ddZJHAo3wSPatFYeyWRiwGpqJHEzWCL3kid2mummA9c,565
+pynvest-0.0.5.dist-info/LICENSE,sha256=Ms_6ko7u0Fd0rSa6-2rWSjMbgt3r4Z97Ot0fKNls-8Y,1070
+pynvest-0.0.5.dist-info/METADATA,sha256=TYv8fObDjT9VplrmYmn9L6DcfRa_Ld22_nYqC6T4v4w,2571
+pynvest-0.0.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pynvest-0.0.5.dist-info/top_level.txt,sha256=R7M_PPQ7G3lSP00FPj-3PkIwPY-aY1Yz_vs8lERzkUY,14
+pynvest-0.0.5.dist-info/RECORD,,
