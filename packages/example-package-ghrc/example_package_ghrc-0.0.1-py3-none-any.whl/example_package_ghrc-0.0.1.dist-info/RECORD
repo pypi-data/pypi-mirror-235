@@ -1,0 +1,7 @@
+example_package_ghrc/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+example_package_ghrc/example.py,sha256=lb-DThgJIL2-asdx9RJkLvn_BkpQRkqmSDspWnQezu8,45
+example_package_ghrc-0.0.1.dist-info/LICENSE.txt,sha256=VXbwArPC9XE7N7cvSBClNMHFbo7CU1p361QXV5bkGpk,1100
+example_package_ghrc-0.0.1.dist-info/METADATA,sha256=HPMa96AujFkowQdfmMeHQplV8fRZxrMwU8vTL0rjO4o,548
+example_package_ghrc-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+example_package_ghrc-0.0.1.dist-info/top_level.txt,sha256=dMLminApjp0XAVUXxpEHSqXet5Ux10E9ksageA42FDM,21
+example_package_ghrc-0.0.1.dist-info/RECORD,,
