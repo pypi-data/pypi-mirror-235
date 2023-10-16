@@ -1,0 +1,9 @@
+
+[dev]
+black
+build
+boto3
+
+[test]
+pytest
+parameterized
