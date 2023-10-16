@@ -1,0 +1,5 @@
+beautifulsoup4
+click
+jsonschema
+pyspellchecker
+python-dateutil
