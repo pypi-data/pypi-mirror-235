@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: bcnadds
+Version: 0.0.1
+Summary: The package for bcnuserbot to addons
+Author: santhu
+License: GNU General Public License (GPL)
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# bcnadds
