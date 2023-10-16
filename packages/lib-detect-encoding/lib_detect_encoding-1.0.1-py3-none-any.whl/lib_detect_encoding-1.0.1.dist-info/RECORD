@@ -1,0 +1,11 @@
+lib_detect_encoding/__init__.py,sha256=XQWxkDnUsBfXAf_LXwHeAO761SnExAC24TYIuEliRfo,718
+lib_detect_encoding/__init__conf__.py,sha256=GKAYqMg8K3qHdx9OMcYvF58e3kWgHmVy_y_Zmn6vaqw,577
+lib_detect_encoding/lib_detect_encoding.py,sha256=u3rqv3l-Cq0dGAD07jkhPLpAdtjUSolphA1y66DsC00,31261
+lib_detect_encoding/lib_detect_encoding_cli.py,sha256=1XZ5-V3pp9q3IspbjQf7SO-ptaVEYVKoAUX_kC7csS8,3818
+lib_detect_encoding/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lib_detect_encoding-1.0.1.dist-info/LICENSE,sha256=d1DOv0kvZC-KAvX-_WwOLXiKoDxt0AkqabudyHHolZg,1076
+lib_detect_encoding-1.0.1.dist-info/METADATA,sha256=00XaPxJS-CfqIG8RKC37nh0RZoQqV9ww2n2_iBhiI9Q,11909
+lib_detect_encoding-1.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+lib_detect_encoding-1.0.1.dist-info/entry_points.txt,sha256=K2RZjmgy0u8Gg_r2NR-YuBkxLEWihKE9cDuCLveXSvc,93
+lib_detect_encoding-1.0.1.dist-info/top_level.txt,sha256=srf6WU3vvLbFIxmgVzRbURUdH4yhtDHSAMEqoNzm7Ck,20
+lib_detect_encoding-1.0.1.dist-info/RECORD,,
