@@ -1,0 +1,17 @@
+setenvironment/.DS_Store,sha256=q63DcnXr2rrsn5mYqGgyxNKxGCUWcdGayuGiICkQ7wo,6148
+setenvironment/__init__.py,sha256=_-M6f-8ShrlS81c5vzS658lv_VZUtCK_84GWC66qnJY,658
+setenvironment/cli.py,sha256=n0BqwxtPjAGdzAWdtdYeDVZ-HpNhC3G4-UGfTOAOle8,2898
+setenvironment/setenv.py,sha256=EKqKh0IzxRNA72qqGEkpzDC2dMGTE-Z21vh3NAWfetc,5828
+setenvironment/setenv_unix.py,sha256=eOnkAYcBpL7WC7ImjRqc-RUnouNXTmstCLRSyEr9DXc,10198
+setenvironment/setenv_win32.py,sha256=1zXMtcdqPxFjpkedo0ZBXSj_K49Mqdhom6c9mCeaBKM,11969
+setenvironment/types.py,sha256=QZBO0IleGQcqpYtJTawW6hZSFeDkX0L3dRUPxfppVv0,125
+setenvironment/util.py,sha256=4mCdPuy34gXKIkxNzY8OQ5Gi6B_mmlyeB92ELC4GM1c,362
+setenvironment/testing/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+setenvironment/testing/basetest.py,sha256=5rzm725MlpKBXLmew8zbjHoSMrG7AHXICtOLSnI3Mi8,865
+setenvironment/win/RefreshEnv.cmd,sha256=eazn9F0KPqrNRzErk1FsqdfSlPaejZ3lOf3p1UwER-I,1892
+setenvironment-1.1.5.dist-info/LICENSE,sha256=b6pOoifSXiUaz_lDS84vWlG3fr4yUKwB8fzkrH9R8bQ,1064
+setenvironment-1.1.5.dist-info/METADATA,sha256=smhDcLPQo9er1MrWBKJUdKN7D1ivX34v8mtcfSbVcWA,3889
+setenvironment-1.1.5.dist-info/WHEEL,sha256=iYlv5fX357PQyRT2o6tw1bN-YcKFFHKqB_LwHO5wP-g,110
+setenvironment-1.1.5.dist-info/entry_points.txt,sha256=XJBmFUhQ9cDum5fPXOCGNkb5zx54M2op42AVPJs7k-Y,273
+setenvironment-1.1.5.dist-info/top_level.txt,sha256=14qKYqWbJyP17hwvZ6fD36iElPO5WqQIjJl6a34vL4I,15
+setenvironment-1.1.5.dist-info/RECORD,,
