@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: biolab
+Version: 0.1.0
+Summary: Python package for biological applications
+Author-email: Mattie Garaikoetxea Zubillaga <mattiegaraiko@gmail.com>
+Description-Content-Type: text/markdown
+
+# biolab
+Python package for biological applications
