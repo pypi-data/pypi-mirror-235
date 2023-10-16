@@ -1,0 +1,6 @@
+setup.py
+chime-ml-feature-store-client/__init__.py
+chime_ml_feature_store_client.egg-info/PKG-INFO
+chime_ml_feature_store_client.egg-info/SOURCES.txt
+chime_ml_feature_store_client.egg-info/dependency_links.txt
+chime_ml_feature_store_client.egg-info/top_level.txt
