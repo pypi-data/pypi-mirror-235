@@ -1,0 +1,8 @@
+LICENSE.txt
+README.rst
+setup.py
+PyRemoveDuplicates/__init__.py
+PyRemoveDuplicates.egg-info/PKG-INFO
+PyRemoveDuplicates.egg-info/SOURCES.txt
+PyRemoveDuplicates.egg-info/dependency_links.txt
+PyRemoveDuplicates.egg-info/top_level.txt
