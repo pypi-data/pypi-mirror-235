@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+corlace/__init__.py
+corlace/sdk.py
+corlace_sdk.egg-info/PKG-INFO
+corlace_sdk.egg-info/SOURCES.txt
+corlace_sdk.egg-info/dependency_links.txt
+corlace_sdk.egg-info/requires.txt
+corlace_sdk.egg-info/top_level.txt
