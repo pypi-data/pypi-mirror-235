@@ -1,0 +1,12 @@
+langfree/__init__.py,sha256=QiiYsv0kcJaB8wCWyT-FnI2b6be87HA-CrrIUn8LQhg,22
+langfree/_modidx.py,sha256=7OYy-cmlYKsPrpCls-F3JO3HtkEDsQcj4NdDYHv8x04,7069
+langfree/experimental.py,sha256=AG0DzCcBK8yXWVnTOlKUehoAx4-Hx9d8ZtoHT3MtXlw,6263
+langfree/runs.py,sha256=JHRXC52JPBxez3RJEny1hkkJDI0ts9IXl8_KrpbDEOc,7640
+langfree/shiny.py,sha256=1O4cnNMEEH_NvG0O_tUYvDU4VhTsH5TPlGw-jtEn-mI,1796
+langfree/transform.py,sha256=DeUr6XAVJAULTHd5PgJ6OZbjLnz4YvYx4L9w5TxVK_k,8587
+langfree-0.0.6.dist-info/LICENSE,sha256=xV8xoN4VOL0uw9X8RSs2IMuD_Ss_a9yAbtGNeBWZwnw,11337
+langfree-0.0.6.dist-info/METADATA,sha256=Ey-O_zIIOvSXOHhBn7DGbWH_l_hlYWW0c3RRjRH18O8,2287
+langfree-0.0.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+langfree-0.0.6.dist-info/entry_points.txt,sha256=VQzodCfB3PaLpvQNHtunEtVkPwbIYE_EkgKzkIMoBPc,38
+langfree-0.0.6.dist-info/top_level.txt,sha256=KEwUEmHK2qIhQiGms3QHapuYqlL0q0G8DfBBu-Wc4AM,9
+langfree-0.0.6.dist-info/RECORD,,
