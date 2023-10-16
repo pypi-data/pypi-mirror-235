@@ -1,0 +1,99 @@
+Metadata-Version: 2.1
+Name: ninjaconnect
+Version: 2.0.14
+Summary: The NINJA CONNECT is a Command-Line Interface (CLI) tool designed to simplify the configuration and management your device to our labs
+Home-page: https://pypi.org/project/ninjaconnect/
+Author: Prasaanth
+Author-email: prasaanth2k@gmail.com
+Maintainer: Prasaanth
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: keyring (==23.5.0)
+Requires-Dist: Requests (==2.31.0)
+Requires-Dist: rich (==13.6.0)
+
+# Ninja Connect
+[![Downloads](https://static.pepy.tech/badge/ninjaconnect/month)](https://pepy.tech/project/ninjaconnect)
+[![Supported Python Versions](https://img.shields.io/pypi/pyversions/rich/13.2.0)](https://pypi.org/project/rich/)
+[![PyPI version](https://badge.fury.io/py/ninjaconnect.svg)](https://badge.fury.io/py/ninjaconnect)
+![ninjaconnect](https://img.shields.io/badge/NINJACONNECTOR-black?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEWIFxr%2F%2F%2F9%2FAACDAAB%2BAACHFBeGEBSFBQuGDBCGDxPJoqOEAAi1fX7%2B%2FPyFAADGnJ2NISTjzs%2Fo19jNqKjv4uL89%2FeXQEH38PCyeHmQKy6ramuWOz2kXF3bwMGtcHGLHB%2FSsrOfU1S%2Bj5CcSUvXu7yQKi2TMzW6h4jy6Onl0tKnY2TBk5SiWFmaRUefTU93AADJD3xVAAANy0lEQVR4nN1d6XqqSBDFKpolCAouEPcFlxjNvP%2FbDbhcUasbYkRKz6%2F5vI7h0N3VtZdWk6IdN6Jp93Osccb4szuNGnFbTkOjP%2B5MehYgmrYQVXPIgRC2iQhWb9L5BUN%2FBGhyp3YJYSKM%2FIIMh11wqn7gu%2BBAd1iAYbADu%2BpHvRs27IIchm4drKof80%2BwoO6qGAZNrPoR%2FwxsBnKGLd2o%2BvkeAENvyRjWoeqHexCgTjPsvQvBhGKPYth7%2FSN4BvZuGb7NFj3gvFFPDFvvRTCh2LpkGOhVP9HDoQdZhm7zHa6JSxhNN8Ow%2Fk5S5gSsnxkG73YID4DgH8Pda%2BuiMli7E8Phey5hsojDI8Pu65pLatjdA0P%2FXZcwWUR%2Fz3D0RIteCCPFszwkzihl2HnSEloIOprNZb%2Ff%2F9RQB8QnHA7oJAwnz7kLx5tWxuXnhl%2BTVRfBK3k1MU4Y9sxy%2F0gCwzENYaE3nw3DrHHa8VdNwDJJmr2EoVX6oTB%2BZpull2xLDxGb0eTCfRvUPSxPZRRWTWs%2F4Rg6o7DmtuPZ1ANAAN3bNjKuTXeyLM%2F9BW0tfsYxNCFa79ms%2FdaqN%2B8vl9PsOtb8eVkuTIy1xnMEDcLoxpN5wbELpexVbGhR%2BYLmAEfvTlwFx2Epnkwz0qbPU9ls9OjQwhGjEijaU637zAiMcMCs%2B9KVLMEZJrraZ8kMDduys3%2FC0DV5sK%2F78CMjFlqpAVATYTGfd5vJJYGOZRiJ5uY1FPu0M36tqJcDveEhbOm2h43RT3%2F5U49VwqZWC%2BeAx7vRQPZ2uRmFSjY01q0pJiuO2Pe33MMo5kgRXb%2FGV%2F38ZTeIG7NZK%2FlwwdxDZkKvKMf2f6Cvbz92t8wpaqbeI56bgNsb0CrP1quaQx4c%2BCi4jBIsmJ%2FFBPr3nxi%2Bgi8X7hGpZ2zZXxoatvJpKPAU8%2B5vSB1eRdFpfVyhteKv5uz9sgXR1wFATwH7az8Bf4KaMIozdOu9UbRazVar0aBv8RejR4BaF5Vj%2FhLhBoEAxW79G8QvcFEkZr05C%2B5cws4LpEcK%2FJwUIxOu24Hv%2B8M4joe%2Bf9Bm58%2FyIN0Pp8BN6M96u4XlJVsZ%2FklP0H%2FC2nrO%2Fx6EQb4yE%2FyHpn0birJg%2FAI5klBEH%2F2WLRT%2FI3jO2FFv0tfN43FWRQgm4oT%2FZpTB2I1mrcnwqx0qL4tnBIbKgu3s5WIiIRe9D3nMovW6%2B%2FQMI3WbNiTlELXVC69iFrbuvTVFgTiTEazVPrj7RfOBuFJe%2Fl82f%2F1FBQPU%2FBJ0NvACV7wMRjc1ntxEt27LN2ot9tg7RuUQYjwWB926LqfYGemvu4wixf6%2FcK5YxqF47dN4gGmp8hWiVz6NJxhKjXzIP2ZYANl6lhusFy%2FgPMwFfio8U53dOxxGG1Tem%2BgtlDhdcW0kSlzVz%2FdrCNt0EpiZrBPsK9Sc%2BKVEqoWAVrcXRfWo1xX4L9PC8hTZUf7LUDQRtw0%2Fs1qh3xgg7v2gQlck1ny9BEUDcTMkPBhuPDjkBcNGsYr8z6IN4w%2BphhauMOWIS%2FlhnDCnKOAzli9QupCzNC5oeXIdbsX6XkTMD1eEg8SWMIBognAE42IsG1aFok1Dx0nkjTQZJSw1if8vwKUy3TnLYYqqZJQWz30qoKCze4%2FUzSb%2FH5YcQ8A2qiXMNSbJYZRS5Fg1aCkNXJpFQlF293%2By8zJa49%2BnP6Uami4RvexOon0HwSNFeuk7zBgK776ci1jXDJPWfwa87kT47Rk84QM0Z0D%2BC69tqjTc1RihppMymFV0EX%2BRn3eDviXotmqM1tDQ7k3tSrFGgaT61udz6StU6CKYgNGkPt%2BwyRoyFdZsIcwtoNwaKzbxGlCXHXQ6eXs4Ro9S3p5UHZkPRRpwOBn105wF7WemqswLwe4TH7O5LqRLGGwAnb0XUaRVXYpQadNAYp25MLS29FN3evqFpBAIMxnDrUW9Ji4MJYI0IOK60qBF5FCi5oMHQ%2BGRz%2ByTtcsW0spd3UHiPUkz%2B54LJyJXUOLVNZA8tBHJkEl7J3KTumOZOmKPqatjY8LX7adPaGlRBEiZPgp%2FJ1JrvjSohPcdC62NrBhZq6wCSmqicIifGbPwKCIVDFS6rAkFIQBrevsrHR6%2BfdLB7Shf%2Fm2NyQyR8EcxsQ8pCZFTNXgrNpuGTmzdJ3UHygNVwJtzU99o2T6tljIxnnRC%2BEfqpBHr2i0zMMm9Xn53oCIgNZoftZPMuFqwAIwx8StfPI6hEMSz5XgfjMX1biT9WDMex1BQb7%2Bp3l7ikqGvW9Qp5FLHfQ9De3nx7U%2Bb9LW2edyGGqmL5OzSy9u9jkgGEZkYFsnlRjxcTujvwhqJwfmhCHLZpMltQbgmctppZq%2BGAK0xGbVgIkk1Wo%2FOsXoyL6XtWR7t5cm5U58IynJV6zSZY9h2TInRzyi0RomJtVIMnj0yQzAlK8jHVUqoYCkGim1qzU%2FfmumoyYKOjIosSaVGZQGfrIh2H2Eqc4Zz8SPuQV7X8qq7Y%2FlsZwWOLnWfMrHuj6ADY98Sirjf1OE3Ii7kUWNGp1C70cH%2BrSJZjo1pk%2B0gSqsvFQmmHWYpX5R5nqBN9LM0e7XgewEegrLXGbdhGyg7TvESrhw2zZ4N6KC3UuZtsMuGEpY0POiPPMCMqS4cRPiRTRA7olN2A%2BXfQ9kewv%2FeNg9fS9Pal1Gcm1f0w8M9kwVpI2ZJJrLfQn3a8NWLdwCTYMUl6AvjiHCjGwjbnK35DzwrSoS0UrtWm3iI3qxwRhjXHHaUVaSFW1DefK%2BxgikkceBhcvMVS%2Fs%2BgHFxvvAoETnTofuLHp%2FugC%2FB5Cq4DbK5W1DV%2FtwgaPJuz3ZzFMMlOkTURooZwDJmPTvsqhh9ra7Bu4bfhH1O%2B8fLUAw1%2BCkuYtYbXe8ejCm%2B0lS7qGLuaDgtzC%2BMAJx%2FHsYG51U8txRY4lxC55ZfHUFfZVQGlmrbCaZz8KNN8bPgFm1HOuqbS5Vny1miCj0d5roCLCZk%2FAEgzK8lrjvm4tAngTgaoF4oZ3jST%2Fj1iXw2JikKNIRhORYWqO9azyykxzDXuHmi%2FiEx4AGsxXxhLcjHzsLvATr6XJpVy7DAUiA0o0mQiMTQ0nNUmXR4jilwoPgau31qoDU7eT%2B7ObUX65WHtibG6qPKqxBYwPIcEWyBsoP31%2BY4xEqgXVekfrNyR3leJuLpeioxM%2BzD2c2UbOyF3IfFJD9YSxdwlL3cGyi%2FCtvd67lOBjqyeimXS5dd4yoVRshP4YTy8wv4kbwRJpkKln1pww9BWqW3khgNpkfL1JCFOLW0qwXYIB2nSQ1c2Y8IsiKIRw60fU3QlTrWVG08Bb3uDOaHCrx2g%2FogqZ9RJzgZNulvtSuXNbf69TdKHPx9tRZGi6dnjkilH%2Bv24puSifipGM35LbKce1ixNKViv0LS1iR3tLlJZXSEFbtsCAkYIi0zCoQ8qWTqilPbqLceAFleUiRhm5TB1R5EYrXCDyQtQ7dA4gFVb1GtIXxVdLiOZ1sNkHzOQmmGZL54paLmHGzq%2BI2Bp%2BM%2BXE%2FXsRVKcKLqnqqc9nR65cH3HDO5CGS9crGSbEp1q1I13S%2BWHwm4bDlKJ54UShWlsjirTMFEv71yrrNlJBKxWO0L1Z6oSob2jhwbTuek372GORVi5YK%2Bi%2BldWuwcElYio0ThE8hixPtlKUOGdIOMIoaeoKoaeJj5F6CHrBVZCosqumA4%2FVCYFMO79VKOowHpEWQFtilpWzBxt12AlPkFOgSS9iG3Zl97SBxRuU1l6WAOJ8%2F%2BCaTAqOXmNTukDGYXgNqDNoFrblO14QQdCeAZJ5UcxNraU3gk6HZteSVwFcGUhS3annQVJW1aeW7SZMPJkmnXS3rTCVnpDK8g6RmKNsl1KvhE13HX0kgkQ0maQlJCs0cwhyvtxoIfWYI0q%2BKuCyj77%2B1zMI4zHYWJ%2BlT6Zbf6qIUM1k7BMFHD46jv7YdyjjcfigR3nlfFAQWaKIbt9lpdncC3n3cCOz9hKB%2BqKtTqQXtrfoXcYFXFkNTrFcea8x5NQXfy%2BAWWDM2mS0gCpUWxYSxHT%2FhD42S%2B6tolJBkkRfDNXMocISTdIPLx4Fz98UN%2FLQtDMWNFBVnq1L34LE8qG3jPRu09dAXFQuuWeO%2BI34ub8MGT5URXm5bqKFAOWCPgmw%2FW1eypFpWr%2FmH%2FNwMTZg%2Bf1WVGWtk2iiWdQHKDdv%2Fxz4INrfzIAC6LCZwZ2Ufjr3881p7gz7LhJ7fQ0v1wSnnV0Nae0n3Rgp1yhlD4bZZjSwirpj0pEddCpy5ZyE68hbJsJbOXMHxWF1SBYPZawWXNXsdvzLHEEbk4SRh2nqfmCjNt%2FbGpN1qtSevjO9o2AcqdAAydhOGz8%2F9sE49wShcBaUtmjUW%2BeFlILbh0gA3PCM8DsE%2BbSBmy61n0KOz9tvshRAyrGR%2BBg%2B99z5Bh1sojcEhiPgySYl0Afy%2BOCWgHhm5uscDrwWi6GYa1gHMvivtwKlE5jTtrvdtRhFNx6r%2BBbqz7wvwe5zYr55F13FoV%2FgmZbkCZoXyPdeNVikwXmSzD99moF52ALgYrtvR3uDQM%2FaIC%2FnJ0ZNB8%2FcOIzctgwtVwTJfM6XkhWFC%2F6vxzM%2F4z2F03BXgh2LC7iQYRA06HXai6%2FPY%2B0M1uyBGu%2FgiQS8uGgkhdQCPS80wPqa11Jj0LEE1bcCcqROr4Aasna48qYZiiHTeiaXdRNYUcLLrTqBErklv%2BBywLwQH37nVXAAAAAElFTkSuQmCC&color=blue)    
+# Supported Platforms  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+NinjaConnect is a Python package designed to facilitate the connection to the WireGuard VPN command-line interface (CLI) based package. This package enables users to establish a connection between their devices and their our laboratory environments using straightforward and simple commands. In essence, NinjaConnect streamlines the process of connecting your device to your lab through the WireGuard VPN, making it more user-friendly and accessible.
+
+# Installation
+
+Installation of NinjaConnect is straightforward and can be accomplished using Python in any Linux environment with the following simple command
+
+```
+pipx install ninjaconnect
+```
+`Note : Use pipx insted of pip then only the package will been access globaly `
+
+## IF you configured already you can simply just login and connect to labs
+
+## Command and Steps
+# Step 1 :
+```
+ninja configure
+```
+
+![configure](https://i.imgur.com/8yHkjat.png)
+`Note : in case any error happend configure it again`
+# Step 2 :
+```
+ninja login
+```
+
+![logingit](https://i.imgur.com/eLlxzk0.png)
+# Step 3 :
+```
+ninja add_device
+```
+![adddevice](https://i.imgur.com/LstuXGA.png)
+
+
+# Step 4
+```
+ninja connect
+```
+
+![connect](https://i.imgur.com/ofoa59k.png)
+
+Now all its ok you can now able to ping and ssh you labs IP
+
+# Step 6
+After the you work completed you can disconnect
+
+```
+ninja disconnect
+```
+![disconnect](https://i.imgur.com/BpEffjl.png)
+# Step 7
+For logout use 
+
+```
+ninja logout
+```
+![logout](https://i.imgur.com/ceiUmCl.png)
+
+# Help 
+![help](https://i.imgur.com/PIIVCCe.png)
+
+`
+Please note that this is a beta version,incase any issues. We appreciate your feedback in Telegram @selfmadeninjasupport
+`
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
