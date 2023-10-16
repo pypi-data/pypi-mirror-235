@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: spark-config-builder
+Version: 0.2
+Summary: Build an Apache Spark configuration easily using a config file.
+Home-page: UNKNOWN
+Author: kassett
+Author-email: samuel.chai.development@gmail.com
+License: UNKNOWN
+Keywords: pyspark
+Platform: UNKNOWN
+Requires-Dist: PyYAML
+
+UNKNOWN
+
+
