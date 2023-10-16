@@ -1,0 +1,9 @@
+scikit-learn
+numba
+scipy
+numpy
+matplotlib
+tqdm
+h5py
+tensorflow
+MITgcmutils
