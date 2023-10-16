@@ -1,0 +1,10 @@
+digicon_mod/__init__.py,sha256=753wmmQrbMNEMEentgX_q17ULsYcDmtV-lCZIeImXK8,48
+digicon_mod/pid.py,sha256=tb7o1MWZzCrR9aNXL71usQ0tPQxZZWV1xahE7FCpZq0,614
+digicon_mod/plc.py,sha256=3y3pe-MtdPnAMFgRhlbtN5LHOHMG3Qvfo_gk6e493R4,1056
+digicon_mod/sim.py,sha256=I9MfbfONmWZ0zOmEZ7QwaZTyFVPrK_WtC2m09eSbLpE,901
+digicon_mod/test/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+digicon_mod/test/pid_control.py,sha256=tg1aGi4Q-0LMusZBvoh82JPP8o5-buSJ79qmR-3WMWE,654
+digicon_mod-0.1.3.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+digicon_mod-0.1.3.dist-info/METADATA,sha256=X8CyyJH1h3vuu0ofgr51oOIDvpoM1ZnpAdFHjMXYDgA,1183
+digicon_mod-0.1.3.dist-info/WHEEL,sha256=7Z8_27uaHI_UZAc4Uox4PpBhQ9Y5_modZXWMxtUi4NU,88
+digicon_mod-0.1.3.dist-info/RECORD,,
