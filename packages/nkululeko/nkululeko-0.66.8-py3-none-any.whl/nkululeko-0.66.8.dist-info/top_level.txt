@@ -1,0 +1,6 @@
+data
+docs
+meta
+nkululeko
+tests_old
+venv
