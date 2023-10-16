@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "poetry-plugin-install-all"
+version = "1.0.0"
+description = "Plugin with install-all command which install all dependency groups"
+authors = []
+
+# ...
+[tool.poetry.dependencies]
+python = "^3.10"
+poetry = "^1.2"
+
+[tool.poetry.plugins."poetry.application.plugin"]
+install-all = "poetry_plugin_install_all.plugins:InstallAllApplicationPlugin"

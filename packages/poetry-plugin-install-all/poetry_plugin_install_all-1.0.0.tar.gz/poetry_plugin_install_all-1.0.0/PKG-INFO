@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: poetry-plugin-install-all
+Version: 1.0.0
+Summary: Plugin with install-all command which install all dependency groups
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: poetry (>=1.2,<2.0)
