@@ -1,0 +1,8 @@
+{
+    "a2i": [
+        {
+            "schema": "arn:aws:{resource_type}:{aws_region}:{111122223333}:flow-definition/schema-name",
+            "example": "arn:aws:sagemaker:us-east-1:111122223333:flow-definition/my_flow",
+        }
+    ]
+}
