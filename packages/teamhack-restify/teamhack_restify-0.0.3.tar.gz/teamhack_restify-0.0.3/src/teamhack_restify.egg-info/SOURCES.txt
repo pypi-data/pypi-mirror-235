@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/teamhack_restify/__init__.py
+src/teamhack_restify/__main__.py
+src/teamhack_restify/server.py
+src/teamhack_restify.egg-info/PKG-INFO
+src/teamhack_restify.egg-info/SOURCES.txt
+src/teamhack_restify.egg-info/dependency_links.txt
+src/teamhack_restify.egg-info/requires.txt
+src/teamhack_restify.egg-info/top_level.txt
