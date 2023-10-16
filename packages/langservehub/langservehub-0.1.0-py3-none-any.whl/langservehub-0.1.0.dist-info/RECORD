@@ -1,0 +1,7 @@
+langservehub/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+langservehub/base.toml,sha256=dNbs5UsOK38XkQdRCCd9nFyJbph5v3DClhce5uBM34Y,369
+langservehub/cli.py,sha256=u0BmTVX3IWvCIFdvAe5YPO-N_Y6Zj0BxhfzbQUTU4_s,8060
+langservehub-0.1.0.dist-info/METADATA,sha256=Rs1LWorxraVdCaKSN7BP5viVAYuilX6trHpE_ngqZzE,584
+langservehub-0.1.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+langservehub-0.1.0.dist-info/entry_points.txt,sha256=tMZBd9sHtFbTQrXFAC-LoT1fMzLFaLyxKPwlYjv4pa0,53
+langservehub-0.1.0.dist-info/RECORD,,
