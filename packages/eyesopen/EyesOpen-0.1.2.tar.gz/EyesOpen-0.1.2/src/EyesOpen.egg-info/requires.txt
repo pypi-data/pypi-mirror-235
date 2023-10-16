@@ -1,0 +1,4 @@
+
+[dev]
+pytest<7,>=6
+flake8<4,>=3
