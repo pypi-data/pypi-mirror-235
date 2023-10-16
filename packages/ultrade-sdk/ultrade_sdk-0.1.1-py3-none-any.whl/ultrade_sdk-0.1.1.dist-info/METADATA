@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: ultrade-sdk
+Version: 0.1.1
+Summary: This SDK provides interface that helps making trading operations within the Ultrade network easier
+Home-page: https://github.com/ultrade-org/ultrade-python-sdk
+Author: Ultrade
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: py-algorand-sdk (>=2.0.0)
+Requires-Dist: python-socketio (>=5.0.0)
+Requires-Dist: asyncio (>=3.4.3)
+Requires-Dist: aiohttp (>=3.7.4)
+Requires-Dist: bip-utils (>=2.0.0)
+Provides-Extra: dev
+Requires-Dist: pytest (>=7.0) ; extra == 'dev'
+Requires-Dist: twine (>=4.0.2) ; extra == 'dev'
+
+# ultrade-python-sdk
+
+## Sources:
+
+- [ultrade_sdk.Client](https://github.com/ultrade-org/ultrade-python-sdk/blob/develop/docs/client.md) — main client, requires credentials
+
+- [ultrade_sdk.api](https://github.com/ultrade-org/ultrade-python-sdk/blob/develop/docs/api.md) — module for interaction with ultrade public API
+
+## Quick start
+
+```python
+from algosdk.v2client import algod
+from ultrade.sdk_client import Client
+
+algod_token = ""    # Your algod token here, for public node usage pass an empty string
+algod_address = "https://testnet-api.algonode.cloud"    # Your algod node address.
+
+# create algod client
+algod_client = algod.AlgodClient(algod_token, algod_address)
+
+
+options = {
+    "network": "testnet",
+    "algo_sdk_client": algod_client,
+    "api_url": None,
+    }
+
+credentials = {"mnemonic": 'alpha bravo charlie delta...'}
+
+# create ultrade-sdk client
+client = Client(credentials, options)
+```
+
+### Testing:
+
+To run tests, type:
+
+```bash
+pytest -n auto tests
+```
+
+### Generating Documentation:
+
+To generate .md documentation, run:
+
+```bash
+gendocs --config mkgendocs.yml
+```
+
+Docs will be located in the `docs/` directory.
