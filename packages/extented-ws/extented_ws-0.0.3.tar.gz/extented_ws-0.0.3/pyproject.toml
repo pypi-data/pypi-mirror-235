@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "extented_ws"
+version = "0.0.3"
+dependencies = [
+    "websockets>=11.0.3",
+    "aiogram>=3.1.1"
+]
+description = "This is a web socket wrapper for handling messages in the 'handler' way"
+requires-python = ">=3.11"
+authors = [
+    { name = "Sergei Ivanov", email = "dexsperpro@gmail.com" },
+]
+classifiers = [
+    "Environment :: Web Environment",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.11"
+]
+
+[project.urls]
+Homepage = "https://gitlab.com/ts-workflow/template/tbot-ts-example-sockets-webapp"
+
+[tool.coverage.paths]
+source = [
+    "src/extented_ws"
+]
+

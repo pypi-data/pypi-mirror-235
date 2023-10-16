@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: extented_ws
+Version: 0.0.3
+Summary: This is a web socket wrapper for handling messages in the 'handler' way
+Author-email: Sergei Ivanov <dexsperpro@gmail.com>
+Project-URL: Homepage, https://gitlab.com/ts-workflow/template/tbot-ts-example-sockets-webapp
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.11
+Requires-Dist: websockets>=11.0.3
+Requires-Dist: aiogram>=3.1.1
