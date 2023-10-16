@@ -1,0 +1,7 @@
+beautifulsoup4
+cchardet
+lxml
+pandas
+regex
+requests
+useful_functions_easier_life
