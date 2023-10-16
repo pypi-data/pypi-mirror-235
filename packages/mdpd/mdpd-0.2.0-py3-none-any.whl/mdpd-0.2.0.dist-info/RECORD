@@ -1,0 +1,7 @@
+mdpd/__init__.py,sha256=HHWyH_4wpfHQQTgUgiu88YcbipAEFtIUGcHFsEpcl_Y,109
+mdpd/utils.py,sha256=3pv1ZrYjl8gkMToFnArgDmvWyozy09kp5GFRywHNr8M,1986
+mdpd/version.py,sha256=w9Iw7QVvd8lme2wKwEbCo5IgetVjSfFBOOYAcA_Q0Ns,18
+mdpd-0.2.0.dist-info/LICENSE,sha256=Jr9W95tBprpCEoYvUCjTElb2izxwk26J5sOoIGiwMwg,1066
+mdpd-0.2.0.dist-info/METADATA,sha256=rUn3PCcybrXINIXvbbgton84Hpxc5It2WwrvGXRoyxE,2114
+mdpd-0.2.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+mdpd-0.2.0.dist-info/RECORD,,
