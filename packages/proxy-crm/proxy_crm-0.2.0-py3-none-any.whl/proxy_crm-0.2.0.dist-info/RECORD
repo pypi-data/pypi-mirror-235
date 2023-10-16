@@ -1,0 +1,10 @@
+proxy_crm/__init__.py,sha256=7rxeUlM4kwa-bk_TaNm1Z6Ss04kWp8KKHkDM1g_k4sI,193
+proxy_crm/exampleCase.ipynb,sha256=MkaYVTE75FORTzCPuesywnwUBXAkMGkUHQUtgRBYDWg,1242099
+proxy_crm/fractionalFlow.py,sha256=GzCI-HTVBYb6OU4kIZgO99BFjE0kAM2Efr09mW6x_kM,8152
+proxy_crm/interwellVis.py,sha256=1vB1gl4yaXKQiZvrJybrmQwtrvoOgI3ylDuFfLq2i7I,1311
+proxy_crm/proxy_crm_modules.py,sha256=qoFPGvSSIYPkaWMhStn5NIUnTxBVyH-Wr3bhRet5w9s,16962
+proxy_crm/unisimCase.ipynb,sha256=vXm8TIu4kfJWEuU_3kUAmRIgzo7IBON6IzVgqPREH9Y,587815
+proxy_crm-0.2.0.dist-info/LICENSE.md,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+proxy_crm-0.2.0.dist-info/METADATA,sha256=_WpVGXMEFdFadEIk1Xi5JlwHyYWesPfk-XOxI36-3es,547
+proxy_crm-0.2.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+proxy_crm-0.2.0.dist-info/RECORD,,
