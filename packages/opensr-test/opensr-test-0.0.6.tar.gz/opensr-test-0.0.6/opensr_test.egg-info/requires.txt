@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+scikit-image
+scikit-learn
+lpips
+requests
+kornia
+pydantic
