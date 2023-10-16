@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: joyspace
+Version: 0.0.1
+Summary: JoySpace - Multimodal AI APIs
+Author: JoySpace AI
+Author-email: <sagar@joyspace.ai>
+Keywords: python,joyspace,multimodal ai,NLP,Computer Vision
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+
+Get started with multimodal AI quickly. Get Multimodal Search, Multimodal Recommendation, Training Data for LLMs, Embedding Store out of the box.
