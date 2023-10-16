@@ -1,0 +1,17 @@
+chardet
+cli_exit_tools
+click
+lib_log_utils
+lib_platform
+
+[test]
+black
+codecov
+coloredlogs
+coverage
+flake8
+mypy
+pytest
+pytest-cov
+pytest-runner
+readme_renderer
