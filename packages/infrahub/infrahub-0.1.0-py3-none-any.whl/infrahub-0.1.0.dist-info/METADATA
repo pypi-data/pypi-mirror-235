@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: infrahub
+Version: 0.1.0
+Summary: Infrastructure Source of Truth
+Home-page: https://opsmill.io
+Author: OpsMill
+Author-email: contact@opsmill.com
+Requires-Python: >=3.8,<4.0
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: fastapi (>=0.103.2,<0.104.0)
+Requires-Dist: graphene (>=3.3,<4.0)
+Requires-Dist: typer (>=0.9.0,<0.10.0)
+Requires-Dist: uvicorn (>=0.23.2,<0.24.0)
+Project-URL: Documentation, https://opsmill.io
+Project-URL: Repository, https://opsmill.io
+Description-Content-Type: text/markdown
+
+... Coming Soon ...
