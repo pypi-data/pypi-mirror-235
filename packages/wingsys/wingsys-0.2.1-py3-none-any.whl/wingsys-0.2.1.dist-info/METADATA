@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: wingsys
+Version: 0.2.1
+Home-page: https://www.github.com/mgismissing/gs
+Author: magnesium
+Author-email: hackergreg2000@gmail.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: colorama
+Requires-Dist: keyboard
+
+# wingsys
+Create console games
+
+## Issues
+You can report issues in [the wingsys GitHub repository](https://www.github.com/mgismissing/gs/issues).
+
+## Installation
+```
+pip install wingsys
+```
+
+## Documentation
+
+Not available
