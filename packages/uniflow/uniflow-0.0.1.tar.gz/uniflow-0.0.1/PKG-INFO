@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: uniflow
+Version: 0.0.1
+Summary: Unified flow interface for synthetic data generation and many more
+License: Apache License
+Author: CambioML
+Author-email: wanwanaiai45@gmail.com
+Maintainer: Rachel Hu
+Maintainer-email: goldpiggy@berkeley.edu
+Requires-Python: >=3.10,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+
