@@ -1,0 +1,10 @@
+odoo/addons/ssi_data_requirement_work_log/README.rst,sha256=aHkr1h7D_FmxMgaaYGxSqQqRCcX4lwRu57730DFeRWQ,1282
+odoo/addons/ssi_data_requirement_work_log/__init__.py,sha256=pXobMvi-Xzga8dGVPzYthZUHJzQSY3b6Bevs09H-1uY,201
+odoo/addons/ssi_data_requirement_work_log/__manifest__.py,sha256=CoLfgo-84uPrndmnlmVwbdtWGZENiRpNZ0KYRRLAx4M,565
+odoo/addons/ssi_data_requirement_work_log/models/__init__.py,sha256=pyJ5rZM7sn2AWsh3pG6itt-Dbrs3saT08yboyFzGKkw,211
+odoo/addons/ssi_data_requirement_work_log/models/data_requirement.py,sha256=nSXb4xgeLF9sEgyjH0RgsgQQFMTeEKcoFMIC7WOwbcA,379
+odoo/addons/ssi_data_requirement_work_log/static/description/icon.png,sha256=lNGJOSg4cMRfwPTfFKVT6d5B2N1N83iVpEEN1blqu1I,48333
+odoo14_addon_ssi_data_requirement_work_log-14.0.1.0.0.dist-info/METADATA,sha256=bOIqG5YxWu8n2UIKwUsk0_1PCP-UzwntnguiYWDDVz0,1909
+odoo14_addon_ssi_data_requirement_work_log-14.0.1.0.0.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+odoo14_addon_ssi_data_requirement_work_log-14.0.1.0.0.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo14_addon_ssi_data_requirement_work_log-14.0.1.0.0.dist-info/RECORD,,
