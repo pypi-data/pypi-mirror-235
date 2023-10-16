@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: proxy_crm
+Version: 0.2.0
+Summary: History matching using Proxy Capacitance-Resistance Model (Gubanova et al., 2022) for producer well shut-in
+Author: Leony
+Author-email: le.leony00@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
