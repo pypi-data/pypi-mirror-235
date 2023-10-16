@@ -1,0 +1,11 @@
+psycopg2
+ratelimit
+requests
+teamhack_db
+
+[rel]
+twine
+
+[test]
+coverage
+pytest
