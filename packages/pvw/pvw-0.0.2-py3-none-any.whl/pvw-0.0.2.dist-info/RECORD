@@ -1,0 +1,14 @@
+pvw/__init_.py,sha256=DWrdJv_FQbIcFYjlF5XI5Af6aZHqQIveTqitewWZ8Yw,60
+pvw/args_parser.py,sha256=Ta5By9IPOqfCTpxFWS8WqhMRVHET1akVIDKQHrD_bmw,2857
+pvw/config.py,sha256=gL86vGodplg2zwFOKKEzYszJDOttrdQsfQPj-KNiAIs,2272
+pvw/env.py,sha256=wrwvrfvq7W6AoQyIh30nUoTwBF9ecurdFyR4tsbI8u0,4790
+pvw/main.py,sha256=Skk12KW_ZHfR5eM2DApj03uCELMjmCPvs-aLd2-sjAg,131
+pvw/op.py,sha256=M8xMB9xRjeODqCB1A0t4UWi_STGa6mV8yxoBXCU-L24,2119
+pvw/shell_executor.py,sha256=Tr4iUqSFlqmRTTwJjQeedKj8dBVdYXzGRHve1mDH-7k,3095
+pvw-0.0.2.data/scripts/pvw,sha256=GKEVp79xSabvPKUdoN0yUumLVJB8qKgrZHwGA_PiFJw,748
+pvw-0.0.2.data/scripts/pvw.ps1,sha256=UqAAYZI6MpRx8X530FwA5VAsosOkAqrLmKEV3iiF8gY,578
+pvw-0.0.2.dist-info/METADATA,sha256=C6hvJqYsIroEl8AG-3GzbLBlsTFJ7aFbu9sqoIOTEq4,3358
+pvw-0.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pvw-0.0.2.dist-info/entry_points.txt,sha256=6s6XLRK9E6TkRt3BUvSex2spBki_qT-wqVw0ZflqIvQ,41
+pvw-0.0.2.dist-info/top_level.txt,sha256=FNZiDNhTgfpE6o1aR0qwJSso3viJF8o_Yo2VLaKSiys,4
+pvw-0.0.2.dist-info/RECORD,,
