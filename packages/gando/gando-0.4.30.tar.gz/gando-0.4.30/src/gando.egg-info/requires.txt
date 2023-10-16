@@ -1,0 +1,6 @@
+Django
+pydantic
+djangorestframework
+markdown
+django-filter
+django-simple-history
