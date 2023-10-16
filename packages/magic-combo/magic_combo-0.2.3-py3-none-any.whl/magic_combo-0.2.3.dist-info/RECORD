@@ -1,0 +1,14 @@
+LICENSE.md,sha256=s5z-iSZX_qgRrdSz2smVFG3H1E4KAHVEnANEgOBGzRs,1074
+magic_combo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+magic_combo/__main__.py,sha256=w_FM2X8K98hzp08Neb0SS8cNT1pmqfyWv01lZ-JgLUQ,910
+magic_combo/config.py,sha256=Ceyd_AGhp3nxe27E2gPtqkujdyEhQm42ifAy1DDNEvg,1106
+magic_combo/playbooks.py,sha256=BY3mNyxqZHNWV2nITagUP2x8H4VZTTP40kgEaR4B8Ng,1250
+magic_combo/scripts/__init__.py,sha256=Cz1Two_9vKyxi3tmdu_dUhQxxuz06ms_lHXvHyJHJz8,2102
+magic_combo/scripts/bump_version.py,sha256=_2N0AAOqfSO1C2rDULbNTh-i_pTuwMzg989l8qkQfPY,2170
+magic_combo/scripts/generate_credits.py,sha256=T6yM_o8W6qLQsTlbEOja6aPXPFo0MurRqi-wCXmtFWk,2066
+magic_combo/tasks.py,sha256=aNloj-30MTjk_ek9Fd0rc_vjma-3xLxxdrzx8TPRjK0,6312
+magic_combo-0.2.3.dist-info/LICENSE.md,sha256=s5z-iSZX_qgRrdSz2smVFG3H1E4KAHVEnANEgOBGzRs,1074
+magic_combo-0.2.3.dist-info/METADATA,sha256=y1VVrPMOZ6Vq73GYHAkRo476fo1Swt7D1Da5yUxw-lM,4124
+magic_combo-0.2.3.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+magic_combo-0.2.3.dist-info/entry_points.txt,sha256=ziiUe-SnH_HU-QsUQ5VVjelss3zfUWbude-SlwWZZaQ,57
+magic_combo-0.2.3.dist-info/RECORD,,
