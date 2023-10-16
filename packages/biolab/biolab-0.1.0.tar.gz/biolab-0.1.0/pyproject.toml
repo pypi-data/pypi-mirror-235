@@ -1,0 +1,8 @@
+[project]
+name = "biolab"
+version = "0.1.0"
+authors = [
+    {name="Mattie Garaikoetxea Zubillaga", email="mattiegaraiko@gmail.com"},
+]
+description="Python package for biological applications"
+readme = "README.md"
