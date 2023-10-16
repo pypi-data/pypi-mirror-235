@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: sage-func
+Version: 0.1.2
+Summary: Description of my package
+Home-page: https://github.com/zhongweili/SageAI
+Author: Zhongwei
+Author-email: lizhongwei.nkcs@gmail.com
+License-File: LICENSE

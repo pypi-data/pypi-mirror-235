@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+sage_func.egg-info/PKG-INFO
+sage_func.egg-info/SOURCES.txt
+sage_func.egg-info/dependency_links.txt
+sage_func.egg-info/top_level.txt
+sageai/__init__.py
+sageai/config.py
+sageai/sageai.py
