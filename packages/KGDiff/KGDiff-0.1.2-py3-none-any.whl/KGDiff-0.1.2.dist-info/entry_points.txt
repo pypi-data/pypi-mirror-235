@@ -1,0 +1,5 @@
+[console_scripts]
+kg_eval = scripts.evaluate_diffusion:main
+kg_gen = scripts.sample_diffusion:main
+kg_gen4poc = scripts.sample_for_pocket:main
+kg_train = scripts.train_diffusion:main
