@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+requirements-dev.txt
+requirements.txt
+.github/dependabot.yml
+.github/pull_request_template.md
+.github/ISSUE_TEMPLATE/bug_report.yml
+.github/workflows/pre-commit.yml
+.github/workflows/pypi.yml
+.github/workflows/tests.yml
+xpublish_intake_provider/__init__.py
+xpublish_intake_provider/_version.py
+xpublish_intake_provider/dataset_provider_plugin.py
