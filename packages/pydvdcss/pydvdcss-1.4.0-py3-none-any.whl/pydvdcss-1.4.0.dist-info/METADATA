@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: pydvdcss
+Version: 1.4.0
+Summary: Python wrapper for VideoLAN's libdvdcss.
+Home-page: https://github.com/rlaphoenix/pydvdcss
+License: GPLv3
+Keywords: python,library,dvd,videolan,libdvdcss
+Author: rlaphoenix
+Author-email: rlaphoenix@pm.me
+Requires-Python: >=3.8,<4.0
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: Other/Proprietary License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Multimedia
+Classifier: Topic :: Multimedia :: Video
+Classifier: Topic :: Multimedia :: Video :: Conversion
+Classifier: Topic :: Security :: Cryptography
+Provides-Extra: docs
+Requires-Dist: Sphinx (>=7.1.2,<8.0.0) ; extra == "docs"
+Requires-Dist: dunamai (>=1.19.0,<2.0.0) ; extra == "docs"
+Requires-Dist: furo (>=2023.9.10,<2024.0.0) ; extra == "docs"
+Requires-Dist: myst-parser (>=2.0.0,<3.0.0) ; extra == "docs"
+Project-URL: Bug Tracker, https://github.com/rlaphoenix/pydvdcss/issues
+Project-URL: Changelog, https://github.com/rlaphoenix/pydvdcss/blob/master/CHANGELOG.md
+Project-URL: Documentation, https://pydvdcss.phoeniix.dev
+Project-URL: Forums, https://github.com/rlaphoenix/pydvdcss/discussions
+Project-URL: Repository, https://github.com/rlaphoenix/pydvdcss
+Description-Content-Type: text/markdown
+
+![Banner](https://rawcdn.githack.com/rlaphoenix/pydvdcss/dfea6bed42cf13cb9d5839ddc1c54f4efbc5ec5e/banner.png)
+
+[![Linter: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![Dependency management: Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)
+[![Python version](https://img.shields.io/pypi/pyversions/pydvdcss)](https://pypi.python.org/pypi/pydvdcss)
+[![Release version](https://img.shields.io/pypi/v/pydvdcss)](https://pypi.python.org/pypi/pydvdcss)
+[![DeepSource issues](https://deepsource.io/gh/rlaphoenix/pydvdcss.svg/?label=active+issues)](https://deepsource.io/gh/rlaphoenix/pydvdcss)
+[![Build status](https://github.com/rlaphoenix/pydvdcss/actions/workflows/ci.yml/badge.svg)](https://github.com/rlaphoenix/pydvdcss/actions/workflows/ci.yml)
+[![Docs status](https://readthedocs.org/projects/pydvdcss/badge/)](https://pydvdcss.readthedocs.io)
+
+**pydvdcss** is a python wrapper for VideoLAN's [libdvdcss].
+
+[libdvdcss] is a simple library designed for accessing DVDs like a block device without having to bother about the
+decryption.
+
+  [libdvdcss]: <https://www.videolan.org/developers/libdvdcss.html>
+
+**Documentation**: https://pydvdcss.phoeniix.dev  
+**License**: [GNU General Public License, Version 3.0](LICENSE)
+
