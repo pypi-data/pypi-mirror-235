@@ -1,0 +1,7 @@
+matplotlib
+tqdm
+ediblepickle
+deepdish
+contexttimer
+singleton_decorator
+h5ify
