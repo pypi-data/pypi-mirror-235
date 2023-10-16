@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: KGDiff
+Version: 0.1.2
+Summary: KGDiff packages
+Home-page: https://github.com/CMACH508/KGDiff
+Download-URL: https://github.com/CMACH508/KGDiff/archive/0.1.2.tar.gz
+Author: qhonearth
+Author-email: qhonearth@sjtu.edu.cn
+License: MIT
+Keywords: pytorch,KGDiff,drug design,diffusion model
+License-File: LICENSE
