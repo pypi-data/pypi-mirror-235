@@ -1,0 +1,9 @@
+permission_graph-0.1.0a1.dist-info/METADATA,sha256=T6Fs_rt4WVyA1fiwA1yZ7s8S9gH9qy4IdLwnC4joBVo,1808
+permission_graph-0.1.0a1.dist-info/WHEEL,sha256=C8f_gqhOWmHrh81n3Ukx5iURrqMhsHla81fuY1yuwvs,90
+permission_graph/__init__.py,sha256=SGDADN9c4YmetFa_aXd3sxo7hMZ2LgF62dN1gyCs5uY,270
+permission_graph/backends/__init__.py,sha256=0mVSPnh5lHM_ohZlgNCJlyzyNd85msJsCnz6GMWdjOs,131
+permission_graph/backends/base.py,sha256=loGVygg4lafdrh8f4L5w2LqtARZfp7Ci-qe4cPN-7oc,2428
+permission_graph/backends/igraph.py,sha256=v-WuTx-UyTD5QVctauNYa1uPLrGswL98KroZtZdl4HI,3251
+permission_graph/permission_graph.py,sha256=woFGE_R1wZ5apcYl92gibaajsnVp71mn6MAkgdmq914,4659
+permission_graph/structs.py,sha256=s6NAWa2r2SylzaykfQWd1YCprQWQaLpkkCGzLzLJ5RI,1737
+permission_graph-0.1.0a1.dist-info/RECORD,,
