@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: 5paisa_modular
+Version: 0.0.1
+Summary: 5Paisa Algo trade deployment modules
+Home-page: https://pypi.org/project/5paisa-modular/
+Author: Swapna Gupta
+Author-email: mailswapna5paisa@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
+5Paisa Algo trade deployment modules
+ 
