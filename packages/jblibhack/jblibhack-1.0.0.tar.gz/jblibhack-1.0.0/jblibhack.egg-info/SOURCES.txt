@@ -1,0 +1,8 @@
+setup.py
+jblibhack/__init__.py
+jblibhack/jblibhack.py
+jblibhack.egg-info/PKG-INFO
+jblibhack.egg-info/SOURCES.txt
+jblibhack.egg-info/dependency_links.txt
+jblibhack.egg-info/requires.txt
+jblibhack.egg-info/top_level.txt

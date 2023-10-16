@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: jblibhack
+Version: 1.0.0
+Summary: A library for handling Telegram messages
+Author: hacker233
+Author-email: shellcloud18@gmail.com
+Requires-Dist: telebot
+Requires-Dist: requests
