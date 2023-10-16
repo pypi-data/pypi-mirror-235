@@ -1,0 +1,12 @@
+llm_falcon_model/__init__.py,sha256=HIBOQVyfa4vXMSxUoVb7juZ-aqyZRgpqEsvQG_Pvq8g,223
+llm_falcon_model/config_40b.json,sha256=M2l4Aw6IkWVrqYXKg_d1FXE0euF79baSD2vr0mP8UpM,1094
+llm_falcon_model/config_7b.json,sha256=dRph_dmsLKgLtwjDBS5HrZj8zw2-EwbnNoHIwC9gp7I,989
+llm_falcon_model/configuration_RW.py,sha256=4Z48ReEDHl2opZoHLsXnnqBZN-sRfmHEMScBNkjxC0o,1030
+llm_falcon_model/falcon7b_tokenizer.json,sha256=IF1N5f0O-yJnC1IaEu3TaITsy46-yLaEFApGVqKnuuo,2734158
+llm_falcon_model/initialization.py,sha256=WhtwEHKJRmy7FTrMY1x1Ud3jHG5c0da18fwXMQ5gcXI,730
+llm_falcon_model/modelling_RW.py,sha256=b3Lpi3avBRTOo4254JsCpL_55wlF2KrGmFMGou6QTBk,19962
+llm_falcon_model/tokenization.py,sha256=uKzZAhfhRFcXFM2njJ6v6MMGwocAuWtsij2IUlwMofo,255
+llm_falcon_model-0.4.0.dist-info/METADATA,sha256=0RcW-FJFKroDygwmwCPoOaPKPN-z2lPF3CkuNN3OfTI,1051
+llm_falcon_model-0.4.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+llm_falcon_model-0.4.0.dist-info/top_level.txt,sha256=zB_Bk3KhC3ZslR103xeCAsS-xt-4EoRdKZyNkaPhHGM,17
+llm_falcon_model-0.4.0.dist-info/RECORD,,
