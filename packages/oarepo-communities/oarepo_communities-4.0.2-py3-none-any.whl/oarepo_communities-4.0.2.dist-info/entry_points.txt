@@ -1,0 +1,8 @@
+[invenio_base.api_apps]
+oarepo_vocabularies = oarepo_communities.ext:OArepoCommunities
+
+[invenio_base.apps]
+oarepo_vocabularies = oarepo_communities.ext:OArepoCommunities
+
+[oarepo.custom_fields]
+record_field = oarepo_communities.cf.loader:get_field
