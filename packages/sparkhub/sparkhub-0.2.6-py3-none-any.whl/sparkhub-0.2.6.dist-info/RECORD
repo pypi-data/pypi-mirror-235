@@ -1,0 +1,13 @@
+pycloud/__init__.py,sha256=i1OTn1AdngdvNxFCdH3rIUEtMcHkWARFlEpONKBbGMI,73
+pycloud/_version.py,sha256=qUnDrohrtCsab1qrhbLewx3KFFBLAMeEVFh96P2c5i8,497
+pycloud/cloud_utils.py,sha256=eBx1q8JeP6wAsTV9saG21YMfELr6xAd4MDR3c6HSJl4,2472
+pycloud/gcloud.py,sha256=YyOaSqAPZlxzxxF8FWZsxGEXvW3hbQDTZSJzqtgFIqw,24558
+pycloud/hadoopio.py,sha256=wx9kqHyL4KgIV4zr55yqRnjNwyv59seCqG_QqKXZSmU,2383
+pycloud/hailrunner.py,sha256=kYOQXjtUUthljx3zf3HF3oC7Iq-kZAq5vrYuHX7JGD4,21874
+pycloud/slackconnector.py,sha256=_8Rfd2rXYMLOnc3eNx7By4g2bncDkMG5t4gpCTXzlwg,2354
+pycloud/submit.py,sha256=K2Wnl0KWz0qZZajVb_0zj0j8UIWVtdsQ7GTiJMRpsE4,7911
+sparkhub-0.2.6.dist-info/LICENSE.md,sha256=rszxsiVV_CZ3Frn6O-pshMvuzOr_mGbrcsdXYkgQW3o,1071
+sparkhub-0.2.6.dist-info/METADATA,sha256=K1zAPE2R9r-IdZv40v9pRC_zfXoCx6Tac0q4CxvA1P8,1513
+sparkhub-0.2.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+sparkhub-0.2.6.dist-info/top_level.txt,sha256=Irm6Ixm8QvZCideNjP-mdUfRcjdK6oP69Nrp3jdUfws,8
+sparkhub-0.2.6.dist-info/RECORD,,
