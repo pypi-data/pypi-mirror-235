@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+brain/__init__.py
+brain/circuit.py
+brain/stymulus.py
+brain/synapse.py
+brain/neurons/__init__.py
+brain/neurons/gpt4.py
+mclebets.egg-info/PKG-INFO
+mclebets.egg-info/SOURCES.txt
+mclebets.egg-info/dependency_links.txt
+mclebets.egg-info/top_level.txt
