@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: async-unshortenit
+Version: 0.1.0
+Summary: Unshortens ad-based shorteners and any 301 redirected urls.
+Home-page: https://github.com/kshubham506/async_unshortenit
+Author: Shubham Kumar
+Author-email: kshubham506@gmail.com
+License: MIT
+Keywords: unshortener adf.ly lnx.lu sh.st shortener
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: aiohttp >=3.8.1
+Requires-Dist: click >=8.1.3
+Requires-Dist: lxml >=4.9.1
+
