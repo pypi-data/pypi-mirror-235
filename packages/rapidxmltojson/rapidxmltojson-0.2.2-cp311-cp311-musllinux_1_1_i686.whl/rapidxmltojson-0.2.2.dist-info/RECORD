@@ -1,0 +1,10 @@
+rapidxmltojson.cpython-311-i386-linux-musl.so,sha256=n5wpNf6zmP2PLYmTVhDlUVOG5NwiKVOYJs2dJEI8RCM,961593
+rapidxmltojson.libs/libstdc++-8baf04f9.so.6.0.28,sha256=yrzOxg1heyJ9Y-43YCLLn04Cpl_A68FN0D2Q1iBTMcY,2428961
+rapidxmltojson.libs/libgcc_s-8b50eaaa.so.1,sha256=WXj_FYQE1MDIyb-nN8siUALdxit6NHma0p9UxemQV8o,101649
+rapidxmltojson-0.2.2.dist-info/LICENSE,sha256=Bx109QB6hhPnHBuTYQGqg6E7VrKYMeav0B3dezgeSGI,1076
+rapidxmltojson-0.2.2.dist-info/top_level.txt,sha256=nkO5ho3ikUo0WRffMAZPbuLk3ckE4m_UKIdFiCJlt10,22
+rapidxmltojson-0.2.2.dist-info/WHEEL,sha256=KmZYS4RYyvGoygFJEeJR8Ii5W7MjIii07iuWtOyramc,111
+rapidxmltojson-0.2.2.dist-info/RECORD,,
+rapidxmltojson-0.2.2.dist-info/METADATA,sha256=GDB-g10CiZkjMbp5Ez3VHoh01py0ERofggrfv7IdvXk,1664
+source/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+source/rapidxmltojson.cpp,sha256=BoXcTq9OJ-9LWqnUTyDCqGSrVj86Cnb-kGaTTdnwMUg,291211
