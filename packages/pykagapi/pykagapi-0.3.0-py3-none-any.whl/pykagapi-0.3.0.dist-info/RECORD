@@ -1,0 +1,12 @@
+pykagapi/__init__.py,sha256=q8vRyWK7Q6DXpzewXbVO4Zh3OL7w55fNgyJwug1flhE,28
+pykagapi/core/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+pykagapi/core/client.py,sha256=j502ST48Y7-N9EQtQeLBunXxa-tL6XSjsOytSOPc0cI,1291
+pykagapi/kag/__init__.py,sha256=AP9oV2V0L2htkkXvaOSWiYwR1mAsW3QS6y7eUD-nY4c,267
+pykagapi/kag/client.py,sha256=Zbd8V6x6XhRi_oECDwzldm2IWXFecHQt_G47xjJOd3o,6270
+pykagapi/kag/extra.py,sha256=2wTfwtbdz1kz9WOfABcQHtt0e_ZKl_AKIbXHdWTFyb0,853
+pykagapi/kagstats/__init__.py,sha256=NLqiAy7ioLA1NjZzWgL4V1VKj0IZeETX9aqLrhybg4M,252
+pykagapi/kagstats/client.py,sha256=icrwz5NIX3jewjlqDxfPJzmx2OsnRlkCOuUN3dGy1i0,5940
+pykagapi-0.3.0.dist-info/LICENSE,sha256=0o43gNWwIrL8saz4mGgwluYGvjAdwIHlhh2yWHGiB_E,484
+pykagapi-0.3.0.dist-info/METADATA,sha256=WOXGxhg-ciLTxeDujj3wzh3EqsC8HHMxHVik2_ZsaFE,1977
+pykagapi-0.3.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+pykagapi-0.3.0.dist-info/RECORD,,
