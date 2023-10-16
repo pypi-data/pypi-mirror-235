@@ -1,0 +1,6 @@
+pyproject.toml
+FIELDS/STRUCTURES/BOTANY.egg-info/PKG-INFO
+FIELDS/STRUCTURES/BOTANY.egg-info/SOURCES.txt
+FIELDS/STRUCTURES/BOTANY.egg-info/dependency_links.txt
+FIELDS/STRUCTURES/BOTANY.egg-info/top_level.txt
+FIELDS/STRUCTURES/BOTANY/IMPORT/__init__.py
