@@ -1,0 +1,9 @@
+MANIFEST.in
+opencv_world410.dll
+setup.py
+Utilities/Utilities.pyd
+Utilities/__init__.py
+openface_test.egg-info/PKG-INFO
+openface_test.egg-info/SOURCES.txt
+openface_test.egg-info/dependency_links.txt
+openface_test.egg-info/top_level.txt
