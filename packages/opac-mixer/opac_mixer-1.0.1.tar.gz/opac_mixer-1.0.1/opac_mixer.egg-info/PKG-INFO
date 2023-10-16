@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: opac-mixer
+Version: 1.0.1
+Summary: opacity mixing - accelerated
+Home-page: https://opacmixer.readthedocs.io/en/latest/
+Author: Aaron David Schneider
+Author-email: aaron.schneider@nbi.ku.dk
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DeepSet opacity mixer  
+
+This repository includes the tools to train a DeepSet k-table mixer, as described in detail in Schneider et al. (2023).
+
+The documentation for the code and tutorials are provided here: [link to docs](https://opacmixer.readthedocs.io/en/latest/)
+
+If you find this work useful, please consider to cite the following paper:
+Schneider et al. (in review)
+
+WARNING: The paper is not yet published, please do not use this code, before it is published
