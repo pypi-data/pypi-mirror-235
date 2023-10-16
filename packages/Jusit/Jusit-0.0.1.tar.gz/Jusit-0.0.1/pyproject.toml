@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "Jusit"
+version = "0.0.1"
+authors = [
+  { name="Vishal kumar", email="vishalkumar049022@gmail.com" },
+]
+description = "A Just it"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Vishalkumar01421/justit"
+"Bug Tracker" = "https://github.com/Vishalkumar01421/justit/issues"

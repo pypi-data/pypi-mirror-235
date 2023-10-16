@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/Jusit.egg-info/PKG-INFO
+src/Jusit.egg-info/SOURCES.txt
+src/Jusit.egg-info/dependency_links.txt
+src/Jusit.egg-info/top_level.txt
+src/justit_vishalkumar014/__init__.py
+src/justit_vishalkumar014/core.py
