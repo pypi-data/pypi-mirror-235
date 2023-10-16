@@ -1,0 +1,8 @@
+overwatchpy/__init__.py,sha256=modqlZs9gQ_hIbDK16-01lbGI5sWZmxZ6cpsImLwOok,28
+overwatchpy/api.py,sha256=GDbqCc11TH8qm3XudvR6jWfo6fVyAUV4NcXczxflnNI,3890
+overwatchpy/const.py,sha256=KR-JTf4Lsv3R4696z6n2pJaABcJC-L-k5dVTorwEvU0,188
+overwatchpy/core.py,sha256=kUpafI4K9C5eiw3FYOMU2WfEGgTRAMRKhLpuBM-0AuI,9288
+overwatchpy/errors.py,sha256=DOnit8DlqgIM8MYROolcSF2-wzXOlrxSRW4ZcfzEQ2Y,710
+overwatchpy-0.0.1.dist-info/METADATA,sha256=_1cUtwLiP2dOyxNWjCLD-eLB5xYOJoRwAi_vjSnuS08,1058
+overwatchpy-0.0.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+overwatchpy-0.0.1.dist-info/RECORD,,
