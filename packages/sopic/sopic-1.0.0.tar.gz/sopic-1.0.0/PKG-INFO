@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: sopic
+Version: 1.0.0
+Summary: Helper for manufacturing station
+Home-page: https://github.com/Taldrain/sopic
+License: MIT
+Author: Thomas 'Taldrain' Mariaux
+Author-email: taldrain@gmail.com
+Requires-Python: >=3.10,<3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: colorlog (>=6.7.0,<7.0.0)
+Requires-Dist: graphviz (>=0.20.1,<0.21.0)
+Requires-Dist: pyside6 (>=6.4.3,<7.0.0)
+Requires-Dist: xdg-base-dirs (>=6.0.1,<7.0.0)
+Project-URL: Repository, https://github.com/Taldrain/sopic
