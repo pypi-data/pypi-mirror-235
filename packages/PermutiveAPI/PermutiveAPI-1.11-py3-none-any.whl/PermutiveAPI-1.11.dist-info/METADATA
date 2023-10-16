@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: PermutiveAPI
+Version: 1.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: aiofiles
+
+# PermutiveAPI
+python repo to interact with the Permutive API
