@@ -1,0 +1,3 @@
+[console_scripts]
+promptmodel = promptmodel.cli.main:app
+
