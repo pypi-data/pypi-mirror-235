@@ -1,0 +1,5 @@
+pyproject.toml
+tinynmc.egg-info/PKG-INFO
+tinynmc.egg-info/SOURCES.txt
+tinynmc.egg-info/dependency_links.txt
+tinynmc.egg-info/top_level.txt
