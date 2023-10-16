@@ -1,0 +1,3 @@
+[console_scripts]
+gauchian = gauchian.gauchian:run
+
