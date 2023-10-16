@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: seali
+Version: 0.1.0
+Summary: Python Command line interface CLI for GDataSea
+Author-email: gdsfactory community <contact@gdsfactory.com>
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typer[all]
+Requires-Dist: requests
+Requires-Dist: klayout >=0.28.11
+Requires-Dist: pydantic <=3,>=2
+Requires-Dist: pydantic-settings
+Provides-Extra: ci
+Requires-Dist: pytest ; extra == 'ci'
+Requires-Dist: mypy ; extra == 'ci'
+Requires-Dist: types-cachetools ; extra == 'ci'
+Requires-Dist: types-requests ; extra == 'ci'
+Requires-Dist: seali[git] ; extra == 'ci'
+Provides-Extra: dev
+Requires-Dist: pre-commit ; extra == 'dev'
+Requires-Dist: pytest ; extra == 'dev'
+Requires-Dist: pytest-cov ; extra == 'dev'
+Requires-Dist: pytest-regressions ; extra == 'dev'
+Requires-Dist: towncrier ; extra == 'dev'
+Requires-Dist: gitpython ; extra == 'dev'
+Requires-Dist: tbump ; extra == 'dev'
+Requires-Dist: types-requests ; extra == 'dev'
+Requires-Dist: types-setuptools ; extra == 'dev'
+Requires-Dist: types-docutils ; extra == 'dev'
+Requires-Dist: types-Pygments ; extra == 'dev'
+Requires-Dist: typer-cli ; extra == 'dev'
+Requires-Dist: requests-mock ; extra == 'dev'
+Requires-Dist: pandas ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: jupytext ; extra == 'docs'
+Requires-Dist: matplotlib ; extra == 'docs'
+Requires-Dist: jupyter-book ==0.15.1 ; extra == 'docs'
+Requires-Dist: sphinx-click ; extra == 'docs'
+Provides-Extra: git
+Requires-Dist: gitpython ; extra == 'git'
+Provides-Extra: ipy
+Requires-Dist: ipython ; extra == 'ipy'
+Requires-Dist: ipywidgets ; extra == 'ipy'
+Requires-Dist: ipytree ; extra == 'ipy'
+Requires-Dist: ipyevents ; extra == 'ipy'
+
+# SeaLI 0.1.0
+
+![](docs/logo.png)
+
+Python [Command](Command) Line Interface (CLI) and API to interact with a GDataSea instance.
+
+## Installation
+
+```
+pip install seali
+```
+
+## Getting started
+
+- Read [docs](https://gdsfactory.github.io/seali/)
