@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: arya-xai
+Version: 0.0.3
+Summary: Full stack ML Observability with AryaXAI
+License: MIT
+Project-URL: Documentation, https://xai.arya.ai/docs/introduction
+Keywords: arya-xai,ML observability
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pydantic==2.4.2
+
+A python client for [AryaXAI](https://xai.arya.ai).
+
+AryaXAI is a full stack ML Observability tool for mission-critical AI functions. Designed by Arya.ai, it is aimed to deliver much required common platform between stakeholders and deliver AI transparency, trust and auditability.
+
+### Installation
+```
+pip install arya-xai
+```
+
+### Getting Started
+```
+from arya_xai import xai
+
+xai.login()
+
+workspaces = xai.get_workspaces()
+```
