@@ -1,0 +1,3 @@
+include splitlistatindex/requirements.txt
+include splitlistatindex/thirdparty.json
+include splitlistatindex/README.MD
