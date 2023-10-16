@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Aialgo.egg-info/PKG-INFO
+Aialgo.egg-info/SOURCES.txt
+Aialgo.egg-info/dependency_links.txt
+Aialgo.egg-info/top_level.txt
+my_package/__init__.py
