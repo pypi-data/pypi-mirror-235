@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: OrangeGenerator
+Version: 0.01
+Summary: The problem test case generator for ACM.
+License: MIT
+Author-email: BigOrangeQWQ <2284086963@qq.com>
+Requires-Python: >=3.11
