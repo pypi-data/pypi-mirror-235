@@ -1,0 +1,18 @@
+aistudio_sdk/__init__.py,sha256=XhNibZ2i2Lye93tbkVZjH0KIKYpLjMzw7oUKMebSgTw,651
+aistudio_sdk/api_requester copy.py,sha256=XRfX9PaZ3Dl-gr5c0BD8dEAZlAIZttsTNrYtQMSmuBg,17455
+aistudio_sdk/api_requester.py,sha256=YVfRbDBZtmQYzlt29s360UuVOIBcI8eHEzELWJv0Vew,16600
+aistudio_sdk/config.py,sha256=gACjLXJfDutZ9E5WAjQ-GODPv3abbsfCKQzR18300-0,1278
+aistudio_sdk/err_code.py,sha256=ajrhhzrQWeVQL8QgnQfuGQASYXCeYj-7KGTOZEgkKu8,1133
+aistudio_sdk/hub.py,sha256=LUxp-v-hMUG3hsLfu1NygOeonq6KZEIqFFI_9IGj1sc,14119
+aistudio_sdk/log.py,sha256=lSCkIzyDfVP7Y-6bG6ZFryx8rrRIytgARpt_ZZDBk6I,1539
+aistudio_sdk/util.py,sha256=C8mZHRXeP8aA1VFB-GSEcrnkSN3mDgbsgeTZJLxYIrU,3840
+aistudio_sdk/version.py,sha256=JQGMSKYicIbwnTWg4xyBsvOnmLL4kSv8Ucyun4k3QTE,387
+aistudio_sdk/model_resources/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aistudio_sdk/model_resources/abstract.py,sha256=UgwUC8VRA_Ij8an8MAuBOs8Afk1l1PcqFYo5fsc_HlM,1663
+aistudio_sdk/model_resources/chat.py,sha256=G1_cS-uU_IMTh2NiSuqYVNboAZCXpwFsOtkKVFiUOFI,863
+aistudio_sdk/model_resources/embed.py,sha256=vfknprTvQc3gRh033cof_UpdGMfEa1uJ1JxQmAXH7gQ,893
+aistudio_sdk/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aistudio_sdk-0.1.0.dist-info/METADATA,sha256=CdUJB1juoolmnVHCJzQaKlTLj33w4PRL4JY95rTaJqs,952
+aistudio_sdk-0.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+aistudio_sdk-0.1.0.dist-info/top_level.txt,sha256=-gcmvd8vRpFAPY7aqcgeoSPvF1A0NBW2_zNEcqmme74,13
+aistudio_sdk-0.1.0.dist-info/RECORD,,
