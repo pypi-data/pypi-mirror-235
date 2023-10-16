@@ -1,0 +1,3 @@
+[console_scripts]
+jupyter-devcontainers = jupyter_devcontainers.application:main
+jupyter-devcontainers-server = jupyter_devcontainers.serverapplication:main
