@@ -1,0 +1,2 @@
+[console_scripts]
+mvapi = mvapi:main
