@@ -1,0 +1,10 @@
+json_strong_typing>=0.2.8
+
+[mysql]
+aiomysql>=0.2
+
+[postgresql]
+asyncpg>=0.28
+
+[trino]
+aiotrino>=0.2
