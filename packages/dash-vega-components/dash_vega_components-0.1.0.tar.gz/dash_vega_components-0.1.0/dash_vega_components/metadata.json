@@ -1,0 +1,44 @@
+{
+  "src/lib/components/Vega.react.js": {
+    "description": "You can use this component to display Altair charts or Vega-Lite/Vega specifications in your Dash app.",
+    "displayName": "Vega",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "spec": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "A Vega or Vega-Lite spec. To pass an Altair chart, use chart.to_dict()."
+      },
+      "opt": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "Vega-Embed options. See https://github.com/vega/vega-embed#options for more details."
+      },
+      "svgRendererScaleFactor": {
+        "type": {
+          "name": "number"
+        },
+        "required": false,
+        "description": "A number which is used to scale the chart in case the svg renderer is used.\nThis is useful when you want to increase the size of the chart keeping\nthe relative proportions of all chart elements to each other the same.\nDefault value is 1."
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "Dash-assigned callback that should be called to report property changes\nto Dash, to make them available for callbacks."
+      }
+    }
+  }
+}
