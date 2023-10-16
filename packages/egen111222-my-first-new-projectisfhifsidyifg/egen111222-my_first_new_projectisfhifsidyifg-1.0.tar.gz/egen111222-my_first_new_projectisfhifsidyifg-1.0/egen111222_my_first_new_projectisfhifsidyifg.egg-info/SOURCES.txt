@@ -1,0 +1,6 @@
+setup.py
+egen111222_my_first_new_projectisfhifsidyifg.egg-info/PKG-INFO
+egen111222_my_first_new_projectisfhifsidyifg.egg-info/SOURCES.txt
+egen111222_my_first_new_projectisfhifsidyifg.egg-info/dependency_links.txt
+egen111222_my_first_new_projectisfhifsidyifg.egg-info/top_level.txt
+project/classes.py
