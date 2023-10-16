@@ -1,0 +1,10 @@
+manychat/__init__.py,sha256=0Wlx2ei6EHQYc1S3XlSyTo0nGVUTBViJ3eD_coZrkZ8,211
+manychat/api.py,sha256=DZwUpVQommbTZdLT8UEfxFqQGFDA1ILZXUnFRe0kFkk,1567
+manychat/fb/__init__.py,sha256=B-7m9HbUMpqYae8ZnRdtk8XVCoxc32pV3OJYSei10_U,481
+manychat/fb/page.py,sha256=yOmG3hspvBhitFOHE06EIUMbf4qrWxHORtlH5izptrE,4694
+manychat/fb/sending.py,sha256=TetkeDbsdRDTTBSlIdnSsXui1bopl7ThjaV1gqzZ5vI,1489
+manychat/fb/subscriber.py,sha256=mNgNrjPu-tHXQ2Drdffo9Jx5vkB2CKyueX8_La14UM8,6270
+manychat_python-0.1.3.dist-info/LICENSE,sha256=2bm9uFabQZ3Ykb_SaSU_uUbAj2-htc6WJQmS_65qD00,1073
+manychat_python-0.1.3.dist-info/METADATA,sha256=RTYC4twz-ad7-OaW1egpiiBC3y9VmKd_MLyjH490-1s,2440
+manychat_python-0.1.3.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+manychat_python-0.1.3.dist-info/RECORD,,
