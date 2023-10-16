@@ -1,0 +1,14 @@
+flask
+joblib
+peval
+psycopg2
+shapely
+sympy
+teamhack_db
+
+[rel]
+twine
+
+[test]
+coverage
+pytest
