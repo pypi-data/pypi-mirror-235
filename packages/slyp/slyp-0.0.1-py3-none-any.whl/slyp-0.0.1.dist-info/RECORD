@@ -1,0 +1,14 @@
+slyp/__init__.py,sha256=D5NqGKZ9YaXwIes5jZUv4pRoqHg03pPC3irDfgnNioc,47
+slyp/__main__.py,sha256=W9DolM3cvKLr8iKdDRnAki2BjG6M6Mz4ynDh3abRew8,34
+slyp/cli.py,sha256=GCnIL2IPm1j1U5cHmlVgaaTRQzbpX3oTK00h2uNFz48,3115
+slyp/checkers/__init__.py,sha256=Iyqy6OzGt_50iahP1832VugAEsDFF6V-epVQxhLC4Sk,1778
+slyp/checkers/abstract/__init__.py,sha256=_M0H5HBO-u73I9_tqepMuv9DDhOBvlFbaCLE1JoGxgU,506
+slyp/checkers/abstract/matching_branches.py,sha256=596z933r9bcJSpWoYYtSm17ZW8i59j4EUrbO7EuzKGg,3311
+slyp/checkers/concrete/__init__.py,sha256=-sghaBOCKuanOdQbTcoGkr_TXRrPSJrnDoEnNiFqAwM,539
+slyp/checkers/concrete/str_concat.py,sha256=YF-33P7wkTA04Id_lpkcrih1PDPvjAwwYhAfg2mkbfQ,4399
+slyp-0.0.1.dist-info/LICENSE.txt,sha256=NWsEzuxCFDzCdEkuNpvMKdrwyxZ92lF7cn0FDUjGNGQ,1099
+slyp-0.0.1.dist-info/METADATA,sha256=lG6C8PRSeecNdkuqH-SmWXAsPP1HKq3iZjUtmpDrKTg,2147
+slyp-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+slyp-0.0.1.dist-info/entry_points.txt,sha256=F9V-P7DpNTdhX3ObIPCw5qCd3915XIMrYzL1HwzRvCE,35
+slyp-0.0.1.dist-info/top_level.txt,sha256=Gx-0nByhqS6oG3xYCKLWftRVPuH36ovJ7SQGOCvEgno,5
+slyp-0.0.1.dist-info/RECORD,,
