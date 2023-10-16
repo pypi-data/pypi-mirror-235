@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "overwatchpy"
+version = "0.0.2"
+description = "Python wrapper for Overwatch API"
+authors = ["alexraskin <alexgithub@fastmail.fm>"]
+readme = "README.md"
+packages = [{include = "overwatchpy"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
