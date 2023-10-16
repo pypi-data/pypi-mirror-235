@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "asciidocbuilder"
+version = "0.1.0"
+description = ""
+authors = ["Pedro Vidigal <vidigal.pedro@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+black = "^23.9.1"
+pytest = "^7.4.2"
+pip-tools = "^7.3.0"
+pendulum = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
