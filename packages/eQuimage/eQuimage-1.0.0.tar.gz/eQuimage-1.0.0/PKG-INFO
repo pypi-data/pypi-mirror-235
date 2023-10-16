@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: eQuimage
+Version: 1.0.0
+Summary: eQuimage is a tool to postprocess astronomical images from Unistellar telescopes.
+Author-email: Yann-Michel Niquet <contact@ymniquet.fr>
+Project-URL: homepage, https://astro.ymniquet.fr/
+Project-URL: repository, https://github.com/ymniquet/eQuimage
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib>=3.0
+Requires-Dist: scipy
+Requires-Dist: pillow
+Requires-Dist: PyGObject>=3.0
+
+eQuimage is a python tool to postprocess astronomical images from Unistellar telescopes.
+Author: Yann-Michel Niquet.
+
+eQuimage requires GTK3, available in all Linux distributions; on windows, follow https://www.gtk.org/docs/installations/windows/ to install GTK3.
+
+This code has no claim and only offers elementary operations available in many other more advanced softwares (GIMP, PixInsight, etc...). Its main advantages are to highlight the pixels "blackened" or saturated by the treatments (in each R/G/B channel), and to leave the frame of the Unistellar images unprocessed (option only implemented to date for the eQuinox 1 telescope, but feel free to contribute or send me sample images from other telescopes !).
+
+There is no documentation yet, but you should find your way around easily if you have used image processing software before. The python code itself is documented in English.
+
+KNOWN BUGS:
+  - On windows, the main window (displaying the image) does not always refresh after an operation. Moving the cursor around usually triggers an update.
