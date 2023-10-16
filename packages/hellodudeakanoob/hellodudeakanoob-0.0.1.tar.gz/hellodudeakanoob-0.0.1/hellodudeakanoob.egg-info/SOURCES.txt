@@ -1,0 +1,5 @@
+setup.py
+hellodudeakanoob.egg-info/PKG-INFO
+hellodudeakanoob.egg-info/SOURCES.txt
+hellodudeakanoob.egg-info/dependency_links.txt
+hellodudeakanoob.egg-info/top_level.txt
