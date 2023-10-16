@@ -1,0 +1,10 @@
+mirageml_pip/__init__.py,sha256=NyPI2U0jCYUtEya1a8ZGHgbzuuZaZu1jgbQQM8N0T5o,39
+mirageml_pip/__main__.py,sha256=FHf_EpQEntk1b4B6ezD5MkgzfdUNlHFAuVqAw0kFtWI,559
+mirageml_pip/commands/__init__.py,sha256=RWwU2lpbvkA1hSo_BkQCXz-bYF19U5KOIJTth45S6s8,172
+mirageml_pip/commands/chat.py,sha256=Rv37QG74VUKUQQXqD6uIfycaeIgY1tesjh9PQkuVMfw,626
+mirageml_pip/commands/hello.py,sha256=lAvUueUi77IRlLGYqxkY_Tep_ddwuctMGfoCgHuTdnM,93
+mirageml-0.0.11.dist-info/METADATA,sha256=G6penc15hMN2U0u2Wr8h8Hrm6hVasTvHTiHeNkoLrBA,245
+mirageml-0.0.11.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+mirageml-0.0.11.dist-info/entry_points.txt,sha256=RkIQY8QR5LoYOE2yD-psgC_DcuAnzp7DQtXFb1GuqoA,57
+mirageml-0.0.11.dist-info/top_level.txt,sha256=2V0a4UdbR4Npz_5s0DvCYwneY1lAvDyFCvFQL57wUC4,13
+mirageml-0.0.11.dist-info/RECORD,,
