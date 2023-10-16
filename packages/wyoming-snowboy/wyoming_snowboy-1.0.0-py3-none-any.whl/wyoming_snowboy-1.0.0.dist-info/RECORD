@@ -1,0 +1,15 @@
+wyoming_snowboy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wyoming_snowboy/__main__.py,sha256=0dC8RNeZuVXx9AWMFzE-5icbQ7kbfk3Iy8uSvVaQaXA,10104
+wyoming_snowboy/data/alexa.umdl,sha256=dp5DPSXqr0RU-SlSxAfEggDN7BIbmPnULh6Vm1BUed0,975564
+wyoming_snowboy/data/hey_extreme.umdl,sha256=C-bqExyZkyFItElmL3QrQHrO5wT3gsdG3mpMlRmQ9A0,793111
+wyoming_snowboy/data/jarvis.umdl,sha256=42LbpCiCUmL6kNkZUTwBoW5DWS1WHvilcNY12LRvCsc,3531994
+wyoming_snowboy/data/neoya.umdl,sha256=VR8l-u7DydQGR_lmEaD3Ff6uVW-DBhsiCR5c-0dUEm0,2255028
+wyoming_snowboy/data/smart_mirror.umdl,sha256=e1dvvL8G_kteiU-Q7tT694NNOLu05YvQX4OzYh4ZbBU,832188
+wyoming_snowboy/data/snowboy.umdl,sha256=fMxh7_vgXCfY_TQovyfnFXjS7dzJesnBQ3-g-crMZPE,811554
+wyoming_snowboy/data/subex.umdl,sha256=rt2Y7E2_agOmWIwEQGuF8C6hpNxe24esS9IJIPm9X_g,793039
+wyoming_snowboy/data/view_glass.umdl,sha256=bY5F9ahSpC0SvGRt8LXLtzs6yeIk2LB9bqQAgyD_GTQ,793069
+wyoming_snowboy-1.0.0.dist-info/LICENSE.md,sha256=E3RtUJ105V6iJl--8gS7fNv4SoMVsCB-mIMmy1Q4cCg,1071
+wyoming_snowboy-1.0.0.dist-info/METADATA,sha256=2bQAui4cKMOGAoGVv4ZbzDdkNETI2Bpnq29d6upxX1s,791
+wyoming_snowboy-1.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+wyoming_snowboy-1.0.0.dist-info/top_level.txt,sha256=raD1ql9JLC0wXLveu9qJzz23qWe3NY29KfMt1BY27js,16
+wyoming_snowboy-1.0.0.dist-info/RECORD,,
