@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+pypiApplication.egg-info/PKG-INFO
+pypiApplication.egg-info/SOURCES.txt
+pypiApplication.egg-info/dependency_links.txt
+pypiApplication.egg-info/top_level.txt
