@@ -1,0 +1,9 @@
+py_cmdtabs/__init__.py,sha256=EtEnSkdL8vE7YRL_mBofGqdwSe4UVAXiKKQIMIMlpiY,75
+py_cmdtabs/cli_manager.py,sha256=nxc7fu76ewQYnaFzp6GWOhxWSadlv6txxyhvsIZcbI0,17397
+py_cmdtabs/cmdtabs.py,sha256=vqHc0PfGFBBll0XhRy3xokIAqpOj-MKDpNVcO_qRX0c,11987
+py_cmdtabs-1.0.0.dist-info/LICENSE.txt,sha256=fZSE20CFR77Brzc9N2AngEROd-NXX6zGGjfZT8q7adM,1079
+py_cmdtabs-1.0.0.dist-info/METADATA,sha256=uUHSaD0ijZhD0lBN_W7qSK6-cfmlxsuSC8UU_6kOdwo,2365
+py_cmdtabs-1.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+py_cmdtabs-1.0.0.dist-info/entry_points.txt,sha256=Hlp7gDUTV58EgYBcU0TD-m4Vmv-UXv7wjV7Ap8SnwRM,728
+py_cmdtabs-1.0.0.dist-info/top_level.txt,sha256=t3VPTRy5Bq6bfFrIENAM7fV83eC88GzPa6-KBfkR0to,11
+py_cmdtabs-1.0.0.dist-info/RECORD,,
