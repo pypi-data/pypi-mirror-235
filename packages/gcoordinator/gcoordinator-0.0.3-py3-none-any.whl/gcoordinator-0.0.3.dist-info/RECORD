@@ -1,0 +1,11 @@
+gcoordinator/__init__.py,sha256=hNNWqPWsWd1qGrkJkpLacbfsv5FRZxBFyhX8M6tk6j0,67
+gcoordinator/default_settings.json,sha256=3LXsGQUlG0XNxRt_q-LRHIy6nt9195hiYIy0fynNNXs,714
+gcoordinator/extrusion_calculator.py,sha256=FYjZtcGRKHlEL5kTWpGxCnmktUprZBvGagMv4TlxEsY,1068
+gcoordinator/gcode_generator.py,sha256=oYSWIP0ELvO5NAR_eYhft39C5IaZETj-qav5duF1QXw,1977
+gcoordinator/path_generator.py,sha256=louK7SgE8YZXedBAlNTUlKTpR0B-mxI47zRAE1f2X3Y,1731
+gcoordinator/print_settings.py,sha256=daVnWzyY8UCt9yafkHWs8p-FtA4_0yZZxTZs70rdmPE,3076
+gcoordinator/utils/coords.py,sha256=qcJMraq8KSRRFUcunXdEAu-dYVUMWnCl4JzJVaOcTmQ,977
+gcoordinator-0.0.3.dist-info/METADATA,sha256=25j1MAkI-ysZD_RKV4zcb0hdzrzQMmFus-8gSqBY91o,572
+gcoordinator-0.0.3.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+gcoordinator-0.0.3.dist-info/licenses/LICENSE,sha256=NuOlrH8A89OL5sISKc5iHw0aVGeiY1jPEnMfChGK8cI,1075
+gcoordinator-0.0.3.dist-info/RECORD,,
