@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: uun-guardman
+Version: 0.1.6
+Summary: Display status of remote uuApp on a colorful LED strip.
+Home-page: 
+Author: (UUN) - Tomáš Faikl, Marek Beránek
+Author-email: 
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.6
+License-File: LICENSE.md
+Requires-Dist: uun-iot>=0.10.0
+Requires-Dist: uun-iot-libledstrip>=0.2.4
+Provides-Extra: neopixel
+Requires-Dist: uun-iot-libledstrip[neopixel]>=0.2.4; extra == "neopixel"
+Provides-Extra: dev
+Requires-Dist: uun-iot-libledstrip[dev]>=0.2.4; extra == "dev"

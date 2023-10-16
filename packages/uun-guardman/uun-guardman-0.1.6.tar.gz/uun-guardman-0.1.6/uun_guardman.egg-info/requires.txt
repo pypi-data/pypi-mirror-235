@@ -1,0 +1,8 @@
+uun-iot>=0.10.0
+uun-iot-libledstrip>=0.2.4
+
+[dev]
+uun-iot-libledstrip[dev]>=0.2.4
+
+[neopixel]
+uun-iot-libledstrip[neopixel]>=0.2.4
