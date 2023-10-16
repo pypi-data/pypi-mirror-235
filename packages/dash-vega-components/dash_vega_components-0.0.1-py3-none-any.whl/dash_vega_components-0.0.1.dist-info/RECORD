@@ -1,0 +1,14 @@
+dash_vega_components/Vega.py,sha256=BnBg2XaNezswpvML-rr4nqOs12OYQGdSWCyeYE3zQeI,1102
+dash_vega_components/__init__.py,sha256=PTKqHtAyLr47LQ3oxLqXZ1h0Pcq1zNZ2oqDyXulxmnc,2276
+dash_vega_components/_imports_.py,sha256=HxjUAJurI0UQjs_sdJnaSeo3zIW0DK4BS0TXaCOsRHY,48
+dash_vega_components/async-Vega.js,sha256=USYx_NtujVRQWKSOVna4ZmvEjrRGPuS3hKOoTc-41N8,821406
+dash_vega_components/async-Vega.js.map,sha256=Edz59Szb4bvwLq-CT4KW8mmXKTgnDEObFLOGgIMathQ,3733391
+dash_vega_components/dash_vega_components.min.js,sha256=eJCa4kBXtJNC_VOdbtOo_afv9ipDYzCbcRYOMMgWyys,3830
+dash_vega_components/dash_vega_components.min.js.map,sha256=b2ibhTy-CWsLy5Gf3gGHzLFmR3kQDDs4lQo4BCH05BQ,18551
+dash_vega_components/metadata.json,sha256=87yjunCVqsseRCZIi9UmbMopaSMkEoul_ZOSP20ptRQ,889
+dash_vega_components/package-info.json,sha256=UY57jYC0HCoR98INO3yKF7EGq_Qt-rNqo6KzT1ZQDG0,2149
+dash_vega_components-0.0.1.dist-info/LICENSE,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dash_vega_components-0.0.1.dist-info/METADATA,sha256=Rm1JIIRwTSxqpFi1a2CZJGXe4pGXhTggzoWB-ZKAIdY,210
+dash_vega_components-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+dash_vega_components-0.0.1.dist-info/top_level.txt,sha256=dhv6qFGjnnk25vZICg8F5IvN8WHY7LFK7Ffd6btGZSI,21
+dash_vega_components-0.0.1.dist-info/RECORD,,
