@@ -1,0 +1,14 @@
+team4958_customs/__init__.py,sha256=wRVkYrt-i6vDEaJlJ1tZuFVc25E3M59efIjl4yRvUUE,397
+team4958_customs/tools/__init__.py,sha256=61wHTEd9JGAO71Fg4sVrzB5n-HRgVoDBhwpmQ_DSfEw,154
+team4958_customs/tools/asyncs.py,sha256=lJw1HMhNEQSkFHDeBfpMe5yA8IYCEXhMXwBRsSNDjCc,7870
+team4958_customs/tools/sql.py,sha256=J6469BCGK3EWBOSK0tOJZftnmXdkHryuFBMK4mQFgmo,17518
+team4958_customs/utilities/__init__.py,sha256=SyRSEdbot2fFcYgKbbJHzONPZUrlSLNf-6dFTNDFCmA,157
+team4958_customs/utilities/assets/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+team4958_customs/utilities/assets/builder_presets.py,sha256=KdXiQ-gHvQbt0aLRh49g9kAuWT01riiMPWQYTt1jeQ4,15629
+team4958_customs/utilities/common.py,sha256=XiZuToDVvQFO9wkXM_viUvuxWaKFYQWw7YeAvM8ekWc,1113
+team4958_customs/utilities/project_builder.py,sha256=glZpZHu258Uvalc0MGOo3P40N-vr3-tbHu4KgiKzzzU,9409
+team4958_customs/utils.py,sha256=X4NQ95awymU0-HkTG7S0XHvgtZ3Y8NskclXWZrBsDuU,964
+team4958_customs-0.2.5.dist-info/LICENSE,sha256=k1uUZ25Ne_mz5L4Wb-Wkt3ieMEaoetnGrYPV6EGJG9g,1091
+team4958_customs-0.2.5.dist-info/METADATA,sha256=W7y0LH9hfBw-To_lVPb3Xp51ZWPFjpXMtNA2qPeDE6E,2049
+team4958_customs-0.2.5.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+team4958_customs-0.2.5.dist-info/RECORD,,
