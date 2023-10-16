@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+src/xLSTM.egg-info/PKG-INFO
+src/xLSTM.egg-info/SOURCES.txt
+src/xLSTM.egg-info/dependency_links.txt
+src/xLSTM.egg-info/requires.txt
+src/xLSTM.egg-info/top_level.txt

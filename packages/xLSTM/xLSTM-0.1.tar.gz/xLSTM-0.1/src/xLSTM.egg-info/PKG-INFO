@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: xLSTM
+Version: 0.1
+Summary: Lets hope for a GPT-free future.
+Author: Patrick Haller
+License: Apache 2.0
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: torch
+
+# xLSTM
+
+```python
+from xLSTM import LSTM
+
+LSTM(len_dictionary=50_000, hidden_size=1024, nlayers=12).generate_text()
+```
