@@ -1,0 +1,26 @@
+
+#
+#	HOW TO PUBLISH:
+#
+#		(rm -rf dist && python3 -m build --sdist && twine upload dist/*)
+#		(git add --all && git commit -m "com" && git push --set-upstream git@gitlab.com:reptilian_climates/BOTANY.git CLIMATE)
+#
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "BOTANY"
+version = "0.0.8"
+description = "Various calculator tools"
+readme = "BOTANY.txt"
+
+[tool.setuptools.packages.find]
+where = [ "FIELDS/STRUCTURES" ]
+
+#
+#	https://setuptools.pypa.io/en/latest/userguide/datafiles.html
+#
+[tool.setuptools.package-data]
+"*" = [ "*.HTML" ]
