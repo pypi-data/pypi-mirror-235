@@ -1,0 +1,2 @@
+[console_scripts]
+lfsutils-cli = lfsutils.cli:main

@@ -1,0 +1,8 @@
+lfsutils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+lfsutils/cli.py,sha256=ShSbeZDFrXFK-9LNCPxZ6YZo6F95_n5ehAeLFasTi20,3289
+lfsutils/lib.py,sha256=b2mpvE8IFjh9a1SXP9PIUhGwZjzlzGBZroQZ0hbJmWU,19955
+lfsutils-1.0.2.dist-info/METADATA,sha256=SU9jBTuNzunXURQSqzqdkJmydx_dP24UE05GLAOECXQ,1226
+lfsutils-1.0.2.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+lfsutils-1.0.2.dist-info/entry_points.txt,sha256=KUUX-dhaWA3f1lyXcXnn3w0sk4B84f6m5ZMJEkXDtyA,51
+lfsutils-1.0.2.dist-info/licenses/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+lfsutils-1.0.2.dist-info/RECORD,,
