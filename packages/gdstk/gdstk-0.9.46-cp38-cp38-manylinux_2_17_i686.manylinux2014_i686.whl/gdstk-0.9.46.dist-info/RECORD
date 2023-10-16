@@ -1,0 +1,10 @@
+gdstk-0.9.46.dist-info/LICENSE,sha256=vrjkLp1rQoTgMwTQWoGgdVIAqWX8jQpeCuoehM-AXW4,1361
+gdstk-0.9.46.dist-info/top_level.txt,sha256=qy4T1bRzL9pvSB7ZJY03HgZ0McHHIcWBpZM4ZW6zLuQ,6
+gdstk-0.9.46.dist-info/WHEEL,sha256=tXVTtUUZCCuRRrfIhjg-3mkk8f7qYSFNJcmJ_beuNhQ,144
+gdstk-0.9.46.dist-info/RECORD,,
+gdstk-0.9.46.dist-info/METADATA,sha256=GuHnByV2AJBhAQJe72Du1zh2MTGwtLti-NKj2kenG-c,9363
+gdstk.libs/libqhull_r-9f46805c.so.8.0.2,sha256=UXBqYmRMyWVogCAm0BFDsqmwJ3hOZDub6Em_uRm3CkI,524101
+gdstk/gdstk.cpython-38-i386-linux-gnu.so,sha256=nR2pnK0B7LC6be4vqWVxFD0BH5reWPaQGaQ1ZtLppcA,1976813
+gdstk/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gdstk/__init__.py,sha256=67fKB-p4vL1NvQO7lrPnqAERsN1eZraBkmDaY2kBmVw,51
+gdstk/gdstk.pyi,sha256=JJ1mmx6ixiEpdeORE0LxjYsv-LAXvsykyU9z39WAdew,35635
