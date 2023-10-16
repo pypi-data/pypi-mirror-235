@@ -1,0 +1,8 @@
+README.md
+moonss.py
+setup.py
+moonss.egg-info/PKG-INFO
+moonss.egg-info/SOURCES.txt
+moonss.egg-info/dependency_links.txt
+moonss.egg-info/requires.txt
+moonss.egg-info/top_level.txt
