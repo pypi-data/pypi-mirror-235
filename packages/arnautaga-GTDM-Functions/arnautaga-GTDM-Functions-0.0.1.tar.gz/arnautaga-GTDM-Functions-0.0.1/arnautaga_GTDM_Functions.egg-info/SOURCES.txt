@@ -1,0 +1,8 @@
+setup.py
+arnautaga_GTDM_Functions.egg-info/PKG-INFO
+arnautaga_GTDM_Functions.egg-info/SOURCES.txt
+arnautaga_GTDM_Functions.egg-info/dependency_links.txt
+arnautaga_GTDM_Functions.egg-info/requires.txt
+arnautaga_GTDM_Functions.egg-info/top_level.txt
+matematicas/__init__.py
+matematicas/funciones_matematicas.py
