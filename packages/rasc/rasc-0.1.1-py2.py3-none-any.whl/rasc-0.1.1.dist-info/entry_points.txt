@@ -1,0 +1,4 @@
+[console_scripts]
+rasc-demo=rasc:lax
+rasc-strict=rasc:strict
+
