@@ -1,0 +1,14 @@
+CHANGES
+=======
+
+0.0.2
+-----
+
+* !3 Enhancing Robustness Through Exception Handling
+* Enhance publishing container image to multiple hubs and add one-shot publisher for aws
+* update eulerpublisher/container/container.py
+* Merge: enhance the code robustness of publishing container and aws image
+* Add code for building AMI image
+* !1 Initialize EulerPublisher code
+* Initialize EulerPublisher code
+* Initial commit
