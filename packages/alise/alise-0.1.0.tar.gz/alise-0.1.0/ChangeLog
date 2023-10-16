@@ -1,0 +1,83 @@
+CHANGES
+=======
+
+v0.1.0
+------
+
+* fix python
+* Add /etc/alise/alise.cnf
+* fix wrong issuer resolution
+* use proper path for gunicorn
+* add debug
+* works now
+* service file
+* adapt to letsencrypt
+* keep default config in /etc/
+* move config
+* fix swap error
+* use installed data
+* Drop idea of installing /etc/
+* remove that package dir
+* fix links and paths
+* adapt to deprecate setup.py
+* static files
+* add info
+* add static stuff
+* add jinja2
+* Add default for config location
+* add config
+* set default
+* add oidc config
+* add config
+* unignore config
+* config
+* change basename to alise
+* fix spacing
+* Add exception if dotenv is not found
+* fix name
+* add dotenv
+* exceptions
+* update entrypoint
+* fix pip error
+* initial
+* fix pyright and pylint
+* fix tox and some pylint issues
+* black
+* provide username from jsondata
+* remove sessionid
+* initial set of endopints
+* add link to top
+* only require login if session\_id is gone
+* add endpoints and lambdas
+* add helpers to find user
+* remove logging noise
+* improve logging
+* rename session\_id cookie
+* ignore
+* black
+* api
+* add link and unlink with new locations
+* add updates and gets
+* add linkage and unlinkage
+* add imports
+* reduce loglevel of other packages
+* add api
+* use env
+* pathdiversion
+* Clean up
+* icons
+* adjust
+* add google
+* use app not root
+* cleanup
+* fix initial redirect
+* fix missing provider\_type for google
+* restructure models and database
+* clean up the code
+* before db restructure
+* add fix for uvicorn
+
+v0.0.1
+------
+
+* Initial commit
