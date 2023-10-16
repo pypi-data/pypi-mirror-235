@@ -1,0 +1,11 @@
+brain/__init__.py,sha256=slTgXn78ee8qIL14lhFl9YXkyOg1qUOjXQo60JBx32c,62
+brain/circuit.py,sha256=9csyVLIbZnr_4GkGCumIIaqNyqcsEyFl_EkoWmFhKWo,1786
+brain/stymulus.py,sha256=3Abfkw8y5-D_7ih0vtNCibfRpfaZnKRLtme3-YzO2ns,3461
+brain/synapse.py,sha256=YC_cSZ3RpxrILAm7E77QT3vjW51dWTbRKWkhNtMTnPE,122
+brain/neurons/__init__.py,sha256=cWUqWhh2ZKL2DxCKmIGLP0c4mMPHi4HqFG-rn2kYvtU,22
+brain/neurons/gpt4.py,sha256=hongpKSa1sQTaYAMIyhTOqynPlJoXIq_bGbllKWxCY4,589
+mclebets-0.1.0.dist-info/LICENSE.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mclebets-0.1.0.dist-info/METADATA,sha256=f4JazTA57CmhNKmbUkuyEDtL9GkLrZNBT9RImMGq2D4,343
+mclebets-0.1.0.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+mclebets-0.1.0.dist-info/top_level.txt,sha256=0pJ5ecu89EDo7ZExlRWAh7IWxf55ZhTYilz2jLXwRSg,6
+mclebets-0.1.0.dist-info/RECORD,,
