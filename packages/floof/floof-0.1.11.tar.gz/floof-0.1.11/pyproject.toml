@@ -1,0 +1,28 @@
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
+
+[project]
+name = "floof"
+requires-python = ">=3.7"
+dependencies = ["pandas", "scikit-learn", "sparse_dot_topn"]
+classifiers = ["Programming Language :: Rust", "Programming Language :: Python"]
+
+[tool.maturin]
+features = ["pyo3/extension-module", "python"]
+python-source = "python"
+module-name = "floof._rustyfloof"
+
+[tool.pytest.ini_options]
+addopts = "--cov=floof"
+testpaths = ["tests"]
+
+[tool.mypy]
+mypy_path = "python"
+ignore_missing_imports = true
+
+[tool.isort]
+profile = "black"
+
+[tool.ruff]
+per-file-ignores = { "__init__.py" = ["F401"] }
