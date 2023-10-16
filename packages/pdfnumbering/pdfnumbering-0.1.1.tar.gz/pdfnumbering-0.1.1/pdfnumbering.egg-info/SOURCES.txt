@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+pdfnumbering/__init__.py
+pdfnumbering/cli.py
+pdfnumbering/color.py
+pdfnumbering/core.py
+pdfnumbering.egg-info/PKG-INFO
+pdfnumbering.egg-info/SOURCES.txt
+pdfnumbering.egg-info/dependency_links.txt
+pdfnumbering.egg-info/entry_points.txt
+pdfnumbering.egg-info/requires.txt
+pdfnumbering.egg-info/top_level.txt
+tests/test_renumbering.py
