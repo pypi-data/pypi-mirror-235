@@ -1,0 +1,9 @@
+py-algorand-sdk>=2.0.0
+python-socketio>=5.0.0
+asyncio>=3.4.3
+aiohttp>=3.7.4
+bip-utils>=2.0.0
+
+[dev]
+pytest>=7.0
+twine>=4.0.2
