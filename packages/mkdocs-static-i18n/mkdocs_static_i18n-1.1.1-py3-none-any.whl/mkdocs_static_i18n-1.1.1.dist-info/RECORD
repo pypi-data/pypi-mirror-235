@@ -1,0 +1,13 @@
+mkdocs_static_i18n/__init__.py,sha256=YMX_xSQHVArwSElF86LZYDjzvwLu1TQlBqqVUGmC1nM,360
+mkdocs_static_i18n/config.py,sha256=2FeeV8QyxzGV-fKXRkYrlnV6-OqXZfrHE6hHk5dvz_k,4169
+mkdocs_static_i18n/folder.py,sha256=HY6RXSqznD4PK7hiEH_iaP9A9WFp3WB2rmFLqbOK8IA,6332
+mkdocs_static_i18n/plugin.py,sha256=MrKFOPNfwLO-T3g0LJmyVtkysBUcmVTT7gLsrGnVpm4,8315
+mkdocs_static_i18n/reconfigure.py,sha256=XyUCqzfQop9pK2Qq5T_1jB9LhyPr4jSpm7ZIYHjNoYA,34818
+mkdocs_static_i18n/suffix.py,sha256=YHASf0Z0xV2kPGOL-9qeQzAJwoyUsadJm1HiFjPVQ0I,4864
+mkdocs_static_i18n/utils.py,sha256=fObBuhEsFdJBw9LIzfxMCcg_Cs0Ex5XH0FwsfGmclBI,1134
+mkdocs_static_i18n/custom_i18n_sitemap/sitemap.xml,sha256=U45xoMaL79rkC7TgRRFQscpCTvWxxPDg59gGZA0X5ec,1697
+mkdocs_static_i18n-1.1.1.dist-info/METADATA,sha256=jKgiD2ByhWpILm14SfaoLVorVguXtg_m3u1g7H-DZXo,3773
+mkdocs_static_i18n-1.1.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+mkdocs_static_i18n-1.1.1.dist-info/entry_points.txt,sha256=CsZjMqE0czWDzOjzahmhx9d6wAUGVpxuzOVtO0MAcFQ,55
+mkdocs_static_i18n-1.1.1.dist-info/licenses/LICENSE,sha256=0pX9dhkZYZyg_hguqLWw7R9L1H8l4QySQn28IejsazI,1065
+mkdocs_static_i18n-1.1.1.dist-info/RECORD,,
