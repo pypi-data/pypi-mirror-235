@@ -1,0 +1,10 @@
+outlooktools/__about__.py,sha256=p1qjDySm9_XWhMatBU8RoXpwsfbQSH-qek6ANZzh2JM,139
+outlooktools/__init__.py,sha256=UxKIox-7btVsi2_TsdfT_6I_zzkLOvT6MgnEHTAUkkA,116
+outlooktools/__main__.py,sha256=AON2fHgrmGrTFmuWfBAPf-VFpcgNAzeBpethjI_081g,237
+outlooktools/outlook_connection.py,sha256=4P_02JBeIscNcvm4XFtMQ47NeLzM5hI6A_WzYowHFTc,1690
+outlooktools/cli/__init__.py,sha256=eza8Ksk3x8QB7mZWn3u7sgc3_0RfXaIRXMTAd7hbTzU,4221
+outlooktools-0.0.1.dist-info/METADATA,sha256=rAIbVF7lkcHEXIKwvFYetLdJ1ap3gVYPn6uegsrV5Lc,1510
+outlooktools-0.0.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+outlooktools-0.0.1.dist-info/entry_points.txt,sha256=RGXtHaCYGXirwiZdoWICj_fcK287NWR1JzSXkaIGC2Y,63
+outlooktools-0.0.1.dist-info/licenses/LICENSE.txt,sha256=ld8AsSaSrtWg1dxrfk6X89fchniZCXVbWisoAWAGmqU,1114
+outlooktools-0.0.1.dist-info/RECORD,,
