@@ -1,0 +1,2 @@
+[console_scripts]
+eyesopen = eyesopen.main:main

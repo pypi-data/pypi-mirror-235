@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eyesopen"
+version = "0.1.5"
+description = "A simple digital forensics tool."
+readme = "README.md"
+license = {file = "LICENSE"}
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [
+    "imageio==2.31.5",
+    "lazy_loader==0.3",
+    "networkx==3.1",
+    "numpy==1.26.0",
+    "opencv-python==4.8.1.78",
+    "packaging==23.2",
+    "Pillow==10.0.1",
+    "PyWavelets==1.4.1",
+    "scikit-image==0.22.0",
+    "scipy==1.11.3",
+    "termcolor==2.3.0",
+    "tifffile==2023.9.26",
+    "click==8.1.7",
+]
+
+[tool.setuptools.packages]
+find = {}
+
+[project.scripts]
+eyesopen = "eyesopen.main:main"
+
