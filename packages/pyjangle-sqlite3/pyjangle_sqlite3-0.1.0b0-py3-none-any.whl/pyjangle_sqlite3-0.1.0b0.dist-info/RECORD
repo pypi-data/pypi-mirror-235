@@ -1,0 +1,15 @@
+pyjangle_sqlite3/__init__.py,sha256=U_cRF8mcUpfuscsJ9mJvrBUQZRqdKPf4ruL2XdQz84c,2096
+pyjangle_sqlite3/adapters_converters.py,sha256=8vhSBQmlEUe6ZdkK4Rjst0rlbktBwvLO_73GasNKkSA,612
+pyjangle_sqlite3/event_handler_query_builder.py,sha256=QdAgkQ3bAVCt9hFPX4kLzUGQpjUpkb7eCIHcQbcRwxA,9252
+pyjangle_sqlite3/initialize.py,sha256=boUjJQVGFEODpZKVefKwxXxtuIxxNGi44vlGZGJsU4Q,2677
+pyjangle_sqlite3/pyjangle_sqlite3_error.py,sha256=b_-IBHNXv4BbzrwRr5ymKta4sz6XXErKzgwNZ7OpReA,139
+pyjangle_sqlite3/sql_lite_event_repository.py,sha256=B4bILQYmOFsMVK3KPl0ULTsbsxHnKDqSO0B4LtTmAZw,6662
+pyjangle_sqlite3/sql_lite_saga_repository.py,sha256=pSAawL184apW5Z8bUR6eFqIoDSNvugUlDMUeLnSOF5Q,6818
+pyjangle_sqlite3/sql_lite_snapshot_repository.py,sha256=REkES6HHGrndSN7kfCQvk1pwvBec_WWTLRThrYuvl7w,4213
+pyjangle_sqlite3/symbols.py,sha256=JfnjQh9TxcQAkzhxRdT0n5YX49imd6Rfxd03MRp8iP4,2519
+pyjangle_sqlite3/yield_results.py,sha256=vgPaJuHpv01J9a0Bw1sL4UGmEQwVjNPnhmLhSkntryY,1292
+pyjangle_sqlite3-0.1.0b0.dist-info/LICENSE,sha256=_tq8xuRMHws-5E8mfQrdMf_nQ_2XCz1z1pKbnWvxCno,1094
+pyjangle_sqlite3-0.1.0b0.dist-info/METADATA,sha256=XJB5BNsBM5ffkrQSGw7ek7mVJ1o9iBZgWC5XnlGNPoI,2756
+pyjangle_sqlite3-0.1.0b0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pyjangle_sqlite3-0.1.0b0.dist-info/top_level.txt,sha256=7xl-AW9YJSnhFV1P4gS2RVLR0lT9mCxwM-tOWBljq6M,17
+pyjangle_sqlite3-0.1.0b0.dist-info/RECORD,,
