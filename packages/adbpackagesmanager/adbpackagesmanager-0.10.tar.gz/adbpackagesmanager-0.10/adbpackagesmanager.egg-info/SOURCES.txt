@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+adbpackagesmanager/README.MD
+adbpackagesmanager/__init__.py
+adbpackagesmanager/requirements.txt
+adbpackagesmanager/thirdparty.json
+adbpackagesmanager.egg-info/PKG-INFO
+adbpackagesmanager.egg-info/SOURCES.txt
+adbpackagesmanager.egg-info/dependency_links.txt
+adbpackagesmanager.egg-info/requires.txt
+adbpackagesmanager.egg-info/top_level.txt

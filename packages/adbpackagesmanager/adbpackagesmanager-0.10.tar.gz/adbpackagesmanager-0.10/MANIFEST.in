@@ -1,0 +1,3 @@
+include adbpackagesmanager/requirements.txt
+include adbpackagesmanager/thirdparty.json
+include adbpackagesmanager/README.MD
