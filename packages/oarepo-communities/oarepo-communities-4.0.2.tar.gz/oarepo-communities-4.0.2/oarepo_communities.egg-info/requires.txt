@@ -1,0 +1,6 @@
+oarepo<12,>=11
+cachetools
+
+[tests]
+oarepo-model-builder-tests
+oarepo-model-builder-drafts
