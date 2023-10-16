@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pybrams
+Version: 0.0.5
+Summary: BRAMS
+Author-email: Antoine Calegaro <antoine.calegaro@aeronomie.be>
+Project-URL: Homepage, https://brams.aeronomie.be
+Project-URL: Git, https://gitlab.aeronomie.be/ae/brams/pybrams
+Keywords: brams,meteor
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: requests
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: json-fix
+Requires-Dist: matplotlib
+
+PyBrams
