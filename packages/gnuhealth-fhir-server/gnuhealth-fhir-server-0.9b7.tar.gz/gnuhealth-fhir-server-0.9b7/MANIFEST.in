@@ -1,0 +1,10 @@
+global-include *.py
+global-include *.rst
+global-include *.html
+
+include MANIFEST.in
+include LICENSE
+include COPYRIGHT
+include version
+include fhir_server/server_uwsgi.ini
+global-exclude *.pyc
