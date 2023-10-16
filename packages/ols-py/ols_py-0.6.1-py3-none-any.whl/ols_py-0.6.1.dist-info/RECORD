@@ -1,0 +1,12 @@
+ols_py/__init__.py,sha256=nsvk-knXXaLMRaGu2fOy4_8N8TRub7h1TbA7lRQ9nNM,105
+ols_py/client.py,sha256=wKb7ILMBDDUTt_15LSPBZd0dZftT9sD8tgrzZyaciik,13024
+ols_py/instances.py,sha256=0Jxt8OWA-ZO8b_Ibm8tSnrbF8d7V9gAGzL6VavfaVxc,1641
+ols_py/ols4_client.py,sha256=5zA20mFLJ3rz38Z-9CW5WUQxBVFjgZTHzXU4baSSKLg,5120
+ols_py/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ols_py/schemas/__init__.py,sha256=hRwqIFfIEM_U6Gcany2L9zKMmPRdZq-mZ13O-2tzuwM,89
+ols_py/schemas/common.py,sha256=I8mtBZLAN6foO2_nPiifcbTbr9Zd_WMuYtn3K0VXB5E,488
+ols_py/schemas/requests.py,sha256=HnCwsiRoLOvKwKokUa62QYat54_G4YoO-1ke-Ecf14I,5330
+ols_py/schemas/responses.py,sha256=Thu4QOftlNvO_8bldyMmKqz5whaJSDYjCPtv1dylm2Y,5019
+ols_py-0.6.1.dist-info/METADATA,sha256=mft8bVKiecosRN9U11BczU2ub4gZuX9bu5bAKb9yUow,5023
+ols_py-0.6.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+ols_py-0.6.1.dist-info/RECORD,,
