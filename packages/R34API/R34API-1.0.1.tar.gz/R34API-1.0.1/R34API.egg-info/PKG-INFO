@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: R34API
+Version: 1.0.1
+Summary: Asynchronous wrapper for API rule34.xxx.
+Home-page: https://github.com/Hypick122/R34API
+Author: Hypick
+Author-email: twerka420@gmail.com
+Keywords: rule34,rule34-api,anime
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
