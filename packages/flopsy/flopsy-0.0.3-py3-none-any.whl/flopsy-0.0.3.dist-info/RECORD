@@ -1,0 +1,11 @@
+flopsy/__init__.py,sha256=99mZkkB2KxrT64eAW07l1N8UZqMMtwtc9IWJvE1JuJE,104
+flopsy/action.py,sha256=emgUWhDIx_G-_lHFb9RK10DoK-7knLKbH-5F2pGZ_sw,316
+flopsy/reducer.py,sha256=sIie7xFtHfLznfYDQY6RGWJsOhA1s4kfiBQhD5Bb6vE,2011
+flopsy/saga.py,sha256=cjpxqfyo-pIhrL1K6M-tP10AxgaDnm1tIaYnw2DrWhc,1887
+flopsy/store.py,sha256=oE7cCjMFl0FL2Mozg_28RIK8d7I3fqFX2fYX_Z5EbAw,9971
+flopsy/inspector/inspector.py,sha256=ZX8yR13m5CazcGq8QfRJddnVPj0K-vOJUHdY71UqX48,11035
+flopsy-0.0.3.dist-info/LICENSE.txt,sha256=wzJm7J_ixSJ57Z_ufHApotf3RRbtwNztMdLJF6MuCQk,1077
+flopsy-0.0.3.dist-info/METADATA,sha256=tzG_kPwDCBCeZbhkHp75TKSJMrWFPi9wiSnrUkuW9jM,634
+flopsy-0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+flopsy-0.0.3.dist-info/top_level.txt,sha256=vGB1FKO4l8n4g2qdT_pp4U8U9MnuQB05G7RCvzZrhi0,7
+flopsy-0.0.3.dist-info/RECORD,,
