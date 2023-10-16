@@ -1,0 +1,14 @@
+pybatteryid/__init__.py,sha256=yjrPAHcnqdG9t-xuKU86ji3fy7aqHlBIIGTJsOtAIAY,55
+pybatteryid/basisfunctions.py,sha256=HBWfHmUr9_leytHEXIOcWiNc42hJZdO63qrFBTfe7-8,8813
+pybatteryid/dataclasses.py,sha256=N4Fm_lzQIdESEHjG6kOmDQFFF7hl0ttEjtTXlkVVdAk,2156
+pybatteryid/inputdesign.py,sha256=NDbjCLjbkMPuT1kLVQ9eAW4FJgN9yBlHPdRZGIS6EGE,6728
+pybatteryid/l1regls.py,sha256=BaG3J2Yu2BC2Dc_4akH-dYUYBvYSG0ocrUD5vNuAsBA,7916
+pybatteryid/model.py,sha256=pM-WdmeSVXVIfVH9bb4YSjM6b6TjwObOQ2PXPXUsn1c,1220
+pybatteryid/modelstructure.py,sha256=4zcFN6x2YiUGI2Knlo3N4VxVcbadGdKljMGJFP7TfjI,8393
+pybatteryid/plotter.py,sha256=5T_45doQPRQe6tIZWcd28zjwQESQlsYfe_s7CIZeXRE,3330
+pybatteryid/regression.py,sha256=M7p7UKQ1c5Vfl1pwUpJM9fNcRC0hgzbum4Da0TJh-Xk,2774
+pybatteryid/voltagefunction.py,sha256=RxdG23JdA9OAFbCj3629P4agfOYKhnYUs18ehD3fogs,1175
+pybatteryid-1.0.1.dist-info/METADATA,sha256=srWfN4Y9dG84M3NmoRTkr-JqNpGzPZC3wBT9WFM2Rps,804
+pybatteryid-1.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pybatteryid-1.0.1.dist-info/top_level.txt,sha256=5eClITUj5aGDPB20wA0mAeNoesP8vmT69jifNkQXq6E,12
+pybatteryid-1.0.1.dist-info/RECORD,,
