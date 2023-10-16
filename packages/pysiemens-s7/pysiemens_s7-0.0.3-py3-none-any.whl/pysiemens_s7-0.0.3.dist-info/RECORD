@@ -1,0 +1,17 @@
+pysiemens/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pysiemens/address_patterns.py,sha256=4xQj88lpDwMnNB_CQTqwvt_7h6qCtUm2u6K6nO609_o,1264
+pysiemens/errors.py,sha256=1qXAfkiECypx6cve_8Bf0FjjVs8WpaWOwuuBpZcs49U,2160
+pysiemens/s7_parser.py,sha256=ZasigPaoeGi4m8aP6ycjYIRT2l5XcdwsXJo6bB_rEPQ,13765
+pysiemens/s7_plc.py,sha256=LaDY9x0jvSBedFlkf0eAIh2KRBxj76yPL981xsYY02I,6792
+pysiemens/utils.py,sha256=DoqE9AdW0Zr2Axo6CBDKvBNKO_IcCjajkr7q6ZMygxQ,980
+pysiemens/schemas/__init__.py,sha256=-kH_4Bl4dJ4Wf1-QiUuF9N3_Y_7i7Zdp1BFxSrNVN_Q,140
+pysiemens/schemas/memory_areas.py,sha256=ixtb5seroswZBJelp3cc0KGc46djoV8QdP1rPDzwFGY,226
+pysiemens/schemas/primitive.py,sha256=roOi4UdU4tA9N5CVCJZlsP_DVdXHFoC5UafYvUhB6_E,234
+pysiemens/schemas/s7_data_schema.py,sha256=zchbKT0cubJ4tOyHvSEJTHs7kXFMTMy1MNhXMRtdZEk,2608
+pysiemens/schemas/s7_plc_schema.py,sha256=YKbyDabk5veL8P9j7mEPtXMILI0C5eY5TP1FeTkhlQA,1248
+pysiemens_s7-0.0.3.dist-info/LICENSE,sha256=PIihE_yP-8gc-ff9ikvQQPOa0biOCZ6Bc-6h3G3xRUQ,1097
+pysiemens_s7-0.0.3.dist-info/METADATA,sha256=J_c8nS57Q1DnfOYwhviukdsmS0bG4M5Qwnx6WKXKKpU,1342
+pysiemens_s7-0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pysiemens_s7-0.0.3.dist-info/entry_points.txt,sha256=mD36pWFa3c26Hg0bTexyxsgneQklIo4NpM3e4UmY5-A,60
+pysiemens_s7-0.0.3.dist-info/top_level.txt,sha256=DJ-MvIjciJZOr5ioOh7PxlbJ1l_qh8L-w2lcrp6Po7E,10
+pysiemens_s7-0.0.3.dist-info/RECORD,,
