@@ -1,0 +1,8 @@
+azuredatacollector/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+azuredatacollector/datacollector.py,sha256=zncRoDa95JT80cYUBYRR2bA_IOYWPyzk8gSxw6F4-mQ,5744
+azuredatacollector/datacollector_test.py,sha256=SDruCmJ56NwlxPnY_lnzTBONuVP9piFdZ_eNtztQ1Fc,1404
+azure_data_collector-0.1.5.dist-info/LICENSE.txt,sha256=rDSA1hoVGL2pw_Au0bVghj_KkeQaPnCL1bEDuWNUrMo,1067
+azure_data_collector-0.1.5.dist-info/METADATA,sha256=BSKh2VHrCStRpZJaKYR0GHe29U8B4P9OfokywvCqCu4,1441
+azure_data_collector-0.1.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+azure_data_collector-0.1.5.dist-info/top_level.txt,sha256=eQzPRJaGpSEPmvlNWhUEKF89V8W1fpTBPJMsMHlL3do,19
+azure_data_collector-0.1.5.dist-info/RECORD,,
