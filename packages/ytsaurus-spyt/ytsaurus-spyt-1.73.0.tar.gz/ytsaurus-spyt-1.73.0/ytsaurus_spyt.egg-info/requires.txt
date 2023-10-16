@@ -1,0 +1,3 @@
+ytsaurus-pyspark==1.73.0
+pyarrow
+pyyaml
