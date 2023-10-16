@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: electre-methods
+Version: 0.1.0
+Summary: Package with broad spectrum of elementary ELECTRE-based modules that can be joined together in many different combinations and used via a user-friendly Python library
+Author-email: Agnieszka Klimek <aga.klimek.klimek@gmail.com>, Anna Prałat <anna@pralat.pl>, Patryk Hubicki <zie.patryk@gmail.com>, Tomasz Budner <tomasz.budner.ad@gmail.com>
+Project-URL: Homepage, https://github.com/PatrykHub/ELECTRE-Methods
+Project-URL: Bug Tracker, https://github.com/PatrykHub/ELECTRE-Methods/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: graphviz >=0.20.1
+Requires-Dist: networkx >=3.1
+Requires-Dist: numpy >=1.19.5 ; python_version <= "3.9"
+Requires-Dist: pandas >=1.1.5 ; python_version <= "3.9"
+Requires-Dist: numpy >=1.21.3 ; python_version == "3.10"
+Requires-Dist: pandas >=1.4 ; python_version == "3.10"
+Requires-Dist: numpy >=1.23.2 ; python_version >= "3.11"
+Requires-Dist: pandas >=1.5 ; python_version >= "3.11"
+
+# ELECTRE METHODS
+
+We present a new methodology that offers flexibility in constructing ELECTRE multiple criteria
+decision-aiding methods. We provide a broad spectrum of elementary ELECTRE-based modules that can be joined together in many different combinations and used via a user-friendly
+Python library. In constructing an outranking relation, we consider a diversity of procedures
+for executing concordance as well as (non-)discordance tests, computing the valued outranking
+relation interpreted as a degree of credibility and transforming it into a crisp relation to examine
+if the outranking holds. In the process of outranking exploration, we relate to three types of
+algorithmic problems: choice, ranking, and sorting. By combining together the ELECTRE-based
+construction and outranking exploration procedures, a user can reconstruct the existing method
+or develop a new ELECTRE without any programming skills. To achieve that, a user needs to
+join provided modules to create one of several hundred paths that are introduced in this thesis.
+We facilitate the selection of an appropriate method, i.e., the right combination of modules, by
+providing questions and answers related to the characteristics of decision-making problems. The
+proposed solution is demonstrated in case studies for each considered type of outranking exploration.
