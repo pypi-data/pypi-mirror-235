@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: fordoc
+Version: 0.1
+Summary: A simple package to print a meme message.
+Home-page: https://github.com/yourusername/fordoc
+Author: DocBot
+Author-email: doc@twohackers.io
+Description-Content-Type: text/markdown
+
+# fordoc
+
+A simple package to print a meme message.
+
+## Usage
+
+fordoc
+- This will print the meme message
