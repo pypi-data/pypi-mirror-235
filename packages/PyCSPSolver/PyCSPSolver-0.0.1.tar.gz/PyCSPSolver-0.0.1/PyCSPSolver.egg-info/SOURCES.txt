@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+PyCSPSolver/__init__.py
+PyCSPSolver/constraint.py
+PyCSPSolver/csp.py
+PyCSPSolver.egg-info/PKG-INFO
+PyCSPSolver.egg-info/SOURCES.txt
+PyCSPSolver.egg-info/dependency_links.txt
+PyCSPSolver.egg-info/top_level.txt
+tests/test_constraint.py
+tests/test_csp.py
