@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+include/rapidxmltojson.hpp
+rapidxmltojson.egg-info/PKG-INFO
+rapidxmltojson.egg-info/SOURCES.txt
+rapidxmltojson.egg-info/dependency_links.txt
+rapidxmltojson.egg-info/top_level.txt
+source/__init__.py
+source/rapidxmltojson.cpp
