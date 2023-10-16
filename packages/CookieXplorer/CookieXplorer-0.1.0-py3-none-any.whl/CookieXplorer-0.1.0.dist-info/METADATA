@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: CookieXplorer
+Version: 0.1.0
+Summary: A Python package to handle cookie acceptance using XPath in web scraping automation.
+Home-page: https://github.com/amanojha258/Web-Scraping-Cookie-Handler.git
+Author: Aman Ojha
+Author-email: amanojha258@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE.txt
+Requires-Dist: pyppeteer
+Requires-Dist: asyncio
+
+UNKNOWN
+
