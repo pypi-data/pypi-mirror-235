@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: myfirstcythonproject-aaron-alphabet
+Version: 0.0.0
+Summary: my first Cython project
+Author-email: Aaron Alphabet <aaron.alphabet@posteo.org>
+Project-URL: source, https://github.com/aaron-alphabet/myfirstcythonproject_aaron_alphabet
+Keywords: Cython
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.11
+License-File: LICENSE.md
+
