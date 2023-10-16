@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ae-pvalues"
+version = "1.0"
+authors = [
+  { name="Maxime LANVIN", email="maxime.lanvin@inria.fr" },
+]
+description = "A tool to explain anomalies identified by an auto-encoder based on pvalues "
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+
+dependencies =  [
+  "tqdm",
+  "numpy",
+  "scipy",
+  "psutil",
+  "scikit-learn"
+]
+
+[project.scripts]
+ae-pvalues = "ae_pvalues:main"
+
+[tool.hatch.build]
+include = [
+  "*.py",
+  "*.ipynb",
+]
+
+[project.urls]
+"Homepage" = "https://gitlab.inria.fr/mlanvin/ae-pvalues"
+"Bug Tracker" = "https://gitlab.inria.fr/mlanvin/ae-pvalues"
+
+
