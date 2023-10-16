@@ -1,0 +1,12 @@
+setup.py
+odoo/addons/sale_order_mitxelena/__init__.py
+odoo/addons/sale_order_mitxelena/__manifest__.py
+odoo/addons/sale_order_mitxelena/models/__init__.py
+odoo/addons/sale_order_mitxelena/models/sale_order.py
+odoo/addons/sale_order_mitxelena/views/sale_order_line_views.xml
+odoo14_addon_sale_order_mitxelena.egg-info/PKG-INFO
+odoo14_addon_sale_order_mitxelena.egg-info/SOURCES.txt
+odoo14_addon_sale_order_mitxelena.egg-info/dependency_links.txt
+odoo14_addon_sale_order_mitxelena.egg-info/not-zip-safe
+odoo14_addon_sale_order_mitxelena.egg-info/requires.txt
+odoo14_addon_sale_order_mitxelena.egg-info/top_level.txt
