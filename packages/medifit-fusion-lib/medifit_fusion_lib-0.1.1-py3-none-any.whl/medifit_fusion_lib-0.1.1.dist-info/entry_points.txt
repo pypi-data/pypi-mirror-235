@@ -1,0 +1,3 @@
+[console_scripts]
+medifit = medifit.main_script:main
+
