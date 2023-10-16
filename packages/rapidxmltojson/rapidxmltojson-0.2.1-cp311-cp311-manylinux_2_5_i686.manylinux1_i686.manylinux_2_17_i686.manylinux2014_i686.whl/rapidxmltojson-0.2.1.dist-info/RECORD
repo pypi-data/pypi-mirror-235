@@ -1,0 +1,8 @@
+rapidxmltojson.cpython-311-i386-linux-gnu.so,sha256=cUWM99DX05SSfDG5J-IhFUIgzJ8jq3A8tVALmYSsQVE,1013452
+rapidxmltojson-0.2.1.dist-info/LICENSE,sha256=Bx109QB6hhPnHBuTYQGqg6E7VrKYMeav0B3dezgeSGI,1076
+rapidxmltojson-0.2.1.dist-info/top_level.txt,sha256=nkO5ho3ikUo0WRffMAZPbuLk3ckE4m_UKIdFiCJlt10,22
+rapidxmltojson-0.2.1.dist-info/WHEEL,sha256=AUmdvy9oQiuDik-QazKvZu50__clDEw7BR6DVMjFdFY,217
+rapidxmltojson-0.2.1.dist-info/RECORD,,
+rapidxmltojson-0.2.1.dist-info/METADATA,sha256=6gMGoGbs_Rrk7Fh-6XpWUcYEtuPNJ3s9d8KwJp4fMac,1664
+source/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+source/rapidxmltojson.cpp,sha256=BoXcTq9OJ-9LWqnUTyDCqGSrVj86Cnb-kGaTTdnwMUg,291211
