@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+jdocdb/__init__.py
+jdocdb.egg-info/PKG-INFO
+jdocdb.egg-info/SOURCES.txt
+jdocdb.egg-info/dependency_links.txt
+jdocdb.egg-info/top_level.txt
