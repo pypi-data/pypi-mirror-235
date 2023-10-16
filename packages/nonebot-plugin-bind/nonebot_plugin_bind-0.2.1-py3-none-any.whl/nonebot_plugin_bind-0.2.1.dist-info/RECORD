@@ -1,0 +1,10 @@
+nonebot_plugin_bind/__init__.py,sha256=byi1uwi7_NVG8jwq0FAI7WwkIZnDXPhnYDpAX-aZNkI,13463
+nonebot_plugin_bind/_types.py,sha256=WwF8VbdykIU-dcarhIyqG-9tEsFUE-v6-VnnabmaZ6Q,425
+nonebot_plugin_bind/config.py,sha256=DMNZlJI3blLXJ_UFT7vvoi3AIBqEBPZaLiwNnEHa_AE,569
+nonebot_plugin_bind/group_sql.py,sha256=y3MF9fxZwbILdK2OYMOrHiR0mZbqHl9jMqIsEwSU1w0,4923
+nonebot_plugin_bind/migrations/57ff5da24acb_init_db.py,sha256=bTXdblY8KS5AD9C7b7oViVAlq52sEE2x3tmgQ4JD_ns,2348
+nonebot_plugin_bind/user_sql.py,sha256=zVr4qylQQVCqGNVememe-ldeFOaHu_jsS3yjE-y1rV8,4646
+nonebot_plugin_bind/utils.py,sha256=lh4BRf7Kt-cD3NJG9Ptuc9qxxH39VENfc9HDi8ilb20,5693
+nonebot_plugin_bind-0.2.1.dist-info/METADATA,sha256=G33Ed5txCCWG_6JbtYuWoBAzE47V2574uft9aEbGg-M,5878
+nonebot_plugin_bind-0.2.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+nonebot_plugin_bind-0.2.1.dist-info/RECORD,,
