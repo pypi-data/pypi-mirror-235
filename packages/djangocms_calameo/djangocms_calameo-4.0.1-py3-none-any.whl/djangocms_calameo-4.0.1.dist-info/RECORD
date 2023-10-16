@@ -1,0 +1,12 @@
+djangocms_calameo/__init__.py,sha256=v4mcX8QEz7plObRyvTdDblE04TUjya-nJkDSAikxv9Y,22
+djangocms_calameo/cms_plugins.py,sha256=MU2mpcbBOL3BIRGzLoRkvmWPvULJNiWYgPhdpjBUxtY,1153
+djangocms_calameo/locale/fr/LC_MESSAGES/django.mo,sha256=mXYF7cj6JnC6p1Jwh7qRfjK5fwtMyIV08xcX_Yq3JGk,2144
+djangocms_calameo/locale/fr/LC_MESSAGES/django.po,sha256=pz1bQ22Tc78W_wbXfXz_F_MO5ISZF9nOMonc-4ttZxc,3433
+djangocms_calameo/migrations/0001_initial.py,sha256=Gtxky4dAMpyfJZzJzGduLJLTsmz5MB-G9ohqiCwVzZQ,4334
+djangocms_calameo/migrations/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+djangocms_calameo/models.py,sha256=451odNCFx3ny8iNevM2zVIf4ZYLR4mkNR7u4Oo_ABkk,3871
+djangocms_calameo/templates/djangocms_calameo/default.html,sha256=brxBVFsGwaiSnfB9kgzxJnh6Irr6SEM08ry4x249PCc,664
+djangocms_calameo-4.0.1.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+djangocms_calameo-4.0.1.dist-info/METADATA,sha256=2NLthHa4MQEib9-B7Rq0bwxNf61NfpeLOzyN8Qf9kTY,1382
+djangocms_calameo-4.0.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+djangocms_calameo-4.0.1.dist-info/RECORD,,
