@@ -1,0 +1,9 @@
+LICENSE
+README.rst
+pyproject.toml
+src/scrapingfish/__init__.py
+src/scrapingfish/example.py
+src/scrapingfish.egg-info/PKG-INFO
+src/scrapingfish.egg-info/SOURCES.txt
+src/scrapingfish.egg-info/dependency_links.txt
+src/scrapingfish.egg-info/top_level.txt
