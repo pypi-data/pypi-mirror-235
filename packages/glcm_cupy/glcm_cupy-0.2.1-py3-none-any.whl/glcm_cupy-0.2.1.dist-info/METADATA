@@ -1,0 +1,54 @@
+Metadata-Version: 2.1
+Name: glcm_cupy
+Version: 0.2.1
+Summary: Binned GLCM 5 Features implemented in CuPy
+Home-page: https://github.com/Eve-ning/glcmbin5_cupy
+License: MIT
+Author: Evening
+Requires-Python: >=3.9
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: GPU :: NVIDIA CUDA
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Classifier: Topic :: Scientific/Engineering :: Image Recognition
+Requires-Dist: scikit-image (>=0.22.0,<0.23.0)
+Requires-Dist: tqdm (>=4.66.1,<5.0.0)
+Project-URL: Repository, https://github.com/Eve-ning/glcmbin5_cupy
+Description-Content-Type: text/markdown
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/glcm-cupy?style=for-the-badge)
+![PyPI](https://img.shields.io/pypi/v/glcm-cupy?style=for-the-badge)
+![PyPI - License](https://img.shields.io/pypi/l/glcm-cupy?style=for-the-badge)
+
+# Binned GLCM Features on CuPy
+
+Directly utilize CUDA to speed up the processing of GLCM in Python.
+
+## 📖 Documentation
+
+- [Read The Wiki](https://eve-ning.github.io/glcm-cupy/)
+    - [Installation Guide](https://eve-ning.github.io/glcm-cupy/setup/installation.html)
+    - [Get Started with GLCM](https://eve-ning.github.io/glcm-cupy/setup/glcm_usage.html)
+    - [Get Started with GLCM Cross](https://eve-ning.github.io/glcm-cupy/setup/glcm_cross_usage.html)
+
+## Contributors
+
+- [Julio Faracco](https://github.com/jcfaracco)
+    - Special Thanks for implementing [**CuPy input support!**](https://github.com/Eve-ning/glcm-cupy/pull/18)
+
+## Acknowledgements
+
+I extend my gratitude to the following people
+
+| Acknowledgement | Contribution                                            |
+|-----------------|---------------------------------------------------------|
+| Benjamin Goh    | Motivated the project after his implementation in Numba |
+| Dr. Ji-Jon Sit  | Hosted & Guided the URECA project that started this     |
+| Wang Jifei      | For providing the idea for GLCM Binning                 |
+
