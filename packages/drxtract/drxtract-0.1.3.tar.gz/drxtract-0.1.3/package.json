@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "logging": "file:js/logging",
+    "re": "file:js/re",
+    "struct": "file:js/struct"
+  }
+}
