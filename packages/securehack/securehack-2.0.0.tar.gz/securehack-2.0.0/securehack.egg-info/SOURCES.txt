@@ -1,0 +1,7 @@
+setup.py
+securehack/__init__.py
+securehack.egg-info/PKG-INFO
+securehack.egg-info/SOURCES.txt
+securehack.egg-info/dependency_links.txt
+securehack.egg-info/requires.txt
+securehack.egg-info/top_level.txt

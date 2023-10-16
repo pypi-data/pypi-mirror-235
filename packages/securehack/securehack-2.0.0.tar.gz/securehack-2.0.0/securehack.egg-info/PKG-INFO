@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: securehack
+Version: 2.0.0
+Summary: Securehack - Telegram Bot for Server Interaction
+Author: K233
+Author-email: shellcloud18@gmail.com
+Requires-Dist: telebot
+Requires-Dist: requests
