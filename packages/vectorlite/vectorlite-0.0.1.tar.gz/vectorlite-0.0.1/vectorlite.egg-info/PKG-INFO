@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: vectorlite
+Version: 0.0.1
+Summary: Lightweight vector search engine
+License: Apache-2.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: sentence_transformers
+Requires-Dist: torch
+Requires-Dist: hnswlib
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+
+# VectorLiteDB
+
+Lightweight vector database. VectorLite is like the SQLite of vector databases.
+
+## 🚀 Quick Install
+
+```pip install vectorlite```
+
+Then run the server
+
+```serve vectorlite```
+
