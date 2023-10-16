@@ -1,0 +1,9 @@
+IR2Vec/core.cpp,sha256=tBRWGhopdu7wZOUY3GdNViYDw2-ldAHMYpIbdCjziv4,14444
+IR2Vec/preparation.py,sha256=cuXS1Nql5HHWSJ8aDjsY0MOoGTvH13DnUYkR-0zoywI,321
+IR2Vec/seedEmbeddingVocab-300-llvm12.txt,sha256=AiW7z8dQeyDgszamrvgNDdNZl0aKcKUIUnV3IWwWCN0,431954
+IR2Vec/core.cpython-37m-x86_64-linux-gnu.so,sha256=07loRIGtr7H7dLVwAWL_Q4DU4o0rioThlsQIKkCckJk,94334088
+IR2Vec/__init__.py,sha256=tcmioi6fnTMHU5QYLAEbWfTXjtJGaR8AhzJDyE32TdM,569
+IR2Vec-2.0.0.dist-info/METADATA,sha256=NzzChf6HKwABrvBqmm8DDE-pP96Lr-TlqwqSIOwWJvE,1088
+IR2Vec-2.0.0.dist-info/WHEEL,sha256=PptpQvQpMj4c6zoTgYAOmR3hDGeYN43ZmgdEwmXeaM8,150
+IR2Vec-2.0.0.dist-info/RECORD,,
+IR2Vec-2.0.0.dist-info/top_level.txt,sha256=Bkgeld18oLNNwtqMnGIeq-Ki0jx7rC5roBQ5kodFwnU,7
