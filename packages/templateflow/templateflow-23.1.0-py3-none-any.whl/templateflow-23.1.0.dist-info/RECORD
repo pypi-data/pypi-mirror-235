@@ -1,0 +1,16 @@
+templateflow/__init__.py,sha256=FNGozPDgeyQYcs1En8AIgDN6l5SlyaPgPzCV7rPlIMw,942
+templateflow/_loader.py,sha256=oKKWTCq2G63fHqZFLTSkNQNuT3Sfe9wm6WgIV5r4-Ew,5687
+templateflow/_version.py,sha256=KHlxPQC2GU-WPc6a-zoioYs8_s-vOOLih3zjmTreO4s,86
+templateflow/api.py,sha256=ldwK7NghQg1tH_980gcl79lM3wXf1EzZNpKe_tmkEjQ,10283
+templateflow/conf/__init__.py,sha256=Jne5kOcRAwqG-zTu5iKxqgOtBUMptGWQiAMWxCTafBo,4397
+templateflow/conf/_s3.py,sha256=08kZVr4YacZ9sRUDAx1lqs5x4YwFFGAeCsOJw1ae9Mo,2339
+templateflow/conf/bids.py,sha256=N22rhfxFBoCV9WSqQsb2k-keNfKeLwKDVujiL0b3MQ0,448
+templateflow/conf/config.json,sha256=pnOpH-CfSrF-_xzJ74aCD0PrND2ouCWwbEXDmYr_TTo,2253
+templateflow/conf/templateflow-skel.md5,sha256=dZ6hvd3-aO3UC2bHaksDXeSLkDTVYykK_3rGJeNPBIo,36
+templateflow/conf/templateflow-skel.zip,sha256=Ithg7sdwHMyU8_FShVrZLWRG3_OS2bp9Cztsp5AhZ1Y,878108
+templateflow-23.1.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+templateflow-23.1.0.dist-info/METADATA,sha256=XZakvTcbWjvT03Ic4Ozt1AoiztIqKX9LQXONTs8ii6A,7012
+templateflow-23.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+templateflow-23.1.0.dist-info/top_level.txt,sha256=7TY-1-eS3x88SITvcP-Au4PRdQVDoaTUQNTPrPtq_oM,13
+templateflow-23.1.0.dist-info/zip-safe,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+templateflow-23.1.0.dist-info/RECORD,,
