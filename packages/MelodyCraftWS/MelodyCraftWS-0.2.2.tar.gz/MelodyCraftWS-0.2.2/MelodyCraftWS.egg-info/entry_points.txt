@@ -1,0 +1,2 @@
+[console_scripts]
+melodycraftWS = melodycraftWS.app:run
