@@ -1,0 +1,17 @@
+odoo/addons/shopinvader_product_brand/README.rst,sha256=mLrPqI1cXrdkNxM9cqvN6oL-CMnUPxAw_-sapexaT6k,2835
+odoo/addons/shopinvader_product_brand/__init__.py,sha256=i_drVBWeZzPsEW8CXRE2dotlgc9JmkHDy6GjuZ3NlIU,43
+odoo/addons/shopinvader_product_brand/__manifest__.py,sha256=i5VaHNzpB33YScVDjdrfoQfB44CMLxha9VpwI6rkXO0,863
+odoo/addons/shopinvader_product_brand/i18n/shopinvader_product_brand.pot,sha256=cuMcZ81maHyr00ErO0CXKjbf_ykUcs89AW0J10fBbjs,2960
+odoo/addons/shopinvader_product_brand/models/__init__.py,sha256=VvZkfF6UyPUJivcINrL3vpIf3F957DxeojgOv-t__7I,28
+odoo/addons/shopinvader_product_brand/models/product_brand.py,sha256=14_qXm0DN-WDC55hq07tHNkKjk2yObmUNv85ud-0gls,524
+odoo/addons/shopinvader_product_brand/readme/CONTRIBUTORS.rst,sha256=6LleMmzUIrbbqzYIzGG9sXalflIV-pv8W9riSUQg0VA,132
+odoo/addons/shopinvader_product_brand/readme/DESCRIPTION.rst,sha256=TMIHwtbIPFpJK0sZOd2A__EzBTMLEr38TcTraKyomsI,583
+odoo/addons/shopinvader_product_brand/schemas/__init__.py,sha256=_eUV3YMzmTXIi-m56KFZNOBmQrsSjH9_AvCxl78O0r8,69
+odoo/addons/shopinvader_product_brand/schemas/brand.py,sha256=JgYijD7hmoxgXENLoAQ93Du6Y4UEfP0oioYsLHefHFQ,1135
+odoo/addons/shopinvader_product_brand/schemas/product.py,sha256=yMvplX0w1w3eaTejOEZ_pG7kJp6j8Q0h8YCK4sQiOHA,625
+odoo/addons/shopinvader_product_brand/static/description/index.html,sha256=iSGIXRdX7xEwexNY_Wd6gAIVfV6j7NstBID_wZuUub0,12227
+odoo/addons/shopinvader_product_brand/views/product_brand_view.xml,sha256=D659bJauCVK61cV9ukUp7mCScLZTpw9PMkmp-nCimwY,1276
+odoo_addon_shopinvader_product_brand-16.0.1.0.0.3.dist-info/METADATA,sha256=CrDIiSGCSQjutaapBsndJQcr2VSPBFC6TIMQeR4eF68,3664
+odoo_addon_shopinvader_product_brand-16.0.1.0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+odoo_addon_shopinvader_product_brand-16.0.1.0.0.3.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo_addon_shopinvader_product_brand-16.0.1.0.0.3.dist-info/RECORD,,
