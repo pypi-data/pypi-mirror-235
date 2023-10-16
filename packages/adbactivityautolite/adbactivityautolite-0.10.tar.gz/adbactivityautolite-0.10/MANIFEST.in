@@ -1,0 +1,3 @@
+include adbactivityautolite/requirements.txt
+include adbactivityautolite/thirdparty.json
+include adbactivityautolite/README.MD

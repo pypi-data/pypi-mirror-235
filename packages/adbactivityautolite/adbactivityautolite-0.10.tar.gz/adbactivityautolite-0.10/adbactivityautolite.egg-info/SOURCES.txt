@@ -1,0 +1,14 @@
+LICENSE.rst
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+adbactivityautolite/README.MD
+adbactivityautolite/__init__.py
+adbactivityautolite/requirements.txt
+adbactivityautolite/thirdparty.json
+adbactivityautolite.egg-info/PKG-INFO
+adbactivityautolite.egg-info/SOURCES.txt
+adbactivityautolite.egg-info/dependency_links.txt
+adbactivityautolite.egg-info/requires.txt
+adbactivityautolite.egg-info/top_level.txt
