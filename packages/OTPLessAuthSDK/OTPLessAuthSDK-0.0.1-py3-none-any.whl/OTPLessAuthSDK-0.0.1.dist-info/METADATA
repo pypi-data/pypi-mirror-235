@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: OTPLessAuthSDK
+Version: 0.0.1
+Summary: otpless-auth-sdk
+Author: OTPless
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# otpless-python-auth-sdk
+
+SDK for Backend Python SDK for resolve idToken and many more.
+
+## Documents
+
+### 1. [Merchant/Client Integration Help doc](/document.md)
