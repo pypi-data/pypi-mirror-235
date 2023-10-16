@@ -1,0 +1,11 @@
+dash
+Flask<2.3.0,>=1.0.4
+Werkzeug<2.3.0
+requests[security]
+PyJWT
+
+[:python_version < "3.7"]
+cryptography<3.4
+
+[:python_version >= "3.7"]
+cryptography
