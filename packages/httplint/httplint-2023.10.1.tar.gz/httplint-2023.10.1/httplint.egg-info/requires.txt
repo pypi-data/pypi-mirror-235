@@ -1,0 +1,14 @@
+Markdown
+MarkupSafe
+typing_extensions
+thor
+
+[dev]
+mypy
+black
+pylint
+pytest
+pytest-md
+validate-pyproject
+build
+types-Markdown
