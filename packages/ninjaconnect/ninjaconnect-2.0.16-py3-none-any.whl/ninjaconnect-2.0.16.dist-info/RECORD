@@ -1,0 +1,13 @@
+ninjaconnect-2.0.16.data/scripts/ninja,sha256=ig3Kd8iHfDnT0AH83JXOXsDtAdHkxIXftcTS0dlgSDo,2030
+wglib/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wglib/auth.py,sha256=bYxhSlUtmXB9noB9hIVUwMgYgNNUt2qKvkj4dZF0bJI,6957
+wglib/remove.py,sha256=h6bBiO5lQAx622fH-JSnzG5CRTu4oqp86euHV3SggYg,159
+wglib/snaconf.py,sha256=1-WIZ6VYDKMMpfzmHLtdepnrxg3BtJNuWU9nKsuzW-M,218
+wglib/storesess.py,sha256=8JFIjS7TnlRaNIQoX3mB8NhkjukYxynE9_vrLiDGDJc,669
+wglib/test.py,sha256=sVRthTW9hQ-YeaYIm_1x776NViN_FHZDtfexnQ-Ujyk,747
+wglib/wg.py,sha256=xWMgfaCnM9VAoLHi1wvUPhMzOPmUnlHPLLhTZeDDusk,20849
+wglib/wizard.py,sha256=mQccwK7wU7M-9h0jgOc0g51pVZKAxa4ui8k7EL-IIs0,2588
+ninjaconnect-2.0.16.dist-info/METADATA,sha256=qYBoaaooYasWMki_bUEbayebYGtI55b-86jWfZwjSeg,3430
+ninjaconnect-2.0.16.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+ninjaconnect-2.0.16.dist-info/top_level.txt,sha256=svXNxMkbY51QDaJ1VROvJJhBH9vq7NhJ8jC7vJqSC44,6
+ninjaconnect-2.0.16.dist-info/RECORD,,
