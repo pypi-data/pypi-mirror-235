@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+zbrojarzpdf/__init__.py
+zbrojarzpdf/pdf2imgae.py
+zbrojarzpdf/pdf2text.py
+zbrojarzpdf.egg-info/PKG-INFO
+zbrojarzpdf.egg-info/SOURCES.txt
+zbrojarzpdf.egg-info/dependency_links.txt
+zbrojarzpdf.egg-info/top_level.txt
