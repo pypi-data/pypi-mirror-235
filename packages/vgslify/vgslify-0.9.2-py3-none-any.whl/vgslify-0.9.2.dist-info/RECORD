@@ -1,0 +1,9 @@
+vgslify/__init__.py,sha256=-MzIwdRFO7qVfaqaE68fPhmpYymD0USgPBghUNHoHqs,411
+vgslify/parser.py,sha256=WkgGIu5MvGPdldLMxbt0MxzC3_c9toBEjboH9vvs3uA,5583
+vgslify/tensorflow/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+vgslify/tensorflow/generator.py,sha256=5Qm7zsaxIQOZ-iZHaxYyCRF7dT6ZkPr4B3TFS_zIc1s,37873
+vgslify-0.9.2.dist-info/LICENSE,sha256=U1mXh0-u1xqI0cUtzwyXC0SZgQKGz_MbSRw8i84AECE,1070
+vgslify-0.9.2.dist-info/METADATA,sha256=0JQPhYKrekhokoBtSXz1ZgBgfOEvRWtveMzDl8GR8tE,16754
+vgslify-0.9.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+vgslify-0.9.2.dist-info/top_level.txt,sha256=7DOv-ghkhspsACIr39khBUrIA3bALrcYq7mnOKqCb_s,8
+vgslify-0.9.2.dist-info/RECORD,,
