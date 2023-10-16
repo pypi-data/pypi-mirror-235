@@ -1,0 +1,15 @@
+pandorapsf/__init__.py,sha256=MzO6H_mWlWGgoPkpf_3jV2fZYm1YSAUCyqJn7Qk0rqE,1588
+pandorapsf/data/dichroic-transmission.csv,sha256=w8X6sCTcdlcbwCgZQnzw0KaHHrmg5j67a4a7JJY9Uyw,14579
+pandorapsf/data/nirda-wav-solution.fits,sha256=lVBv6KQf7CtLiormyTzId38nY7-sm9kbCvh_HpaZfoo,115200
+pandorapsf/data/pandora.mplstyle,sha256=dZaBrGbltrewDtxk9cnfMPa0rpQfVShUcHwRetT_OzQ,2777
+pandorapsf/data/pandora_visible_qe.csv,sha256=U43RqBJE-USAqdWAk1fv3O9UjAOhLOwDIS80Ol6qpZ8,6452
+pandorapsf/data/pixel_vs_wavelength.csv,sha256=o5OCd1R8umIp2XsN6l1Dvzjy-1a8VnQ5aQwPPDXUjeY,25577
+pandorapsf/data/visda-wav-solution.fits,sha256=khE5j4zKpIt1ZHkZtQIH2XrMqOlry7jVzQxjrrkvT8U,14400
+pandorapsf/plotting.py,sha256=H-dMWuOR2BA6SBbcDipLKCpZZM2A062LE5opVYbUt9A,7128
+pandorapsf/psf.py,sha256=pNcJjVOSbAKwjg6L5IxgpxglhQVrXr5G2oiHvgxltkQ,23394
+pandorapsf/scene.py,sha256=WoIFj2L5429rnkzPdG5eWSGJsXFOPEVP9l3yNu87eEU,26782
+pandorapsf/utils.py,sha256=FmpKkv8QL-o4AuZiLDC10wNKRd6ymKFZTaPPXQzNPN8,14716
+pandorapsf-0.2.0.dist-info/LICENSE,sha256=TN1BG808TDyNBiYJO7NZfebSQ4PS49d6oF6pQnMnJN4,1071
+pandorapsf-0.2.0.dist-info/METADATA,sha256=qWae0stTPY8Pxuq6kWzs-iD2Izsb4POLQdRJNop4f38,735
+pandorapsf-0.2.0.dist-info/WHEEL,sha256=WGfLGfLX43Ei_YORXSnT54hxFygu34kMpcQdmgmEwCQ,88
+pandorapsf-0.2.0.dist-info/RECORD,,
