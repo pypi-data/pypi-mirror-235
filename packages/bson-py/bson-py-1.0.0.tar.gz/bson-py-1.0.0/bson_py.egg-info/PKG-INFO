@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: bson-py
+Version: 1.0.0
+Summary: Independent BSON codec for Python that doesn't depend on MongoDB
+Author: The MongoDB Python Team
+Project-URL: homepage, http://github.com/Dementiy/bson
+Project-URL: repository, http://github.com/Dementiy/bson
+Keywords: bson
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Database
+Classifier: Typing :: Typed
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Python package for reading, writing, and manipulating BSON. Originally developed as part of [pymongo](https://github.com/mongodb/mongo-python-driver) package.
