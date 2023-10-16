@@ -1,0 +1,23 @@
+[case testXDefinedHere]
+# mypy: show-error-context
+import a
+def f(): ...  # N: "f" defined here
+f(a=1)  # E: Unexpected keyword argument "a" for "f"  [call-arg]
+[file a.py]
+def f(): ...
+f(a=1)  # E: Unexpected keyword argument "a" for "f"  [call-arg]
+
+
+[case testIgnoreOnReveal]
+from typing import Any
+
+a: Any = 1  # E: Explicit "Any" is not allowed  [no-any-explicit]
+reveal_type(a)  # type: ignore[no-any-expr]  # N: Revealed type is "Any"
+
+
+[case testFakeColumn]
+# flags: --show-error-end
+if True:
+    1  # type: ignore[operator]
+[out]
+main:3:5:3:31: error: Unused "type: ignore" comment  [unused-ignore]
