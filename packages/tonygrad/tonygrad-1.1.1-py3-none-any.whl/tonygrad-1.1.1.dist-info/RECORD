@@ -1,0 +1,8 @@
+tonygrad/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tonygrad/engine.py,sha256=ETX-BUzmgb8wEuSOz3OvLWW5ROvZiPUmzdhQxfagOTE,2778
+tonygrad/nn.py,sha256=Z0sMJVcRiwBGrC3c81ZDXlce1CjlrPUy5Xa66Lc8ydY,1611
+tonygrad/trace_graph.py,sha256=1DKNW0_3l9G8kEoWlQwgcakJ2qjF2_4E4YqN58CqL7M,1045
+tonygrad-1.1.1.dist-info/METADATA,sha256=0XC7evA_4HzrsPp_g_plj2qOR_ht_A1-n0svRJwkyoU,614
+tonygrad-1.1.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+tonygrad-1.1.1.dist-info/top_level.txt,sha256=jLrq2A_DPUS6uXImGyF5LrzFy6tgHlLWCfzwY3nREz4,9
+tonygrad-1.1.1.dist-info/RECORD,,

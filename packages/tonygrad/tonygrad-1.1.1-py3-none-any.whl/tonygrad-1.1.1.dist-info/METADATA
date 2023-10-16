@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: tonygrad
+Version: 1.1.1
+Summary: A tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top.
+Home-page: https://github.com/ent0n29/tonygrad
+Author: Antonio Stano
+Author-email: stanoantonio29@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# tonygrad
+
+## based on karpathy micrograd
+ 
+ A tiny scalar-valued autograd engine with a small PyTorch-like neural network library on top.
+
