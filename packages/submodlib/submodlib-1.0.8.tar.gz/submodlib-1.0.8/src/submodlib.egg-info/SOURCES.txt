@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/submodlib.egg-info/PKG-INFO
+src/submodlib.egg-info/SOURCES.txt
+src/submodlib.egg-info/dependency_links.txt
+src/submodlib.egg-info/entry_points.txt
+src/submodlib.egg-info/requires.txt
+src/submodlib.egg-info/top_level.txt
