@@ -1,0 +1,9 @@
+flit_gettext/__init__.py,sha256=VCZ4LAGE1dQ1FEOgxdlaYbByJahqeAARr7sRE6Y8GgE,63
+flit_gettext/_version.py,sha256=IMl2Pr_Sy4LVRKy_Sm4CdwUl1Gryous6ncL96EMYsnM,411
+flit_gettext/core.py,sha256=FIVp7pj7u2k-j8I1KDc_K9CZaVaiNuvP23FyRRxxUjQ,739
+flit_gettext/scm.py,sha256=EmA6TrUYQ-5HzMSEw5A2kYV6GKJI_ZYxNNi_bSVlzQg,126
+flit_gettext/utils.py,sha256=aIVf9oUaAVsqBHmCM0bwLKdyVO8qWd8TMPSdrFbjUk8,446
+flit_gettext-0.1.0.dist-info/LICENSE,sha256=DNMwJFPyRhaH5JkbF7NVhkQiK7bSBbBJ0eFoQyXU7mQ,1303
+flit_gettext-0.1.0.dist-info/WHEEL,sha256=EZbGkh7Ie4PoZfRQ8I0ZuP9VklN_TvcZ6DSE5Uar4z4,81
+flit_gettext-0.1.0.dist-info/METADATA,sha256=ZkjLbJAKxmqyjBuPp8YZmASF6c-YxLn3aKCmyA0S8YI,2771
+flit_gettext-0.1.0.dist-info/RECORD,,
