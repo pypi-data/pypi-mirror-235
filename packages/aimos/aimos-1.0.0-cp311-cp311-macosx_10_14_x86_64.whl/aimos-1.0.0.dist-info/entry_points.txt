@@ -1,0 +1,2 @@
+[console_scripts]
+aimos = aimcore.cli.cli:cli_entry_point
