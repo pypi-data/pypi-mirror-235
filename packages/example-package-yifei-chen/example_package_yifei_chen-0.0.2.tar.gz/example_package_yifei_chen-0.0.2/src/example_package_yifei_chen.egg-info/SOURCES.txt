@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/example_package_yifei_chen.egg-info/PKG-INFO
+src/example_package_yifei_chen.egg-info/SOURCES.txt
+src/example_package_yifei_chen.egg-info/dependency_links.txt
+src/example_package_yifei_chen.egg-info/top_level.txt
+src/python_color/__init__.py
+src/python_color/color.py
