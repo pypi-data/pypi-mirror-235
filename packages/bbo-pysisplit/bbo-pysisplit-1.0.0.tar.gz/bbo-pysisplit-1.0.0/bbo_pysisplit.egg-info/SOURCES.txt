@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+bbo_pysisplit.egg-info/PKG-INFO
+bbo_pysisplit.egg-info/SOURCES.txt
+bbo_pysisplit.egg-info/dependency_links.txt
+bbo_pysisplit.egg-info/requires.txt
+bbo_pysisplit.egg-info/top_level.txt
+sisplit/__init__.py
+sisplit/__main__.py
+sisplit/sisplit.py
