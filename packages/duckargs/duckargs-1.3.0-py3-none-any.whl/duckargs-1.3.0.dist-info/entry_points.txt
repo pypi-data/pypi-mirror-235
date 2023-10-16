@@ -1,0 +1,2 @@
+[console_scripts]
+duckargs = duckargs.__main__:main
