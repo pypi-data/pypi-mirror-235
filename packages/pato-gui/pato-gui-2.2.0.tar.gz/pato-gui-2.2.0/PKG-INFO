@@ -1,0 +1,133 @@
+Metadata-Version: 2.1
+Name: pato-gui
+Version: 2.2.0
+Summary: Paulissoft Application Tools for Oracle (PATO) GUI.
+Home-page: https://github.com/paulissoft/pato-gui
+Author: Gert-Jan Paulissen
+Author-email: paulissoft@gmail.com
+License: MIT License
+Keywords: Oracle,PATO,GUI
+Classifier: Development Status :: 6 - Mature
+Classifier: Programming Language :: Python :: 3
+Classifier: Natural Language :: English
+Classifier: Topic :: Utilities
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Provides-Extra: test
+License-File: LICENSE
+
+# pato-gui
+
+A Python GUI for [PATO](https://github.com/paulissoft/oracle-tools) as an alternative for the Maven command line.
+
+First you probably need to clone PATO so you use its POM files or other POM files having them as parent.
+
+This GUI would not have been possible without [Gooey](https://github.com/chriskiehl/Gooey).
+
+# Installation
+
+This utility needs Python 3. You can install it using the Microsoft Store
+(accessible via the Windows 10 start button) or just Google `download Python 3`.
+
+## Start a command prompt
+
+Please Google it if you don't know how.
+
+## Install required Python libraries
+
+Go to the src folder and install them from the command line using pip (or pip3 when `pip --version` displays the Python 2 version):
+
+```
+$ cd src
+$ pip install -r requirements.txt
+```
+
+First please note that the dollar sign is the prompt sign and not a character you have to type.
+Next, please do move into src first, since the root also contains a (different) `requirements.txt`.
+
+You may need to use pip3 instead of pip if pip does not point to a Python 3 installation.
+
+# Usage
+
+## Launch the Python script src/pato_gui.py
+
+This can be done directory from a command prompt or by creating a (Windows)
+shortcut on your Desktop (right mouse click, choose New) or an alias on Unix/Mac OS X.
+
+Using the command prompt:
+
+```
+$ cd src
+$ python pato_gui.py
+```
+
+Please note that you may need to use python3 when `python --version` displays the Python 2 version.
+
+## Help
+
+In the left top corner of the GUI screen there is a Help button.
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+- **Added** for new features.
+- **Changed** for changes in existing functionality.
+- **Deprecated** for soon-to-be removed features.
+- **Removed** for now removed features.
+- **Fixed** for any bug fixes.
+- **Security** in case of vulnerabilities.
+
+## [Unreleased]
+
+## [2.2.0] - 2023-10-14
+
+### Fixed
+
+- [Pato gui script does not run due to missing pythonw executable.](https://github.com/paulissoft/pato-gui/issues/10)
+- [Python executables must be determined at run-time.](https://github.com/paulissoft/pato-gui/issues/11)
+
+## [2.1.0] - 2023-09-06
+
+### Added
+
+- [APEX seed and publish.](https://github.com/paulissoft/oracle-tools/issues/107)
+
+### Fixed
+
+- [The GUI does not start with a message that the property db.config.dir must have been set.](https://github.com/paulissoft/pato-gui/issues/8)
+
+## [2.0.0] - 2022-11-23
+
+### Added
+
+- [Remove all references to Oracle Tools in documentation.](https://github.com/paulissoft/pato-gui/issues/7)
+
+## [1.2.0] - 2022-10-13
+
+### Added
+
+- [It must be possible to use the Maven daemon.](https://github.com/paulissoft/pato-gui/issues/6)
+
+## [1.1.1] - 2022-07-22
+
+### Fixed
+
+- [When you supply the database configuration directory as a relative path, the execution fails.](https://github.com/paulissoft/pato-gui/issues/5)
+
+## [1.1.0] - 2021-09-10
+
+### Added
+
+- Added actions db-info and db-code (added in oracle-tools 1.2.0).
+
+## [1.0.0] - 2021-06-04
+
+### Added
+
+- Applied Python best practices.
