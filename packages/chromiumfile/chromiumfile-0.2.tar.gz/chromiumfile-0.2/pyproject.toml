@@ -1,0 +1,17 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "chromiumfile"
+version = "0.2"
+description = "chromium 浏览器的文件镜像"
+keywords = ["chromiumfile", "chromium", "chrome"]
+
+readme = "README.md"
+authors = [{name = "lcctoor.com", email = "lcctoor@outlook.com"}]
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: Apache Software License"]
+
+[project.urls]
+HomePage = "https://github.com/lcctoor/arts"
