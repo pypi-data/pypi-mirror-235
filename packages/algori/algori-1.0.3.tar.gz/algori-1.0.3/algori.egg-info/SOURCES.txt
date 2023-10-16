@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+algori.egg-info/PKG-INFO
+algori.egg-info/SOURCES.txt
+algori.egg-info/dependency_links.txt
+algori.egg-info/top_level.txt
+my_package/__init__.py
+my_package/b.py
