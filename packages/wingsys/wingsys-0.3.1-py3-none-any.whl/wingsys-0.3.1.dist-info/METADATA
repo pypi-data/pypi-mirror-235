@@ -1,0 +1,324 @@
+Metadata-Version: 2.1
+Name: wingsys
+Version: 0.3.1
+Summary: Create console games
+Home-page: https://www.github.com/mgismissing/gs
+Author: magnesium
+Author-email: hackergreg2000@gmail.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: colorama
+Requires-Dist: keyboard
+
+# wingsys
+Create console games
+
+## Issues
+You can report issues in [the wingsys GitHub repository](https://www.github.com/mgismissing/gs/issues).
+
+## Installation
+```
+pip install wingsys
+```
+
+## Documentation
+### `Screen`
+```python
+def __init__(self, forecolor = "WHITE", backcolor = "BLACK", width = 32, height = 16, border = ["-", "|", "#", "#", "#", "#"], stdchar = " ")
+```
+```python
+screen = wingsys.screen()
+```
+Creates a new screen.  
+`forecolor`: The text color of the screen.  
+`backcolor`: The background color of the screen.  
+`width`: The width of the screen.  
+`height`: The height of the screen.  
+`border`: The border of the screen (see [Custom Borders](#custom-borders)).  
+`stdchar`: The character to fill the screen with.
+
+```python
+def update(self, clear = True)
+```
+```python
+screen.update()
+```
+Shows the screen to the console and clears the screen if `clear` is set to `True`.  
+`clear`: Setting this to `True` will also clear the console before showing the screen.
+
+```python
+def fillChar(self, char)
+```
+```python
+screen.fillChar("#")
+```
+Fills the screen with a character. The color remains unchanged.  
+`char`: The character to fill the screen with.
+```python
+def fillColor(self, fore, back)
+```
+```python
+screen.fillColor("RED", "GREEN")
+```
+Changes the screen color. The characters remain unchanged.  
+`fore`: The text color.  
+`back`: The background color.
+```python
+def fill(self, char, fore, back)
+```
+```python
+screen.fill("#", "RED", "GREEN")
+```
+Fills the screen with a colored character.  
+`char`: The character to fill the screen with.  
+`fore`: The character's color.  
+`back`: The background color.
+```python
+def coordsToIndex(self, x, y)
+```
+```python
+index = screen.coordsToIndex(10, 10)
+```
+Converts coordinates to the corresponding index (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`x`: The X position.  
+`y`: The Y position.
+```python
+def indexToCoords(self, index)
+```
+```python
+x, y = screen.indexToCoords(23)
+```
+Converts an index to the corresponding coordinates (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`index`: The index.
+### `setPixel`
+```python
+def byCoords(screen, x, y, value)
+```
+```python
+wingsys.setPixel.byCoords(screen, 10, 10, "#")
+```
+Sets the given coordinate to the value (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen to write to.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.  
+`value`: The value the pixel should be set to.
+```python
+def byIndex(screen, index, value)
+```
+```python
+wingsys.setPixel.byIndex(screen, 23, "#")
+```
+Sets the given index to the value (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen to write to.  
+`index`: The index.  
+`value`: The value the pixel should be set to.
+### `getPixel`
+```python
+def byCoords(screen, x, y)
+```
+```python
+pixel = wingsys.getPixel.byCoords(screen, 10, 10)
+```
+Returns the value of the given coordinate (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.  
+```python
+def byIndex(screen, index, value)
+```
+```python
+pixel = wingsys.getPixel.byIndex(screen, 23, "#")
+```
+Returns the value of the given index (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen.  
+`index`: The index.
+### `setPixelColor`
+```python
+def byCoords(screen, x, y, fore, back)
+```
+```python
+wingsys.setPixelColor.byCoords(screen, 10, 10, "RED", "GREEN")
+```
+Sets the given coordinate's color to `fore` and `back` (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen to write to.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.  
+`fore`: The text color.  
+`back`: The background color.
+```python
+def byIndex(screen, index, fore, back)
+```
+```python
+wingsys.setPixelColor.byIndex(screen, 23, "RED", "GREEN")
+```
+Sets the given index's color to the value (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen to write to.  
+`index`: The index.  
+`fore`: The text color.  
+`back`: The background color.
+### `getPixelColor`
+```python
+def byCoords(screen, x, y)
+```
+```python
+wingsys.getPixelColor.byCoords(screen, 10, 10)
+```
+Gets the given coordinate's color (`fore` + `back`) (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.
+```python
+def byIndex(screen, index)
+```
+```python
+wingsys.getPixelColor.byIndex(screen, 23)
+```
+Gets the given index's color (`fore` + `back`) (see [Coordinates and Indexes](#coordinates-and-indexes)).  
+`screen`: The screen.  
+`index`: The index.
+### `keys`
+```python
+def waitForKeys(key1 = "none", key2 = "none", key3 = "none", key4 = "none", key5 = "none", key6 = "none", key7 = "none", key8 = "none", key9 = "none", key10 = "none", key11 = "none", key12 = "none", key13 = "none", key14 = "none", key15 = "none", key16 = "none")
+```
+```python
+key = wingsys.keys.waitForKeys("enter", "space", "up", "down", "left", "right", "w", "s", "a", "d")
+```
+Waits for any key that is in the arguments and returns the argument position (example: `("enter", "space")` if you press space it returns `2` but if you press enter it returns `1`).  
+`key1 ... key16`: The key and its return code.
+### `sprite`
+```python
+def __init__(self, x, y, char, fore, back)
+```
+```python
+player = wingsys.sprite(10, 10, "X", "BLUE", "MAGENTA")
+```
+Creates a new sprite.  
+`x`: The X position.  
+`y`: The Y position.  
+`char`: The sprite's character.  
+`fore`: The char's color.  
+`back`: The sprite's background color.
+```python
+def update(self, screen)
+```
+```python
+player.update(screen)
+```
+Draws the sprite in the screen without updating it.  
+`screen`: where to update the sprite.
+```python
+def setChar(self, char)
+```
+```python
+player.setChar("+")
+```
+Sets the sprite's char to the given value.  
+`char`: The char.
+```python
+def setPos(self, x, y)
+```
+```python
+player.setPos(11, 11)
+```
+Sets the player's position.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.
+```python
+def changePos(self, x, y)
+```
+```python
+player.changePos(1, -1)
+```
+Changes the sprite's position. (`x += x`, `y += y`)
+`x`: The X coordinate.  
+`y`: The Y coordinate.
+```python
+def setX(self, x)
+```
+```python
+player.setX(11)
+```
+Sets the sprite's X position.  
+`x`: The X coordinate.
+```python
+def setY(self, y)
+```
+```python
+player.setY(11)
+```
+Sets the sprite's Y position.  
+`y`: The Y coordinate.
+```python
+def changeX(self, x)
+```
+```python
+player.changeX(1)
+```
+Changes the sprite's X position.  
+`x`: The X coordinate.
+```python
+def changeY(self, y)
+```
+```python
+player.changeY(-1)
+```
+Changes the sprite's Y position.  
+`y`: The Y coordinate.
+```python
+def setColor(self, fore, back)
+```
+```python
+player.setColor("BLUE", "MAGENTA")
+```
+Sets the sprite's color.  
+`fore`: The sprite's color.  
+`back`: The sprite's background color.
+### `console`
+```python
+def clear()
+```
+```python
+console.clear()
+```
+Clears the console.
+### `text`
+```python
+def write(screen: screen, text: str, x, y, fore, back)
+```
+```python
+text.write(screen, "Hello World!", 0, 0, "BLACK", "WHITE")
+```
+Writes text to the screen without updating it.  
+`screen`: Where to write the text.  
+`text`: The text to write.  
+`x`: The X coordinate.  
+`y`: The Y coordinate.  
+`fore`: The text's color.  
+`back`: The background color.
+
+## Coordinates and Indexes
+The `screen` uses 2 ways to specify a position: `coordinates` (`x`, `y`) and `indexes` (`index`).  
+The `coordinates` use the `x` and `y` positions to work.  
+For example:
+```
+############
+#          #
+#  X       #
+#          #
+#          #
+#          #
+############
+```
+`X` has coordinates (`2`, `2`).  
+The index is different. It directly uses the `X`'s position in the `screen list`.  
+`X` has index `12`.  
+This is how you calculate the index:
+```
+#######
+#01234#
+#56789#
+#######
+```
