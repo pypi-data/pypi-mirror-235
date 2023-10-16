@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: uroman-python
+Version: 1.2.8.1
+Summary: A thin Python wrapper around uroman romanizer written in Perl (https://github.com/isi-nlp/uroman)
+Author: Dmitrii Mukhutdinov
+Author-email: flyingleafe@gmail.com
+Keywords: uroman,romanizer
+Requires-Dist: langcodes >=3.3.0
+
