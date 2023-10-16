@@ -1,0 +1,5 @@
+apache-airflow>=2.5.0.dev0
+smbprotocol>=1.5.0
+
+[google]
+apache-airflow-providers-google
