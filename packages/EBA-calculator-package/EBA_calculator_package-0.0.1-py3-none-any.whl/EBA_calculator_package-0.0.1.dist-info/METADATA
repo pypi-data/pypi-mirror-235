@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: EBA-calculator-package
+Version: 0.0.1
+Summary: A calculator package for basic arithmetic operations.
+Author: Ema Bartasyte
+Author-email: Ema <emabartasyte@gmail.com>
+Project-URL: Source, https://packaging.python.org/en/latest/tutorials/packaging-projects/?fbclid=IwAR2HftvQkAYDb0yTm4lbhN1RSnii_MbFE3ZLwtLdAmDy14Fi-VNlzATC6fo
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+[Github-flavored Markdown]
+
