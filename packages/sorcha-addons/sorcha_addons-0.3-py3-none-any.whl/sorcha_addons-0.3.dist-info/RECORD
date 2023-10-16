@@ -1,0 +1,15 @@
+sorcha_addons/__init__.py,sha256=hdepdwNAKzO-6xE4XSwJ6Rj8vvPvaqnjzxdEXMCq68M,374
+sorcha_addons/_version.py,sha256=70EL5Ao5qU0eh0IaEutgBVj2leAtBIrWHEMJbXxWg5s,406
+sorcha_addons/activity/__init__.py,sha256=2JvW4WQ0QVPptD7qCVdn5DEM-8iYqNTgCBxSsud5YjI,44
+sorcha_addons/activity/lsst_comet/LICENSE,sha256=3pPJYDQG4BxasBr5ux2j94mCmpy3CEvzluaM2xeHApo,1096
+sorcha_addons/activity/lsst_comet/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sorcha_addons/activity/lsst_comet/lsst_comet_activity.py,sha256=Tc_kLKiu8HutrR4OdMToSUmeoyeZcWaYi7pTGKNTAtI,3412
+sorcha_addons/activity/lsst_comet/model.py,sha256=KsOvESyc3-CMnz7_l2Wd_iok6fEDBMaKXLAdB7yniJ4,3676
+sorcha_addons/activity/lsst_comet/phase.py,sha256=GoVASrREqLHeNGIjZGydlOgF6bAUNvyZIslXjxhM5XY,4774
+sorcha_addons/lightcurve/__init__.py,sha256=DkwtYtYSILXxi0RVQCRqhbchnV5zg-N1PXt7U0yTPDc,46
+sorcha_addons/lightcurve/sinusoidal/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+sorcha_addons/lightcurve/sinusoidal/sinusoidal_lightcurve.py,sha256=S58-TaUz-P46A86Q8gj7D05wtrw8HAOJb4CpK-KXmmw,1848
+sorcha_addons-0.3.dist-info/METADATA,sha256=gMJ_vmReUOBhGLg2cbO9s_JBOlm8vgJw0I15O34GpVQ,1930
+sorcha_addons-0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+sorcha_addons-0.3.dist-info/top_level.txt,sha256=__rCcZ1NzpgvE2a2zaWmYX3VDCaI_bVo691DvpkbJ3o,14
+sorcha_addons-0.3.dist-info/RECORD,,
