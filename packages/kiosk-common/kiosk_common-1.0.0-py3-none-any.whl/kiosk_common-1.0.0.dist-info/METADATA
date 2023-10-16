@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: kiosk-common
+Version: 1.0.0
+Summary: A common library for Intelligent Weighbridge in Python.
+Home-page: https://github.com/intelligent-weighbridge/kiosk-common
+License: BSD-3-Clause
+Keywords: intelligent-weighbridge,kiosk,common-lib
+Author: Garrett HE
+Author-email: garrett.he@hotmail.com
+Requires-Python: >=3.10,<3.13
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Project-URL: Repository, https://github.com/intelligent-weighbridge/kiosk-common.git
+Description-Content-Type: text/markdown
+
+# kiosk-common
+
+A common library for Intelligent Weighbridge in Python.
+
+## API References
+
+- [kiosk_common.socket](./docs/api/socket.md)
+
+## License
+
+Copyright (C) 2023 Garrett HE <garrett.he@hotmail.com>
+
+The BSD 3-Clause License, see [LICENSE](./LICENSE).
+

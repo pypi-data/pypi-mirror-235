@@ -1,0 +1,8 @@
+kiosk_common/__init__.py,sha256=kBc4pJXh2zyKu4kD29RuMvLjb9PJpgb4MAtpp2iiiTE,84
+kiosk_common/agent.py,sha256=y2_LcvnV0sl7Eb_atF-BDO2haTmMLzIULo3VJTKNgl0,4126
+kiosk_common/emitter.py,sha256=b3VoWszDlGndglVZfZSurkEUNj656JjdYkZZPlFNNlA,977
+kiosk_common/socket.py,sha256=lMNNXzZODYkplRMh2TjLgJsPb1B5sJrtDhAWpl_2OJ8,1925
+kiosk_common-1.0.0.dist-info/LICENSE,sha256=DZmGWdXWrEjlfy_TLY7cgaquJ5JmeOTdrDwQQ6TDoMk,1521
+kiosk_common-1.0.0.dist-info/METADATA,sha256=gypNU36I9_dhiwgr5gNMqCw9riWBYfqc7v8bF8qd3yY,934
+kiosk_common-1.0.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+kiosk_common-1.0.0.dist-info/RECORD,,
