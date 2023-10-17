@@ -1,0 +1,1 @@
+# This package contains the audio processing pipeline for KlangVerso projects
