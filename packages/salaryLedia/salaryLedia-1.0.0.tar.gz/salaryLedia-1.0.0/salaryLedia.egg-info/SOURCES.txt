@@ -1,0 +1,7 @@
+setup.py
+salaryLedia/__init__.py
+salaryLedia/main.py
+salaryLedia.egg-info/PKG-INFO
+salaryLedia.egg-info/SOURCES.txt
+salaryLedia.egg-info/dependency_links.txt
+salaryLedia.egg-info/top_level.txt
