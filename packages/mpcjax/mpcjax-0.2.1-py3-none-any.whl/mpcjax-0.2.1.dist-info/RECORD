@@ -1,0 +1,15 @@
+mpcjax/__init__.py,sha256=c8CkKTzu4dBFeuz8Lsqe6HtVdxnvigS5z5rtqMgGtiM,150
+mpcjax/dynamics_definitions.py,sha256=XcvJbQecxb4P14i8iuUhAMHPiDnsJmAUdvRZYNKF8FU,3452
+mpcjax/jax_solver.py,sha256=bO_pjye_a1mcp8CIzp7S82wiI149yoKG3bVajTW77ls,18881
+mpcjax/problem_struct.py,sha256=HayBpjzxxB41Ky68AFky0mTGSZPku6KdhXke7933PIo,5645
+mpcjax/remote_like_interface.py,sha256=LPGkXDQWmMUM9tGHgK8aguf6EmVk7ACSqGmHSPkrtnA,4548
+mpcjax/second_order_solvers.py,sha256=HgfKuAoZTb-lv2P2roMWwehnvd5NbLbgwZ9ghjRb7D8,13330
+mpcjax/solver_definitions.py,sha256=xDebgNb0w5_Z3F7F925_Kd66k4Fa1KOQyfQBZNLquzM,7842
+mpcjax/utils.py,sha256=zlJM1qTG3aD5o0YqIAU1X_b5LeTIy3NAjD0ej8NV0s8,3607
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/dynamics.py,sha256=lTqq-hUe2AZoRGsu6kvbm2kVZYQe5c4xM-XNKe5hwTQ,1887
+mpcjax-0.2.1.dist-info/LICENSE,sha256=PhllGJxqHOMTTrKRKdrzEL4y2FnSRHiPQ77eb9GonrA,1068
+mpcjax-0.2.1.dist-info/METADATA,sha256=WngpQQH_dB6HLFjtxOQ2h2rdXZFynCSsH6FAaTsMpA4,6870
+mpcjax-0.2.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+mpcjax-0.2.1.dist-info/top_level.txt,sha256=KJBdMl2myLYUSwE-1T9_pTLT9onZf91u1WGlgW5ZUDc,13
+mpcjax-0.2.1.dist-info/RECORD,,
