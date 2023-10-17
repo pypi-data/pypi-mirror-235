@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+eurovoc/__init__.py
+eurovoc/en_identifiers.py
+eurovoc/en_labels.py
+eurovoc/thesaurus_en_labels.py
+eurovoc/thesaurus_uris.py
+eurovoc/version.py
+eurovoc.egg-info/PKG-INFO
+eurovoc.egg-info/SOURCES.txt
+eurovoc.egg-info/dependency_links.txt
+eurovoc.egg-info/requires.txt
+eurovoc.egg-info/top_level.txt
