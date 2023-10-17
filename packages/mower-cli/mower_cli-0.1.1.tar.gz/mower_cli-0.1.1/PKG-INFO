@@ -1,0 +1,66 @@
+Metadata-Version: 2.1
+Name: mower-cli
+Version: 0.1.1
+Summary: 
+Author: Benoit Puertolas
+Requires-Python: >=3.8,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: pydantic (>=2.4.2,<3.0.0)
+Description-Content-Type: text/markdown
+
+# Mower CLI
+
+`mower-cli` is a command line utility which allow to resolve the mower problem.
+
+## Specification
+
+You can find the mower problem specification here: https://github.com/bpuertolas/mower-cli/tree/master/docs/specifications.md
+
+### Assumptions:
+
+Two assumptions were made because the specifications weren't clear enough on these subjects:
+- All mowers are placed on the lawn before the first one starts to mow.
+- After a mower finishes mowing, it stays at the last position.
+- In the event of a mower collision, the program stops with an error.
+
+## Installation & Usage
+
+### With pip
+
+```sh
+pip3 install mower-cli
+mower-cli --config mowing-config.txt
+```
+
+### With docker
+
+```sh
+docker run --rm -it -v $PWD:/app bpuertolas/mower-cli:latest --config mowing-config.txt
+```
+
+## Development
+
+### Pre-commit
+
+This project use pre-commit hooks for identifying simple issues. You need first to install the tool:
+
+```sh
+pip install pre-commit
+```
+
+Then set up the git hook script in this directory:
+```sh
+pre-commit install
+```
+### Tests
+
+This project use pytest for unit testing. For running all the tests, run:
+
+```sh
+pytest
+```
+
