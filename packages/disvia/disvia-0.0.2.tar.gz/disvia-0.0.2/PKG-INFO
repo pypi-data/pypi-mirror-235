@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: disvia
+Version: 0.0.2
+Summary: Retrieving data from discord via token
+Author: MrWhxte
+Keywords: python,discord
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A package that allows to retrieve information about discord via token
