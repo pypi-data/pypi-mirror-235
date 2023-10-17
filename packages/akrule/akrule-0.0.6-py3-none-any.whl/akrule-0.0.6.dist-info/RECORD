@@ -1,0 +1,8 @@
+akrule/__init__.py,sha256=LfLzMhk-KXOjkxVXpQ6Whv2EcI2OFiqjlaBycGgyerQ,57
+akrule/time_series/__init__.py,sha256=poZcsdm-6TvIg_60OKnpcsbFbg8zHBQclDua5VaRSbE,53
+akrule/time_series/_akrulebasedts.py,sha256=KaUdPJjKH04RrnPX1rdyn-UMd5xZoOn1X19oHaFN4sQ,31
+akrule-0.0.6.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+akrule-0.0.6.dist-info/METADATA,sha256=fCOVB-NmrPgjMndh8Eh6L_QwSpB6LoUQ3aUoidhrqfQ,826
+akrule-0.0.6.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+akrule-0.0.6.dist-info/top_level.txt,sha256=Aqr4SiNfQPGNtuFIu5pmT2nZtBScA9NxD7VQrl3WUMM,7
+akrule-0.0.6.dist-info/RECORD,,
