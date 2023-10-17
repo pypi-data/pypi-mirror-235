@@ -1,0 +1,2 @@
+[console_scripts]
+OptiPrompt = cli.main:main
