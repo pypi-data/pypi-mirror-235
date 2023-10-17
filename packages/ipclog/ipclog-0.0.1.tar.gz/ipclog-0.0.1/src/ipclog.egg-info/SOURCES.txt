@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/ipclog/__init__.py
+src/ipclog/ipc_server.py
+src/ipclog/logger.py
+src/ipclog.egg-info/PKG-INFO
+src/ipclog.egg-info/SOURCES.txt
+src/ipclog.egg-info/dependency_links.txt
+src/ipclog.egg-info/top_level.txt
+tests/test_logger.py
