@@ -1,0 +1,11 @@
+bottle
+requests
+Pillow
+Polygon3
+Shapely
+tqdm
+pprofile
+numba>=0.58.0
+six
+torchmetrics>=1.2.0
+numpy
