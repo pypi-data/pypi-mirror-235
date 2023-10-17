@@ -1,0 +1,10 @@
+oauthcli/__init__.py,sha256=KfbG7vb1CPP2YPIE0JLh7k6mKSNK7T6-_SDQYnLtV6w,52
+oauthcli/clean.py,sha256=7fpXLZGAZSwvC3vLpn8u6qSQuAPrT3_Ij5vQ7cGOD1E,1128
+oauthcli/flow.py,sha256=XBbRQei9YY_AxaKJrGjXnOzvWsfRoDcaDhT3syTRAps,13466
+oauthcli/providers.py,sha256=Pg0OGWQjkV-Nytw5-ETk9BVHPrdf2rNWZr1H9RmOp04,3953
+cli_oauth2-0.3.1.dist-info/LICENSE,sha256=CeipvOyAZxBGUsFoaFqwkx54aPnIKEtm9a5u2uXxEws,10142
+cli_oauth2-0.3.1.dist-info/METADATA,sha256=tXAGA8HlkWWTGuSfelxHDAKPZvGOfBfBMLXwbZRRQGY,14695
+cli_oauth2-0.3.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+cli_oauth2-0.3.1.dist-info/entry_points.txt,sha256=KPtIO1NIFMEQfO90PMremNrL2_SVoxsV_CAH8R7KdVU,51
+cli_oauth2-0.3.1.dist-info/top_level.txt,sha256=Xs4tgNI9XO9V0udWey2yVwYg8hbqnKAef2S1LeNlnAY,9
+cli_oauth2-0.3.1.dist-info/RECORD,,
