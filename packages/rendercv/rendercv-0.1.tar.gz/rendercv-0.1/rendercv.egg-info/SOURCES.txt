@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+rendercv/__init__.py
+rendercv/__main__.py
+rendercv/data_model.py
+rendercv/rendering.py
+rendercv.egg-info/PKG-INFO
+rendercv.egg-info/SOURCES.txt
+rendercv.egg-info/dependency_links.txt
+rendercv.egg-info/entry_points.txt
+rendercv.egg-info/requires.txt
+rendercv.egg-info/top_level.txt
+tests/__init__.py
+tests/test_data_model.py
+tests/test_rendering.py
