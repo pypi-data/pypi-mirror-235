@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: pali3
+Version: 0.0.1
+Summary: pali3 - Pytorch
+Home-page: https://github.com/kyegomez/pali3
+License: MIT
+Keywords: artificial intelligence,deep learning,optimizers,Prompt Engineering
+Author: Kye Gomez
+Author-email: kye@apac.ai
+Requires-Python: >=3.6,<4.0
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Dist: einops
+Requires-Dist: torch
+Project-URL: Repository, https://github.com/kyegomez/pali3
+Description-Content-Type: text/markdown
+
+[![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
+
+# Pali3
+![pali](pali.png)
+
+"Figure 1: Overview of the PaLI-3 (5B) model: images are encoded into visual tokens individually
+by the contrastively pretrained 2B SigLIP vision model. Along with a query, these visual tokens
+are passed to an 3B encoder-decoder UL2 Transformer which produces the desired answer."
+
+
+
+## Installation
+
+`pip install pali3`
+
+
+## Usage:
+
+
+
+# License
+MIT
+
+# Todo
+
+- [ ] Implement sig_lip vit model with training recipe
+- [ ] Implement the text tokenizer, maybe use token monster 
+- [ ] Implement the UL2 Transformer Encoder and Decoder
+- [ ] Implement training scripts
+- [ ] 
