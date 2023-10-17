@@ -1,0 +1,10 @@
+dllist/__init__.py,sha256=Ib1G-5jbEfgglJaqtxrStctXii3Unm_mzGr1W4Y5b1Q,1142
+dllist/linux.py,sha256=0LCkSeRfkw_ec6HIyCuuauZjQscnQDYzVHtQDHq0v2A,1124
+dllist/macos.py,sha256=mo9afqVD32StVEjsjg5x8LVnZg5bTzbmN-KmC1paBVY,771
+dllist/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dllist/windows.py,sha256=889aDTXWBDTkak8r_EwuwmZdrSaVx66yGAFEfssW_Fc,3020
+dllist-1.1.0.dist-info/LICENSE,sha256=s2th4HWOqlkI2OT5_fRkTO28dmCVv56-G81FlgQMNgc,1466
+dllist-1.1.0.dist-info/METADATA,sha256=yTpRhEFor5keY6iYM9b2FK99rLPbr3V9mrUFNR-u7d4,1535
+dllist-1.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+dllist-1.1.0.dist-info/top_level.txt,sha256=Ua-xBy9Z1zy_ieBz58r6cr5KbBi8Zzom-rDUptRq6D8,7
+dllist-1.1.0.dist-info/RECORD,,
