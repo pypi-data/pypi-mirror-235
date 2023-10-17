@@ -1,0 +1,11 @@
+kjpy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kjpy/collections/mapping_class.py,sha256=HXTOw4kJyx0VAYyZa5sSryKfHycLYIB4yKkwPuxLFvg,1479
+kjpy/collections/sequence_class.py,sha256=-lPZYe4tSoW8zn5pwUYEPuVcmqEWlhvaX1RN-q6x4Dc,1598
+kjpy/collections/serializable_any_access_class.py,sha256=dSUJfxME9ozweyN2w0ijhXsURdxuqxhAaep1BtGvQus,1129
+kjpy/collections/serializable_bson_class.py,sha256=VM2-W6UJKbG0O3uE082GJg5aFWPh1oPJY76C0Cgu7AM,353
+kjpy/collections/serializable_class.py,sha256=OEfK48F-aDKCYHvwISz4INmPrRGy9ELGv_gJMpDglHo,3445
+kjpy-0.0.3.dist-info/LICENSE,sha256=7EI8xVBu6h_7_JlVw-yPhhOZlpY9hP8wal7kHtqKT_E,1074
+kjpy-0.0.3.dist-info/METADATA,sha256=fnpt9RMHC-Y5unRcfmcSDL1wmNy8v0EYa5Fn4jNqDmo,493
+kjpy-0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+kjpy-0.0.3.dist-info/top_level.txt,sha256=66zjY6dBpyI5Iz_Ichlr_BbOmxuy2Ma0j0qmYSiblOY,5
+kjpy-0.0.3.dist-info/RECORD,,
