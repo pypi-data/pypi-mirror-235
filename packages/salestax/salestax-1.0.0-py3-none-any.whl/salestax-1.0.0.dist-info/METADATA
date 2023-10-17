@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: salestax
+Version: 1.0.0
+Summary: Get Sales Tax Rates. Currently only supports Arkansas (because that is the only one I need) but I am open to pull requests for other states.
+Author-email: Justin Kumpe <jakumpe@kumpes.com>
+License-Expression: MIT
+License-File: LICENSE
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.9
+Requires-Dist: beautifulsoup4
+Requires-Dist: requests
+Description-Content-Type: text/markdown
+
+# salestax-python
+Python module for gathering sales tax rates
+Currently only supports Arkansas. Feel free to submit a pull request to help add other states.
+
+```
+from salestax import Arkansas as ar
+
+ar.get("700 W Walnut St", "Rogers", "72756")
+
+{'taxable_state': 'Arkansas', 'state_tax_rate': '6.5%', 'is_state_taxable': True, 'taxable_county': 'Benton', 'county_tax_rate': '1%', 'is_county_taxable': True, 'taxable_city': 'Rogers', 'city_tax_rate': '2%', 'is_city_taxable': True}
+```
