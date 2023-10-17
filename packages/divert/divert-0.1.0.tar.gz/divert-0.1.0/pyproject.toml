@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "divert"
+authors = [
+    { name = "Ben", email = "22123881+simonsben@users.noreply.github.com" },
+]
+description = "Divert the execution flow."
+requires-python = ">=3.10"
+keywords = ["execution", "flow", "divert"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dynamic = ["version", "readme"]
+
+[tool.setuptools.dynamic]
+version = { file = ".version" }
+readme = { file = "README.md", content-type = "text/markdown" }
+
+[tool.ruff]
+select = ["E", "F"]
+ignore = []
+
+line-length = 120
