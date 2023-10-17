@@ -1,0 +1,6 @@
+asdf>=3.0.0
+zarr>=2.14
+fsspec
+
+[tests]
+pytest>=6

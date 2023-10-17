@@ -1,0 +1,116 @@
+Metadata-Version: 2.1
+Name: asdf-zarr
+Version: 0.0.2
+Summary: Asdf extension to support Zarr arrays
+Author-email: The ASDF Developers <help@stsci.edu>
+License: BSD 3-Clause License
+        
+        Copyright (c) 2021 Association of Universities for Research in Astronomy.
+        All rights reserved.
+        
+        Redistribution and use in source and binary forms, with or without
+        modification, are permitted provided that the following conditions are met:
+        
+        1. Redistributions of source code must retain the above copyright notice, this
+           list of conditions and the following disclaimer.
+        
+        2. Redistributions in binary form must reproduce the above copyright notice,
+           this list of conditions and the following disclaimer in the documentation
+           and/or other materials provided with the distribution.
+        
+        3. Neither the name of the copyright holder nor the names of its
+           contributors may be used to endorse or promote products derived from
+           this software without specific prior written permission.
+        
+        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+        AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+        IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+        DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+        FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+        DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+        SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+        CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+        OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+        OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+        
+Project-URL: documentation, https://asdf-zarr.readthedocs.io/en/latest
+Project-URL: repository, https://github.com/asdf-format/asdf-zarr
+Project-URL: tracker, https://github.com/asdf-format/asdf-zarr/issues
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.9
+Description-Content-Type: text/x-rst
+License-File: LICENSE
+Requires-Dist: asdf>=3.0.0
+Requires-Dist: zarr>=2.14
+Requires-Dist: fsspec
+Provides-Extra: tests
+Requires-Dist: pytest>=6; extra == "tests"
+
+ASDF serialization support for Zarr
+-----------------------------------
+
+.. image:: https://github.com/asdf-format/asdf-zarr/workflows/CI/badge.svg
+    :target: https://github.com/asdf-format/asdf-zarr/actions
+    :alt: CI Status
+
+This packages includes a plugin for the Python library
+`asdf <https://asdf.readthedocs.io/en/latest/>`__ to add support
+for reading and writing chunked
+`Zarr <https://zarr.readthedocs.io/en/stable/>`__ arrays.
+
+
+Installation
+------------
+
+This plugin is not yet stable and released on
+PyPi and requires features only available in the
+current development head of ASDF.
+
+.. code-block:: console
+
+    $ pip install git+https://github.com/asdf-format/asdf
+    $ pip install git+https://github.com/asdf-format/asdf-zarr
+
+Or alternatively by cloning and installing each package.
+
+.. code-block:: console
+
+    $ git clone https://github.com/asdf-format/asdf
+    $ cd asdf
+    $ pip install .
+    $ cd ../
+    $ git clone https://github.com/asdf-format/asdf-zarr
+    $ cd asdf-zarr
+    $ pip install .
+
+
+Usage
+-----
+
+For background on ASDF array storage and examples
+of how to use this extension see the notebooks
+subdirectory of this repository.
+
+
+Testing
+-------
+
+`pytest <https://docs.pytest.org>`__ is used for testing.
+Tests can be run (from the source checkout of this repository):
+
+.. code-block:: console
+
+    $ pytest
+
+
+Contributing
+------------
+
+We welcome feedback and contributions to this project.
