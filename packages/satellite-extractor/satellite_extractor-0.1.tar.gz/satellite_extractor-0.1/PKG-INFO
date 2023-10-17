@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: satellite_extractor
+Version: 0.1
+Summary: Download spatio-temporally aligned satellite imagery with inter-band data augmentation based on hash encryption 
+Author: Sebastian Cajas
