@@ -1,0 +1,2 @@
+[console_scripts]
+wombat = webwombat.__main__:main
