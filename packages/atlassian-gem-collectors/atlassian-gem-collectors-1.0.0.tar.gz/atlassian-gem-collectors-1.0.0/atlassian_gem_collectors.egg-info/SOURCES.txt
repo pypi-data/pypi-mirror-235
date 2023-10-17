@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_gem_collectors.egg-info/PKG-INFO
+atlassian_gem_collectors.egg-info/SOURCES.txt
+atlassian_gem_collectors.egg-info/dependency_links.txt
+atlassian_gem_collectors.egg-info/requires.txt
+atlassian_gem_collectors.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
