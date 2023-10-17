@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+jakes_python_menu.egg-info/PKG-INFO
+jakes_python_menu.egg-info/SOURCES.txt
+jakes_python_menu.egg-info/dependency_links.txt
+jakes_python_menu.egg-info/top_level.txt
+jakespymenu/__init__.py

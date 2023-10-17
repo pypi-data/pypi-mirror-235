@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: jakes-python-menu
+Version: 1.0.3
+Summary: A Python menu library
+Home-page: 
+Author: Jake2k4
+Author-email: jakelandrum2004@gmail.com
+License: MIT
+Keywords: menu
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+License-File: LICENSE.txt
+
+This is a simple menu library for python that allows you to create interactive menus in python.
+
+Change Log
+==========
+1.0.0 (14-10-2023)
+------------------
+- Initial Release
