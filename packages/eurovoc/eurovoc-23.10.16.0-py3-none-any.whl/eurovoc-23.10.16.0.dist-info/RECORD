@@ -1,0 +1,10 @@
+eurovoc/__init__.py,sha256=JdZrAoR4ohaGwVEPPN_Bd_05at_9aSxbZlZYAE6SH2w,252
+eurovoc/en_identifiers.py,sha256=kSo6fdlOF1qfZw35xK21HEOybjQt_RqR-z_QpgPn3FY,227524
+eurovoc/en_labels.py,sha256=HNRCgIVwlowvH2xQU7nMa3cIL33ZYzS0_ZcjsKH49S0,227519
+eurovoc/thesaurus_en_labels.py,sha256=qZTzMpDi6Dl3hgUj7LqUB4d1GR9ogMp6WXWDThwF4tM,4302
+eurovoc/thesaurus_uris.py,sha256=v59xvawEI0zSHAnx1F3xNWEaXf59Wk-yEK3Nizk4s9w,5721
+eurovoc/version.py,sha256=PI3rSqGigah6bIVwP24JlInv6MAWrxn-FYuZMr8tG9s,21
+eurovoc-23.10.16.0.dist-info/METADATA,sha256=baQg-VD41FT6NSl6RrMwx7vvdomRVTKMcaNZvZyaqiA,821
+eurovoc-23.10.16.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+eurovoc-23.10.16.0.dist-info/top_level.txt,sha256=h4u1YsUivazgEoxtywb1jyf2cwC_fxMyT-eqIh3ksVM,8
+eurovoc-23.10.16.0.dist-info/RECORD,,
