@@ -1,0 +1,15 @@
+pygcg/GUI_main.py,sha256=bhwYbnvu_XVDc-hxL2iq3EkTqbCIV8NUPy5XrkSxK1M,28913
+pygcg/__init__.py,sha256=bROvulWE6OYsPexUr__amsfS8IdDYx5dZG3ez9Tjdvg,22
+pygcg/example_config.toml,sha256=wfRDRBaCbO310qHkDcLeqnjTvWHNlOX2BcQzcAOmIiE,4292
+pygcg/tabs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pygcg/tabs/beams.py,sha256=45SPhNboI4c4gJJEGVLMAkezZvI-WFP8SxPtuzu14Ew,18298
+pygcg/tabs/spectrum.py,sha256=AsShL2ZUgVAe5WxBWOJIFBXKdv6EArEc1btLuXNt9B8,40454
+pygcg/tabs/toolbar_utils.py,sha256=8BqRPaIwL4nzmfvKIVlRGaOTjDDZTckUwpDmTUNQ-SQ,30037
+pygcg/windows/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pygcg/windows/comments.py,sha256=RmleDFgsOF9Kpzm6GCCHtu1kKSZv4VJMPjUSNpFgwlc,2518
+pygcg/windows/settings.py,sha256=VyIRTwNV41gOYl5PgKGtsRe5zIinYcKegMDJfevz_3Q,5759
+pyGCG-0.3.3.dist-info/LICENCE.txt,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+pyGCG-0.3.3.dist-info/METADATA,sha256=GLHOk0jMJ1goBvhoqmh3l_vkZFnwRWWYjrgXdPbve-4,952
+pyGCG-0.3.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pyGCG-0.3.3.dist-info/top_level.txt,sha256=n4-2p_87_VgsfDOkO873v0R_cSHamd8tOWqZRqPUNzo,6
+pyGCG-0.3.3.dist-info/RECORD,,
