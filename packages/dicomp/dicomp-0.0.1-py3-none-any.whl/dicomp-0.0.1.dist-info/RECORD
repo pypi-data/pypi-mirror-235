@@ -1,0 +1,12 @@
+dicomp/__init__.py,sha256=E5c7H2nHRDuux1r2gfs1lb-l82jBhu5LHpP_xUovT8I,123
+dicomp/client.py,sha256=yQ6vlR7afdr5mVfxVcscen59oPzCuu3afovOKFzIG0k,4055
+dicomp/component.py,sha256=KihIvrGpEzqkGRMxzqtE7IiMwXg7VvqHAnEb-DNwCkE,12960
+dicomp/const.py,sha256=_In4WWlgGfuDxnRzIH6v-vx6PDK9GIW19cCcz5PCsek,58
+dicomp/dpy_overrides.py,sha256=AGpm_h2s3IDyQ96qeTwCfhdqVV1ivGshWGhC8Zi8ybs,10560
+dicomp/http.py,sha256=Worogfk7bA8RllkVMSAmNYXYWmbdvRCu7p5wjA5jz1U,1313
+dicomp/interaction.py,sha256=-pq0FKWvOGIsYcbPBM90UVKcEbgiQfUhS252Jywdspg,8487
+dicomp/utils.py,sha256=GX05b2v5ILcWwkTqDlM5lJNbs-HfPKCE_2ejaf3k-Fk,1607
+dicomp-0.0.1.dist-info/METADATA,sha256=pBON7YTy_vF9m9L9VtDsdNihP5SX1QHSOqzIYjmKULA,506
+dicomp-0.0.1.dist-info/WHEEL,sha256=5sUXSg9e4bi7lTLOHcm6QEYwO5TIF1TNbTSVFVjcJcc,92
+dicomp-0.0.1.dist-info/top_level.txt,sha256=_s06zpDT6HQCmHfnh7G0RGIjnG5vDOi2B0VmX-Kqwu8,7
+dicomp-0.0.1.dist-info/RECORD,,
