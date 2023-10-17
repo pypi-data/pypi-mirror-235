@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+gggspider/__init__.py
+gggspider.egg-info/PKG-INFO
+gggspider.egg-info/SOURCES.txt
+gggspider.egg-info/dependency_links.txt
+gggspider.egg-info/requires.txt
+gggspider.egg-info/top_level.txt
