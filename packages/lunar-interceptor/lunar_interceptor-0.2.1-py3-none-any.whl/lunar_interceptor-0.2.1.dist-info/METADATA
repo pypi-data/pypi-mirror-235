@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: lunar-interceptor
+Version: 0.2.1
+Summary: The Lunar aiohttp interceptor used to manage the framwork traffic.
+Author: Lunar
+Author-email: support@lunar.dev
+Requires-Python: >=3.6.8
+Requires-Dist: aiohttp >=3.5.2
+
