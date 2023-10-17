@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+./calico/__init__.py
+./calico/utils.py
+calico_python.egg-info/PKG-INFO
+calico_python.egg-info/SOURCES.txt
+calico_python.egg-info/dependency_links.txt
+calico_python.egg-info/not-zip-safe
+calico_python.egg-info/top_level.txt
