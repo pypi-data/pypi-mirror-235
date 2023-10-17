@@ -1,0 +1,3 @@
+[console_scripts]
+deng=verdi92_de_toolkit.main:cli
+
