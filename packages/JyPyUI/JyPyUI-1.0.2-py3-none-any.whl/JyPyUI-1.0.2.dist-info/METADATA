@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: JyPyUI
+Version: 1.0.2
+Requires-Dist: pygame
+Requires-Dist: gtts
+Requires-Dist: plyer
+Requires-Dist: pyjnius
+
