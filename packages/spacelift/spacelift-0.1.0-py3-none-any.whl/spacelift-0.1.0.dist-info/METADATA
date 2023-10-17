@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: spacelift
+Version: 0.1.0
+Summary: simple python client for the spacelift GraphQL API
+Author: Will George
+Author-email: wrgeorge1983@gmail.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: gql[requests] (>=3.4.1,<4.0.0)
+Description-Content-Type: text/markdown
+
+
