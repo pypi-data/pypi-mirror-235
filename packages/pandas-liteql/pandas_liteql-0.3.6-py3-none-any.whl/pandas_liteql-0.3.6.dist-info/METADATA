@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: pandas-liteql
+Version: 0.3.6
+Summary: An extension for pandas, enabling users to execute SQL statements on pandas DataFrames, 
+Home-page: https://github.com/forgineer/pandas-liteql
+Author: forgineer
+License: MIT License
+Keywords: dataframe,pandas,sql,sqlite
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas >=1.3.5
+Requires-Dist: sqlalchemy >=1.4.36
+Provides-Extra: dev
+Requires-Dist: build ; extra == 'dev'
+Requires-Dist: twine ; extra == 'dev'
+
+<div align="center">
+    <img src="https://forgineer.pythonanywhere.com/static/pandas_liteql/pandas-liteql-logo.png" alt="pandas-liteql-logo.png"><br>
+</div>
+
+---
+
+# pandas-liteql
+**pandas-liteql** is an extension for pandas, enabling users to execute SQL statements on pandas DataFrames using in-memory SQLite, streamlining data manipulation and analysis tasks. Documentation comming soon...
