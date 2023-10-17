@@ -1,0 +1,9 @@
+setup.py
+minimalgpt/__init__.py
+minimalgpt/modules.py
+minimalgpt.egg-info/PKG-INFO
+minimalgpt.egg-info/SOURCES.txt
+minimalgpt.egg-info/dependency_links.txt
+minimalgpt.egg-info/not-zip-safe
+minimalgpt.egg-info/requires.txt
+minimalgpt.egg-info/top_level.txt
