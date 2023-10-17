@@ -1,0 +1,16 @@
+EarthMC/DataHandler.py,sha256=uwALeNP4XmxxHsnPLBGHABI11vTvvfug17qn5STtjvQ,1203
+EarthMC/Utils.py,sha256=yRIj3jn8UdLOYZ-rdE2k4vTWvOQAatYf2GYY7bG0J2Q,2255
+EarthMC/__init__.py,sha256=pH1F17qJuu1yJsNsR5vOeYxNUBx1fL3Wx4pNQ4oubZE,1414
+EarthMC/Classes/GPS.py,sha256=kdI_hPYPNiX5y6IkbBTgu-hHfx6rfWrnkrHMa25iYUc,5551
+EarthMC/Classes/Nations.py,sha256=pEZDE6SH0RMH9u-tCXvab4ARPx2L77OF5KkT6UXrG-8,2965
+EarthMC/Classes/Players.py,sha256=6elnA6lcnuUTtLIoiYUHqVxwAcZ3Li1UjgeO8dO_gtI,3128
+EarthMC/Classes/Towns.py,sha256=ltw0uZBBDzUvghnRCwrF-IGYMQYOUIXM360cxE672bE,4051
+EarthMC/Classes/__init__.py,sha256=0d33q2B7HobogDFmVUYGPYkhpBjXliQuEiqW_pH1Jb8,114
+EarthMC/Classes/OAPI/Nation.py,sha256=SRtXtW81LDuWTxcOi9vxSOD2Dl05Hkh8mQJVLIT4lAI,823
+EarthMC/Classes/OAPI/Player.py,sha256=28mC0-j6iJx7Rb4M0lQXQic4rvS-DmeQrepX3zLBJqo,1337
+EarthMC/Classes/OAPI/Town.py,sha256=35C56fpPmyHm4k2JCYA30MdUABDboa86Xp4NShJW6pM,1235
+EarthMC/Classes/OAPI/__init__.py,sha256=boenuh8Lz8GFeeupMnK8YyG3D1N6r6rXr8jgg21ZAfo,93
+EarthMC-3.5.0.dist-info/METADATA,sha256=sWf9owQLTFUlcurveV8rgtYdE5KdJP1kFHqr9F4zWSM,2304
+EarthMC-3.5.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+EarthMC-3.5.0.dist-info/top_level.txt,sha256=QVcScj5pvu6aQqBpV_P3wb_oEYsj7XPQYltcDjkX0Mw,8
+EarthMC-3.5.0.dist-info/RECORD,,
