@@ -1,0 +1,7 @@
+setup.py
+fraplustreewww.egg-info/PKG-INFO
+fraplustreewww.egg-info/SOURCES.txt
+fraplustreewww.egg-info/dependency_links.txt
+fraplustreewww.egg-info/top_level.txt
+printmyname/__init__.py
+printmyname/main.py
