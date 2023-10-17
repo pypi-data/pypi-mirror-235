@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: midjpy
+Version: 1.0.1
+Summary: Python client for the MIDJ API
+Author: dmaxxy
+Author-email: dmaxxy.bhw@gmail.com
+Requires-Dist: requests
