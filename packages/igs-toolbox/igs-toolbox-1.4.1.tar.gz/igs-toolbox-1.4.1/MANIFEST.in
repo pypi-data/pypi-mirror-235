@@ -1,0 +1,2 @@
+recursive-include src/igs_toolbox/formatChecker/res *.txt *.json
+recursive-include src/igs_toolbox/extractor/res *.pdf

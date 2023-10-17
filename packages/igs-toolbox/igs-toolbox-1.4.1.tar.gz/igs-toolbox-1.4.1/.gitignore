@@ -1,0 +1,8 @@
+test.json
+*.pyc
+test/
+build/
+dist/
+igs_toolbox.egg-info/
+.eggs/
+.coverage

@@ -1,0 +1,59 @@
+pipeline {
+	agent {
+        kubernetes {
+            defaultContainer 'python'
+            yaml """
+                apiVersion: v1
+                kind: Pod
+                spec:
+                    containers:
+                    - name: python
+                      image: python:3.10
+                      tty: true
+                      env:
+                      - name: http_proxy
+                        value: http://10.15.156.29:8020
+                      - name: https_proxy
+                        value: http://10.15.156.29:8020
+                      resources:
+                        requests:
+                          ephemeral-storage: 500Mi
+                """
+        }
+    }
+
+    stages {
+        stage('Install poppler') {
+            steps {
+                sh 'apt update'
+                sh 'apt install --yes poppler-utils libgl1'
+            }
+        }
+        stage('Install and test') {
+            steps {
+                sh 'pip install .[test]'
+                sh 'pytest  --junitxml=pytest-report.xml tests/'
+            }
+        }
+        stage('Build') {
+            steps {
+                sh 'pip install build'
+                sh 'python -m build --wheel --outdir dist/ .'
+
+                archiveArtifacts artifacts: 'dist/'
+            }
+        }
+    }
+
+    post {
+        always {
+            script {
+                if (fileExists('pytest-report.xml')) {
+                    junit 'pytest-report.xml'
+                } else {
+                    echo 'No test report found'
+                }
+            }
+        }
+    }
+}
