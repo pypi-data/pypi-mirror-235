@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: kandinsky.py
+Version: 2.3
+Summary: Reverse Engineered Kandinsky 2.2 API
+Author: zenafey
+Author-email: zenafey@eugw.ru
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+Requires-Dist: aiohttp
+Requires-Dist: Pillow
+Requires-Dist: colorama
+
+# kandinsky.py
+Reverse Engineered fusion-brain API
+
+### Installation 
+```
+pip install kandinsky.py
+```
+
+
+
+### Example of usage
+```python
+from kandinsky import Kandinsky
+
+pipe = Kandinsky(auth_token='your-authorization-token-from-headers')
+
+job = pipe.create(prompt="cat")
+result = pipe.wait(job) #b64 string
+image = pipe.load(result) #BytesIO object
+```
+
+
