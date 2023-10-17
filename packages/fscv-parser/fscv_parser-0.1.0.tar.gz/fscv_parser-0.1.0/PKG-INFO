@@ -1,0 +1,85 @@
+Metadata-Version: 2.1
+Name: fscv_parser
+Version: 0.1.0
+Project-URL: Homepage, https://github.com/markpinnock/fcsv-parser
+License: MIT License
+        
+        Copyright (c) 2023 markpinnock
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+License-File: LICENSE
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Requires-Python: <3.11,>=3.8
+Provides-Extra: quality
+Requires-Dist: black==23.1.0; extra == 'quality'
+Requires-Dist: flake8==6.0.0; extra == 'quality'
+Requires-Dist: isort==5.9.3; extra == 'quality'
+Requires-Dist: pre-commit==2.20.0; extra == 'quality'
+Provides-Extra: test
+Requires-Dist: pytest==7.2.2; extra == 'test'
+Provides-Extra: typing
+Requires-Dist: mypy==1.0.1; extra == 'typing'
+Requires-Dist: pytest==7.2.2; extra == 'typing'
+Description-Content-Type: text/markdown
+
+# .fcsv Parser
+[![Code quality](https://github.com/markpinnock/fcsv-parser/actions/workflows/check_code_quality.yml/badge.svg)](https://github.com/markpinnock/fcsv-parser/actions/workflows/check_code_quality.yml) [![Static typing](https://github.com/markpinnock/fcsv-parser/actions/workflows/check_typing.yml/badge.svg)](https://github.com/markpinnock/fcsv-parser/actions/workflows/check_typing.yml) [![CI tests](https://github.com/markpinnock/fcsv-parser/actions/workflows/run_tests.yml/badge.svg)](https://github.com/markpinnock/fcsv-parser/actions/workflows/run_tests.yml)
+[![python](https://img.shields.io/badge/Python-3.8-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+## Overview
+This package provides a simple way to read a markups fiducial point list file (.fcsv) for use in annotations/bounding box creation in medical images. These can be created in an application like [3D Slicer](https://www.slicer.org). The format of these fiducial lists is outlined [here](https://slicer.readthedocs.io/en/latest/developer_guide/modules/markups.html).
+
+## Requirements
+This package has been tested with Python 3.8, and currently version 4.10 of the `.fcsv` format is supported. If running the example notebook, a virtual environment should be created and then the requirements in Linux installed using:
+
+```bash
+user@account:~/fcsv-parser$ python3 -m fcsv
+user@account:~/fcsv-parser$ source fcsv/bin/activate
+(fcsv) user@account:~/fcsv-parser$ pip install -r requirements.txt
+```
+
+If Windows is used, conda is recommended:
+
+```bash
+(base) C:\User\fcsv-parser> conda create -n fcsv python=3.8
+(base) C:\User\fcsv-parser> conda activate fcsv
+(fcsv) C:\User\fcsv-parser> pip install -r requirements.txt
+```
+
+Otherwise all that is needed is to install directly from PyPI into your environment:
+```bash
+(your-env) user@account:~/fcsv-parser$ pip install fcsv-parser
+```
+
+## Usage
+Once installed, a fiducial file can be loaded, returning a `dataclass`. The individual fiducials can be accessed with their IDs as you would a `dict`:
+
+```bash
+(fcsv) C:\User\fcsv-parser>python
+Python 3.8.16 (default, Mar  2 2023, 03:18:16) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from fcsv_parser import read_fcsv
+>>> fiducials = read_fcsv("C:\path\to\data")
+>>> fiducials["F-1"]:
+(170.167, 432.176, -0.0)
+```

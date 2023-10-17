@@ -1,0 +1,68 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fscv_parser"
+author = "Mark Pinnock"
+version = "0.1.0"
+readme = "README.md"
+license = {file = "LICENSE"}
+Description = "Package for reading .fcsv files for markups/fiducial annotations"
+
+requires-python = ">=3.8,<3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/markpinnock/fcsv-parser"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.optional-dependencies]
+typing = [
+    "mypy==1.0.1",
+    "pytest==7.2.2",
+]
+quality = [
+    "black==23.1.0",
+    "flake8==6.0.0",
+    "isort==5.9.3",
+    "pre-commit==2.20.0",
+]
+test = [
+    "pytest==7.2.2"
+]
+
+[tool.mypy]
+warn_unused_configs = true
+ignore_missing_imports = true
+namespace_packages = true
+python_version = "3.8"
+strict = true
+warn_unreachable = true
+pretty = true
+show_traceback = true
+install_types = true
+scripts_are_modules = true
+
+[[tool.mypy.overrides]]
+module = [
+    "pytest",
+]
+allow_untyped_decorators = false
+
+[tool.black]
+color = true
+line-length = 88
+target-version = ["py38"]
+
+[tool.isort]
+profile = "black"
+include_trailing_comma = true
