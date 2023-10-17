@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "forta-gate"
+version = "0.1.0"
+description = ""
+authors = ["Anton Rastyazhenko <rastyazhenko.anton@gmail.com>"]
+readme = "README.md"
+packages = [{include = "forta", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+typer = {version = ">=0.9.0", extras = ["all"]}
+typer-config = {version = ">=1.2.1", extras = ["all"]}
+pybrom = ">=1.1.6"
+nicegui = {version = "^1.3.17", extras = ["netifaces"]}
+pydantic-settings = ">=2.0.3"
+fastapi = "^0.103.2"
+pytest = "^7.4.2"
+trio = "^0.22.2"
+
+[tool.poetry.scripts]
+forta = 'forta.__main__:__main__'
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
