@@ -1,0 +1,14 @@
+jupyterlab_indent_guides/__init__.py,sha256=I_FLZkmpfQgi4y1LbDi3JHrPKXHYlzHNdxJJHX8rW3c,606
+jupyterlab_indent_guides/_version.py,sha256=CXJl0vWHa-zfZJ_mhGVB60E0diyNNF7RIidcWrfQJOA,175
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/package.json,sha256=Q9bmO84zaIPIgl33S7IF13iZawIEpQfe3bw9RTlglqE,5946
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/568.5c22e584d4ce87865336.js,sha256=XCLlhNTOh4ZTNindIhs4VVfFDpNY01Tzm48dXyiACTM,2345
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/722.677deb4452682d2fd06c.js,sha256=Z33rRFJoLS_QbC3b7YwzRaWg1aZO7UZbvv3aCnBCT-c,4736
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/747.dc18ed7a4c05a68678d6.js,sha256=3BjtekwFpoZ41ooA-3JULm5UPqFdsFgFhO1XaVmhqTE,4028
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/remoteEntry.21946eee73703e66fa5a.js,sha256=IZRu7nNwPmb6WhCt1vZTiROWvXCzcmWN7VGUPv6Lvs0,7050
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/style.js,sha256=tG69LDIdPsoIASZpOILaPvhtj4Hl5D8G4ep_anpAdgg,167
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/static/third-party-licenses.json,sha256=v-7F9tleEt5Hf3ARcUsFqAKI4EM1gtriZB4E-dbcRt8,3691
+jupyterlab_indent_guides-0.1.0.data/data/share/jupyter/labextensions/jupyterlab-indent-guides/install.json,sha256=oUHTY-TSmpOoYuMQ996yXbyjLZRqM1qkzIe1NGOMl-s,209
+jupyterlab_indent_guides-0.1.0.dist-info/METADATA,sha256=OegcC4clWRenzJObM9SjgqJjrJLSDm3Gt26mFKYR3Oo,6151
+jupyterlab_indent_guides-0.1.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+jupyterlab_indent_guides-0.1.0.dist-info/licenses/LICENSE,sha256=66Qs-YOYitNlvvbY0Oi6jjpNBDzJP5IEaIV1owMdTzs,1541
+jupyterlab_indent_guides-0.1.0.dist-info/RECORD,,
