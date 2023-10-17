@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "unreachable"
+version = "0.1.0"
+description = "An exception for when logic takes a holiday."
+license = "AGPL-3.0-or-later"
+authors = ["Maximillian Strand <maxi@millian.se>"]
+readme = "README.md"
+repository = "https://gitlab.com/deepadmax/unreachable"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
