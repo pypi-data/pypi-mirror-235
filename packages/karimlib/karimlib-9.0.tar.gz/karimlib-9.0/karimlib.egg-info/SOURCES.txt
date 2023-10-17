@@ -1,0 +1,8 @@
+setup.py
+karimlib/__init__.py
+karimlib.egg-info/PKG-INFO
+karimlib.egg-info/SOURCES.txt
+karimlib.egg-info/dependency_links.txt
+karimlib.egg-info/entry_points.txt
+karimlib.egg-info/requires.txt
+karimlib.egg-info/top_level.txt
