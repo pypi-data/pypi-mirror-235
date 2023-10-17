@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "githubdata"
+version = "16.0.0"
+authors = [{ name = "Mahdi Mir", email = "imahdimir@gmail.com" }]
+description = "A simple Python package to easily download from and manage a GitHub \"Data repository\""
+readme = "README.md"
+license = { file = "LICENSE" }
+dependencies = [
+    "giteasy",
+    "fastparquet",
+    "pyarrow",
+    "pandas",
+]
+classifiers = [
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Utilities"
+]
+keywords = [
+    "TSE",
+    "Finance",
+    "data",
+    "cleaning",
+    "data_cleaning",
+    "Tehran",
+    "Stocks"
+]
+
+[project.urls]
+"Homepage" = "https://github.com/imahdimir/githubdata"
+"Bug Tracker" = "https://github.com/imahdimir/githubdata/issues"
