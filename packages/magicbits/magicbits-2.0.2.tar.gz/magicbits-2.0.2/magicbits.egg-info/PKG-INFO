@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: magicbits
+Version: 2.0.2
+Summary: A simple package for demostration of concept of OS in python
+Home-page: UNKNOWN
+Author: Stella Ruth
+Author-email: stella.ruth7672@proton.me
+License: UNKNOWN
+Keywords: os cpu scheduling
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.6
+
+UNKNOWN
+
