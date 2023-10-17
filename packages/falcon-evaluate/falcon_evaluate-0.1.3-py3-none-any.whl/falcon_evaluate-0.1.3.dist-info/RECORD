@@ -1,0 +1,8 @@
+falcon_evaluate/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+falcon_evaluate/context_relevency.py,sha256=dd9N0YpFvOKZ2AXROpprlHisT8X8_MYJwQwIM6igh2k,1020
+falcon_evaluate/fevaluate.py,sha256=SPAvOksgVaiSg2iI78c6xIXzefw1LClTxP6fXCl7VTE,6533
+falcon_evaluate/fevaluate_results.py,sha256=Vt90YTUo2QOBoYehHSGWbAn71RvOXT-3807lhQaw8HE,5104
+falcon_evaluate-0.1.3.dist-info/LICENSE,sha256=3tnRrXshSL0nyMOUEL5zhAXu3O1JawHte6PJeTzD8Fc,1087
+falcon_evaluate-0.1.3.dist-info/METADATA,sha256=OWMlBn46vHYGWk6wax_qSTS7mRJBOc9J4YCM3sbXVfc,7491
+falcon_evaluate-0.1.3.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+falcon_evaluate-0.1.3.dist-info/RECORD,,
