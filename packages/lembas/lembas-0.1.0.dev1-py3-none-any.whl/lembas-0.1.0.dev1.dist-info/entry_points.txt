@@ -1,0 +1,2 @@
+[console_scripts]
+lembas = lembas.cli:app
