@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: better_pynamite
+Version: 0.1
+Summary: Import and create chaos
+Home-page: https://github.com/deutranium/better_pynamite
+Author: Kshitijaa Jaglan
+Author-email: kshitijaa.jaglan@research.iiit.ac.in
+License: MIT
+Keywords: python,chaos
+License-File: LICENSE
+
+Import pynamite to stop script execution at random

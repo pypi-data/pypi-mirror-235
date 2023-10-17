@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+better_pynamite/__init__.py
+better_pynamite/better_pynamite.py
+better_pynamite.egg-info/PKG-INFO
+better_pynamite.egg-info/SOURCES.txt
+better_pynamite.egg-info/dependency_links.txt
+better_pynamite.egg-info/top_level.txt
