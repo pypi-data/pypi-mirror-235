@@ -1,0 +1,10 @@
+businessmodels/__init__.py,sha256=dxeL4uyLJ7N56RVuIBAk3amji5EaFOaH_G1SlaspKXg,80
+businessmodels/customersegmentation.py,sha256=qGBxgSplVEJVAzHXr_pbJKXmRG_pDjGzX7QRO5UfJiM,21376
+businessmodels/get_sla.py,sha256=_uMLrghIUTV2IhsyRcLvNfH18CAElb8yPv4EV-ZRMow,2441
+businessmodels/performance_rank.py,sha256=77c4W2z6hwxA_GTmblD4CAtBToNFJrQxBuklVcUcMLc,694
+businessmodels/price_elasticity.py,sha256=HDli-hQLNFW3euVNvhd2FrHnEBEzM-Bl3EcMp77sSl8,4659
+businessmodels-0.0.8.dist-info/LICENSE.txt,sha256=wKRQcln-N7w2eHxrZ2nJSV4QGcL4ix4kVXaHczXw72A,1089
+businessmodels-0.0.8.dist-info/METADATA,sha256=1RO5sgP2LIYZO2yw2OLgjUFPLGd3l6kFCplRdAYDeSs,1565
+businessmodels-0.0.8.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+businessmodels-0.0.8.dist-info/top_level.txt,sha256=3iCl9LmPbBZLo2vLjxB070fUESCkKebeUG77XEqNAiI,15
+businessmodels-0.0.8.dist-info/RECORD,,
