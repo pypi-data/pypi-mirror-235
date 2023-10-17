@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: candid-cash
+Version: 23.10.0b1
+Keywords: money,finance,budget,productivity
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Utilities
+License-File: LICENSE
+
