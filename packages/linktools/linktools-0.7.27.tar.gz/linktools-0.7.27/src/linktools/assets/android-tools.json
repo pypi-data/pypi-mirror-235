@@ -1,0 +1,20 @@
+{
+    "ANDROID_TOOL_BRIDGE_APK": {
+        "name": "android-tools.apk",
+        "md5": "d60e4f19d127989acfc54c7550e86315",
+        "main": "android.tools.Main",
+        "size": 82987,
+        "time": "2023-10-16 16:20:40"
+    },
+    "ANDROID_TOOL_FRIDA_SERVER": [
+        {
+            "name": "strong-frida-server-{version}-android-{abi}",
+            "url": "https://github.com/hzzheyang/strongR-frida-android/releases/download/{version}/hluda-server-{version}-android-{abi}.xz",
+            "min_version": "15.1.8"
+        },
+        {
+            "name": "frida-server-{version}-android-{abi}",
+            "url": "https://github.com/frida/frida/releases/download/{version}/frida-server-{version}-android-{abi}.xz"
+        }
+    ]
+}
