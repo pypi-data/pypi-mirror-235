@@ -1,0 +1,14 @@
+blackboxprotobuf/__init__.py,sha256=93SctUY96YZNhE7JhK0gxsYdhza3Wo0ND3vKnvYgqgk,1577
+blackboxprotobuf/lib/__init__.py,sha256=wuRpVYdNaeUq5vovdZDPW9ZkcSIGuvnIrhDMEdR76rw,1382
+blackboxprotobuf/lib/api.py,sha256=JuHj4qF6SVMManvsiZZ1yc9secOzuYHvd5X38x6IZDU,27266
+blackboxprotobuf/lib/config.py,sha256=_-aOEukrtKrSuqA8BO5pmVjn_8eSCPYnyl55KfE3J3o,2265
+blackboxprotobuf/lib/exceptions.py,sha256=8tSndv1HJkHj46QORt_hMkYGCe155eFIVshz80SK_48,3760
+blackboxprotobuf/lib/protofile.py,sha256=HYgTf8ZIfbtDeOQXAqwvB_L7K5irue-ap0MaKG6VraQ,16054
+blackboxprotobuf/lib/types/__init__.py,sha256=6SJrg7F7Hih_y96kEBsjfC4ArbxkJiXfGJBM1NRBXB4,1296
+blackboxprotobuf/lib/types/fixed.py,sha256=nLfYntrbG8wlZPnfzm76R0NdtbHNIpIcBa3u9fFi1J4,3911
+blackboxprotobuf/lib/types/length_delim.py,sha256=b0ftgdfx02LIQMyXMjIk5R_5JxIRExNzKlNk0LE8fRE,25355
+blackboxprotobuf/lib/types/type_maps.py,sha256=Jjp4PwOQWxhQ4r_8O1bbhQBpkk8amymF6x-PIQKfG08,5446
+blackboxprotobuf/lib/types/varint.py,sha256=041bDhbIppyFZYAyJFbzcrH3B7pNs3WxE2on_wT5j1M,5680
+bbpb-1.0.1.dist-info/METADATA,sha256=fEJTgRChMB8hKKN_i3j5G-E0TcxCS9ojPJb82qchxtE,11761
+bbpb-1.0.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+bbpb-1.0.1.dist-info/RECORD,,
