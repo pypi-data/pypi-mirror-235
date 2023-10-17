@@ -1,0 +1,6 @@
+setup.py
+aicos_model_zoo.egg-info/PKG-INFO
+aicos_model_zoo.egg-info/SOURCES.txt
+aicos_model_zoo.egg-info/dependency_links.txt
+aicos_model_zoo.egg-info/requires.txt
+aicos_model_zoo.egg-info/top_level.txt
