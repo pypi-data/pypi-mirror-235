@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling","rasterio","matplotlib","plotly","pandas","ipywidgets","requests"]
+build-backend = "hatchling.build"
+
+[project]
+name = "LDVisualization_Alan1321"
+version = "0.0.2"
+authors = [
+  { name="Alan", email="alansubedi123@gmail.com" },
+]
+description = "This package helps visualize lightning datasets inside of a mapbox. Import and use it in jupyter notebook."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Alan1321/GHRCCLOUD-5331_JupyterNotebook_for_LD"
+"Bug Tracker" = "https://github.com/Alan1321/GHRCCLOUD-5331_JupyterNotebook_for_LD"
