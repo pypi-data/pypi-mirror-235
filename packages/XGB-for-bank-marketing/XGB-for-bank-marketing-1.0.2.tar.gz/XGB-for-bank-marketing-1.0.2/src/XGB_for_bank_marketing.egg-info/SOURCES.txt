@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/XGB_for_bank_marketing.egg-info/PKG-INFO
+src/XGB_for_bank_marketing.egg-info/SOURCES.txt
+src/XGB_for_bank_marketing.egg-info/dependency_links.txt
+src/XGB_for_bank_marketing.egg-info/top_level.txt
+src/bank_xgb/__init__.py
+src/bank_xgb/bankXGB.py
