@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+ftc_api.egg-info/PKG-INFO
+ftc_api.egg-info/SOURCES.txt
+ftc_api.egg-info/dependency_links.txt
+ftc_api.egg-info/requires.txt
+ftc_api.egg-info/top_level.txt
