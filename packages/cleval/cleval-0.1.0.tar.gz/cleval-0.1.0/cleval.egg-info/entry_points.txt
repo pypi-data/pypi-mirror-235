@@ -1,0 +1,2 @@
+[console_scripts]
+cleval = cleval.main:main
