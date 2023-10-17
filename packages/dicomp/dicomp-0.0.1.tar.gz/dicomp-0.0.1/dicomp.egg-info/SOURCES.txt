@@ -1,0 +1,15 @@
+setup.py
+dicomp/__init__.py
+dicomp/client.py
+dicomp/component.py
+dicomp/const.py
+dicomp/dpy_overrides.py
+dicomp/http.py
+dicomp/interaction.py
+dicomp/utils.py
+dicomp.egg-info/PKG-INFO
+dicomp.egg-info/SOURCES.txt
+dicomp.egg-info/dependency_links.txt
+dicomp.egg-info/not-zip-safe
+dicomp.egg-info/requires.txt
+dicomp.egg-info/top_level.txt
