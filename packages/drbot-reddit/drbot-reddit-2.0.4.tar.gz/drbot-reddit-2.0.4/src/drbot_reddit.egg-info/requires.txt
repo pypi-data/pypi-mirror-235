@@ -1,0 +1,7 @@
+praw
+prawcore
+schedule
+tomlkit
+python_dateutil
+dynaconf
+Requests
