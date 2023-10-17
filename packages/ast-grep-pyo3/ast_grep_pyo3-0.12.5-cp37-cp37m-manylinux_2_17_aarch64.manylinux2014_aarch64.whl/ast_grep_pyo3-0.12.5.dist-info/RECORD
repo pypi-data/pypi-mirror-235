@@ -1,0 +1,5 @@
+ast_grep_pyo3-0.12.5.dist-info/METADATA,sha256=UV-2Raj8TbXN8h1wtpV2l_g0vIuUqiG9To3jOOYGw4Y,1140
+ast_grep_pyo3-0.12.5.dist-info/WHEEL,sha256=xQYBNru_OAF1dWYgq395s3tsy9JMV10lz8oLoNnDq5s,130
+ast_grep_pyo3/__init__.py,sha256=dEVs5AV2Ym7sw0qWpRPXuvQSdWWbfHu5Q0Y1j5Evm9s,135
+ast_grep_pyo3/ast_grep_pyo3.cpython-37m-aarch64-linux-gnu.so,sha256=aThlFYDcDrr6qiMCseBspbIdMEZWapEdTb66ilD9gGw,2281632
+ast_grep_pyo3-0.12.5.dist-info/RECORD,,
