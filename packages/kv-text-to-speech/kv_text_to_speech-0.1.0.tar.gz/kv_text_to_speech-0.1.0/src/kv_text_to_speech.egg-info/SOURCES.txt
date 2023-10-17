@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/kv_text_to_speech/__init__.py
+src/kv_text_to_speech/text_to_speech.py
+src/kv_text_to_speech.egg-info/PKG-INFO
+src/kv_text_to_speech.egg-info/SOURCES.txt
+src/kv_text_to_speech.egg-info/dependency_links.txt
+src/kv_text_to_speech.egg-info/requires.txt
+src/kv_text_to_speech.egg-info/top_level.txt
