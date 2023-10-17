@@ -1,0 +1,8 @@
+novum_api/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+novum_api/api_type.py,sha256=gdhymVz-NDW9CzG83FHbq6wSz0sQpovZD7b-1e71t_Y,11521
+novum_api/base_client.py,sha256=KqTa3xr1JqmxFxCL9QL3CDBJP57u_6Ai-lcbEqtE-H0,10684
+novum_api/client.py,sha256=ci601cFuCRGHz83pcS-5y4dwKOR_jP9ZqdupIhnx8uE,21111
+novum_api-1.0.0a0.dist-info/LICENSE,sha256=N3EGPbh4o9ArIPPEjWKlK22RmKqeh-OTVhvf8B3cvUg,1064
+novum_api-1.0.0a0.dist-info/METADATA,sha256=mhEfATBhpi-0Bm91HiFTCIP7Tpvh2kgtpOAeoWhkQd0,444
+novum_api-1.0.0a0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+novum_api-1.0.0a0.dist-info/RECORD,,
