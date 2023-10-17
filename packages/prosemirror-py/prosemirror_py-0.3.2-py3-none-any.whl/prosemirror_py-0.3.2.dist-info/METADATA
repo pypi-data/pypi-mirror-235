@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: prosemirror-py
+Version: 0.3.2
+Summary: prosemirror-py is now prosemirror
+Classifier: Development Status :: 7 - Inactive
+Description-Content-Type: text/markdown
+Requires-Dist: prosemirror
+
+# prosemirror-py is now prosemirror
+
+This package has been renamed. Use `pip install prosemirror` instead.
+
+New package: https://pypi.org/project/prosemirror/
