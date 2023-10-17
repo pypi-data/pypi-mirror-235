@@ -1,0 +1,11 @@
+.gitignore
+README.md
+__init__.py
+lib.py
+pyproject.toml
+setup.py
+.github/workflows/python-publish.yml
+package_onne.egg-info/PKG-INFO
+package_onne.egg-info/SOURCES.txt
+package_onne.egg-info/dependency_links.txt
+package_onne.egg-info/top_level.txt
