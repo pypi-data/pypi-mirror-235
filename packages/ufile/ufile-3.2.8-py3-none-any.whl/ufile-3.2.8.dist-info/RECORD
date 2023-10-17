@@ -1,0 +1,16 @@
+ufile/__init__.py,sha256=ibzQ778GK8-66LmxuOVkvkMe5E4Hqp5O7ruqezx0vkc,84
+ufile/auth.py,sha256=hZBjjoOd93jOiUeu8s80zhqoMYn7dNdSfEcY6A9RME8,3002
+ufile/baseufile.py,sha256=M7cIYQ0bLM_mfXKwTneIaenekgwvGt0gaN6KnaE3veY,7312
+ufile/bucketmanager.py,sha256=0JR72XULJaQAY4NA5zdqnxwPq1SwMvs1DWaC7dD5qcc,8863
+ufile/compact.py,sha256=G-U88jaqT56mMNrL9j9CnboDkpU2tEA-rIA4uIR9BOM,1355
+ufile/config.py,sha256=EOycfcygKG_a7fHbHhRXUc4vPJV_TYZMhD5WHtwWELk,1834
+ufile/filemanager.py,sha256=zkQIugfoLpTHHtI9CBfWhknsDMJYTixFZjAjpfnm1j8,26167
+ufile/httprequest.py,sha256=k3SmlYRnFGVrTJflAZ7mtERS2Lx1hpZpnZuvwXci0c8,19424
+ufile/logger.py,sha256=lMT3hNn38IFcK4VuzAjpKqAJ3u8VXFpOIhdCk-0k_5Y,701
+ufile/multipartuploadufile.py,sha256=aynYbDLQ2jTrEkfAEMJqJYWgSPvEK80Q2M4Ybi7qp-0,22336
+ufile/util.py,sha256=zaw1gMZxFH1XZTHNK1A8rDcfIPvwJ4_aQ9SYNiBPouE,17939
+ufile-3.2.8.dist-info/LICENSE,sha256=C1lJyVpRYNmXMvm4fhfpiTqTwlwmYarGx3Hqn_lZDeo,11357
+ufile-3.2.8.dist-info/METADATA,sha256=AsNTrjTq34ELNMwnSBbLHhZJoLPSGd0xhuORZ7PU0qw,943
+ufile-3.2.8.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+ufile-3.2.8.dist-info/top_level.txt,sha256=dT0jucoUc6Y0K0AK5CG034kYBUeXZxL9LHHDzsORJ6c,6
+ufile-3.2.8.dist-info/RECORD,,
