@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: az_sights
+Version: 1.0.0
+Summary: This is a package can be used to query Azure Application Insights.
+Home-page: https://github.com/kouroshparsa/az_sights
+Download-URL: https://github.com/kouroshparsa/az_sights/packages/1.0.0
+Author: Kourosh Parsa
+Author-email: kouroshtheking@gmail.com
+License: GNU
+Platform: all
+Classifier: Programming Language :: Python
+License-File: LICENSE
+
+This is a package can be used to query Azure Application Insights.
