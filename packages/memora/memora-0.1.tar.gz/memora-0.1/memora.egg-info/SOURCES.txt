@@ -1,0 +1,9 @@
+setup.py
+Memora/__init__.py
+Memora/app_error.py
+Memora/config.py
+memora.egg-info/PKG-INFO
+memora.egg-info/SOURCES.txt
+memora.egg-info/dependency_links.txt
+memora.egg-info/requires.txt
+memora.egg-info/top_level.txt
