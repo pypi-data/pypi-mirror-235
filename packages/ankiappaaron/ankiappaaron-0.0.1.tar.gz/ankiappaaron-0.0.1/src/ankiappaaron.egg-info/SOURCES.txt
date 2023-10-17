@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+src/ankiappaaron/__init__.py
+src/ankiappaaron/__main__.py
+src/ankiappaaron.egg-info/PKG-INFO
+src/ankiappaaron.egg-info/SOURCES.txt
+src/ankiappaaron.egg-info/dependency_links.txt
+src/ankiappaaron.egg-info/top_level.txt
