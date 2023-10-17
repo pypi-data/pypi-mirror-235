@@ -1,0 +1,6 @@
+rwkv2onnx_python.cpython-39-x86_64-linux-gnu.so,sha256=2RfyqoKxojPRe_hcBiXKJoOcM6Hkr02YG7QgQW6oxrk,6023704
+rwkv2onnx/__init__.py,sha256=Aha_BrsHwfWxFQN6QWIzZI8qrkm3aIo5xvprHbkoDo0,31
+rwkv2onnx-0.0.8.dist-info/METADATA,sha256=UgmUVYoZK5hn5tvvtyVR-f5sPyltfwN6nyNSoaN3pww,346
+rwkv2onnx-0.0.8.dist-info/WHEEL,sha256=_BMdtp3IQ4NF7VFMKD4lD9Cik0H3WhEP1vtG22VwXhU,148
+rwkv2onnx-0.0.8.dist-info/RECORD,,
+rwkv2onnx-0.0.8.dist-info/top_level.txt,sha256=Sn4ybPahzO7yMBKmFWhrMBxBxDHsNxOVr7nX6czjw_A,27
