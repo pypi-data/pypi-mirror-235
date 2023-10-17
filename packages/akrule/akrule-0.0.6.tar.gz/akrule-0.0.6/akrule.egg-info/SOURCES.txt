@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+akrule/__init__.py
+akrule.egg-info/PKG-INFO
+akrule.egg-info/SOURCES.txt
+akrule.egg-info/dependency_links.txt
+akrule.egg-info/requires.txt
+akrule.egg-info/top_level.txt
+akrule/time_series/__init__.py
+akrule/time_series/_akrulebasedts.py
