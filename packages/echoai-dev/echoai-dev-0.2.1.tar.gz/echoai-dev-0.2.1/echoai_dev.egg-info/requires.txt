@@ -1,0 +1,4 @@
+openai
+pygments
+langchain
+boto3
