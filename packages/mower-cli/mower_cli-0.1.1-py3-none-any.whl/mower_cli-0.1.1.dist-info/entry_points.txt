@@ -1,0 +1,3 @@
+[console_scripts]
+mower-cli=mower.controller.cli_controller:main
+
