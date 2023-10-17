@@ -1,0 +1,1 @@
+from .nagato import ingest
