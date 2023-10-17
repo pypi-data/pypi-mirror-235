@@ -1,0 +1,9 @@
+requests
+msal
+pytz
+
+[:python_version < "3.11"]
+typing_extensions
+
+[NtlmProvider]
+requests_ntlm
