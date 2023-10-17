@@ -1,0 +1,7 @@
+dynlab/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+dynlab/solvers.py,sha256=8WD2embJfoA0v3lYyD5GBJAdgvhGbLFCDI6spqk4CxU,2624
+dynlab/velocity_fields.py,sha256=qZM8pHOzJ2dJuc9Qa2zFrK9tIO6w4uhR6MNGqgnBZMU,4308
+dynlab-0.0.1.dist-info/METADATA,sha256=t_e345hTPDhVmC3floLrkRvdEuLm_Z84s9SuqSNJ9GM,538
+dynlab-0.0.1.dist-info/WHEEL,sha256=KGYbc1zXlYddvwxnNty23BeaKzh7YuoSIvIMO4jEhvw,87
+dynlab-0.0.1.dist-info/licenses/LICENSE,sha256=IwGE9guuL-ryRPEKi6wFPI_zOhg7zDZbTYuHbSt_SAk,35823
+dynlab-0.0.1.dist-info/RECORD,,
