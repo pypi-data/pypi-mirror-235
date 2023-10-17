@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: bg-task-queue
+Version: 0.4.13
+Summary: python simple multi threading task queue
+Home-page: https://github.com/jhleee/python-bg-task-queue
+Author: jhleee
+Author-email: ng0301@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE
