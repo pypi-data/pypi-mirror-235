@@ -1,0 +1,10 @@
+zopfli/__init__.py,sha256=Hw3mIK_G7yACqe2KlnSOJlCdnHUighIH2QTaNIl83v8,10709
+zopfli/__version__.py,sha256=VqxhZWpR1Ole5Q6qafQcpTMFW_TAF8dMOvrvvKK3Wlc,61
+zopfli/_zopfli.cp39-win32.pyd,sha256=X0sATrSt1bhq8K1AlzoY6zvpjtmE_jd22VG6_rJrIyg,140288
+zopfli/_zopfli.pyi,sha256=JqLS_afhglJDwYY0-eqgCWd8LrLG9AVMj-pPPKsqiBc,1615
+zopfli/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zopflipy-1.9.dist-info/LICENSE.txt,sha256=Pd-b5cKP4n2tFDpdx27qJSIq0d1ok0oEcGTlbtL6QMU,11560
+zopflipy-1.9.dist-info/METADATA,sha256=111O07WK0uwKV0tbIdI2LgIAfmVwe3sKVTlvfpcU3ZU,3480
+zopflipy-1.9.dist-info/WHEEL,sha256=f7KcxEC-t0Gqz4jsLWrEKtFkz8Ns4-1YqJU5A6LXwLY,96
+zopflipy-1.9.dist-info/top_level.txt,sha256=8YLCDfhyb5xGrhwj1iQPEqZp7N4B4bA2qj6u2hwTF5s,7
+zopflipy-1.9.dist-info/RECORD,,
