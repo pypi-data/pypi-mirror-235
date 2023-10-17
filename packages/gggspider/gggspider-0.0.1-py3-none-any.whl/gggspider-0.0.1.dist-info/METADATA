@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: gggspider
+Version: 0.0.1
+Summary: 通用采集框架。
+Home-page: https://github.com/kusen-alpha/gggspider-community
+Author: kusen
+Author-email: 1194542196@qq.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/kusen-alpha/gggspider-community/issues
+Project-URL: Documentation, https://github.com/kusen-alpha/gggspider-community/blob/master/README.md
+Project-URL: Source Code, https://github.com/kusen-alpha/gggspider-community
+Platform: any
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: scrapy
+Requires-Dist: gggifcheck
+
+# 说明
+
+该框架暂未开源，敬请期待......
+
+合作交流和商业合作，请联系作者......
