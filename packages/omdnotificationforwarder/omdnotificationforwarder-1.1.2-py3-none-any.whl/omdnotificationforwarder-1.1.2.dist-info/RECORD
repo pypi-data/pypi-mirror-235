@@ -1,0 +1,12 @@
+notificationforwarder/baseclass.py,sha256=IJhXGs6yakztOHyodOeSHztwf9G6AyqJAbZIqsSvhko,13545
+notificationforwarder/email/formatter.py,sha256=HWtR6HJduj1zgJ5sOMGeYjXX8dFtAIAA4c9gIA9OzCQ,749
+notificationforwarder/email/forwarder.py,sha256=bstJ05QlT8nkpOsOPFxpe260bNuoHew-cZco4VZgIsU,1459
+notificationforwarder/example/formatter.py,sha256=MUuAvbVUWwdjh5qKSSTRznCXXvEY3c94E07InLUfiu8,586
+notificationforwarder/example/forwarder.py,sha256=CgWeOueGYhR6_Mt6fuFnlDysdrKdt91YG2Ptg7tezfU,1884
+notificationforwarder/rabbitmq/formatter.py,sha256=sNYrJMkiX1a0BTaD625EBFesdCSrW4o7HszEI6xjkGk,1192
+notificationforwarder/rabbitmq/forwarder.py,sha256=yBheQV-5KxzIytLyhu7tsz3hBL0f3vZv4YztctLr1CE,3255
+notificationforwarder/syslog/formatter.py,sha256=RcoNhduXj3UdES1r0ODF8sOk2sa5yZaoFjLWKgsECns,866
+notificationforwarder/syslog/forwarder.py,sha256=e-23E-2yXzkQXBb_3ngqYJEmW_32_w4aqK_rtKoW7kU,2325
+omdnotificationforwarder-1.1.2.dist-info/METADATA,sha256=znkAfdC5aZiW5l0ifgNuvGjxWaI-Rp67pqCkJsmSRx4,3475
+omdnotificationforwarder-1.1.2.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+omdnotificationforwarder-1.1.2.dist-info/RECORD,,
