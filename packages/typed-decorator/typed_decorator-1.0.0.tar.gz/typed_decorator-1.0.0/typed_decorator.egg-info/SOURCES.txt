@@ -1,0 +1,7 @@
+setup.py
+typed_decorator/__init__.py
+typed_decorator/main.py
+typed_decorator.egg-info/PKG-INFO
+typed_decorator.egg-info/SOURCES.txt
+typed_decorator.egg-info/dependency_links.txt
+typed_decorator.egg-info/top_level.txt
