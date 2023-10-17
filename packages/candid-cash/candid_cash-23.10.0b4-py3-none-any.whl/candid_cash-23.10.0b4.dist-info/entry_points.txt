@@ -1,0 +1,2 @@
+[console_scripts]
+easy-money = easy_money:do_it
