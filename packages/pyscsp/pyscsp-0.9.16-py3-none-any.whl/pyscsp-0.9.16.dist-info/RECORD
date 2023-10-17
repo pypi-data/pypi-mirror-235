@@ -1,0 +1,8 @@
+pyscsp/__init__.py,sha256=tec-QCgEX3tayGGZREkFyv_cSCurDe5rgInEpO7s7b8,307
+pyscsp/affscsp.py,sha256=dTC2V4oOnPxscAxrKuqL9vddPLvdyE3PmNoU9dpkJsY,21842
+pyscsp/discscsp.py,sha256=BftT_a-XXu7MuQw12-IofIPoUoCPifYavnnHqJCk68M,85868
+pyscsp/torchscsp.py,sha256=hzif-IRC9_VdTeCPvbW6etxiVWC_A_XWzlIktxZ757k,17411
+pyscsp-0.9.16.dist-info/LICENSE.md,sha256=dN5mQTmnQRKS3WVutmVbjI5d396wzy-e64oJUIspvvw,750
+pyscsp-0.9.16.dist-info/METADATA,sha256=BM5XJQtKQgCH0pUJGFURJIWMNxMxh0gt61zeb_3aQeY,10895
+pyscsp-0.9.16.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+pyscsp-0.9.16.dist-info/RECORD,,
