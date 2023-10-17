@@ -1,0 +1,17 @@
+*.pyc
+docs/_build
+venv/*
+data/*
+.DS_Store
+.ipynb_checkpoints
+.idea
+*.egg-info
+.pytest_cache
+build/
+dist/
+coverage.xml
+.coverage
+htmlcov/
+README_old.rst
+testing_scratch/
+tests/testing_files/new_intermediate_results/
