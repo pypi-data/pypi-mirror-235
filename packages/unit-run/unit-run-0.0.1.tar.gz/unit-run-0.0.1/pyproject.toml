@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "unit-run"
+version = "0.0.1"
+authors = [
+  { name="Lingfei He", email="lingfei@tju.edu.cn" },
+]
+description = "This package is used to simply run a unit (only supports the Callable object currently) in Python without any extra running code. And it can also save/load all your input parameters as/from a simple json file, so it is easy to run a target unit with auto-input parameters group by give it just a group name."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Lingfei-He/unit-run"
+"Bug Tracker" = "https://github.com/Lingfei-He/unit-run/issues"
