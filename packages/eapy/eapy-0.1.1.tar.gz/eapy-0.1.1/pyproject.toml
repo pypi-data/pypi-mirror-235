@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "eapy"
+version = "0.1.1"
+description = "Evolutionary Algorithm for Python"
+authors = ["Dennis Otter <dennis.john.otter@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+numpy = "*"
+ray = "*"
+matplotlib = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+ipykernel = "*"
+notebook = "*"
+black = "*"
+numba = "*" # just manually do this, i know it's annoying
+scipy = "*"
+
+[build-system]
+requires = ["poetry_core>=1.6.1"]
+build-backend = "poetry.core.masonry.api"
