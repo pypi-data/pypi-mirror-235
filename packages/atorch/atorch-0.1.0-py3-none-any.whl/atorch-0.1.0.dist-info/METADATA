@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: atorch
+Version: 0.1.0
+Summary: A pytorch extension for efficient deep learning.
+Author: Ant Group
+Requires-Python: >=3.8
+Requires-Dist: oss2 ==2.17.0
+Requires-Dist: deepspeed ==0.10.0
+Requires-Dist: fairscale ==0.4.1
+Requires-Dist: transformers ==4.31.0
+Requires-Dist: networkx
+Requires-Dist: pyomo
+Requires-Dist: pynvml ==11.4.1
+Requires-Dist: grpcio ==1.34.1
+Requires-Dist: grpcio-tools ==1.34.1
+Requires-Dist: unifile-sdk ==0.1.14
+Requires-Dist: fsspec ==2023.1.0
+Requires-Dist: alipay-pcache ==0.1.6
+Requires-Dist: zdfs-dfs ==2.3.2
+Requires-Dist: pyarrow ==12.0.0
+Requires-Dist: pandas ==2.0.1
+Requires-Dist: tensorboard ==2.11.0
+Requires-Dist: dlrover[torch] ==0.3.3
+Requires-Dist: protobuf ==3.20.3
+Requires-Dist: safetensors
+
