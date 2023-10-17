@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+Maksik_Unzhakov/Max_math.py
+Maksik_Unzhakov/__init__.py
+Maksik_Unzhakov.egg-info/PKG-INFO
+Maksik_Unzhakov.egg-info/SOURCES.txt
+Maksik_Unzhakov.egg-info/dependency_links.txt
+Maksik_Unzhakov.egg-info/top_level.txt
