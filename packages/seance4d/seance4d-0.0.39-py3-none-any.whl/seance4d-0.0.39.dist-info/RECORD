@@ -1,0 +1,16 @@
+seance4d/Hmm1.m4a,sha256=T7epGd9OLMeBQ9tfU92-XtlpP3Pkw2K_atCOCSOUNwg,29319
+seance4d/Hmm2.m4a,sha256=pNZ34lrI4FKhGOl92eEe26cEzqhJ375UZNb9vRE469E,34159
+seance4d/Hmm3.m4a,sha256=RFQG7ZlDaHP-0-4tHXvG0uaJ7ZeH2xsrdeiIcG95YQc,72938
+seance4d/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+seance4d/config.py,sha256=YKFmd5g3mAupgF2MYyIz3WsKUQLpaGQFcI7ehpw1w7Y,1972
+seance4d/error.mp3,sha256=gCsD7D3q70YLbT5b22Xthy8e8JX2LqsY29LYfR_lVeM,22752
+seance4d/holding.mp3,sha256=jpfA9PF34rbsKfLMbGD-7aP2p5QnD1egTycyOWAWVz4,13824
+seance4d/main.py,sha256=odvxpefVEbCRp8hPko6A2QNOisyoPDJN1E0hLtAdkFo,9341
+seance4d/open_ai.py,sha256=lXFSas_8ntcOZoV6RIeO6owtwYhM4Lfhtu3rcaNLlKw,755
+seance4d/text_parser.py,sha256=JYTX-0-EMn436PgpR6OCXyM9puCxfDyLTWoX4iUuovA,2771
+seance4d/text_to_speech.py,sha256=2uPQZyRXVghpYtK7I03NBAnoQN-NsJ2gEwWZyPWPOLo,1657
+seance4d/welcome.mp3,sha256=U-Lpc5wLapqpZyu0ZeTtZifqkjC0Y4JuRCf5-amvkoY,16416
+seance4d-0.0.39.dist-info/METADATA,sha256=YUDRk5tuU2rC_Ai2Z9bmkDjPEpfBeVlvBZT92psrzCc,945
+seance4d-0.0.39.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+seance4d-0.0.39.dist-info/top_level.txt,sha256=EQlew2OfCIqbg0IlaLJyIqNQzHE5MblZDQV8tKSjbBM,9
+seance4d-0.0.39.dist-info/RECORD,,
