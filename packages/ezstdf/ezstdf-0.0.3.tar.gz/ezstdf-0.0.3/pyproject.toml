@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ezstdf"
+version = "0.0.3"
+authors = [
+  { name="Fabio Verna", email="bogies.0.revue@icloud.com" },
+]
+description = "An easy to use and fast parser for STDF files in python."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = ["pandas"]
+
+[project.urls]
+"Homepage" = "https://github.com/fve23/ezstdf"
+"Bug Tracker" = "https://github.com/fve23/ezstdf/issues"
