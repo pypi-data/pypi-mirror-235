@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: memgpt
+Version: 0.0.1
+Summary: MemGPT python library
+Home-page: UNKNOWN
+Author: MemGPT
+Author-email: circerebrospinalfluid@gmail.com
+License: Apache License, Version 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
