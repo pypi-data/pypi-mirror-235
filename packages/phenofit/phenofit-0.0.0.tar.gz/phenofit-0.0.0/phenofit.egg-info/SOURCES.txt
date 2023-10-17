@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+phenofit/__init__.py
+phenofit.egg-info/PKG-INFO
+phenofit.egg-info/SOURCES.txt
+phenofit.egg-info/dependency_links.txt
+phenofit.egg-info/top_level.txt
