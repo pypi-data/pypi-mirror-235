@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: palebluedot
+Version: 0.1.0
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: orbit-predictor
+Requires-Dist: pillow
+Requires-Dist: pyproj
+Requires-Dist: rasterio
+Requires-Dist: scipy
