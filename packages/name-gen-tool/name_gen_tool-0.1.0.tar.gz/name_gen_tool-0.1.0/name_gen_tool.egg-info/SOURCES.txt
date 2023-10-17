@@ -1,0 +1,6 @@
+README.md
+setup.py
+name_gen_tool.egg-info/PKG-INFO
+name_gen_tool.egg-info/SOURCES.txt
+name_gen_tool.egg-info/dependency_links.txt
+name_gen_tool.egg-info/top_level.txt
