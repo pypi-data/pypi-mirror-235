@@ -1,0 +1,3 @@
+[console_scripts]
+thetennisplay=thetennisplay.skeleton:run
+

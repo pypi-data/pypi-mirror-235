@@ -1,0 +1,13 @@
+thetennisplay/__init__.py,sha256=AFRTF7XDOF06qQHkNMH5RexVkTWH6DVqIRnNgTyUi6g,1204
+thetennisplay/__main__.py,sha256=0f0WXge7g8YzQFIAXjspI9H4neHrxx_MKdrmmUlkjlM,173
+thetennisplay/court.py,sha256=4lQlT-v41sy5euqeiZyXxc98zQm4Pr356ZHR3WGPddM,705
+thetennisplay/driver.py,sha256=nr7r7M2vJ1DVm13nz32TqmtMXnEcf1WYxjBL6kMiqRI,6019
+thetennisplay/singleton.py,sha256=jZZ2yNovZX1PnkddHff1UKASvxNnZ9xiyCh542Y8cnk,1735
+thetennisplay/skeleton.py,sha256=GsJgOOCueQqm-aSLQAWQQFCiEvcVp7Ti_CQWyF6kn_s,5766
+thetennisplay/validators.py,sha256=_am6x56qOhRuVJZk01mKGtMcpan6ca0C3mXxOYNlnRk,1905
+thetennisplay/xpaths.py,sha256=8vCXZLEdJy3iavseqD18L-ife1L6UKNb_C1NyYz1RmE,507
+thetennisplay-1.0.0.dist-info/LICENSE,sha256=XdGHNNyr57-O_0c334Qlaztuhy8lkEmwB9tPHl3m-jk,1073
+thetennisplay-1.0.0.dist-info/METADATA,sha256=l2lBg6yc846lJddPMz2SZ06OVOThxGvvTbvaC-VzsSo,2930
+thetennisplay-1.0.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+thetennisplay-1.0.0.dist-info/entry_points.txt,sha256=RnLOT7uhkpIOyEw_0XXpR0ui-w3D98K-OstRfesM38U,60
+thetennisplay-1.0.0.dist-info/RECORD,,
