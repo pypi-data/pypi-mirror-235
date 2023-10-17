@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: wepps
+Version: 0.1.1
+Summary: A web app framework to connect python projects to a simple but interactive frontend.
+Project-URL: Homepage, https://github.com/Parallel-in-Time/wepps
+Author-email: Michel Krispin <michel.krispin@gmail.com>, Thibaut Lunet <thibaut.lunet@tuhh.de>
+License: BSD-2-Clause
+License-File: LICENSE
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Requires-Dist: emoji~=2.6
+Requires-Dist: flask~=2.2
+Requires-Dist: mistune~=2.0
+Requires-Dist: numpy~=1.23
+Requires-Dist: plotly~=5.13
+Description-Content-Type: text/markdown
+
+# Wepps
+
+A web app framework to connect python projects to a simple but interactive frontend.
+
+## Building
+
+```sh
+pip install hatch
+hatch build
+```
+
+## Web Development
+
+A small TODO here.
