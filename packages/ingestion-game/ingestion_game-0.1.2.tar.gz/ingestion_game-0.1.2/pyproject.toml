@@ -1,0 +1,34 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ingestion_game"
+version = "0.1.2"
+authors = [
+    { name = "Txema Bermudez", email = "txema.bermudez@gmail.com" },
+]
+description = "The ingestion game CLI"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3.11",
+    "Development Status :: 4 - Beta",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Environment :: Console",
+]
+
+dependencies = [
+    "click==8.1.7",
+    "pydantic==2.4.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "flake8==6.1.0",
+    "pydantic==2.4.2",
+    "pytest==7.4.2",
+]
+
+[project.scripts]
+ingestion_game = "ingestion_game.main:main"
