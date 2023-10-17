@@ -1,0 +1,2 @@
+[console_scripts]
+synthesize = synthesized3.cmd_line:synthesize
