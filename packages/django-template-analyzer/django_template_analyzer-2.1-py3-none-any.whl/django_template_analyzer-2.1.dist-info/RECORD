@@ -1,0 +1,14 @@
+template_analyzer/__init__.py,sha256=YYq-nuxHO4jtTz3C7KT2ysB62RFciVFkGwOPdY-vVyM,109
+template_analyzer/djangoanalyzer.py,sha256=S1O_gebFvkl3TXJLuOOBNb1AbO_7fImR5xHj_Um2b5g,9606
+template_analyzer/models.py,sha256=SEv2s0mO0TxAbMhoGleuP3ex9xNMvJZZuV2DpGDP3VA,22
+template_analyzer/templatetags/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+template_analyzer/templatetags/template_analyzer_test_tags.py,sha256=XmnzR9VoLcQnJVzyh2j6AAbMAulyCd9oJ-RTLJW3mzs,807
+template_analyzer/tests/__init__.py,sha256=_1fF51ouPtq0mZlkRyW6hUgbBALM1KRdtrm1YCLBR5k,77
+template_analyzer/tests/app_loader.py,sha256=dkd-eegK6bX4pPRucf4JkpMzjdTdiFUIeQ1b02g3Ap8,2187
+template_analyzer/tests/test_placeholder.py,sha256=x4PwNFjulywfjTqGnvGALsMDkFvECksk3yeWJBa-M7o,5876
+django_template_analyzer-2.1.dist-info/AUTHORS,sha256=Z4EDYG-_kZCQTX6b0cItQL8q-BgkmgB178T8PJOuY9Q,242
+django_template_analyzer-2.1.dist-info/LICENSE,sha256=o120s7N_EDQsq7xkqysVNPsFqZuQr_n1Bm9TvppyL9A,1519
+django_template_analyzer-2.1.dist-info/METADATA,sha256=j45veFSMYC4eKypvty5CMXIKfaMVb4k7ZWK33LE2lLA,4248
+django_template_analyzer-2.1.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+django_template_analyzer-2.1.dist-info/top_level.txt,sha256=kl48wFH6PCzVLJAaHhQDvf3PY6xj_XDVQ8hrh5b705w,18
+django_template_analyzer-2.1.dist-info/RECORD,,
