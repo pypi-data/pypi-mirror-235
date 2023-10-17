@@ -1,0 +1,6 @@
+utils_bindings.cpython-37m-x86_64-linux-gnu.so,sha256=M6fcP91GOHBCTCPAhx6H2F-AfZnbiZ73qUyEoApjCDg,953656
+utils/__init__.py,sha256=evbQU8GKkLPVGy2qZ_iVgWOJy7OZYp809PZvQkZoRPA,645
+wp_utils-0.2.4.dist-info/RECORD,,
+wp_utils-0.2.4.dist-info/METADATA,sha256=xvOcsQ86u3sg_apafnwej3hE3Ct2URKg-5kklUUUDUY,4891
+wp_utils-0.2.4.dist-info/top_level.txt,sha256=9iVHDUTgJLG4xlNs-tOe0jsg9POg3SeuKWSE-fWWVOU,21
+wp_utils-0.2.4.dist-info/WHEEL,sha256=PptpQvQpMj4c6zoTgYAOmR3hDGeYN43ZmgdEwmXeaM8,150
