@@ -1,0 +1,64 @@
+Metadata-Version: 2.1
+Name: uh_halp
+Version: 0.0.1
+Summary: Get command line help using AI
+Author-email: Gareth Davidson <gaz@bitplane.net>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Public Domain
+Classifier: Operating System :: OS Independent
+Classifier: Environment :: Console
+Requires-Dist: openai==0.28.*
+Requires-Dist: flake8 ; extra == "dev"
+Requires-Dist: pre-commit ; extra == "dev"
+Requires-Dist: pytest ; extra == "dev"
+Requires-Dist: pytest-cov ; extra == "dev"
+Requires-Dist: coverage ; extra == "dev"
+Requires-Dist: build ; extra == "dev"
+Requires-Dist: twine ; extra == "dev"
+Project-URL: Bug Tracker, https://github.com/bitplane/uh-halp/issues
+Project-URL: Homepage, https://github.com/bitplane/uh-halp
+Provides-Extra: dev
+
+# uh halp
+
+Install:
+
+```bash
+pip install uh-halp
+```
+
+Usage:
+
+```bash
+$ uh check my syslog
+tail -f /var/log/syslog
+
+$ uh clean up docker disk space
+docker system prune -a
+
+$ uh sync this shit to /home/gaz/project on gaz@server
+rsync -avz --progress . gaz@server:/home/gaz/project
+
+$ uh how much space have I got free here?
+df -h .
+
+$ uh gimme a socks proxy on 192.168.0.1
+ssh -D 8080 username@192.168.0.1
+
+$ uh check if the internet is up
+ping -c 3 google.com
+
+$ uh make beeping noises forever
+while true; do echo -e "\a"; done
+
+$ uh fork bomb this terminal
+:(){ :|:& };:
+```
+
+## Restrictions
+
+OpenAI are bawbags. Expect crying if you ask it to do anything naughty or
+swear at it.
+
