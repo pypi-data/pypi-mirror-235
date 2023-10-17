@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_confluence_vertigo_scripts.egg-info/PKG-INFO
+atlassian_confluence_vertigo_scripts.egg-info/SOURCES.txt
+atlassian_confluence_vertigo_scripts.egg-info/dependency_links.txt
+atlassian_confluence_vertigo_scripts.egg-info/requires.txt
+atlassian_confluence_vertigo_scripts.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
