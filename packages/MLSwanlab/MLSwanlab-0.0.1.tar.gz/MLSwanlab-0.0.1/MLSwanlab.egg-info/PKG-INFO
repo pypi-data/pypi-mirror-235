@@ -1,0 +1,77 @@
+Metadata-Version: 2.1
+Name: MLSwanlab
+Version: 0.0.1
+Summary: A python package which can help you visually track your training process of machine-learning
+Home-page: https://swanlab.co
+Author: MLSwanlab
+Author-email: MLSwanlab <22009100671@stu.xidian.edu.cn>
+Project-URL: Homepage, https://github.com/Blackswan-lab/BlackSwanlab
+Project-URL: Bug Tracker, https://github.com/Blackswan-lab/BlackSwanlab/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: flask
+Requires-Dist: torch
+Requires-Dist: numpy
+Requires-Dist: time
+Requires-Dist: random
+Requires-Dist: threading
+
+# MLSwanlab 用户使用指南
+
+为了帮助您更好地理解如何使用我们的`MLSwanlab`库进行模型训练过程中的损失和准确度实时跟踪，这里提供了详细的步骤。
+
+## 1. 安装 MLSwanlab
+
+首先，您需要安装`MLSwanlab`库。可以使用以下命令通过`pip`进行安装：
+
+```Bash
+pip install MLSwanlab
+```
+
+## 2. 导入 Tracker 类
+
+在您的训练代码中，首先需要做的是导入我们提供的`Tracker`类。您可以通过以下方式进行：
+
+```Python
+from MLSwanlab.tracker import Tracker
+```
+
+## 3. 定义训练函数
+
+在开始训练之前，您需要定义一个训练函数。这是一个典型的训练函数例子：
+
+```Python
+def my_training_function(epoch):
+    # 在这里插入您的训练代码
+    # 根据您的模型和数据计算损失和精度
+    # 假设我们在这里随机生成一些数据
+    import random
+    loss = random.uniform(0, 1)
+    accuracy = random.uniform(0, 1)
+    return loss, accuracy
+```
+
+**注意**: 您的训练函数必须接受一个名为`epoch`的参数，并返回两个值：`loss`和`accuracy`。
+
+## 4. 实例化和使用 Tracker 类
+
+接下来，您可以实例化`Tracker`类，并将您的训练函数作为参数传给它。然后，只需调用`track()`方法即可启动训练：
+
+```Python
+tracker = Tracker(epochs=100, user_training_func=my_training_function)
+tracker.track()
+```
+
+在训练开始后，MLSwanlab将会启动一个Flask服务器，实时更新并提供训练的损失和精度数据。
+
+## 5. 查看实时训练指标
+
+最后，您可以使用任意的web浏览器，访问 http://localhost:5000/metrics 来查看训练的实时指标。
+
+**注意**: 如果您运行的主机有端口访问限制，您可能需要对您的网络配置进行相应的调整。
+
+这就是所有您需要了解的训练和实时监控训练过程的步骤。如果您遇到任何问题，欢迎提交问题或联系我们。Swanlab团队祝您使用愉快！

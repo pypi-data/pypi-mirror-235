@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+MLSwanlab/__init__.py
+MLSwanlab/server.py
+MLSwanlab/tracker.py
+MLSwanlab.egg-info/PKG-INFO
+MLSwanlab.egg-info/SOURCES.txt
+MLSwanlab.egg-info/dependency_links.txt
+MLSwanlab.egg-info/not-zip-safe
+MLSwanlab.egg-info/requires.txt
+MLSwanlab.egg-info/top_level.txt
