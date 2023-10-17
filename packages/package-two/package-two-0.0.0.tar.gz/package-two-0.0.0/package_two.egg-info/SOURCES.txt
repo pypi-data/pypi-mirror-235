@@ -1,0 +1,11 @@
+.gitignore
+README.md
+__init__.py
+lib.py
+pyproject.toml
+setup.py
+.github/workflows/python-publish.yml
+package_two.egg-info/PKG-INFO
+package_two.egg-info/SOURCES.txt
+package_two.egg-info/dependency_links.txt
+package_two.egg-info/top_level.txt
