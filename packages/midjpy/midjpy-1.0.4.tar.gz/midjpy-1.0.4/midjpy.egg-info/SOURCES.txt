@@ -1,0 +1,8 @@
+README.md
+setup.py
+midjpy/midj.py
+midjpy.egg-info/PKG-INFO
+midjpy.egg-info/SOURCES.txt
+midjpy.egg-info/dependency_links.txt
+midjpy.egg-info/requires.txt
+midjpy.egg-info/top_level.txt
