@@ -1,0 +1,8 @@
+setup.py
+kozakmegalluksi/__init__.py
+kozakmegalluksi/main.py
+kozakmegalluksi.egg-info/PKG-INFO
+kozakmegalluksi.egg-info/SOURCES.txt
+kozakmegalluksi.egg-info/dependency_links.txt
+kozakmegalluksi.egg-info/requires.txt
+kozakmegalluksi.egg-info/top_level.txt
