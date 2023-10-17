@@ -1,0 +1,9 @@
+setup.py
+extract_thai/__init__.py
+extract_thai/extract_thai.py
+extract_thai.egg-info/PKG-INFO
+extract_thai.egg-info/SOURCES.txt
+extract_thai.egg-info/dependency_links.txt
+extract_thai.egg-info/entry_points.txt
+extract_thai.egg-info/requires.txt
+extract_thai.egg-info/top_level.txt
