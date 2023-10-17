@@ -1,0 +1,14 @@
+hamal_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hamal_utils/code/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hamal_utils/code/tools.py,sha256=rgFHZiLkAhyqjJKMkmA-H8t5CaUd6u6ePr_1n-8LESU,300
+hamal_utils/code/prefect_utils/__init__.py,sha256=fq0Wl4WGNZM2Hd9sYrB3Y-tJ1R5rIZEfXNYSuiwGqp4,15
+hamal_utils/code/s3_utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+hamal_utils/code/s3_utils/access_manager.py,sha256=B1S-GWjSOEd1fZIW7XaQ3jGrEY8Lt-MhD_YtXV7dFeI,1510
+hamal_utils/code/s3_utils/common.py,sha256=vW-Rvw6dSoPThzth1xDnw-BW5Katu7c-q32NYMHhrU8,635
+hamal_utils/code/s3_utils/download.py,sha256=M9SLrJKGuar-J2qH3XeVjt--yS6dlXqINsfPdPks68Q,502
+hamal_utils/code/s3_utils/list_files.py,sha256=VJrXfxXyWgnHREaH6Ob4UNwEE6j3Z0Q17Vs4qMYY1Qo,2277
+hamal_utils/code/s3_utils/upload.py,sha256=IYPtsswq4t7YzvbfRxVablZBJlpc_3voNHl1n1AJQak,345
+hamal_utils-0.0.27.dist-info/METADATA,sha256=WSkMLcIC9mWYMlNhp0B70GNS_Fcl4uJwIBFbKNOeXzk,202
+hamal_utils-0.0.27.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+hamal_utils-0.0.27.dist-info/top_level.txt,sha256=5wYEqVCzkb7MZXglkmSay43lKw38yoBRsvMPQ9MwqJM,12
+hamal_utils-0.0.27.dist-info/RECORD,,
