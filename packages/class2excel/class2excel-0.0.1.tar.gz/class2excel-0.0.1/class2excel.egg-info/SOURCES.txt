@@ -1,0 +1,8 @@
+README.md
+setup.py
+class2excel/__init__.py
+class2excel/main.py
+class2excel.egg-info/PKG-INFO
+class2excel.egg-info/SOURCES.txt
+class2excel.egg-info/dependency_links.txt
+class2excel.egg-info/top_level.txt
