@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+openpubsub.egg-info/PKG-INFO
+openpubsub.egg-info/SOURCES.txt
+openpubsub.egg-info/dependency_links.txt
+openpubsub.egg-info/requires.txt
+openpubsub.egg-info/top_level.txt
