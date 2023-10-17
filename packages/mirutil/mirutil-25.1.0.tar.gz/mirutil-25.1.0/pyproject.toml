@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mirutil"
+version = "25.1.0"
+authors = [{ name = "Mahdi Mir", email = "imahdimir@gmail.com" }]
+description = "Tools for getting and cleaning TSE data"
+readme = "README.md"
+license = { file = "LICENSE" }
+dependencies = [
+    "persiantools",
+    "pandas",
+    "pyarrow",
+    "fastparquet",
+    "openpyxl",
+    "IPython",
+    "aiohttp",
+    "nest_asyncio",
+    "githubdata",
+    "requests",
+    "lxml",
+    "html5lib",
+    "tabulate",
+    "pip",
+    "gitignore_parser",
+    "requests_html",
+    "giteasy",
+    "IPython",
+    "multiprocess",
+    "githubdata",
+]
+
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: Implementation :: PyPy",
+    "Topic :: Utilities"
+]
+
+keywords = [
+    "TSE",
+    "Finance",
+    "data",
+    "cleaning",
+    "data_cleaning",
+    "Tehran",
+    "Stocks"]
+
+[project.urls]
+"Homepage" = "https://github.com/imahdimir/mirutil"
+"Bug Tracker" = "https://github.com/imahdimir/mirutil/issues"
