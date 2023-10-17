@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+HydroErr
+async-retriever
+tqdm
+black
+pytest
