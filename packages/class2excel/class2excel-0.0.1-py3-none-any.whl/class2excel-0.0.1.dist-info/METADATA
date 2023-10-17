@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: class2excel
+Version: 0.0.1
+Summary: A small package for class 2
+Home-page: https://github.com/Hifive55555/
+Author: Hifive
+Author-email: 2019912635@qq.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
