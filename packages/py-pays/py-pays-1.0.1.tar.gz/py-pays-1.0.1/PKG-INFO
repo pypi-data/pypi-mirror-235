@@ -1,0 +1,152 @@
+Metadata-Version: 2.1
+Name: py-pays
+Version: 1.0.1
+Summary: py-Pays est un programme ecris en python, qui permet d efferctuer des traitements sur les information relatif au pays
+Home-page: https://github.com/Tostenn/py-Pays
+Author: kouya tosten
+Author-email: kouyatosten@gmail.com
+Maintainer: kouya tosten
+License: LICENSE MIT
+Keywords: pays,,traitement,,donnés,,country,,big data,,analysis,,treatment
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# py-pays
+**py-Pays** est un programme ecris en python, qui permet d'efferctuer des traitements sur les information relatif au pays
+
+# <b style='text-transform:capitalize'>à</b> utiliser pour
+
++ ## rechercher un pays par
+    + son nom
+    + son code
+    + Code d'appel
+    + id selon l'ordre alphabétique du pays [1 - 254]
+    + Monnaie
+    + Continent	
+
+- ## connaitre les information relatifs a un pays comme
+    + nombre d'habitant
+    + superficie
+    + drapeau
+    + code pays
+    + Point culminant
+    + PIB par habitant
+    + Monnaie
+    + Continent	
+    + Capitale 
+    + . . . .
+
+
+# Installation
+tres simple à installer exercuter cette et la magie opére seule 
+```
+pip install pays
+```
+> `important` <br>
+aprés l'installation du **package** vous devez télecharger **base de donnée** [ici]() et la mettre dans le **repertoire courant** de votre project cette **base de donnée** est un **driver** du **package**<br>
+
+## **Driver**
+il existe deux **Driver** pour le **package**  
++ driver simple
+    > qui contient trois (3) attribute de recherche qui sont `id` identifant, `nom` nom du pays, `code` code du pays, à télecharger [ici](https://github.com/Tostenn/py-Pays/raw/main/Driver/drive.dbs)
+
++ driver avancer
+    > qui contient trois (9) attribute de recherche qui sont `id` identifant, `nom` nom du pays avec des fonction avancer, `code` code du pays, `continant` contiant du pays, `monnaie` monnaie du pays, `code d'appel` du pays, `domaine` domaine web, `habitant` habitant, `superficie` superficie  
+     à télecharger [ici](https://github.com/Tostenn/py-Pays/raw/main/Driver/drivers.dbs)
+
+## Utilisation rapide
+```
+from pays import pays as p
+
+# nouvelle instance de pays
+pays = p.Pays()
+
+# faire une requête pour récupérer le pays Côte d'ivoire
+civ = pays.query('> civ')
+
+# récupérer toute les inforamtions consernant ce pays
+print(pays.info(civ))
+```
+
+
+# Synthaxe 
+il y a une synthaxe a utiliser pour beneficier plein du potentiel des algorithmes
+<br>par exemple si vous voulez
+
+### rechercher à partir du nom du pays
+pour cela vous devez indiquer `$` suivie de l'element à rechercher<br>
+Exemple : `pays.query('$ ran')` renvoir tout les pays qui ont `ran` dans leur nom
+
+### rechercher à partir du code du pays
+pour cela vous devez indiquer `>` suivie de l'element à rechercher<br>
+Exemple : `pays.query('> an')` renvoir tout les pays qui ont `an` dans leur code pays
+
+### rechercher à partir de l'endentifant
+pour cela vous devez indiquer `_` suivie du numéro à rechercher<br>
+Exemple : `pays.query('_ 53')` renvoir le pays qui correspondan à l'identifiant 
+> remarque : comme vous le savez il n'y a que 254 pays par consequent indiquer un nombre en n'ai pas dans cette intervalle [1 - 254 ] ne renverai rien
+
+## Avec le driver avancer
+
+### rechercher à partir du continent
+pour cela vous devez indiquer `^` suivie de l'element à rechercher<br>
+Exemple : `pays.query('^ fr')` renvoir tout les pays qui sont sur un continent dont il `fr` dans le nom
+
+### rechercher à partir de la monnaie
+pour cela vous devez indiquer `~` suivie de l'element à rechercher<br>
+Exemple : `pays.query('~ an')` renvoir tout les pays qui utilise la monnaie dont il `an` dans le nom
+
+### rechercher à partir du code d'appel
+pour cela vous devez indiquer `+` suivie du numéro à rechercher<br>
+Exemple : `pays.query('+ 22')` renvoir le pays dont le code d'appel correspond `22` dans le nom
+
+### rechercher à partir du domaine web
+pour cela vous devez indiquer `.` suivie du numéro à rechercher<br>
+Exemple : `pays.query('+ ci')` renvoir le pays dont le domaine web correspond `ci` dans le nom
+
+### rechercher à partir du nombre d'habitant
+pour cela vous devez indiquer `>>h` ou `<<h` suivie du numéro à rechercher<br>
+Exemple : `pays.query('>>h 50000')` renvoir tout les pays dont le nombre d'habitant est supérieur a `50000` et `<<h` faire l'action inverse
+
+### rechercher à partir de la superfice 
+pour cela vous devez indiquer `>>s` ou `<<s` suivie du numéro à rechercher<br>
+Exemple : `pays.query('>>s 50000')` renvoir tout les pays dont la superfice est supérieur a `50000` et `<<s` faire l'action inverse
+
+     
+## Fonction 
+
+`pays.info()` prend comme argument une liste de nom de pays et renvoir toutes les informations le consernant ex `pays.info(['France'])`
+
+`pays.commandValidator()` prend comme argument une chaîne qui correspond la votre command. Renvoir true si la commande est bien formuler ex `pays.commandValidator('_ 53')`
+
+`pays.query()` prend comme argument une chaîne qui correspond la votre command et une liste qui corespond au attribut de selection
+. Renvoir une liste selon la selection faite. ex `pays.query('_ 53',['nom','id'])`
+```
+# pour vérifier quel Driver vous utilisé
+print(pays.driver)
+
+# pour voir tout les attributs de selection disponible
+print(pays.attr)
+
+# pour voir tout les commandes disponible
+print(pays.cmd) 
+```
+
+`pays.commandfree()` rend comme argument une chaîne qui correspond la votre command mais cette fonction ne filter pas la commande avec la synthaxe précedent donc vous pouvez les requete **`SQL`**, comme les ajout, suppression ou mise ajout, cette fonction est pour les professionnel en **`SQL`**, mais ne vous en faite pas si vous endommager votre **`Driver`** vous pouriez toujours le re-télécharger ex `pays.commandfree('select * from pays where id > 200')` cette request nous renvoir les 54 dernier pays
+
+# **Drapeau**
+
+comment parler de pays sans evoqué leur couleur. j'ai pensais a vous et la **`class Drapeau: `** vous permet comme par magie de télécharger les drapeaux des différents **`pays`**
+
+```
+from pyPays.pays import Pays
+from pyPays.drapeau import Drapeau
+
+pays = Pays(driver='databases.dbs')
+dr = Drapeau(pays,path='drapeau/')
+res = dr.download(res)
+print(res)
+```
+
+aprés initilisation de la class vous utilise la fonction `download` pour télécharger le drapeau la fonction renvoir un dictionnaire `{ nom pays : chemin du drapeau }`
