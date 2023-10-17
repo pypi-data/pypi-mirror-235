@@ -1,0 +1,7 @@
+[certbot.plugins]
+dns-ispconfig-ddns=certbot_dns_ispconfig_ddns.authenticator:Authenticator
+
+[console_scripts]
+lint=scripts:lint
+test=scripts:test
+
