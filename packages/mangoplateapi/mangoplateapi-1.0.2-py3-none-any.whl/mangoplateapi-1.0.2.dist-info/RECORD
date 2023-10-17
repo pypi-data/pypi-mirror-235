@@ -1,0 +1,15 @@
+mangoplateapi/__init__.py,sha256=Bq3QZbGVq5K1OVV2PdJzy-H2lK8eDO-0KHdxtm5qh1U,534
+mangoplateapi/config.py,sha256=n8mxkte3GbULKO7jLNKx51pYHDSShLtsAwkWm7RsNgE,224
+mangoplateapi/types.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mangoplateapi/utils.py,sha256=TMZCJpBUmp-ANxX5SLPNHrW20MxoXL318GgNFYmdgnM,574
+mangoplateapi/mixins/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mangoplateapi/mixins/code.py,sha256=KqHdbsQVTrBkhFshUvcXpJDyja_bcevLTpkBRLd_d0I,1111
+mangoplateapi/mixins/keyword.py,sha256=R7raXWwmnmkPpze8zZPic4T5pnfD9N8Wam3MvLg8JJE,934
+mangoplateapi/mixins/restaurant.py,sha256=GwAB8QAiXSqguE_6ZdGQLh0CifhdD8poDjOg3Zby2vE,4697
+mangoplateapi/mixins/review.py,sha256=L_YTCWJU2pjFh7jdIjKSrmIaAKY7d9Palnm3sYPNMNI,643
+mangoplateapi/mixins/story.py,sha256=m0L3es481ctdZHmqpP4pmF0aOMC7ycV0lGxynPFWSe8,3905
+mangoplateapi/mixins/theme.py,sha256=m7z0C0uHtXyAdA-y4EYGFHpVIfifzG5Bi2eN7u7Dwso,1381
+mangoplateapi-1.0.2.dist-info/METADATA,sha256=WHXenT38GZAcDruaHYeSYrQf-7QP-6UbMSK9pqwvtA0,1570
+mangoplateapi-1.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+mangoplateapi-1.0.2.dist-info/top_level.txt,sha256=hLXGUPPk1sHLOxnU2HhIvRYHhaoeJgbZ_wVDJW8CTO0,14
+mangoplateapi-1.0.2.dist-info/RECORD,,
