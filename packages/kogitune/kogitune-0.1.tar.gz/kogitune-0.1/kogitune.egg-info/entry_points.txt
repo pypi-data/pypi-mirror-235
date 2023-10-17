@@ -1,0 +1,4 @@
+[console_scripts]
+kogitune_store = kogitune.cli:main_store
+kogitune_update = kogitune.cli:main_update
+
