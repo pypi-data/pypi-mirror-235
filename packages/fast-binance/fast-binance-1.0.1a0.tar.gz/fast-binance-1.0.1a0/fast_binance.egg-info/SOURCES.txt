@@ -1,0 +1,11 @@
+LICENSE
+README.rst
+setup.py
+fast_binance/__init__.py
+fast_binance/fast_binance.py
+fast_binance.egg-info/PKG-INFO
+fast_binance.egg-info/SOURCES.txt
+fast_binance.egg-info/dependency_links.txt
+fast_binance.egg-info/requires.txt
+fast_binance.egg-info/top_level.txt
+tests/test_setup.py
