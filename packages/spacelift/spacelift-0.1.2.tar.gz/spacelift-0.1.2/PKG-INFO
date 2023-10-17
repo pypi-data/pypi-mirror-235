@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: spacelift
+Version: 0.1.2
+Summary: simple python client for the spacelift.io GraphQL API
+Home-page: https://github.com/wrgeorge1983/spacelift
+License: Apache-2.0
+Keywords: spacelift,spacelift.io,api,graphql
+Author: Will George
+Author-email: wrgeorge1983@gmail.com
+Requires-Python: >=3.11,<4.0
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: gql[requests] (>=3.4.1,<4.0.0)
+Project-URL: Repository, https://github.com/wrgeorge1983/spacelift
+Description-Content-Type: text/markdown
+
+# Spacelift Client
+Simple client library for working with the [spacelift.io](https://spacelift.io) API.
+
+## Install
+```bash
+pip install spacelift
+```
+
+## Usage
+```python
+from spacelift import Spacelift
+```
+
