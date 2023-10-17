@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "djoker"
+version = "0.0.0"
+description = ""
+authors = ["hashem-nowruzi <PersonalHashem@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
