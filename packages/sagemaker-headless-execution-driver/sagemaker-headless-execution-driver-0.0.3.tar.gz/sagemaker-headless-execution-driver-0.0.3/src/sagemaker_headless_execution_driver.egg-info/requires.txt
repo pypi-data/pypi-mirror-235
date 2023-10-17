@@ -1,0 +1,10 @@
+papermill
+nbformat
+
+[dev]
+black
+build
+
+[test]
+pytest
+parameterized
