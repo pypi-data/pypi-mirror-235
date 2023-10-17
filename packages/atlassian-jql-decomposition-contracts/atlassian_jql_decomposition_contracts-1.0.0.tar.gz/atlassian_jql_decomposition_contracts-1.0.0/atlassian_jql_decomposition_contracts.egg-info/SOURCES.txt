@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_jql_decomposition_contracts.egg-info/PKG-INFO
+atlassian_jql_decomposition_contracts.egg-info/SOURCES.txt
+atlassian_jql_decomposition_contracts.egg-info/dependency_links.txt
+atlassian_jql_decomposition_contracts.egg-info/requires.txt
+atlassian_jql_decomposition_contracts.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
