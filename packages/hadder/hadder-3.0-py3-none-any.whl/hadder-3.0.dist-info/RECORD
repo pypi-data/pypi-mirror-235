@@ -1,0 +1,9 @@
+hadder/__init__.py,sha256=nE3ZU9yPkLcfrLL6o0Y7_6dDbHZ4Kwp5oKR1UYYfVe0,9110
+hadder/__main__.py,sha256=oxCV8W0zfwi4ZcnBunzTSaQHrsjAoJD11HiYxAqn_bY,893
+hadder/constants.py,sha256=krMu_EsDRRazQ6I5AJzjhqxGUVr9iwSnAuSLhMkSmdk,40548
+hadder/parsers.py,sha256=u8iilEKHzLEx9eKR1Gfv1wcByqGZTqwRqE8pgKlXgE4,7164
+hadder-3.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+hadder-3.0.dist-info/METADATA,sha256=2QP4ixz6EZI87IPVHj-ZP-W54BobdaFmnlIE8hKxHBs,3280
+hadder-3.0.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+hadder-3.0.dist-info/top_level.txt,sha256=7TX50zAFMN32zXG1hoj6G_h1PnBWYWtjF8DVeTDrW00,7
+hadder-3.0.dist-info/RECORD,,
