@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: demon_connect
+Version: 1.0.0
+Summary: Welcome to Demon Connect - WhatsApp API, your powerful tool for unleashing the potential of WhatsApp in your applications. This API allows you to integrate WhatsApp messaging into your projects with ease.
+Author: anupam maurya
+Author-email: anupammaurya981@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: Pillow (>=10.0.1,<11.0.0)
+Requires-Dist: bs4 (>=0.0.1,<0.0.2)
+Requires-Dist: colorama (>=0.4.4,<0.5.0)
+Requires-Dist: datefinder (>=0.7.3,<0.8.0)
+Requires-Dist: imageio (>=2.9.0,<3.0.0)
+Requires-Dist: moviepy (>=1.0.3,<2.0.0)
+Requires-Dist: pathlib2 (>=2.3.6,<3.0.0)
+Requires-Dist: qrcode (>=7.3,<8.0)
+Requires-Dist: selenium (>=4.13.0,<5.0.0)
+Requires-Dist: typing-extensions (>=3.10.0.2,<4.0.0.0)
+Requires-Dist: webdriver-manager (>=3.4.2,<4.0.0)
