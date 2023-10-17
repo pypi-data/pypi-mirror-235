@@ -1,0 +1,9 @@
+chacha20poly1305_reuseable/__init__.c,sha256=_d_Gs0shUE1pqXhJix5UMMKW5b4WBUxFdE7_AYhZM-c,621978
+chacha20poly1305_reuseable/__init__.pxd,sha256=orayFF5e6b4QxfE4PDaqtOApq3nfabh6XLo9pR8JfTc,1985
+chacha20poly1305_reuseable/__init__.py,sha256=mYHE9QdaDQkq9_20xvdt7tMwrNSQbEbhTwVLx-lAccU,8930
+chacha20poly1305_reuseable/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chacha20poly1305_reuseable/__init__.cp310-win_amd64.pyd,sha256=vPGiEKfJy1OJwIxyVxgfPrwCHm4jmT8P0a0yqZjp1W0,95232
+chacha20poly1305_reuseable-0.8.0.dist-info/LICENSE,sha256=q0g0BXg1aE-3NpFw_us_YxyZgTsPmrJdIfKy9rfCN-w,13112
+chacha20poly1305_reuseable-0.8.0.dist-info/METADATA,sha256=OIIgLXixDGiX_yaul86WmeHHiJt56R-4leP6bmdvMVA,5213
+chacha20poly1305_reuseable-0.8.0.dist-info/WHEEL,sha256=rulLYF_4bisJNYeORm5xw7tYVVX3mPrWrHD4H4TY0zg,105
+chacha20poly1305_reuseable-0.8.0.dist-info/RECORD,,
