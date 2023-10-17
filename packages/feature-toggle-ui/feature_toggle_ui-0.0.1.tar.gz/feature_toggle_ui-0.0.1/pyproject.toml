@@ -1,0 +1,11 @@
+[project]
+name = "feature_toggle_ui"
+version = "0.0.1"
+authors = [{ name = "Dofamin" }]
+description = "A small example package"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+

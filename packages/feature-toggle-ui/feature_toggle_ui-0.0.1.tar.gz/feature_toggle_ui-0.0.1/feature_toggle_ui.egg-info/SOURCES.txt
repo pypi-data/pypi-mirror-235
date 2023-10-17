@@ -1,0 +1,10 @@
+LICENSE
+pyproject.toml
+setup.py
+feature_toggle_ui/__init__.py
+feature_toggle_ui/__main__.py
+feature_toggle_ui.egg-info/PKG-INFO
+feature_toggle_ui.egg-info/SOURCES.txt
+feature_toggle_ui.egg-info/dependency_links.txt
+feature_toggle_ui.egg-info/requires.txt
+feature_toggle_ui.egg-info/top_level.txt
