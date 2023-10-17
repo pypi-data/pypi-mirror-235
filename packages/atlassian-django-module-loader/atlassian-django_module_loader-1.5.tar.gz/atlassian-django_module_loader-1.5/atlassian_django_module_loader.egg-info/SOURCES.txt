@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_django_module_loader.egg-info/PKG-INFO
+atlassian_django_module_loader.egg-info/SOURCES.txt
+atlassian_django_module_loader.egg-info/dependency_links.txt
+atlassian_django_module_loader.egg-info/requires.txt
+atlassian_django_module_loader.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
