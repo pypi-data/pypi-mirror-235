@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_automation_funnel.egg-info/PKG-INFO
+atlassian_automation_funnel.egg-info/SOURCES.txt
+atlassian_automation_funnel.egg-info/dependency_links.txt
+atlassian_automation_funnel.egg-info/requires.txt
+atlassian_automation_funnel.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
