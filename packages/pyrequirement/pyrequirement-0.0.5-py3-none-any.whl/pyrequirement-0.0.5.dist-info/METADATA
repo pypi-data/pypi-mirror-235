@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pyrequirement
+Version: 0.0.5
+Summary: A simple tool to generate a requirements.txt from a pyproject.toml
+Author-email: gothictomato <gothictomato@gothictomato.io>
+Project-URL: Homepage, https://github.com/gothictomato/pyrequirement
+Project-URL: Bug Tracker, https://github.com/gothictomato/pyrequirement/issues
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: tomli
+
+A simple command line tool for unpacking requirements lists from a pyproject.toml file to a requirements.txt file. Invoke by calling ```pyrequirement``` or ```pyrequirement <path-to-pyproject.toml>```.
