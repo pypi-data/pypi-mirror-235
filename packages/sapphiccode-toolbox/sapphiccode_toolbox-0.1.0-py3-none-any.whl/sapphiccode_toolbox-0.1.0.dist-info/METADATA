@@ -1,0 +1,59 @@
+Metadata-Version: 2.1
+Name: sapphiccode-toolbox
+Version: 0.1.0
+Summary: 
+License: EUPL-1.2
+Author: Cassandra
+Author-email: git@sapphicco.de
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: European Union Public Licence 1.2 (EUPL 1.2)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: click (>=8.1.6,<9.0.0)
+Requires-Dist: pillow (>=10,<11)
+Requires-Dist: pydantic (>=2,<3)
+Requires-Dist: pyyaml (>=6.0.1,<7.0.0)
+Requires-Dist: rich (>=13.5.2,<14.0.0)
+Requires-Dist: structlog (>=23.1.0)
+Requires-Dist: tqdm (>=4.66.1,<5.0.0)
+Description-Content-Type: text/markdown
+
+# Cassandra's toolbox
+
+## Installation
+
+I recommend using [pipx](https://github.com/pypa/pipx) to install this project:
+
+```
+$ pipx install 'git+https://git.sapphicco.de/SapphicCode/toolbox.git'
+
+  installed package sapphiccode-toolbox 0.0.0.post1.dev0+de0bfa3, installed using Python 3.11.4
+  These apps are now globally available
+    - ct
+done! ✨ 🌟 ✨
+```
+
+If you depend on this project I also recommend pinning a specific revision, as this project is WIP and things are very much subject to change.
+
+Additionally, the `image` group of commands optionally require [ExifTool](https://exiftool.org/) and [ImageMagick](https://imagemagick.org/)/[GraphicsMagick](https://www.graphicsmagick.org/).
+
+## Usage
+
+```
+Usage: ct [OPTIONS] COMMAND [ARGS]...
+
+  Cassandra's toolbox
+
+  A bunch of utilities that probably don't mean anything to anyone else.
+
+Options:
+  --log-level TEXT     Sets the log level for toolbox.  [default: INFO]
+  --log-level-tp TEXT  Sets the log level for third-party loggers.  [default:
+                       INFO]
+  --help               Show this message and exit.
+
+Commands:
+  image  Image manipulation commands
+```
+
