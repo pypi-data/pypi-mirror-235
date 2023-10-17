@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_py_nebulae_testing.egg-info/PKG-INFO
+atlassian_py_nebulae_testing.egg-info/SOURCES.txt
+atlassian_py_nebulae_testing.egg-info/dependency_links.txt
+atlassian_py_nebulae_testing.egg-info/requires.txt
+atlassian_py_nebulae_testing.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
