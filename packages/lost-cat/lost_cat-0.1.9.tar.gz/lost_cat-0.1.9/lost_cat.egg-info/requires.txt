@@ -1,0 +1,8 @@
+nltk
+numpy
+pillow
+sqlalchemy
+psutil
+pyodbc
+python-dotenv
+validators
