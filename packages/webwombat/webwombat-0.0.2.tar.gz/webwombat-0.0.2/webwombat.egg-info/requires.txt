@@ -1,0 +1,7 @@
+requests
+setuptools
+lark
+blessed
+cryptography
+brotli
+websockets

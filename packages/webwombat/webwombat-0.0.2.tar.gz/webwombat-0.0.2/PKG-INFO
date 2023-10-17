@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: webwombat
+Version: 0.0.2
+Summary: lightweight proxy server with extreme configuration options
+Home-page: https://github.com/cole-wilson/webwombat
+Author: Cole Wilson
+Author-email: me@cole.ws
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: setuptools
+Requires-Dist: lark
+Requires-Dist: blessed
+Requires-Dist: cryptography
+Requires-Dist: brotli
+Requires-Dist: websockets
+
+# webwombat
+[View on GitHub](https://github.com/cole-wilson/webwombat)
