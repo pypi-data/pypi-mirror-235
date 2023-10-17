@@ -1,0 +1,19 @@
+#
+# File:    ./MANIFEST.in
+# Author:  Jiří Kučera <sanczes AT gmail.com>
+# Date:    2023-10-15 11:07:49 +0200
+# Project: tmug: Make developer's life easier
+# Brief:   What extra should or should not be packaged
+#
+# SPDX-License-Identifier: MIT
+#
+
+include LICENSE
+include *.md
+include pyproject.toml
+include tox.ini
+recursive-include src *.pyi
+recursive-include src py.typed
+graft tests
+
+global-exclude *.py[cod]
