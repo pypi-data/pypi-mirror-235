@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: islab-opendeid
+Version: 0.0.1
+Summary: ISLab-OpenDeid Sample Code
+Author: Hong-Jie Dai
+Author-email: <hjdai@nkust.edu.tw>
+Keywords: aicup,opendeid
+
+The sample code provided for the AICUP 2023 challenge organized by NKUST-ISLab
