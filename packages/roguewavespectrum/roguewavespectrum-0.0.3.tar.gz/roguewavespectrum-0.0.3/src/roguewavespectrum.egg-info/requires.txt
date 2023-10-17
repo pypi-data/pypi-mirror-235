@@ -1,0 +1,10 @@
+numpy
+numba
+linearwavetheory
+xarray
+scipy
+numbaprogress
+
+[full]
+qpsolvers
+cvxopt
