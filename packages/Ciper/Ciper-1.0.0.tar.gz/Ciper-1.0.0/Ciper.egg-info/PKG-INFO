@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Ciper
+Version: 1.0.0
+Summary: Ciper digs deep dive and found ip of user given subnet/cidrs networks and resolve to domains with valid ip's
+Author: D.Sanjai Kumar
+Author-email: bughunterz0047@gmail.com
+License-File: LICENSE
