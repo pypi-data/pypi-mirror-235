@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+pyqubits/__init__.py
+pyqubits/gates.py
+pyqubits/quantumstate.py
+pyqubits/utils.py
+pyqubits.egg-info/PKG-INFO
+pyqubits.egg-info/SOURCES.txt
+pyqubits.egg-info/dependency_links.txt
+pyqubits.egg-info/requires.txt
+pyqubits.egg-info/top_level.txt
+tests/test_memkron.py
+tests/test_speed.py
