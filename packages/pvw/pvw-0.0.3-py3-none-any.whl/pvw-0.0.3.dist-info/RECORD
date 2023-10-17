@@ -1,0 +1,15 @@
+pvw/__init_.py,sha256=d6Jef1tEzmti066POpCJWr6Fa0KN2xDVMTQVdpomSPc,63
+pvw/args_parser.py,sha256=FvWcXv1TU_xhrwhlyJwC2XDLBFXlrf2P7-2aBk3tSPQ,2967
+pvw/config.py,sha256=SdiwD_Wohky3QM_jKHkYVS4L1roTY0elhsAnHBOzbVM,2343
+pvw/env.py,sha256=kYHExY1OafYb5rRCWhXYmWKzuhYKgSJM3ExrDg9x0lo,4939
+pvw/main.py,sha256=8V1uIEAhEARBvA2eFOrZ9E2wIDuLJh62Y-6T0Wyd8I4,141
+pvw/op.py,sha256=XJc0IBENAqwxftpLAT0SL5O5HJoCHgFnzUEhz9_04bw,2192
+pvw/shell_executor.py,sha256=YdnaGdz7A2h6bu8r3v-U2HbDjlYhsOV1dm1Z1NiOZYc,3191
+pvw-0.0.3.data/scripts/pvw,sha256=-_xUM9lH1Qv1JD99sNvaddSyGADau5n91_XP5wGJdtk,777
+pvw-0.0.3.data/scripts/pvw.ps1,sha256=ZjvMzMYRKiYJ3p2kXljskh9mrzPjBHTgRtYvdzaKEgM,810
+pvw-0.0.3.dist-info/License,sha256=P3RrC6WQm_jV-xRN3IkI5Uzqgr9mpPAlEmcWCv5fsSU,1087
+pvw-0.0.3.dist-info/METADATA,sha256=6P1ea6CPgolayTTzdDjsTST6YJ-t_4FvwyU-27BebeI,3785
+pvw-0.0.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pvw-0.0.3.dist-info/entry_points.txt,sha256=6s6XLRK9E6TkRt3BUvSex2spBki_qT-wqVw0ZflqIvQ,41
+pvw-0.0.3.dist-info/top_level.txt,sha256=FNZiDNhTgfpE6o1aR0qwJSso3viJF8o_Yo2VLaKSiys,4
+pvw-0.0.3.dist-info/RECORD,,
