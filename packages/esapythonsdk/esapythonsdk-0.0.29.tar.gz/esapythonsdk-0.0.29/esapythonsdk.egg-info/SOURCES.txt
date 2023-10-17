@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+esapythonsdk/__init__.py
+esapythonsdk.egg-info/PKG-INFO
+esapythonsdk.egg-info/SOURCES.txt
+esapythonsdk.egg-info/dependency_links.txt
+esapythonsdk.egg-info/requires.txt
+esapythonsdk.egg-info/top_level.txt
