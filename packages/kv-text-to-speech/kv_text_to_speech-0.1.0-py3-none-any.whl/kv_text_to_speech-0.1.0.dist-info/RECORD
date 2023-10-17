@@ -1,0 +1,7 @@
+__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kv_text_to_speech/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+kv_text_to_speech/text_to_speech.py,sha256=wcVck7QsLTejE5zeshu0HU9NL-Xnr9y_HD7MCH8-I-o,3006
+kv_text_to_speech-0.1.0.dist-info/METADATA,sha256=ZMBVIfcpOTUS65r1psi5U7yBq09jBwIY9TffWKEaMgY,179
+kv_text_to_speech-0.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+kv_text_to_speech-0.1.0.dist-info/top_level.txt,sha256=V42DpNUleA4C_noMmy84WZQU84-Sva5BVYfMJUhyqXM,27
+kv_text_to_speech-0.1.0.dist-info/RECORD,,
