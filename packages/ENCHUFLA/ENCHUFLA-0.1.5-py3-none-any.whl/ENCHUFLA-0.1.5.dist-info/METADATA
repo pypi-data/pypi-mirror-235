@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ENCHUFLA
+Version: 0.1.5
+Summary: elliptic techniques
+License: SSDL
+Description-Content-Type: text/plain
+License-File: LICENSE
+Requires-Dist: BOTANIST
+Requires-Dist: click
+Requires-Dist: ecdsa
+Requires-Dist: flask
+Requires-Dist: pycryptodome
+Requires-Dist: qrcode
+
