@@ -1,0 +1,2 @@
+dbt-core~=1.7.0rc1
+trino~=0.326
