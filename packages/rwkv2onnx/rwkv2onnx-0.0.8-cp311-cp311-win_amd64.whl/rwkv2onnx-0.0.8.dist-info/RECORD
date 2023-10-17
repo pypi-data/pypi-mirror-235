@@ -1,0 +1,6 @@
+rwkv2onnx_python.cp311-win_amd64.pyd,sha256=hM3la_QhMg_qCAZ4Bw3-IDrtFPsGFes7rd4H9TSGrUc,2961920
+rwkv2onnx/__init__.py,sha256=X4gw140l6kJ-mrPLgNsy2NiIwj4vKa_oZz6xaI6Hn6A,32
+rwkv2onnx-0.0.8.dist-info/METADATA,sha256=yMO1IURCe2nsfIE3copZmT0hlfnZHeHNMs71EnwQkAA,358
+rwkv2onnx-0.0.8.dist-info/WHEEL,sha256=badvNS-y9fEq0X-qzdZYvql_JFjI7Xfw-wR8FsjoK0I,102
+rwkv2onnx-0.0.8.dist-info/top_level.txt,sha256=Sn4ybPahzO7yMBKmFWhrMBxBxDHsNxOVr7nX6czjw_A,27
+rwkv2onnx-0.0.8.dist-info/RECORD,,
