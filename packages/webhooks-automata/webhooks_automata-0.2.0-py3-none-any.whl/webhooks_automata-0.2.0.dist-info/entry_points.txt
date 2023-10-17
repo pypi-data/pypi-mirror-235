@@ -1,0 +1,2 @@
+[console_scripts]
+wh-automatactl = webhooks_automata.scripts:cli

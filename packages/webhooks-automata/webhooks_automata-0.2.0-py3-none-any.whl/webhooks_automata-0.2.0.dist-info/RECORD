@@ -1,0 +1,12 @@
+webhooks_automata/__init__.py,sha256=Ustm_wSEjkBHe11SMskcjfq8YUsjkbonmVwFGzN5XXE,22
+webhooks_automata/app.py,sha256=zM6vMcOh1pTUJXzT3IUwTew2_Y09rRB3aJZUpgxi33g,1705
+webhooks_automata/settings.py,sha256=6i6E72qwAlt0UdPzGVVN5U7tvTSewiGysFVzbsp4lHM,478
+webhooks_automata/scripts/__init__.py,sha256=tAMDssdBhAZbgvPHewpMpD8A4ScKCkafmkIeZj27Z5s,1027
+webhooks_automata/union_models/__init__.py,sha256=yVgqyTEIDx2CQSqU0KrivkUxnMrBmzX6QwcaRvk4gOs,326
+webhooks_automata/union_models/actions.py,sha256=CEGhZWzXmdVbXEAWQ-NePBOeqclV4GXiaNhO-Rrscn0,1460
+webhooks_automata/union_models/endpoints.py,sha256=3SUeqXIoguZTur4ZnmqQJ31Miap7TjU1kCCYFJZctGM,2473
+webhooks_automata-0.2.0.dist-info/METADATA,sha256=m1GZUyDaAm7Y2SH5wskXX6oD53572O7CN8Dv7RXNsP8,5318
+webhooks_automata-0.2.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+webhooks_automata-0.2.0.dist-info/entry_points.txt,sha256=NVtoScLBjVAYebpShDqdZVAEFmcxGNKOC2ORB9XKbHo,65
+webhooks_automata-0.2.0.dist-info/licenses/LICENSE,sha256=z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTA,11358
+webhooks_automata-0.2.0.dist-info/RECORD,,
