@@ -1,0 +1,13 @@
+pyspry/__init__.py,sha256=w8YlYSzBLidj8qBMpSJl-1oby-XrqBEL4vsh2iIke6Y,454
+pyspry/architecture.md,sha256=Sr7zxj7p2-ZC1158x_Y_3bKpr3u2REYTQBpsrYhH9e4,941
+pyspry/base.py,sha256=7GuJAXjpxnB9lxpLETiQsVlQDHwjE2j4oXDt7tGSqKM,15572
+pyspry/keysview/__init__.py,sha256=9w4YT4w56e4iWtsKDtgif-YhE3VqF-4yW3AqZEOnkxU,372
+pyspry/keysview/py38.py,sha256=Cf9DEXHHObvgSYKYnwTQsgu7jP51QK1R5G-zVQBc378,1986
+pyspry/keysview/py38plus.py,sha256=Ty2F5KPak3c3K2nOuUlpEk1w8Az9DtEUYh5yOUCOmbc,2101
+pyspry/nested_dict.py,sha256=GnGlisAMkfSQmZqZb7dFMd_FQmGjP3fBfNhr0cageOY,14759
+pyspry/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyspry/settings.py,sha256=SQdu0OSe82oukUkoMvAs7QN1MSsCGcBcqmwF6SDZS5I,395
+pyspry-1.1.0b1.dist-info/LICENSE,sha256=1HjJ00p8slNNx8SqsC1rNnnH7g2k1gMC-LfzgEI2D5A,1070
+pyspry-1.1.0b1.dist-info/METADATA,sha256=UBn7slJYevHPw6CTqSiTrPHO00jqHYWLp2I3ckkpJiQ,7503
+pyspry-1.1.0b1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+pyspry-1.1.0b1.dist-info/RECORD,,
