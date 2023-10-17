@@ -1,0 +1,18 @@
+React/__init__.py,sha256=4JEam9gxzG4OvvW53WPIUblEep_Kc5rIDc0Y1MqGmQA,57
+React/__main__.py,sha256=F4b_hNMPh76yMa2c82KnWdvFmeNmtI5x-RSgRmZaD6A,7260
+React/build.py,sha256=mg3jepfRhpYJZ-WAPsIpZSoU-BOBBOrq_VqNF1bUMPQ,943
+React/futils.py,sha256=UfFEQjpFQB5IeJoU_qtVt6eDxw0vkziLx43TS12DxaY,1804
+React/html_parser/__init__.py,sha256=FRoKwIMIYfP1ESv02iKyCG9PH4vR2wZg1Cpqj7ryI3g,22
+React/html_parser/parser.py,sha256=4TgnzL-KVtvfkAui5VCjNMrgM7O9z2UfKvZpOv0Hqy0,839
+React/pyx/__init__.py,sha256=FRoKwIMIYfP1ESv02iKyCG9PH4vR2wZg1Cpqj7ryI3g,22
+React/pyx/parser.py,sha256=gBWROXjh3hWigtOlGZBkisQAnC8wHpC1eXHn2iVc8-0,13010
+React/react/__init__.py,sha256=7_G2MPJfLheNWWYKkLhFsw9aftQYb2vNtubMaj5b0t0,62
+React/react/react.py,sha256=R689j97gyvxNrQaFkyU8ZkSaNYlmvmBAx1WHatLpjoU,13103
+React/react/utils.py,sha256=vZkBzQOk9o156FC2cWmcInAKw17JyOuokmr7vawQWaw,632
+react_python-0.0.2.dist-info/LICENCE,sha256=cb7uVpxuBGq0qiRNqW312RzQ2XojfVwTPt5bqGrGlmk,1063
+react_python-0.0.2.dist-info/LICENCE For Rudresh Veerkhare,sha256=6FdFqeo34jUtPmYSQi9RRtfPu0qQzuYnG6gZX0E589k,1074
+react_python-0.0.2.dist-info/METADATA,sha256=hm_SjA5-vkkIKGZ056xYQitAnopESa-hHbA59kj_dfE,6146
+react_python-0.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+react_python-0.0.2.dist-info/entry_points.txt,sha256=0RuYrOFqR0czq0Wchiq8u87mNzkdkQ3JP7cL9FwOZ7s,50
+react_python-0.0.2.dist-info/top_level.txt,sha256=tBxgBjWMcf1Nt-ItX2LP8FwOerLoC4UMI4hs_2bBHHk,6
+react_python-0.0.2.dist-info/RECORD,,
