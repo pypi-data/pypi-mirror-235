@@ -1,0 +1,12 @@
+MANIFEST.in
+README.rst
+setup.py
+fraplustree/__init__.py
+fraplustree/fra.py
+fraplustree/penta.py
+fraplustree/tri.py
+fraplustree.egg-info/PKG-INFO
+fraplustree.egg-info/SOURCES.txt
+fraplustree.egg-info/dependency_links.txt
+fraplustree.egg-info/requires.txt
+fraplustree.egg-info/top_level.txt
