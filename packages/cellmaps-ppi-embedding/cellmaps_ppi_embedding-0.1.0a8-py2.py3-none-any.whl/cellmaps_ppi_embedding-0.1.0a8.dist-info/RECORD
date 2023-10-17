@@ -1,0 +1,11 @@
+cellmaps_ppi_embedding/__init__.py,sha256=wihlZbyjhlzQXQv7CY5eOLVCXH_N-yIOqQ2R7zPvgHA,347
+cellmaps_ppi_embedding/cellmaps_ppi_embeddingcmd.py,sha256=i3JQf5EaPFbrXnwdgqUwEDuMTDVUmL3nt1JVL6t5ZGA,5264
+cellmaps_ppi_embedding/exceptions.py,sha256=952t6nOQV8NRDpjvtBZNk6dpOw9xZRHvjqLOLFFdGS0,139
+cellmaps_ppi_embedding/runner.py,sha256=O_1zFLV6QXaz_nMA7nZTgd4w1u0fgRdfa5WsW2W0mRY,14591
+cellmaps_ppi_embedding-0.1.0a8.data/scripts/cellmaps_ppi_embeddingcmd.py,sha256=lSu17kYckCPf1jwch_B3eMrD8LDiQU_C4XuNzHJT-QA,5250
+cellmaps_ppi_embedding-0.1.0a8.dist-info/AUTHORS.rst,sha256=dsWou_BID1dNfzSCy-7__BrR0n7cDH2vNiTg25i0C64,205
+cellmaps_ppi_embedding-0.1.0a8.dist-info/LICENSE,sha256=FQHWQco2CJTN2qRzfm9uxGDv97LH1KrAd1iAmjC9BHk,1102
+cellmaps_ppi_embedding-0.1.0a8.dist-info/METADATA,sha256=_JfHgy3xMzSuqHXhjZuGCJk5bZIwHvixqDBAs-ALwUo,4809
+cellmaps_ppi_embedding-0.1.0a8.dist-info/WHEEL,sha256=kGT74LWyRUZrL4VgLh6_g12IeVl_9u9ZVhadrgXZUEY,110
+cellmaps_ppi_embedding-0.1.0a8.dist-info/top_level.txt,sha256=KgHUBsqpjOLKz01qDQCcVH4qNCmeaLzR_O1eyf-RjZY,23
+cellmaps_ppi_embedding-0.1.0a8.dist-info/RECORD,,
