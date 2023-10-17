@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/meteoredpy/meteoredpy.py
+src/meteoredpy.egg-info/PKG-INFO
+src/meteoredpy.egg-info/SOURCES.txt
+src/meteoredpy.egg-info/dependency_links.txt
+src/meteoredpy.egg-info/requires.txt
+src/meteoredpy.egg-info/top_level.txt
