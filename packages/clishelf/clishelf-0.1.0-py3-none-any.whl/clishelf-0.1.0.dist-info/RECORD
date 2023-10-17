@@ -1,0 +1,13 @@
+clishelf/__about__.py,sha256=3nLf8FRa4nYVBfuMK99M23TE_09A1aFRo5FBJZgf0Bo,86
+clishelf/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+clishelf/__main__.py,sha256=bYt9eEaoRQWdejEHFD8REx9jxVEdZptECFsV7F49Ink,30
+clishelf/cli.py,sha256=swPVyweSYsUhdfPQXaFoks7krliGLflD0V6_oEyBoiE,1446
+clishelf/git.py,sha256=jldIjy9i9e1hfovQhB8CDN1-7QLzLfWCf5gw2WBLiyM,14908
+clishelf/settings.py,sha256=gR2IG6k1_WMYHPYSOESa2vVPomy01m7b-rO3CK1oHNU,4255
+clishelf/utils.py,sha256=-y9rOkL8zGmqtGPFuazM6FCamOMdJxmDMIJaOURCN1Q,1971
+clishelf/version.py,sha256=2colYqq010lQpxl6REyeGyYVo_DX1LWseLZm4iymxEc,10299
+clishelf-0.1.0.dist-info/METADATA,sha256=A70GphfEu6qv6tdKcn0k1NqoG-bFXZR-9StYl-TnLc4,3890
+clishelf-0.1.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+clishelf-0.1.0.dist-info/entry_points.txt,sha256=hOZohREjVqwBYJDHey71cMltuxZuOY4jQvZmmoW__zg,49
+clishelf-0.1.0.dist-info/licenses/LICENSE,sha256=ya1kgjiTc2fqGDilFpcWcm_ImOAiZhRfctlAX-DsyW4,1073
+clishelf-0.1.0.dist-info/RECORD,,
