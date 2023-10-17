@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "licit"
+version = "0.1.0"
+description = "Check if a license is compatible with its dependencies"
+authors = ["sneakers-the-rat <j@nny.fyi>"]
+license = "AGPL-3.0"
+readme = "README.md"
+packages = [
+	{ include = "licit", from = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
