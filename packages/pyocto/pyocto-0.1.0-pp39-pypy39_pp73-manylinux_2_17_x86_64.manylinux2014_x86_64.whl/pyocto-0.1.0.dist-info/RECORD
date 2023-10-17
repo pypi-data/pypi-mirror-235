@@ -1,0 +1,8 @@
+pyocto/associator.py,sha256=99veL1ndVCQHKTskNX-YeKCU7RO7-IwAfnT8f0mJWdo,35683
+pyocto/__init__.py,sha256=q964JkPV2zx45bKJjyJFPcvIRTw5ZANmSLqmqQCCPv0,144
+pyocto/_core.pypy39-pp73-x86_64-linux-gnu.so,sha256=hhEHDRDQzHTTmqQstcjGfC9nHkHooCO8eQ3jk_Vy9JQ,356584
+pyocto-0.1.0.dist-info/WHEEL,sha256=LqdA0SthA87NO6byScvr1zsICykVMkz775HPEgxxHEQ,165
+pyocto-0.1.0.dist-info/RECORD,,
+pyocto-0.1.0.dist-info/METADATA,sha256=ILaFuZq-uw-I-ivSMOiCvcpaKUPEYYOoN40o-Uj823M,3878
+pyocto-0.1.0.dist-info/entry_points.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyocto-0.1.0.dist-info/licenses/LICENSE,sha256=TiRtkl48ynR7qqWQmx_sMPaP4UM3s9av-CZ0W-y6uxQ,1075
