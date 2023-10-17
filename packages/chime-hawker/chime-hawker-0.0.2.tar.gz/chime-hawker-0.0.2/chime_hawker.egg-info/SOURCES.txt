@@ -1,0 +1,6 @@
+setup.py
+chime-hawker/__init__.py
+chime_hawker.egg-info/PKG-INFO
+chime_hawker.egg-info/SOURCES.txt
+chime_hawker.egg-info/dependency_links.txt
+chime_hawker.egg-info/top_level.txt
