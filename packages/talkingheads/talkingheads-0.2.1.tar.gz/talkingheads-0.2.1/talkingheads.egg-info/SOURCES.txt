@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+talkingheads/__init__.py
+talkingheads.egg-info/PKG-INFO
+talkingheads.egg-info/SOURCES.txt
+talkingheads.egg-info/dependency_links.txt
+talkingheads.egg-info/requires.txt
+talkingheads.egg-info/top_level.txt
+talkingheads/model_library/__init__.py
+talkingheads/model_library/bard.py
+talkingheads/model_library/base_browser.py
+talkingheads/model_library/chatgpt.py
+talkingheads/model_library/helpers.py
+talkingheads/model_library/huggingchat.py
