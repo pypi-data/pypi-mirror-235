@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: atlassian-django-rucksack
+Version: 0.5.0
+Requires-Dist: embedded-hermes-dataclasses
+Requires-Dist: tag-db-verification

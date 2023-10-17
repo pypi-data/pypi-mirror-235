@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_django_rucksack.egg-info/PKG-INFO
+atlassian_django_rucksack.egg-info/SOURCES.txt
+atlassian_django_rucksack.egg-info/dependency_links.txt
+atlassian_django_rucksack.egg-info/requires.txt
+atlassian_django_rucksack.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
