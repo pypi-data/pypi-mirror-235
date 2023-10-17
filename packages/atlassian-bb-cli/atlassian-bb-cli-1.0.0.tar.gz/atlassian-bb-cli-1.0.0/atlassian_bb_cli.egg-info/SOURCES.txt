@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_bb_cli.egg-info/PKG-INFO
+atlassian_bb_cli.egg-info/SOURCES.txt
+atlassian_bb_cli.egg-info/dependency_links.txt
+atlassian_bb_cli.egg-info/requires.txt
+atlassian_bb_cli.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
