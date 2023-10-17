@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "my-course-tutorial-oct-2023"
+version = "0.2.0"
+description = ""
+authors = ["Nikolaus Naredi-Rainer <nikolaus.naredi-rainer@zuehlke.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
