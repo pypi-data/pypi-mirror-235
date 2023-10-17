@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+shdlc_sps30/__init__.py
+shdlc_sps30/commands.py
+shdlc_sps30/device.py
+shdlc_sps30/errors.py
+shdlc_sps30.egg-info/PKG-INFO
+shdlc_sps30.egg-info/SOURCES.txt
+shdlc_sps30.egg-info/dependency_links.txt
+shdlc_sps30.egg-info/not-zip-safe
+shdlc_sps30.egg-info/requires.txt
+shdlc_sps30.egg-info/top_level.txt
