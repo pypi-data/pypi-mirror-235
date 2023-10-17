@@ -1,0 +1,78 @@
+tag 0.2.0
+Tagger: Michael Connor Buchan <mikey@blindcomputing.org>
+Date:   Mon Oct 16 22:48:21 2023 +0100
+
+Release v0.2.0
+
+This release completes the implementation of all basic OpenAL types and
+procedures, as well as implementing a few OpenAL Soft extensions, such
+as SOFT_DIRECT_CHANNELS and SOFT_SOURCE_SPATIALIZE.
+-----BEGIN SSH SIGNATURE-----
+U1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgjVqUWdkya3s3AmZ2SWjG51NoVF
+HJ163tbRyUM4al1X0AAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5
+AAAAQNI+1FFEqhYuyvUyf9yAWQaz2dWHGq5WY7aXbhUoq9oKvt+XZr2U73Iil9h3X4hbff
++ipsMsiI0oOsNTj1Z7DAg=
+-----END SSH SIGNATURE-----
+
+commit 5d8c5dd8f2eb096e2fc72340ff80865600bdf4b0
+Author: Michael Connor Buchan <mikey@blindcomputing.org>
+Date:   Mon Oct 16 22:43:25 2023 +0100
+
+    Chore: Release v0.2.0
+    
+    Also updated project metadata
+
+diff --git a/pyproject.toml b/pyproject.toml
+index c330a5a..2a2b1cb 100644
+--- a/pyproject.toml
++++ b/pyproject.toml
+@@ -1,14 +1,43 @@
++[project]
++name = "cyal"
++version = "0.2.0"
++authors = [
++  { name="Michael Connor Buchan", email="mikey@blindcomputing.org" },
++]
++description = "Cython bindings for OpenAL"
++readme = "README.md"
++requires-python = ">=3.9"
++keywords = ["audio", "openal", "cython", "bindings"]
++license = { file = "LICENSE" }
++
++classifiers = [
++    "Development Status :: 4 - Beta",
++    "Programming Language :: Cython",
++    "Programming Language :: Python",
++    "Programming Language :: Python :: 3",
++    "License :: OSI Approved :: MIT License",
++    "Operating System :: OS Independent",
++    "Intended Audience :: Developers",
++    "Topic :: Multimedia",
++    "Topic :: Multimedia :: Sound/Audio",
++    "Topic :: Multimedia :: Sound/Audio :: Capture/Recording",
++    "Topic :: Multimedia :: Sound/Audio :: Players",
++]
++
++[project.urls]
++"Homepage" = "https://sr.ht/~thefake-vip/Cyal"
++"Repository" = "https://git.sr.ht/~thefake-vip/cyal"
++"Bug Tracker" = "https://todo.sr.ht/~thefake-vip/cyal"
++"Mailing List Archive" = "https://lists.sr.ht/~thefake-vip/cyal"
++"IRC Channel" = "ircs://irc.libera.chat:6697/#cyal"
++
+ [build-system]
+ requires = [
+-"scikit-build-core",
+-"cython",
++"scikit-build-core>=0.5.0",
++"cython>=3.0.0",
+ ]
+ build-backend = "scikit_build_core.build"
+ 
+-[project]
+-name = "cyal"
+-version = "0.2.0"
+-
+ [tool.scikit-build]
+ cmake.minimum-version = "3.24"
+ ninja.minimum-version = "1.11"
