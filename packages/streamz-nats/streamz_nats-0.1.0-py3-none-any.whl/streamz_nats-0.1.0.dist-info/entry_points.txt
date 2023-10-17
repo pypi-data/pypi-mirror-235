@@ -1,0 +1,6 @@
+[streamz.sinks]
+to_nats=streamz_nats.sinks:to_nats
+
+[streamz.sources]
+from_nats=streamz_nats.sources:from_nats
+
