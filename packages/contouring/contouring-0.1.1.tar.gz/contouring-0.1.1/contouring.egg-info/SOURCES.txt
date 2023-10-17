@@ -1,0 +1,6 @@
+setup.py
+contouring.egg-info/PKG-INFO
+contouring.egg-info/SOURCES.txt
+contouring.egg-info/dependency_links.txt
+contouring.egg-info/requires.txt
+contouring.egg-info/top_level.txt
