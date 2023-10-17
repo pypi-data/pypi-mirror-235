@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+./requirements.txt
+upsonic_run/__init__.py
+upsonic_run/upsonic_run.py
+upsonic_run.egg-info/PKG-INFO
+upsonic_run.egg-info/SOURCES.txt
+upsonic_run.egg-info/dependency_links.txt
+upsonic_run.egg-info/not-zip-safe
+upsonic_run.egg-info/requires.txt
+upsonic_run.egg-info/top_level.txt
