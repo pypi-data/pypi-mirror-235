@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "gulf"
+version = "0.1.1"
+description = "An open-source integrated finance data source and database application on top of DolphinDB and akshare."
+authors = ["fangyang_gpu <fangyang.jing@hotmail.com>"]
+readme = "README.md"
+license = "Apache-2.0"
+maintainers = [
+    "Fangyang <fangyang.jing@hotmail.com>",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+akshare = "^1.11.28"
+dolphindb = "^1.30.22.2"
+requests = "^2.31.0"
+loguru = "^0.7.2"
+mootdx = "^0.11.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
