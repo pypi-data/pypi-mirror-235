@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+autodistill_llava/__init__.py
+autodistill_llava/model.py
+autodistill_llava.egg-info/PKG-INFO
+autodistill_llava.egg-info/SOURCES.txt
+autodistill_llava.egg-info/dependency_links.txt
+autodistill_llava.egg-info/requires.txt
+autodistill_llava.egg-info/top_level.txt
