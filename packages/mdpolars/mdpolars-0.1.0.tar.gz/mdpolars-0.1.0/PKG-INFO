@@ -1,0 +1,124 @@
+Metadata-Version: 2.1
+Name: mdpolars
+Version: 0.1.0
+Summary: a simpler tool for convert markdown table to polars
+Home-page: https://github.com/kyoto7250/mdpolars_py
+License: MIT
+Keywords: polars,markdown,table,test,development
+Author: kyoto7250
+Author-email: 50972773+kyoto7250@users.noreply.github.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: polars (>=0.19.8,<0.20.0)
+Project-URL: Repository, https://github.com/kyoto7250/mdpolars_py
+Description-Content-Type: text/markdown
+
+# mdpolars_py
+a simple tool for convert markdown table to polars in python3.
+This tool is a lightweight tool for testing a code, so note that we are not validating the user's input.
+
+[pandas version is here](https://github.com/kyoto7250/mdpd)
+
+## install
+```bash
+pip install mdpolars
+```
+
+## usage
+
+```python
+import polars as pl
+import mdpolars
+
+df = mdpolars.from_md("""
++------------+-------+
+| id         | score |
++------------+-------+
+| 1          | 15    |
+| 2          | 11    |
+| 3          | 11    |
+| 4          | 20    |
++------------+-------+
+""", schema=[("id", pl.Int64), ("score", pl.Int64)])
+
+print(df)
+# shape: (4, 2)
+# ┌─────┬───────┐
+# │ id  ┆ score │
+# │ --- ┆ ---   │
+# │ i64 ┆ i64   │
+# ╞═════╪═══════╡
+# │ 1   ┆ 15    │
+# │ 2   ┆ 11    │
+# │ 3   ┆ 11    │
+# │ 4   ┆ 20    │
+# └─────┴───────┘
+```
+
+```python
+# the header can be overwritten if the header exists
+import mdpolars
+df = mdpolars.from_md("""
++------------+-------+
+| id         | score |
++------------+-------+
+| 1          | 15    |
+| 2          | 11    |
+| 3          | 11    |
+| 4          | 20    |
++------------+-------+
+""", schema=["foo", "bar"])
+
+# the default type is str.
+print(df)
+# shape: (4, 2)
+# ┌─────┬─────┐
+# │ foo ┆ bar │
+# │ --- ┆ --- │
+# │ str ┆ str │
+# ╞═════╪═════╡
+# │ 1   ┆ 15  │
+# │ 2   ┆ 11  │
+# │ 3   ┆ 11  │
+# │ 4   ┆ 20  │
+# └─────┴─────┘
+```
+
+
+## accepted table patterns
+
+```markdown
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+```
+
+```markdown
++------------+-------------+
+| Syntax     | Description |
++------------+-------------+
+| Header     | Title       |
+| Paragraph  | Text        |
++------------+-------------+
+```
+
+```markdown
+| Syntax    | Description |
+| :-------- | ----------: |
+| Header    | Title       |
+| Paragraph | Text        |
+```
+
+```markdown
+| Header    | Title       |
+| Paragraph | Text        |
+```
+
+## contribute
+If you have suggestions for features or improvements to the code, please feel free to create an issue or PR.
+
