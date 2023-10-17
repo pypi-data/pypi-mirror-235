@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_felix_project_helpers.egg-info/PKG-INFO
+atlassian_felix_project_helpers.egg-info/SOURCES.txt
+atlassian_felix_project_helpers.egg-info/dependency_links.txt
+atlassian_felix_project_helpers.egg-info/requires.txt
+atlassian_felix_project_helpers.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
