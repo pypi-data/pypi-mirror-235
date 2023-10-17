@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: cncmark
+Version: 0.3.0
+Summary: CncMark generates G-code to measure workpiece dimensions using a laser triangulation sensor from a stl file.
+Home-page: https://github.com/OpenCMM/opencmm
+License: MIT
+Keywords: cnc,cmm,milling,gcode
+Author: yuichiroaoki
+Author-email: 45054071+yuichiroaoki@users.noreply.github.com
+Requires-Python: >=3.11,<3.13
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: mysql-connector-python (>=8.1.0,<9.0.0)
+Requires-Dist: numpy-stl (>=3.0.1,<4.0.0)
+Project-URL: Repository, https://github.com/OpenCMM/opencmm
+Description-Content-Type: text/markdown
+
+# CncMark
+
+CncMark generates G-code to measure workpiece dimensions using a laser triangulation sensor from a stl file.
