@@ -1,0 +1,15 @@
+loggerbase/__init__.py,sha256=JJGGfZvQcv4IeLuag6BaeRbPUVwPChSxaMCDmc9ej8U,4541
+loggerbase/_static.py,sha256=tuuarJ-NkzWIgEAAl0zcq6XKlxS7R2HrEjqLAKUxcJM,3417
+loggerbase/_tables.py,sha256=gQp6a0yNGMewJIRqBp44EFmRh4KgfNoYYEgMuU03wGg,1378
+loggerbase/conf.py,sha256=fBvG91IQxc-4N7VoBelpzpZZVRQeNnsBoqzl58rQt6E,7658
+loggerbase/database.py,sha256=OGeSmk_NeX-EdgtDhoNRiiLc53ViBN1ihTnXLilahsM,9897
+loggerbase/enums.py,sha256=llnSGohXcL3G-nlu_-rUYiNUnVyqkV2PZgwr9BOep5w,89
+loggerbase/exceptions.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+loggerbase/loggerbase.py,sha256=eKK9K7N-B9JuON-xS4ocXDLhAGpXQd7PrsGprXMUMzk,31919
+loggerbase/models.py,sha256=IjCmWrt3zur98kwOgiRK2VA2aZfDo2lU54TtnVdOUIE,546
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_conf.py,sha256=9XsJQv80r_-GX9IsvVdmG015rf3layq9p7ibjAPex68,1877
+loggerbase-0.0.1a0.dist-info/METADATA,sha256=5wltsWZXJY3rQ4wACesBqDeTQMmjIztREwIQ7Mozmyc,1845
+loggerbase-0.0.1a0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+loggerbase-0.0.1a0.dist-info/top_level.txt,sha256=95B5bDMlc14RBUiol3yXT8NTLNFZ4ejIQneQCDhqhUw,17
+loggerbase-0.0.1a0.dist-info/RECORD,,
