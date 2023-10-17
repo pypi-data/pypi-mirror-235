@@ -1,0 +1,10 @@
+deque_one-0.0.1.dist-info/RECORD,,
+deque_one-0.0.1.dist-info/LICENSE,sha256=Ilu0ne7OqRnFmIRA7GpfZVtbolH_nBA1v1YHscI5oEY,1500
+deque_one-0.0.1.dist-info/WHEEL,sha256=ReeDLt7JoWNv8uQs9jcofmiBOX-MvocIgD8kJPMfr7M,110
+deque_one-0.0.1.dist-info/top_level.txt,sha256=tJxp5D-h0IiuEA54TSSaXiXzRiHIxkd8hmtQguNAeKs,10
+deque_one-0.0.1.dist-info/METADATA,sha256=mqW2_zcKu4TRiSAqFpxmGQXtTSqYOzIECHYnLIi61Ao,2880
+deque_one/deque.pyi,sha256=zHlSCv5-hthT07i-30QAlZk71_Vu7W4bIBvAmN5ZvFw,70
+deque_one/_version.py,sha256=ugyuFliEqtAwQmH4sTlc16YXKYbFWDmfyk87fErB8-8,21
+deque_one/__init__.py,sha256=0dc19hwtaDGbSriuVruTTppG0vo8xB9E98vUR7tgODA,25
+deque_one/deque.cpython-310-darwin.so,sha256=wYPJidJUR68gZu1pyoQsJtFr3wkSoYq65o-1ezkmIAY,54632
+deque_one/_deque.c,sha256=41V_m3WC3G3g3DVWDoGd6F9TgSxsWUAbbYF6cAhWzP4,17270
