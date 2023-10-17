@@ -1,0 +1,8 @@
+boost_spider/__init__.py,sha256=gRa0UZGXFlPCkVbGyBBMomXCey-Jp_kS4iLhNX_RNjc,604
+boost_spider/http/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+boost_spider/http/request_client.py,sha256=LUbnmAFia1lDijNHxvks-3HQmJhhkWPoS9GixFPYwZU,14379
+boost_spider/http/user_agent.py,sha256=ekxxO_ywo7G45Fz6jwAoRU7hsSD2Rz_tOAD4YMCgPtc,43079
+boost_spider-1.0.dist-info/METADATA,sha256=xbwxo6bTDY1i4cTGmj1A49zkei9nTB4MWGrnJwh9vpM,10650
+boost_spider-1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+boost_spider-1.0.dist-info/top_level.txt,sha256=-L4LdWmwNidemNzZk9DRqOmAfZ99xxIwVnD2562lHus,13
+boost_spider-1.0.dist-info/RECORD,,
