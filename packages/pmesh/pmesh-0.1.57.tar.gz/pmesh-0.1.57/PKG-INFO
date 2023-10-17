@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pmesh
+Version: 0.1.57
+Summary: Particle Mesh in Python
+Author: Yu Feng
+License: GPL3
+Provides-Extra: full
+Provides-Extra: abopt
+License-File: LICENSE
