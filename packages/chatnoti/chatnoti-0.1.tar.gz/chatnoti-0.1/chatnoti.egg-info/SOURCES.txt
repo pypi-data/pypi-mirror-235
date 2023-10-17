@@ -1,0 +1,7 @@
+README.md
+setup.py
+chatnoti.egg-info/PKG-INFO
+chatnoti.egg-info/SOURCES.txt
+chatnoti.egg-info/dependency_links.txt
+chatnoti.egg-info/requires.txt
+chatnoti.egg-info/top_level.txt
