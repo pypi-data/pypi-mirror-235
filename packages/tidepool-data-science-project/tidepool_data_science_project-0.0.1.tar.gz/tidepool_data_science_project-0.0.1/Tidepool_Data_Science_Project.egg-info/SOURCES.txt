@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Tidepool_Data_Science_Project.egg-info/PKG-INFO
+Tidepool_Data_Science_Project.egg-info/SOURCES.txt
+Tidepool_Data_Science_Project.egg-info/dependency_links.txt
+Tidepool_Data_Science_Project.egg-info/top_level.txt
+data_science_tidepool_api_python/__init__.py
+data_science_tidepool_api_python/util.py
+tidepool_data_science_project.egg-info/PKG-INFO
+tidepool_data_science_project.egg-info/SOURCES.txt
+tidepool_data_science_project.egg-info/dependency_links.txt
+tidepool_data_science_project.egg-info/top_level.txt
