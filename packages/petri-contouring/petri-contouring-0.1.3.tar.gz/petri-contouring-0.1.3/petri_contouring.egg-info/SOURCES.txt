@@ -1,0 +1,8 @@
+setup.py
+contouring/__init__.py
+contouring/contouring.py
+petri_contouring.egg-info/PKG-INFO
+petri_contouring.egg-info/SOURCES.txt
+petri_contouring.egg-info/dependency_links.txt
+petri_contouring.egg-info/requires.txt
+petri_contouring.egg-info/top_level.txt
