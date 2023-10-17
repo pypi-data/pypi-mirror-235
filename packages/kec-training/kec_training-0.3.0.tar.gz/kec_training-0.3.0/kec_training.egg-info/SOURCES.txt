@@ -1,0 +1,8 @@
+setup.py
+kec_training/__init__.py
+kec_training/exceptions.py
+kec_training/games.py
+kec_training.egg-info/PKG-INFO
+kec_training.egg-info/SOURCES.txt
+kec_training.egg-info/dependency_links.txt
+kec_training.egg-info/top_level.txt
