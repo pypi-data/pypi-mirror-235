@@ -1,0 +1,6 @@
+rwkv2onnx_python.cp39-win_amd64.pyd,sha256=pgBiK7kEtq4tIpcXqOr0oqrgUvQVi4lJEkWd_uuRQLA,2960896
+rwkv2onnx/__init__.py,sha256=X4gw140l6kJ-mrPLgNsy2NiIwj4vKa_oZz6xaI6Hn6A,32
+rwkv2onnx-0.0.8.dist-info/METADATA,sha256=yMO1IURCe2nsfIE3copZmT0hlfnZHeHNMs71EnwQkAA,358
+rwkv2onnx-0.0.8.dist-info/WHEEL,sha256=2xSj8c4s_gFbWpcImYQptdXS3JLuzC2uK5Om8I_SEKg,100
+rwkv2onnx-0.0.8.dist-info/top_level.txt,sha256=Sn4ybPahzO7yMBKmFWhrMBxBxDHsNxOVr7nX6czjw_A,27
+rwkv2onnx-0.0.8.dist-info/RECORD,,
