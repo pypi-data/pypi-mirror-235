@@ -1,0 +1,2 @@
+[console_scripts]
+palebluedot = palebluedot.cli:run
