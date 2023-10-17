@@ -1,0 +1,10 @@
+retroapi/__init__.py,sha256=MGNICYcfTQDe3ptllMwq72fKJ7QVjr26K6aIhEYyb8A,77
+retroapi/convert_name2smiles.py,sha256=O4fFOhhWqZ-x_himqERJJygMp1siGI10BCJNlp3wPe8,346
+retroapi/retro_api.py,sha256=X8HKiW_s8vIH-nB3HClJS5CqEWGRcsdUmmaQCqNDHto,3414
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_name2smiles.py,sha256=A3_oCkoXYiRXzco3wgti4vPKDP5gWb5Jjg-sQgtCJYg,419
+tests/test_retro_api.py,sha256=i0msMcyu2dr2xcpaRxSZSHdHHM6-4ccXgHfsKj-EPgk,1664
+retroapi-0.1.0.dist-info/METADATA,sha256=PFi77noraxJTCkxf48HY0X0S0W6xQqxs_zCeZ0ldv9A,2273
+retroapi-0.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+retroapi-0.1.0.dist-info/top_level.txt,sha256=YL1-iBUHNK3GascGcs23LcHt2GJuVKcTzJQiOES5P_g,15
+retroapi-0.1.0.dist-info/RECORD,,
