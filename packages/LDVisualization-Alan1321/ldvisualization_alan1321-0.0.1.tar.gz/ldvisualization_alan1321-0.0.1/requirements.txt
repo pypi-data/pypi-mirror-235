@@ -1,0 +1,6 @@
+rasterio
+matplotlib
+plotly
+pandas
+ipywidgets
+requests
