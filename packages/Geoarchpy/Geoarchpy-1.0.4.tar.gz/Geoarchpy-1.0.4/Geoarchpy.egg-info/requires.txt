@@ -1,0 +1,15 @@
+matplotlib
+numpy==1.23.5
+pyvista==0.40.0
+trame
+scipy
+scikit-learn
+scikit-image
+pyyaml
+pandas
+shapely<2.0
+rasterio
+geopandas
+ipywidgets
+tornado==6.1
+notebook
