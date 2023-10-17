@@ -1,0 +1,68 @@
+"""
+This file contains the models for the configurations for
+the collections and cache updates.
+"""
+from dataclasses import dataclass, field
+from typing import List, Optional
+
+from worker.data.enums import CollectionRecordDataScope, CountOfCollectionRecord
+
+
+@dataclass
+class MergingSchemaModel:
+    """
+    A class representing the schema for merging collections and modules.
+
+    Attributes:
+        collections (List[CollectionMergingModel]): A list of
+            CollectionMergingModel objects representing the collections
+            to be merged.
+        modules (List): A list of module objects representing the modules
+            that their cache needs to be updated.
+    """
+    collections: List['CollectionMergingModel'] = field(default_factory=list)
+    modules: List = field(default_factory=list)
+
+
+@dataclass
+class CollectionMergingModel:
+    """
+    A model representing a collection of records.
+
+    Attributes:
+        collection_name (str):
+            The name of the collection.
+
+        record_scope (Optional[CollectionRecordDataScope], optional):
+            The scope of the records to be included in the collection.
+            Defaults to CollectionRecordDataScope.CURRENT.
+
+        count (Optional[CountOfCollectionRecord], optional):
+            The count of records to be included in the collection.
+            Defaults to None.
+
+        merging_method (Optional[str], optional):
+            The name of the method used to merge the records in the collection.
+            Defaults to None.
+    """
+    collection_name: str
+    record_scope: Optional[CollectionRecordDataScope] = CollectionRecordDataScope.CURRENT
+    count: Optional[CountOfCollectionRecord] = None
+    merging_method: Optional[str] = None
+
+
+class RerunMergeCacheUpdateModel:
+    """
+    A generic model representing a cache update for a module.
+    A module just need to override the `update_cache` method.
+    """
+
+    @classmethod
+    def update_cache(cls, merger: 'PartialRerunMerge') -> None:
+        """
+        Updates the cache with the given rerun mode, original asset ID, and rerun asset ID.
+
+        Args:
+            merger: The merger object.
+        """
+        raise NotImplementedError
