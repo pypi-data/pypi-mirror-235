@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_socrates_databricks_watchdog.egg-info/PKG-INFO
+atlassian_socrates_databricks_watchdog.egg-info/SOURCES.txt
+atlassian_socrates_databricks_watchdog.egg-info/dependency_links.txt
+atlassian_socrates_databricks_watchdog.egg-info/requires.txt
+atlassian_socrates_databricks_watchdog.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
