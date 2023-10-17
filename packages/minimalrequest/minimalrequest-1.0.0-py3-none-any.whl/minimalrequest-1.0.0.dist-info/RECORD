@@ -1,0 +1,8 @@
+minimalrequest/__init__.py,sha256=B8RcYCea14dZnt2HlHtwFdgimiUaphNbNtYDOczRHSU,67
+minimalrequest/minimal_request.py,sha256=LcRtJZRbGPv3zgWBHWWXPGJXfhYx49EdHMIpAOCdRxk,17742
+minimalrequest/rate_limiter.py,sha256=G8KJrQVeZKBPEvBLnATpixXG6aADPnvcLKOWLin3xJk,3452
+minimalrequest-1.0.0.dist-info/LICENSE.txt,sha256=97sG-PIPedEkY8F8HDs-QK0CzOUAK5ecYzkVmT23FM0,11546
+minimalrequest-1.0.0.dist-info/METADATA,sha256=E8Bnx_AG5jY43J8q0sJ3DXVyrbJeScB5_tAkG4TGZQE,4877
+minimalrequest-1.0.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+minimalrequest-1.0.0.dist-info/top_level.txt,sha256=l0FsKLrPpACYyljFw_j6H0kQ5Bqd2lAyNgLMsOrSEIs,15
+minimalrequest-1.0.0.dist-info/RECORD,,
