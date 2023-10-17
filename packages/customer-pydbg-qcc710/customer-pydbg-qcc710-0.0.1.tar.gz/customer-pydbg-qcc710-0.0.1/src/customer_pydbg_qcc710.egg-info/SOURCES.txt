@@ -1,0 +1,13 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+data/data_file
+src/customer_pydbg_qcc710.egg-info/PKG-INFO
+src/customer_pydbg_qcc710.egg-info/SOURCES.txt
+src/customer_pydbg_qcc710.egg-info/dependency_links.txt
+src/customer_pydbg_qcc710.egg-info/entry_points.txt
+src/customer_pydbg_qcc710.egg-info/requires.txt
+src/customer_pydbg_qcc710.egg-info/top_level.txt
