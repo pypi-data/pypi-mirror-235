@@ -1,0 +1,5 @@
+numpy
+tcod~=16.2
+
+[:python_version < "3.8"]
+typing-extensions~=4.7
