@@ -1,0 +1,129 @@
+Metadata-Version: 2.1
+Name: name-gen-tool
+Version: 0.1.1
+Summary: A package to generate user names based on styles.
+Home-page: https://github.com/bellamy-blakee/username-generator-tool
+Author: Bellamy
+Author-email: bellamyy.blakee100@gmail.com
+License: UNKNOWN
+Keywords: username generator,instagram username generator,social media name generator
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# Username Generator 🧙‍♂️
+
+Generate unique and catchy usernames based on different styles and themes with the `username_generator` package.
+
+## 🚀 Installation
+
+Install the package using pip:
+
+```bash
+pip install name_gen_tool
+```
+
+## 🎯 Features
+
+- **Variety of Styles:** Choose from a wide range of styles like Professional, Nature-Inspired, Artistic, and more!
+- **Customizable Patterns:** Combine nouns, adjectives, keywords, and numbers to create unique patterns.
+- **Prefix & Suffix Support:** Add an additional touch with custom or random prefixes/suffixes.
+
+## 🎨 Available Styles
+
+- **Professional**
+- **Nature-Inspired**
+- **Artistic**
+- **Aesthetic**
+- **Fantasy**
+- **Crazy**
+- **Cool**
+- **Sporty**
+- **Cute**
+- **Tech-Inspired**
+- **Sci-Fi**
+- **Funny**
+- **Gamer**
+  
+...and more coming soon!
+
+Absolutely! Let's expand on the usage section, including examples for each of the options and their explanations:
+
+---
+
+## 🔧 Usage
+
+To generate usernames using the package, start by importing the necessary modules:
+
+```python
+from username_generator import generateUsernames, Styles
+```
+
+### Basic Usage
+
+Simply pass a keyword to generate usernames:
+
+```python
+usernames = generateUsernames('JohnDoe')
+print(usernames)
+```
+
+### Specify a Style
+
+You can specify a style from the available styles. For example, to generate nature-inspired usernames:
+
+```python
+styledUsernames = generateUsernames('JohnDoe', {'style': Styles.NATURE_INSPIRED})
+print(styledUsernames)
+```
+
+### Using Lucky Numbers
+
+Add a favorite or lucky number that will be used in the generated usernames:
+
+```python
+luckyNumberUsernames = generateUsernames('JaneDoe', {'luckyNumber': 7})
+print(luckyNumberUsernames)
+```
+
+### Adding Prefixes and Suffixes
+
+Customize your usernames with prefixes and suffixes:
+
+```python
+prefixedUsernames = generateUsernames('Eva', {'prefix': 'Queen'})
+print(prefixedUsernames)
+
+suffixedUsernames = generateUsernames('Eva', {'suffix': 'TheGreat'})
+print(suffixedUsernames)
+```
+
+You can also let the generator choose a random prefix for you:
+
+```python
+randomPrefixedUsernames = generateUsernames('Eva', {'prefix': True})
+print(randomPrefixedUsernames)
+```
+
+### Options Explained
+
+- **style (optional):** A string that specifies the style you want for the generated username. If not provided, a style will be randomly chosen.
+  
+- **luckyNumber (optional):** A number that will be used in the generated usernames. If not provided, a random number will be used.
+  
+- **prefix (optional):** A string that will be used as a prefix in the generated usernames. If set to `True`, a random prefix will be chosen. If not provided, no prefix will be used.
+
+- **suffix (optional):** A string that will be used as a suffix in the generated usernames. If not provided, no suffix will be used.
+
+---
+
+
+## 📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## 🌐 Official Website
+
+Please visit [UsernameGenerator.IO](https://usernamegenerator.io/) for more advanced options and tools to make your username looks stunning.
+
+
+
