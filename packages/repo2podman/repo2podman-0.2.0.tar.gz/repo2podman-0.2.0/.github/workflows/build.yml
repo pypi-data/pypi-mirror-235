@@ -1,0 +1,165 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+      - uses: pre-commit/action@v3.0.0
+
+  test:
+    runs-on: ubuntu-20.04
+    strategy:
+      # Do not cancel all jobs if one fails
+      fail-fast: false
+      matrix:
+        python_version: ["3.9"]
+        repo_type:
+          # Only test a subset of the repo2docker tests since we're testing podman,
+          # not the full repo2docker functionality
+          - base
+          - conda/py310-requirements-file
+          - dockerfile
+          # - external
+          # - julia
+          # - memlimit
+          # - nix
+          # - pipfile
+          # - r
+          - unit
+          - venv/default
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python_version }}
+          cache: pip
+          cache-dependency-path: dev-requirements.txt
+
+      - name: Install
+        run: |
+          pip install -r dev-requirements.txt
+          # Make a wheel and install it to catch possible issues with releases
+          python -m build --wheel
+          pip install dist/*.whl
+          pip freeze
+
+      - name: Fetch repo2docker tests
+        run: |
+          # Tests need to match the r2d version, need to convert YYYY.M.N to YYYY.MM.N
+          R2D_PY_VERSION=$(grep jupyter-repo2docker== dev-requirements.txt | cut -d= -f3)
+          GIT_TAG=$(echo $R2D_PY_VERSION | sed -re 's/\.([[:digit:]])\./.0\1./')
+          echo "Cloning repo2docker test from tag: $GIT_TAG"
+          git clone --depth 1 --branch=$GIT_TAG https://github.com/jupyter/repo2docker tests-repo2docker
+          for d in ./tests-repo2docker/tests/*/; do
+            if [ "${d##*tests/}" != "unit/" ]; then
+              cp -a $d tests
+            fi
+          done
+
+      - name: Run tests
+        run: pytest -v tests/${{ matrix.repo_type }}
+
+  # https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/
+  publish-pypi:
+    name: Pypi
+    needs:
+      # Only publish if other jobs passed
+      - lint
+      - test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v4
+      - name: Install pypa/build
+        run: python -m pip install build
+      - name: Build a binary wheel and a source tarball
+        run: python -m build --sdist --wheel --outdir dist/
+      - name: Publish to PyPI
+        if: startsWith(github.ref, 'refs/tags')
+        uses: pypa/gh-action-pypi-publish@v1.8.10
+        with:
+          password: ${{ secrets.PYPI_API_TOKEN }}
+
+  container:
+    name: Build container
+    needs:
+      # Only publish if other jobs passed
+      - lint
+      - test
+    runs-on: ubuntu-latest
+    env:
+      REGISTRY: ghcr.io
+      IMAGE_NAME: ${{ github.repository }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get short reference (e.g. branch or tag)
+        # If there are multiple / (e.g. refs/prs/123/merge) use the last component
+        run: |
+          echo "SHORT_REF=${GITHUB_REF##refs*/}" >> $GITHUB_ENV
+
+      # https://www.redhat.com/en/blog/build-ubi-containers-github-actions-buildah-and-podman
+      - name: Buildah Action
+        id: build-image
+        uses: redhat-actions/buildah-build@v2
+        with:
+          image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          tags: ${{ env.SHORT_REF }}
+          containerfiles: |
+            ./Dockerfile
+
+      - name: Log in to the GitHub Container registry
+        if: startsWith(github.ref, 'refs/tags/') || (github.ref == 'refs/heads/main')
+        uses: redhat-actions/podman-login@v1
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to GitHub Container Repository
+        if: startsWith(github.ref, 'refs/tags/') || (github.ref == 'refs/heads/main')
+        uses: redhat-actions/push-to-registry@v2
+        with:
+          image: ${{ steps.build-image.outputs.image }}
+          tags: ${{ steps.build-image.outputs.tags }}
+          registry: ${{ env.REGISTRY }}
+
+      - name: Run repo2docker image
+        run: |
+          podman run ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ env.SHORT_REF }} repo2docker --version
+
+  # Provides a single status_all check that can be used in GitHub branch
+  # protection rules instead of having to list each matrix job
+  # https://github.community/t/status-check-for-a-matrix-jobs/127354/7
+  status_all:
+    name: Status matrix Test
+    if: always()
+    runs-on: ubuntu-latest
+    needs:
+      - lint
+      - test
+      - publish-pypi
+      - container
+
+    steps:
+      - name: Check matrix status
+        run: |
+          result="${{ needs.test.result }}"
+          if [[ $result == "success" || $result == "skipped" ]]; then
+            exit 0
+          else
+            exit 1
+          fi
