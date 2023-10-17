@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: unix_fs_exporter
+Version: 0.1.0
+Summary: Python implementation of a ipfs unix fs exporter.
+Home-page: https://github.com/kralverde/py-unix-fs-exporter/
+Author: kralverde
+Project-URL: Bug Tracker, https://github.com/kralverde/py-unix-fs-exporter/issues
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Classifier: Typing :: Typed
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+Requires-Dist: multiformats==0.2.1
+Requires-Dist: mmh3==4.0.1
+Requires-Dist: protobuf<4,>=3.20
+Requires-Dist: attrs>=23.0.0
+Requires-Dist: dag-cbor==0.3.2
+Requires-Dist: hamt-sharding>=0.1.3
