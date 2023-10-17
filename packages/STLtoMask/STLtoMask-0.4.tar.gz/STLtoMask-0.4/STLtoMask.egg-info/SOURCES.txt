@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+STLtoMask.egg-info/PKG-INFO
+STLtoMask.egg-info/SOURCES.txt
+STLtoMask.egg-info/dependency_links.txt
+STLtoMask.egg-info/top_level.txt
+StlMaskConverter/__init__.py
+StlMaskConverter/color_reader.py
+StlMaskConverter/converter.py
