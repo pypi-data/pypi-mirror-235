@@ -1,0 +1,9 @@
+adams/__init__.py,sha256=0h7AV7G4PpUS2BhLSe8todANj3TT44qVLhvyn9-SvJI,81
+adams/db_maker.py,sha256=fwc2BHbJt-J7EoLYoRop3L7AdVjPTeOnQ3FmbGXBmwI,2730
+adams/matcher.py,sha256=EaFUXaW-PQhgK2cmhzYVc0bia6RkqA0WDO8EqHYr4XQ,3320
+adams/tool_kit.py,sha256=qoV7O1PBAOWddyR4ilIzXMr8eep-y50dBVHcb0JSpXY,2015
+adams-0.0.5.dist-info/LICENSE,sha256=vaHsE7Jc1ZhoJuCavjIb44nAB8q7xsGIlwS5Ao4d9f4,35792
+adams-0.0.5.dist-info/METADATA,sha256=rCboYmobjn6GDuWHG9FI3wlt8RIgv0VFiBaHDwBLhkI,4950
+adams-0.0.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+adams-0.0.5.dist-info/top_level.txt,sha256=q47dSDU4rsBD2dHZg72T7sVhHBORMnon9tHkM19IRM4,6
+adams-0.0.5.dist-info/RECORD,,
