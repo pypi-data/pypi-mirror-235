@@ -1,0 +1,12 @@
+phylosophos/__init__.py,sha256=4Zw-ZVYWYLQ28yQ7wcVSk76yPqXBar3OrrFBm-7dE_8,125
+phylosophos/gbif_extra.py,sha256=kmjed82tfDAFnw97brCFtEj3OHK6CQvrRS1U6BxE2RM,7130
+phylosophos/phylosophos_core.py,sha256=bx3VmX2CedW02cOUgkveeBiA5nfQk3Pfiyl2LWUC2ns,1618
+phylosophos/phylosophos_initialize_update.py,sha256=_Bpib5jjyQo4BStj889UXMRNfXcH_UbH2S0SyKCXUdA,2746
+phylosophos/ps_analysis.py,sha256=NUmMQOYRa7wUnUIPoFI2I7Hp33SXWyV_eSZetOi2i3g,36739
+phylosophos/ps_initialize.py,sha256=Wc2YI8RPWHCPOx6RTjVhVwaiqe7Ops4pqXNUUG4gxI4,9672
+phylosophos/ps_update.py,sha256=QlqI7vsXE5Kc6uOVrCBF6JTpnOD2_h8AEmWjM38ZsXQ,16796
+phylosophos-1.1.3.dist-info/LICENSE,sha256=esxdPGObRUw7jaz4tQ6P6buGSBNQDfJb1jKoksiTjz0,1091
+phylosophos-1.1.3.dist-info/METADATA,sha256=Zh6H0xfrd0w_FPIpiZJvkpPzE8uHrERQHuK7lVjqONs,12540
+phylosophos-1.1.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+phylosophos-1.1.3.dist-info/top_level.txt,sha256=Tuhyw6JNwhLtRw8J5YIIYKbdN7ZZK5Y2pfm-8R87y1M,12
+phylosophos-1.1.3.dist-info/RECORD,,
