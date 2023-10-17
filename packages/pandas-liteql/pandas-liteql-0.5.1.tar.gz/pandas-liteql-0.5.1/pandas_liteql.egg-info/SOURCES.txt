@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pandas_liteql/__init__.py
+pandas_liteql/liteql.py
+pandas_liteql.egg-info/PKG-INFO
+pandas_liteql.egg-info/SOURCES.txt
+pandas_liteql.egg-info/dependency_links.txt
+pandas_liteql.egg-info/requires.txt
+pandas_liteql.egg-info/top_level.txt
