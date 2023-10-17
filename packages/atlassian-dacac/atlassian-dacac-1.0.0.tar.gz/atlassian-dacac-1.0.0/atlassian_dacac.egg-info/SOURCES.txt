@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_dacac.egg-info/PKG-INFO
+atlassian_dacac.egg-info/SOURCES.txt
+atlassian_dacac.egg-info/dependency_links.txt
+atlassian_dacac.egg-info/requires.txt
+atlassian_dacac.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
