@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: loggerbase
+Version: 0.0.1
+Summary: No frills logging
+Home-page: https://gitlab.potatofarmers.eu/public-projects/libraries/loggerbase
+Author: Dylan Westra
+Author-email: dylanwestra@gmail.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: toml
+Provides-Extra: database
+Requires-Dist: sqlalchemy ; extra == 'database'
+Provides-Extra: dev
+Requires-Dist: pytest ; extra == 'dev'
+
+See README.md
