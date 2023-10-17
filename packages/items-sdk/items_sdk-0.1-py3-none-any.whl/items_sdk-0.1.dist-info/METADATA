@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: items-sdk
+Version: 0.1
+Summary: SDK for interacting with FastAPI items API
+Home-page: https://github.com/ranyelhousieny/items-sdk
+Author: Rany ElHousieny
+Author-email: rany@elhousieny.com
+License: MIT
+Keywords: sdk fastapi items
+Requires-Dist: requests
+
