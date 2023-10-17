@@ -1,0 +1,10 @@
+wxpython>=4.1.0
+Gooey>=1.0.8
+
+[test]
+pytest
+pytest-cov
+pytest-flakes
+pytest-pycodestyle
+flake8
+mypy
