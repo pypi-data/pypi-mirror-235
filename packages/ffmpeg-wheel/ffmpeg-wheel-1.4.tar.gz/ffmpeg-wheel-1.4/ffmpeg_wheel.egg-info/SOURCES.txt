@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+ffmpeg/__init__.py
+ffmpeg/audio.py
+ffmpeg/image.py
+ffmpeg/stream.py
+ffmpeg/video.py
+ffmpeg_wheel.egg-info/PKG-INFO
+ffmpeg_wheel.egg-info/SOURCES.txt
+ffmpeg_wheel.egg-info/dependency_links.txt
+ffmpeg_wheel.egg-info/top_level.txt
