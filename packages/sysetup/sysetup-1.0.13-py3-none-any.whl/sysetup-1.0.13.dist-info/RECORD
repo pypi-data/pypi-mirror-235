@@ -1,0 +1,14 @@
+sysetup/__init__.py,sha256=-bBNFYOq80A2Egtpo5V5zWJtYOxQfRZFQ_feve5lkFU,23
+sysetup/env.py,sha256=Q-fd6bzNhTErhiQBX3YUclVsGP5mOZOLcSg2H6pxZNM,294
+sysetup/files.py,sha256=l8kIy-JcHkXDmTNcxlfP9YMP1so5g5YMeaX_iKloDRg,2288
+sysetup/installer.py,sha256=7n38AHrajSOJsO0wb32F717w3-t8bSsakREK9GRFUM0,5453
+sysetup/main.py,sha256=jhdBv7cRLxtLTlz2NKhLVomdGe9YbFB-LiLAWA0ZZQE,682
+sysetup/path.py,sha256=RveqXcsaA135jSBOfbsdC9rIEd_PE6_y89Km2RayfoI,327
+sysetup-1.0.13.data/scripts/pw,sha256=T1lUsdUmup0vHMPcT28M3YEFkBFhZaIWZ8WaDKPAVoE,95
+sysetup-1.0.13.data/scripts/pw_askpass,sha256=s4ClAdgIgcsSE05DndpL-ynISKh4gcpE8quQpTCMWSc,77
+sysetup-1.0.13.dist-info/LICENSE,sha256=3SpkU5zigePzusLxuOM1owxT-1oBp3cRerWDQmBCK_o,1069
+sysetup-1.0.13.dist-info/METADATA,sha256=pEVo1pyTfwclgu5ahJrIy527z9WTYR43NyLh58prayA,1401
+sysetup-1.0.13.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+sysetup-1.0.13.dist-info/entry_points.txt,sha256=guS5BM80u7BXoXXU1wjy6FTrblMUYAwm_3HtVMjacvk,84
+sysetup-1.0.13.dist-info/top_level.txt,sha256=-_y1lSHBO7N6b1reIMMcinxVO70p84cPabjZq3byuPg,8
+sysetup-1.0.13.dist-info/RECORD,,
