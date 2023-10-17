@@ -1,0 +1,17 @@
+odoo/addons/l10n_jp_address_layout/README.rst,sha256=FftXYpLSRanIlSwvJehHOSBBwHiS9UaWaCb3ZwJS7gA,3231
+odoo/addons/l10n_jp_address_layout/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+odoo/addons/l10n_jp_address_layout/__manifest__.py,sha256=l8iD_vln_C62XmyMDnCioAQMRoN_rIfsweAihPqR8nU,494
+odoo/addons/l10n_jp_address_layout/data/res_country_data.xml,sha256=5aERzaw4uacYwZEnwfm2eKEfl8Klvb8GUNQzXNIHdQw,193
+odoo/addons/l10n_jp_address_layout/i18n/ja.po,sha256=2AWVMEZ8enINN617HL1GsQPKw4hGcjJY7upqnVkrnXI,1779
+odoo/addons/l10n_jp_address_layout/i18n/l10n_jp_address_layout.pot,sha256=2DU5lwUI_k5Bu5SuC-ZjOhPi1wtUWaG9C3jUJ8xCEQ8,1566
+odoo/addons/l10n_jp_address_layout/readme/CONTRIBUTORS.rst,sha256=sYe0LObGlUf986CWGzikgvU6Y5jMWrTZKP5hD53WK4w,104
+odoo/addons/l10n_jp_address_layout/readme/DESCRIPTION.rst,sha256=e8Uy_WMtbU3G-yccGisI28uaerGuxnfhXmqlOJXT9Mw,139
+odoo/addons/l10n_jp_address_layout/readme/USAGE.rst,sha256=tWYP_uEe25XuDTWMhtNL1PO1TvI1QJz3DN63-zNlUvg,158
+odoo/addons/l10n_jp_address_layout/static/description/icon.png,sha256=6xBPJauaFOF0KDHfHgQopSc28kKvxMaeoQFQWZtfZDo,9455
+odoo/addons/l10n_jp_address_layout/static/description/index.html,sha256=8527tLHCztvmDRaEyOu1nKPtG7B6SZIbSmNCYb8s6DM,12877
+odoo/addons/l10n_jp_address_layout/static/description/japan_address_layout.png,sha256=Fm-PGtDadfJOA0V5R8Gmr5yiotjyCIvdO2ui4lPq3Cg,18129
+odoo/addons/l10n_jp_address_layout/views/res_partner_views.xml,sha256=PEgn2zJVqxY7w1PSFk802woanW-0l8oGwS5k8FL3PNE,3025
+odoo_addon_l10n_jp_address_layout-16.0.1.0.0.2.dist-info/METADATA,sha256=uK06DWO7P3qaqoyx4PDuBGLhqk4QFugAGIaQBbIoOVE,3784
+odoo_addon_l10n_jp_address_layout-16.0.1.0.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+odoo_addon_l10n_jp_address_layout-16.0.1.0.0.2.dist-info/top_level.txt,sha256=qBj40grFkGOfDZ2WDSw3y1RnDlgG0u8rP8pvGNdbz4w,5
+odoo_addon_l10n_jp_address_layout-16.0.1.0.0.2.dist-info/RECORD,,
