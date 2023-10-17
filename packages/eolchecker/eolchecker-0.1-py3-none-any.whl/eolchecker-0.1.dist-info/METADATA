@@ -1,0 +1,98 @@
+Metadata-Version: 2.1
+Name: eolchecker
+Version: 0.1
+Summary: EOL Checker is a simple application which gathers EOL information for software and hardware and allows you to query locally.
+Author-email: Zafer Balkan <zafer@zaferbalkan.com>
+License: MIT License
+        
+        Copyright (c) 2022 Zafer Balkan
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: Homepage, https://github.com/zbalkan/eolchecker
+Keywords: eol
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: System :: Systems Administration
+Classifier: Intended Audience :: System Administrators
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: argparse >=1.4.0
+Requires-Dist: beautifulsoup4 >=4.11.1
+Requires-Dist: bs4 >=0.0.1
+Requires-Dist: certifi >=2022.6.15
+Requires-Dist: charset-normalizer >=2.1.0
+Requires-Dist: colorama >=0.4.4
+Requires-Dist: idna >=3.3
+Requires-Dist: requests >=2.28.1
+Requires-Dist: soupsieve >=2.3.2.post1
+Requires-Dist: tomli >=2.0.1
+Requires-Dist: typing >=3.7.4.3
+Requires-Dist: typing-extensions >=4.2.0
+Requires-Dist: urllib3 >=1.26.11
+Provides-Extra: dev
+Requires-Dist: mypy >=0.971 ; extra == 'dev'
+Requires-Dist: mypy-extensions >=0.4.3 ; extra == 'dev'
+
+# EOL checker
+
+EOL Checker is a simple application which gathers EOL information for software and hardware and allows you to query locally.
+
+The latest version is `0.1`.
+
+**Note** On the first use and after 7 days of expiry period, the database will be updated automatically. This is by design and cause slow start due to data download and database initiation.
+
+## Getting Started
+
+Install using `pip` or `pipx` ([recommended](https://pypa.github.io/pipx/)):
+
+```bash
+pip install eolchecker
+
+#OR
+pipx install eolchecker
+```
+
+Get help about usage:
+
+```bash
+usage: eolchecker [-h] [--software QUERY_SOFTWARE] [--hardware QUERY_HARDWARE] [-u]
+
+Query EOL software or hardware.
+
+options:
+  -h, --help            show this help message and exit
+  --software QUERY_SOFTWARE
+                        Query the software by name
+  --hardware QUERY_HARDWARE
+                        Query the software by name
+  -u, --update          Updates the local database. When combined with a query, it updates the database before running the query.
+```
+
+## Thanks
+
+The information for the software is based on data provided by [endoflife.date](https://endoflife.date) project. Hardware information is parsed from [Hardware Wartung website](https://www.hardwarewartung.com/en/).
