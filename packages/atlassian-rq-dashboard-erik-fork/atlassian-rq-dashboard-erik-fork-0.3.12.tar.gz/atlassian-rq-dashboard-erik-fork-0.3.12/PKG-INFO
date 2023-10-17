@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: atlassian-rq-dashboard-erik-fork
+Version: 0.3.12
+Requires-Dist: embedded-hermes-dataclasses
+Requires-Dist: tag-db-verification
