@@ -1,0 +1,11 @@
+relic/core/__init__.py,sha256=pI7R8Pz77ZN9RcpBy-hv1kya8PTwqMIpnx_FAA6EKc8,83
+relic/core/cli.py,sha256=H62iZ9FJ1MknRhKtMyb1HB7aBQDh6pWO6EntPZEd6hE,3620
+relic/core/errors.py,sha256=6HgG3TuFOH1YLwYPRwop9vydlhVS9iQIlUt0nTe4HFk,1191
+relic/core/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+relic/core/typeshed.py,sha256=srbfrYORxHajhsgxB09BMoBdjczALvEnlUdumoHyPV8,351
+relic_tool_core-1.1.1.dist-info/LICENSE.txt,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+relic_tool_core-1.1.1.dist-info/METADATA,sha256=smAqRynv_kzq7AJAXgMOdhoSrJn3lZ4B6yzALwfesLw,2492
+relic_tool_core-1.1.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+relic_tool_core-1.1.1.dist-info/entry_points.txt,sha256=ZY2ROXWK83nvQ1rYph1AjCGrm77b_PnSqo53ILi_G9A,54
+relic_tool_core-1.1.1.dist-info/top_level.txt,sha256=VF9jKoDOcGgiu100lchLi998l6Uo7jM-JvDDrVmhf4M,6
+relic_tool_core-1.1.1.dist-info/RECORD,,
