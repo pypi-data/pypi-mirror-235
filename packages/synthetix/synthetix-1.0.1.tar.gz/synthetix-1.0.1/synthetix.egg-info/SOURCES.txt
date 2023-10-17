@@ -1,0 +1,14 @@
+setup.py
+synthetix/__init__.py
+synthetix/constants.py
+synthetix/synthetix.py
+synthetix.egg-info/PKG-INFO
+synthetix.egg-info/SOURCES.txt
+synthetix.egg-info/dependency_links.txt
+synthetix.egg-info/requires.txt
+synthetix.egg-info/top_level.txt
+tests/test_perps_v3.py
+tests/test_queries.py
+tests/test_spot_v3.py
+tests/test_susd.py
+tests/test_synthetix.py
