@@ -1,0 +1,13 @@
+.coveragerc
+.gitignore
+README.rst
+requirements.txt
+setup.py
+tox.ini
+console_games.egg-info/PKG-INFO
+console_games.egg-info/SOURCES.txt
+console_games.egg-info/dependency_links.txt
+console_games.egg-info/top_level.txt
+docs/CHANGELOG.rst
+games/__init__.py
+tests/test_games.py
