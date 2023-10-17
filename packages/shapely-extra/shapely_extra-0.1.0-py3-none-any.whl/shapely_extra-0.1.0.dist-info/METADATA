@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: shapely-extra
+Version: 0.1.0
+Summary: Extra useful functions for the python shapely package
+Project-URL: Homepage, https://github.com/sdtaylor/shapely_extra
+Author-email: Shawn Taylor <shawntaylor@weecology.org>
+License-Expression: BSD-3-Clause
+License-File: LICENSE
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.8.0
+Requires-Dist: scipy
+Requires-Dist: shapely
+Description-Content-Type: text/markdown
+
+# shapely-extra
+

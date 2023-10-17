@@ -1,0 +1,12 @@
+shapely_extra/__init__.py,sha256=Fx84JoVM7pRvznuEnfUISk6iD0boR1rarabeIdBhLO8,110
+shapely_extra/angles.py,sha256=a8s2pJuR64WK9s347akPt_aGsUCYSoh0vDYrJAlGTwo,10395
+shapely_extra/area.py,sha256=dcxbn5BeLGlZ_hJa8WEpNUBwk2nJYh8Stu4HyNeGrL8,8503
+shapely_extra/grid.py,sha256=ySc-3rbOpBPHOwsYwBZT-vXWiPR68g0sRE02Ubz1gjk,7784
+shapely_extra/measure.py,sha256=tMR5zW9-TOT5ExwaLH0M_gtL5UgMzyKL7HB0VDW2RtA,5126
+shapely_extra/random.py,sha256=2fFuU5tbkzNbHJCsp2weOlksK7hAutrR7C7-BzcDC3c,3731
+shapely_extra/shapes.py,sha256=Vau_mjeynTZimldLxhAm_Sv4yU7CJu4_7Uv8iI_G99s,6855
+shapely_extra/utils.py,sha256=vaNMMuKTr4A8-a6oEEnBEeligVrOXf0ZGbTu6PrYzf0,2968
+shapely_extra-0.1.0.dist-info/METADATA,sha256=XEpwtB0oQmFn-RT4VIp3ZwaZllVMTMEDPFLqexgxxWE,907
+shapely_extra-0.1.0.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+shapely_extra-0.1.0.dist-info/licenses/LICENSE,sha256=OIJoUaKfySo1wKPG24YjQIpSneBDyXOEXLlke1MAHOs,1499
+shapely_extra-0.1.0.dist-info/RECORD,,
