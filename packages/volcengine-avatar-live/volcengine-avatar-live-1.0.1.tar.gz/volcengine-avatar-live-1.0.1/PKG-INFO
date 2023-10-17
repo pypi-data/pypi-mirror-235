@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: volcengine-avatar-live
+Version: 1.0.1
+Summary: SDK for Volcengine Avatar Live
+Author: Tingshuo Chen
+Author-email: chentingshuo@bytedance.com
+License: Apache 2.0
+Platform: all
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries
+Requires-Dist: requests>=2.27.1
+Requires-Dist: websockets>=11.0.3
+Requires-Dist: importlib-metadata; python_version >= "3.8"
+
+Install the client library
+
+::
+
+  pip install --upgrade volcengine-avatar-live
