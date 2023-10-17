@@ -1,0 +1,68 @@
+Metadata-Version: 2.1
+Name: cellacdc
+Version: 1.4.8
+Summary: Cell segmentation, tracking and event annotation
+Home-page: https://github.com/SchmollerLab/Cell_ACDC
+Author: Francesco Padovani and Benedikt Mairhoermann
+Author-email: francesco.padovani@helmholtz-muenchen.de
+Project-URL: Author contact, https://schmollerlab.com/francescopadovani
+Project-URL: Schmoller lab, https://schmollerlab.com/
+Keywords: live-cell imaging,cell segmentation,cell tracking,cell cycle annotations,image analysis
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Utilities
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: opencv-python-headless
+Requires-Dist: natsort
+Requires-Dist: h5py
+Requires-Dist: scikit-image>=0.18
+Requires-Dist: tqdm
+Requires-Dist: scikit-learn
+Requires-Dist: psutil
+Requires-Dist: boto3
+Requires-Dist: requests
+Requires-Dist: setuptools-scm
+Provides-Extra: gui
+Requires-Dist: qtpy; extra == "gui"
+Requires-Dist: pyqtgraph>=0.13.3; extra == "gui"
+Requires-Dist: seaborn; extra == "gui"
+Provides-Extra: pyqt6
+Requires-Dist: PyQt6; extra == "pyqt6"
+Provides-Extra: pyqt5
+Requires-Dist: PyQt5; extra == "pyqt5"
+Provides-Extra: pyside2
+Requires-Dist: PySide2; extra == "pyside2"
+Provides-Extra: pyside6
+Requires-Dist: PySide6; extra == "pyside6"
+Provides-Extra: torch
+Requires-Dist: torchvision; extra == "torch"
+Provides-Extra: tf
+Requires-Dist: tensorflow; extra == "tf"
+Provides-Extra: tensorflow
+Requires-Dist: tensorflow; extra == "tensorflow"
+Provides-Extra: pytorch
+Requires-Dist: torchvision; extra == "pytorch"
+Provides-Extra: all
+Requires-Dist: PyQt6; extra == "all"
+Requires-Dist: torchvision; extra == "all"
+Requires-Dist: tensorflow; extra == "all"
+Requires-Dist: tables; extra == "all"
