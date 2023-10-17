@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: thumbfair
+Version: 0.1.5
+Summary: 
+Author: Impasse52
+Author-email: giuseppe.termerissa@proton.me
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+# Thumbfair
+Collection of scripts to quickly generate thumbnails for SSBU tournaments.
