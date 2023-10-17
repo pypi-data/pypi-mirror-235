@@ -1,0 +1,8 @@
+README.md
+setup.py
+donsky1_print/__init__.py
+donsky1_print/test_print.py
+donsky1_print_test.egg-info/PKG-INFO
+donsky1_print_test.egg-info/SOURCES.txt
+donsky1_print_test.egg-info/dependency_links.txt
+donsky1_print_test.egg-info/top_level.txt
