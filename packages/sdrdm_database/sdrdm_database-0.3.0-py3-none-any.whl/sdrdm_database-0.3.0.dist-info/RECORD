@@ -1,0 +1,9 @@
+sdrdm_database/__init__.py,sha256=G2c4kO5WLT4LHyvT00vC1AraasdAgKtGQRVNeN2cqwo,246
+sdrdm_database/commands.py,sha256=xQQ9OAj2YtkWBvAgJDCfeZZelErrF9EhkNs9oDz32yU,2712
+sdrdm_database/dataio.py,sha256=ruBelsxtIxzq6MjE_VDayciZx_xeka1jatZFttoJ8zA,2191
+sdrdm_database/dbconnector.py,sha256=JfyuDa0UVDhoIoBELwLvBq0quU3QE2Rm9LKlu9EjQw8,5591
+sdrdm_database/tablecreator.py,sha256=kp1-xWKJh9UL51H0UGvj8Y8Qtw-lj9mqZsUXBb1sGC8,5796
+sdrdm_database-0.3.0.dist-info/LICENSE,sha256=I1yQsUyJbRKjBgaiY8wOFwRpBiimgCqNeIfrCRYEI7U,1066
+sdrdm_database-0.3.0.dist-info/METADATA,sha256=67Zn4X_thyB_jxC65KolPEp46FkGEC8hOl8tQuyCEbY,1563
+sdrdm_database-0.3.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+sdrdm_database-0.3.0.dist-info/RECORD,,
