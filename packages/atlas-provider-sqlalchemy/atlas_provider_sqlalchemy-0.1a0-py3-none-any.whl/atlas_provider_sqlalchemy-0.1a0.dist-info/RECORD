@@ -1,0 +1,6 @@
+cli/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cli/main.py,sha256=pfPyv2Dtb4nsEpPmgM31nMrSn7up-1OUaisNdegsdaA,3231
+atlas_provider_sqlalchemy-0.1a0.dist-info/METADATA,sha256=SjtSFA3c0J3zZPomgPkaf9rVZ0LjrakDsJmq2XydBq4,4681
+atlas_provider_sqlalchemy-0.1a0.dist-info/WHEEL,sha256=7Z8_27uaHI_UZAc4Uox4PpBhQ9Y5_modZXWMxtUi4NU,88
+atlas_provider_sqlalchemy-0.1a0.dist-info/entry_points.txt,sha256=awXHJi5IN9HTlx75TX3ER9NTJi7gJzSv9t8oxt23REE,58
+atlas_provider_sqlalchemy-0.1a0.dist-info/RECORD,,
