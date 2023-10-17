@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: django-db-config
+Version: 1.0.0
+Summary: Django database config
+Keywords: django,postgres
+Classifier: Framework :: Django
+Classifier: License :: Public Domain
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Database
+Description-Content-Type: text/markdown
+
+### Installation
+```bash
+$ pip install django-db-config
+```
+
+#### `settings.py`
+```python
+INSTALLED_APPS+=['django_db_config']
+```
+
+#### `migrate`
+```bash
+$ python manage.py migrate
+```
+
+### Models
+model|db_table|fields/columns
+-|-|-
+`Config`|`config`|`id`,`key`,`value`
+
