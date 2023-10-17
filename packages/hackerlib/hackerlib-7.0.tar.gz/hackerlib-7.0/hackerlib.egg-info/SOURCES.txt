@@ -1,0 +1,8 @@
+setup.py
+hackerlib/__init__.py
+hackerlib.egg-info/PKG-INFO
+hackerlib.egg-info/SOURCES.txt
+hackerlib.egg-info/dependency_links.txt
+hackerlib.egg-info/entry_points.txt
+hackerlib.egg-info/requires.txt
+hackerlib.egg-info/top_level.txt
