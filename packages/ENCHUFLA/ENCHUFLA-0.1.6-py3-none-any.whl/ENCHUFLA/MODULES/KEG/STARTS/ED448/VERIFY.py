@@ -1,0 +1,65 @@
+
+
+'''
+import requests
+import json
+r = requests.put (
+	'http://127.0.0.1:1110', 
+	data = json.dumps ({
+		"START": "ED448 VERIFY",
+		"FIELDS": {
+			"PUBLIC KEY PATH": "",
+			"UNSIGNED BYTES PATH": "",
+			"SIGNED BYTES PATH": ""
+		}
+	})
+)
+print (r.text)
+'''
+def VERIFY (
+	FIELDS
+):
+	PUBLIC_KEY_PATH = FIELDS ["PUBLIC KEY PATH"]
+	UNSIGNED_BYTES_PATH = FIELDS ["UNSIGNED BYTES PATH"]
+	SIGNED_BYTES_PATH = FIELDS ["SIGNED BYTES PATH"]
+
+	from DUOM.ED448.PUBLIC_KEY.SCAN import SCAN_PUBLIC_KEY
+	[ PUBLIC_KEY, PUBLIC_KEY_BYTES, PUBLIC_KEY_STRING ] = SCAN_PUBLIC_KEY (PUBLIC_KEY_PATH)
+
+	from UTF8.SCAN import SCAN_UTF8_NOTE
+	UNSIGNED_BYTES = SCAN_UTF8_NOTE (UNSIGNED_BYTES_PATH) [1]
+
+	from BYTES.SCAN import SCAN_BYTES
+	SIGNED_BYTES = SCAN_BYTES (SIGNED_BYTES_PATH) [0]
+
+	from DUOM.ED448.VERIFY import VERIFY
+	VERIFIED = VERIFY (
+		PUBLIC_KEY, 
+		UNSIGNED_BYTES, 
+		SIGNED_BYTES
+	)
+	
+	if (VERIFIED == True):	
+		return {
+			"GOOD": True,
+			"VERIFIED": VERIFIED
+		}
+		
+	return {
+		"GOOD": False,
+		"VERIFIED": VERIFIED
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
