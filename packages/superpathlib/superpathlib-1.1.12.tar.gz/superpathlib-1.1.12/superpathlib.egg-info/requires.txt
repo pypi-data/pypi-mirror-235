@@ -1,0 +1,10 @@
+
+[dev]
+bump2version
+pre-commit
+
+[test]
+hypothesis
+numpy
+pytest
+PyYaml
