@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: get-system-color
+Version: 1.0.2
+Summary: 这个库可快速调用windows平台的主题色及主题的信号
+Home-page: https://github.com/xiaoshuaiyo/get-system-color
+Author: xiaoshuaiYo
+Author-email: 619396351@qq.com
+License: Apache2
+Project-URL: Source Code, https://github.com/xiaoshuaiyo/get-system-color
+Project-URL: Bug Tracker, https://github.com/xiaoshuaiyo/get-system-color/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

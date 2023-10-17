@@ -1,0 +1,6 @@
+[buiid-system]
+requires=[
+    "setuptools>=42",
+    "wheel"
+]
+build-backend = "setuptoos_build_meta"
