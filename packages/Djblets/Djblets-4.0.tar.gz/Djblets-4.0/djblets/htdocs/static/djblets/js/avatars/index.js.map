@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../../../../../static/djblets/js/avatars/index.ts"],"sourcesContent":["/* Define a namespace for Djblets.Avatars. */\nexport const Avatars = {};\n"],"names":["Avatars"],"mappings":";;;;;;CAAA;AACaA,OAAAA,OAAO,GAAG;;;;;;;;"}

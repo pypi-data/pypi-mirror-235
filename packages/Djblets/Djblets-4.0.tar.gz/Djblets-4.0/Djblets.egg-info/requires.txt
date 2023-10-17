@@ -1,0 +1,14 @@
+cryptography>=41.0.4
+django-pipeline~=2.0.9
+Django~=3.2.22
+dnspython>=2.3.0
+feedparser>=6.0.9
+housekeeping~=1.1
+importlib-metadata>=6.6
+importlib-resources>=5.9
+packaging>=23.1
+Pillow>=6.2
+publicsuffix>=1.1
+python-dateutil>=2.7
+pytz
+typing_extensions>=4.4
