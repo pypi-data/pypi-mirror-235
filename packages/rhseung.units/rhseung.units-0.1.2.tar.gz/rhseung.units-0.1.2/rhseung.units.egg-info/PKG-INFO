@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: rhseung.units
+Version: 0.1.2
+Summary: A package for handling units.
+Home-page: https://github.com/rhseung
+Author: rhseung
+Author-email: rhseungg@gmail.com
+License: MIT
+Keywords: units,physics,mathematics
+Requires-Python: >=3.11
+License-File: LICENSE
