@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: h2o-mlops
+Version: 0.62.1a1
+Summary: Python client for H2O MLOps.
+Author-email: "H2O.ai" <support@h2o.ai>
+License: Proprietary License
+Keywords: h2o,mlops
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: h2o-authn
+Requires-Dist: httpx
+Requires-Dist: python-dateutil
+Requires-Dist: tabulate
+Requires-Dist: urllib3
+Requires-Dist: yarl
+
+# h2o-mlops
+
+## An H2O MLOps Python client for regular folks.
+
+This project is a work in progress and the API may change.
+Please send questions or feedback to support@h2o.ai.
