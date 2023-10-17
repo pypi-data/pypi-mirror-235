@@ -1,0 +1,70 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stochatreat"
+version = "0.0.16"
+description = 'Stratified random assignment using pandas'
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = [
+  "randomization",
+  "block randomization",
+  "stratified randomization",
+  "stratified random assignment",
+  "strata",
+]
+authors = [{ name = "Manuel Martinez", email = "manmartgarc@gmail.com" }]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+  "Operating System :: OS Independent",
+  "License :: OSI Approved :: MIT License",
+]
+dependencies = ["pandas"]
+
+[project.optional-dependencies]
+dev = ["black", "build", "bump2version", "mypy", "ruff", "pytest", "pytest-cov"]
+
+[project.urls]
+Documentation = "https://github.com/manmartgarc/stochatreat/blob/main/README.md"
+Issues = "https://github.com/manmartgarc/stochatreat/issues"
+Source = "https://github.com/manmartgarc/stochatreat/"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+exclude = ["tests"]
+namespaces = false
+
+[tool.setuptools.package-data]
+stochatreat = ["py.typed"]
+
+[tool.black]
+line-length = 79
+
+[tool.mypy]
+python_version = 3.8
+files = ["src", "tests"]
+check_untyped_defs = true
+show_error_codes = true
+pretty = true
+ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 79
+target-version = "py38"
+
+[tool.pytest.ini_options]
+addopts = [
+  "--cov=stochatreat",
+  "--cov-branch",
+  "--cov-report=term-missing",
+  "--durations=5",
+]
