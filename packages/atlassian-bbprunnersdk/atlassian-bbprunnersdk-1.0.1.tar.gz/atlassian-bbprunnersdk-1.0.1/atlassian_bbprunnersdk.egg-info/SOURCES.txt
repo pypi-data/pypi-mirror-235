@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_bbprunnersdk.egg-info/PKG-INFO
+atlassian_bbprunnersdk.egg-info/SOURCES.txt
+atlassian_bbprunnersdk.egg-info/dependency_links.txt
+atlassian_bbprunnersdk.egg-info/requires.txt
+atlassian_bbprunnersdk.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
