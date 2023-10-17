@@ -1,0 +1,6 @@
+README.rst
+setup.py
+volcengine_avatar_live.egg-info/PKG-INFO
+volcengine_avatar_live.egg-info/SOURCES.txt
+volcengine_avatar_live.egg-info/dependency_links.txt
+volcengine_avatar_live.egg-info/top_level.txt
