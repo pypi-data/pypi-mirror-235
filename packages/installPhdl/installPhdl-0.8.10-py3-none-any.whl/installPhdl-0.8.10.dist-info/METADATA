@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: installPhdl
+Version: 0.8.10
+Summary: Install PhotoLibDownloader GUI
+Author-email: MrChad <mrchad0815@icloud.com>
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: pyinstaller >=5.13.2
+
+# PhotoLibDownloader [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+
+A graphical user interface to "iCloud Photos Downloader", a tool to download your iCloud photos into local folders 
+
+## MacOS installation
+
+### Click-only Installation
+
+Download and install a Mac Shortcut from
+* https://www.icloud.com/shortcuts/d0a29e765d73482684f3e26966f79aa4
+You have to confirm a series of security-related questions before you can run the downloaded script
+
+### Installation per Terminal commands
+The script from above essentially executes some terminal commands. 
+Alternatively, you can enter them directly:
+
+1 - to check and -if prompted- install pip3 and python3 on your machine:
+
+``` sh
+$ pip3 -V
+```
+2 - to download the PhotoLibDownloader installation script from the repository:
+``` sh
+$ pip3 install --upgrade installPhdl
+```
+3 - to create and install the PhotoLibDownloader app on your computer
+``` sh
+$ python3 -m installPhdl
+```
+
+### Windows 
+Compatible installation scripts will be provided with a future release. 
+
+A Python-knowlegdeable person may very well be able to deduct the Windows equivalents from the commands above. 
+
+### Linux
+
+Compatible installation scripts will be provided with a future release
+
+---
+### Attribution
+PhotoLibDownloader is a Python graphical user interface which hooks into the original code of
+* [iCloud Photos Downloader](https://pypi.org/project/icloudpd/) V1.16.2 - a command-line tool to download photos and videos from iCloud.
+
+which in turn uses slightly modified code from
+* [pyiCloud](https://pypi.org/project/pyicloud/) - a module which allows pythonistas to interact with iCloud webservices.
