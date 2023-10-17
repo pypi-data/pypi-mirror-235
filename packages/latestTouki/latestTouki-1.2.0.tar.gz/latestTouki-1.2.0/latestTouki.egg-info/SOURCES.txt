@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+latestTouki/__init__.py
+latestTouki/morita_toukiDateList_to_Latestyyyymmdd.py
+latestTouki.egg-info/PKG-INFO
+latestTouki.egg-info/SOURCES.txt
+latestTouki.egg-info/dependency_links.txt
+latestTouki.egg-info/requires.txt
+latestTouki.egg-info/top_level.txt
