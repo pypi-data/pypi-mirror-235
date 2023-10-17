@@ -1,0 +1,10 @@
+numpy
+sentence_transformers
+torch
+hnswlib
+fastapi
+uvicorn
+joblib
+python-multipart
+langchain
+pydantic
