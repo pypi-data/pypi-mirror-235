@@ -1,0 +1,7 @@
+numpy
+scipy
+psutil
+clipboard
+matplotlib
+keyboard
+spicelib>=0.6
