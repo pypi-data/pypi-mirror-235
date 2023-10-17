@@ -1,0 +1,9 @@
+fastapi_script/__init__.py,sha256=D4VEta7dAz5mA47Wk7FMVQhmk-3iyKsgVWqTHxgUJHI,6861
+fastapi_script/command.tmpl,sha256=1kAwRYcXcsubMQUsHe4Nhs_AbsWudgQf8ffHF2ZHWH8,167
+fastapi_script/commands.py,sha256=h7lPyN3q89bofunUnKLDfSZjqDIRMTlKRhZo2xQmNSY,4064
+fastapi_script/defaults.py,sha256=uLTdQaH483T_5SoeLISzMrxF3XvDBwKOM97PEtaT7ao,2165
+fastapi_script-0.0.7.dist-info/LICENSE,sha256=XjKTX1iS6fuxetwHQFq2qIZuhz2Y4WpNmkd8443rHrE,1064
+fastapi_script-0.0.7.dist-info/METADATA,sha256=c2EoXHWYkY8Bcy0bgsECF8whLIpaK-QBxYibxadS-rM,3485
+fastapi_script-0.0.7.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+fastapi_script-0.0.7.dist-info/top_level.txt,sha256=FWhKQwAYrIqrxDTZAYYZdR4XIcyDC7GqPgDgI1jj2tE,15
+fastapi_script-0.0.7.dist-info/RECORD,,
