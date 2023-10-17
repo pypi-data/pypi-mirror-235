@@ -1,0 +1,10 @@
+cftime_rs-0.1.5.dist-info/METADATA,sha256=evHaZZNQiMnfoTQq3xmCLbbA1hAQg7f3vB8InJjooAI,10087
+cftime_rs-0.1.5.dist-info/WHEEL,sha256=m7t6ChAib0huK2498BOk3az26tDTzAYlkxc9hHxo2Ss,90
+cftime_rs-0.1.5.dist-info/license_files/LICENSE,sha256=ppSWHk6iDmN_Avg-c5wYvDKGrn_NTejMT7p2RAcdVwQ,34821
+cftime_rs/cftime_rs.pyi,sha256=a3zSEwMpgQFxt_gEPAlxQG0XL4bjsqO4zy7SV1AhtDU,18324
+cftime_rs/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/tests/test_functions.py,sha256=BAuBzqJ_2ld4lL96-emwkbn3BOsyDbDGoId7jsl3e7g,2221
+cftime_rs/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/__init__.py,sha256=mXLJTWOne9UcIF2SBw6DfSMP05RsfvjG9fW844fxQ4A,35
+cftime_rs/cftime_rs.cp38-win32.pyd,sha256=Tw63eiLqlAVmAwRrL1Scz91Qhawpag4f2ykDmwpPCgM,492544
+cftime_rs-0.1.5.dist-info/RECORD,,
