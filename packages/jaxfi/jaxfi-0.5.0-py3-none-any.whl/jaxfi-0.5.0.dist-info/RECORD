@@ -1,0 +1,11 @@
+jfi/__init__.py,sha256=gQYKWMlbruzDfN4PKH4QP4hcUe8ujCPjXGt4z0OG8IA,329
+jfi/api.py,sha256=hOrWfe0ExTLLuumZcxu1OfQFcghf2uWYXMlJLlkamFM,6279
+jfi/globals.py,sha256=PVptT3X5WjKXe3SO6yPkbBQ-1nIKpRHu5ehue2fS5JQ,114
+jfi/utils.py,sha256=dHTb2jH87_MefD94TX9hVD4bH-cvXxdMe8H2DC2xdn4,4939
+jfi/experimental/__init__.py,sha256=pp0wGcErF23u2SSrt6lmyaoku7glp9gqz2gNKD3BnMU,41
+jfi/experimental/jit.py,sha256=4DPqpR52gKeIGGh3f10t4LOkmoU3PMsTdYW3zccoExQ,3497
+jaxfi-0.5.0.dist-info/LICENSE,sha256=Y_vRJ8ePCccT_XKyn3V3moM24W2NoXqcKq0cSeZhCng,1068
+jaxfi-0.5.0.dist-info/METADATA,sha256=fbkriuss0TiY8Xlp5CcwRfQxW0549EUCJvZPJ-9Z9Kg,4518
+jaxfi-0.5.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+jaxfi-0.5.0.dist-info/top_level.txt,sha256=9_-LI3MtI89pw6-ahh2tIICPF8bhS6uyzknDKpVAgCw,4
+jaxfi-0.5.0.dist-info/RECORD,,
