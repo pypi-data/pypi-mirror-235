@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: dynlab
+Version: 0.0.1
+Summary: A package for dynamical systems analysis
+Project-URL: Homepage, https://github.com/hokiepete/dynlab
+Project-URL: Bug Tracker, https://github.com/hokiepete/dynlab/issues
+Author-email: Peter Nolan <pnolan86@vt.edu>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# dynlab
