@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: atlassian-hams-client
+Version: 5.8.56
+Requires-Dist: embedded-hermes-dataclasses
+Requires-Dist: tag-db-verification
