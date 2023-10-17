@@ -1,0 +1,12 @@
+secrets_fields/backends/backends.py,sha256=iu5T9pJEpAleUWl8BN3emKenYMpuIim1h850dBnmSHw,385
+secrets_fields/backends/secretsmanager.py,sha256=G0wBE5AfFgvD1uMYBwYUjOfaZJaNIlSsozzgFyWUbl8,1900
+secrets_fields/fields.py,sha256=42BhcG3yssEZI8ovtniI9NfbzF5zVxlj18EQa4DyaN4,1774
+secrets_fields/management/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+secrets_fields/management/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+secrets_fields/management/commands/create_secret.py,sha256=mSFqYjAhEaCBD2L8CvP3_3RpqGIgB2dEVgFVHsB_ncI,1018
+secrets_fields/settings.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+secrets_fields/util.py,sha256=ltRNjbYSjDZ2sW0VSFEDWgNltaACuxNJj-piaq-9VC0,1011
+django_secrets_fields-0.0.9.dist-info/LICENSE,sha256=q6sSbzIlvPY1TtbF6qsNlpibyVpVLiVSDXh0Bwqv-dg,1061
+django_secrets_fields-0.0.9.dist-info/WHEEL,sha256=vVCvjcmxuUltf8cYhJ0sJMRDLr1XsPuxEId8YDzbyCY,88
+django_secrets_fields-0.0.9.dist-info/METADATA,sha256=x2xz0ithb3EVppmKXQQ4-kZn9-e9BJjEyX9qQbpisXc,780
+django_secrets_fields-0.0.9.dist-info/RECORD,,
