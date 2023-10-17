@@ -1,0 +1,3 @@
+[console_scripts]
+gt-unreal-device = gtunrealdevice.main:execute
+gtunrealdevice = gtunrealdevice.main:execute
