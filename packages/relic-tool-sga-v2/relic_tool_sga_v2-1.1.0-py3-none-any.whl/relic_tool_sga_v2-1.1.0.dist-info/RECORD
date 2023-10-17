@@ -1,0 +1,10 @@
+relic/sga/v2/__init__.py,sha256=YWQYZNbozxv_C-FuVQ_PUhozLtvbQKTqoDinlcuZpQo,263
+relic/sga/v2/cli.py,sha256=vCZMaTYd5KfcAsfBI7HABFu6jkdPokIR03Jd3dzK7Ug,5105
+relic/sga/v2/definitions.py,sha256=TsNZAmsDF-4Osb9L8MixdLSmzTHA8HZ1hewbXfaIfoA,144
+relic/sga/v2/serialization.py,sha256=yqI_PmzlMoxtpHT45ZNEGuWxKo9O62DIxst6l3gbbJk,7401
+relic_tool_sga_v2-1.1.0.dist-info/LICENSE.txt,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+relic_tool_sga_v2-1.1.0.dist-info/METADATA,sha256=Eir8kNWNqHNIzekIiBj4noUhqH5hbShSlmD2Tn9oiKY,2588
+relic_tool_sga_v2-1.1.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+relic_tool_sga_v2-1.1.0.dist-info/entry_points.txt,sha256=rwOmMgKZPkKa903dgtey2A8tnWALRAmGdZ1NOhEq1Zo,192
+relic_tool_sga_v2-1.1.0.dist-info/top_level.txt,sha256=VF9jKoDOcGgiu100lchLi998l6Uo7jM-JvDDrVmhf4M,6
+relic_tool_sga_v2-1.1.0.dist-info/RECORD,,
