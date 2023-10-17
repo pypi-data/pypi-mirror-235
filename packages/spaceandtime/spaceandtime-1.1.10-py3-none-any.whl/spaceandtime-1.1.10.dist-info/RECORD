@@ -1,0 +1,17 @@
+spaceandtime/__init__.py,sha256=DDQxSGKS1VeY_bHHzid6AXHQZ7CUcAGDG2t6hJhA1PI,312
+spaceandtime/__main__.py,sha256=9iIxI4JSSLQnd2Eo7cCT8VO8rCoZS4vgj6pCsVidiZo,557
+spaceandtime/apiversions.json,sha256=CZb965U_vSvttIuPKO3u5fBuk9EpdHGK59LesZZqHtI,1546
+spaceandtime/spaceandtime.py,sha256=Kbnmd3f42FjHXa_EIEpXx2AHd2IM3l2jwN8FmhchF1g,16571
+spaceandtime/sxtbaseapi.py,sha256=j5zn29Lzw-WVriTM4Elp2GzTYvlplXsrr8SIaR73FIo,32088
+spaceandtime/sxtbiscuits.py,sha256=xBJJFMwnSyTIMlYffbrUd5ITr_k5V9fmW3IF-JRNI08,18271
+spaceandtime/sxtenums.py,sha256=D6_1MuQsHRwmX8rBWYowD8C_m-vvLtgScUyx5JWTwNw,1666
+spaceandtime/sxtexceptions.py,sha256=rN-C2HUn1gw-mrmjlAW26gkpCQAy7goe6d4Tumh45Es,1309
+spaceandtime/sxtkeymanager.py,sha256=8DJ2cCIZZy3JIP83y690ChV5uQzpPHb2m7_9XoKI05I,13104
+spaceandtime/sxtresource.py,sha256=0aCq7pfn_UUCTWMXthzmSr9ZIcKhTOWRSZJKMZycv54,42740
+spaceandtime/sxtuser.py,sha256=4AOKx7JcwBH2HzRCzKV7g7HxzT7UlBKt9rdgK1Ytrk8,13398
+spaceandtime-1.1.10.dist-info/LICENSE,sha256=o_4b-dtXlM-2ORqaigGPL4gXd8Q8MQW6ZIeca1P9yR0,1071
+spaceandtime-1.1.10.dist-info/METADATA,sha256=BJpIvijeHtiGPS93GWT15NxkqLmYmpdouKzW6E5-mXo,9649
+spaceandtime-1.1.10.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+spaceandtime-1.1.10.dist-info/entry_points.txt,sha256=meN5p2srQAkStiqsZIYNNllYF8soehR1aks5jZlMbIw,56
+spaceandtime-1.1.10.dist-info/top_level.txt,sha256=92hHNuWsS0JssRloAEr2np9ylWtasXPaLL7EeXmUVuI,13
+spaceandtime-1.1.10.dist-info/RECORD,,
