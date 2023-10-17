@@ -1,0 +1,14 @@
+black
+breathe
+cmakelang
+cpplint
+ipykernel
+ipython
+numpy
+pre-commit
+pylint
+pytest
+setuptools
+sphinx
+sphinx_rtd_theme
+twine
