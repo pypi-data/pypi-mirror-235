@@ -1,0 +1,2 @@
+[console_scripts]
+conman = conman.main:main
