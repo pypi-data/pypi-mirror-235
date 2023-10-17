@@ -1,0 +1,9 @@
+baroncs/__init__.py,sha256=Zjq0-VtxgvbA5zae7PLDDjbLZ9eZ2X_Z-zd0hbBYNUE,38
+baroncs/charge_state.py,sha256=pO9boUU_9AqJKSS4opKii4DVy4ZUzcT3SdiC30YsXjg,11284
+baroncs/table/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+baroncs/table/elements.csv,sha256=z6MkCjmxPF2aXid4H2WTMl5Nw648oxCJcwvheO3YdaQ,2138
+baroncs-0.1.5.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+baroncs-0.1.5.dist-info/METADATA,sha256=hRqkrGiRcCvw930BQtrsz0sdt1DR2IVvdC47QKrU9p8,6748
+baroncs-0.1.5.dist-info/WHEEL,sha256=iYlv5fX357PQyRT2o6tw1bN-YcKFFHKqB_LwHO5wP-g,110
+baroncs-0.1.5.dist-info/top_level.txt,sha256=oanSfFTjuuqKEVCFYf_-Ll1u2o0Me-Yg_CuvI8Bp2nU,8
+baroncs-0.1.5.dist-info/RECORD,,
