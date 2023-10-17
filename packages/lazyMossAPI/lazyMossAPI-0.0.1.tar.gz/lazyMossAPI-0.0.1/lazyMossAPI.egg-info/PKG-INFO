@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: lazyMossAPI
+Version: 0.0.1
+Summary: 一个简单的用于请求MossFrp API的库
+Author: MojaveHao
+Author-email: HTTcode2020@126.com
+License: AGPLv3
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests
+
+# lazyMossAPI
+
+> 一个简单的库,用于向MossFrp API发送请求
+
+## 快速开始
+
+#### 登录
+
+```python
+from lazyMossAPI.MossFrpAPI import MossFrpAPI
+api = MossFrpAPI()
+result = api.login("your_email@example.com","your_passwd")
+if result:
+    print("Succeed.")
+```
