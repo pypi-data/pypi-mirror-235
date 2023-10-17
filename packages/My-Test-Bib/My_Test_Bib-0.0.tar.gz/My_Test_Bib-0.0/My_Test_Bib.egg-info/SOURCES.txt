@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.cfg
+setup.py
+test.txt
+My_Test_Bib.egg-info/PKG-INFO
+My_Test_Bib.egg-info/SOURCES.txt
+My_Test_Bib.egg-info/dependency_links.txt
+My_Test_Bib.egg-info/not-zip-safe
+My_Test_Bib.egg-info/top_level.txt
+my_bib/__init__.py
+my_bib/version.py
