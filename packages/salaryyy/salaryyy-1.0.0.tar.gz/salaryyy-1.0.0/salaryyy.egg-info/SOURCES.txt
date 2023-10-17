@@ -1,0 +1,7 @@
+setup.py
+SALARY/__init__.py
+SALARY/main.py
+salaryyy.egg-info/PKG-INFO
+salaryyy.egg-info/SOURCES.txt
+salaryyy.egg-info/dependency_links.txt
+salaryyy.egg-info/top_level.txt
