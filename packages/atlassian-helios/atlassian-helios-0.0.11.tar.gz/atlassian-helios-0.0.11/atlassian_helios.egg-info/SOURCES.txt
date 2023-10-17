@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_helios.egg-info/PKG-INFO
+atlassian_helios.egg-info/SOURCES.txt
+atlassian_helios.egg-info/dependency_links.txt
+atlassian_helios.egg-info/requires.txt
+atlassian_helios.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
