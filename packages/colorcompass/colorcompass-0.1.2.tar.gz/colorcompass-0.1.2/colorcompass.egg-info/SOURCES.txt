@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+setup.py
+color-compass/__init__.py
+color-compass/color_compass.py
+color-compass/color_dictionary.py
+colorcompass.egg-info/PKG-INFO
+colorcompass.egg-info/SOURCES.txt
+colorcompass.egg-info/dependency_links.txt
+colorcompass.egg-info/top_level.txt
