@@ -1,0 +1,13 @@
+rendercv/__init__.py,sha256=EwpxE7l5K7G9a1RHtxlnXyq3nOq7IxFclxRlHmA9O7Y,1360
+rendercv/__main__.py,sha256=DRIjVkrkUX2GqaVj7SulSdixc5G9qRGBYUVHobwnSC0,977
+rendercv/data_model.py,sha256=NLdmQFN5MjoJAqI60fLKQiZoQWWxt29Oa9Pb4xHEnAA,42472
+rendercv/rendering.py,sha256=89v98qHgr37NEXHvWXKlu-c2sKVn69ZaHWI03rTdaTQ,14736
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_data_model.py,sha256=Cp7ESuuPMjzcUnVj5KXTusGLf3OB3IkbRsmBHCwIvh8,27786
+tests/test_rendering.py,sha256=t_lBa2DBWZxd4392jz6J5Ipo36_RV8Suz_xtkTcIUaw,18581
+rendercv-0.1.dist-info/LICENSE,sha256=64cRzyKDzuqbMqW14E4bEuORt-1uN7a1FicwVJjw6q4,1115
+rendercv-0.1.dist-info/METADATA,sha256=zEandDgspMd0cQ2CwTQdqQx9HLrNenW9sIQg0wNDmYQ,1769
+rendercv-0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+rendercv-0.1.dist-info/entry_points.txt,sha256=TxnMNVursmc2sWV4mC4o3bf7VQ71aO7veZjY0Q7tCg0,53
+rendercv-0.1.dist-info/top_level.txt,sha256=pSa_9W8-C0rMug6gtLBf7MaxWP3yoo3FLIvm4meSCrs,15
+rendercv-0.1.dist-info/RECORD,,

@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: rendercv
+Version: 0.1
+Summary: CV generator from a YAML/JSON file
+Author: Sina Atalay
+Project-URL: Homepage, https://sinaatalay.github.io/rendercv/
+Project-URL: Documentation, https://sinaatalay.github.io/rendercv/
+Project-URL: Source, https://github.com/sinaatalay/rendercv
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: annotated-types ==0.6.0
+Requires-Dist: Jinja2 ==3.1.2
+Requires-Dist: phonenumbers ==8.13.22
+Requires-Dist: pydantic ==2.4.2
+Requires-Dist: pydantic-extra-types ==2.1.0
+Requires-Dist: pydantic-core ==2.10.1
+Requires-Dist: typing-extensions ==4.8.0
+Requires-Dist: pyspellchecker ==0.7.2
+Requires-Dist: ruamel.yaml ==0.17.35
+Requires-Dist: email-validator ==2.0.0.post2
+Provides-Extra: docs
+Requires-Dist: mkdocs ; extra == 'docs'
+Requires-Dist: mkdocs-material ; extra == 'docs'
+Requires-Dist: mkdocstrings-python ; extra == 'docs'
+Provides-Extra: linting
+Requires-Dist: black ; extra == 'linting'
+Requires-Dist: ruff ; extra == 'linting'
+Provides-Extra: testing
+Requires-Dist: coverage ; extra == 'testing'
+Requires-Dist: pytest ; extra == 'testing'
+Requires-Dist: pytest-cov ; extra == 'testing'
+
+# RenderCV
+[![CI](https://github.com/sinaatalay/rendercv/actions/workflows/ci.yaml/badge.svg)](https://github.com/sinaatalay/rendercv/actions/workflows/ci.yaml)
+[![coverage](https://coverage-badge.samuelcolvin.workers.dev/sinaatalay/rendercv.svg)](https://coverage-badge.samuelcolvin.workers.dev/redirect/sinaatalay/rendercv)
+
+
+A Python application that creates CVs in PDF, HTML, LaTeX, etc., from a JSON/YAML input file.
