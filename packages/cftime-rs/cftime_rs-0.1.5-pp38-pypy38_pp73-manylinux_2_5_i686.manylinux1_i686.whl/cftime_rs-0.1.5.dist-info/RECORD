@@ -1,0 +1,10 @@
+cftime_rs-0.1.5.dist-info/METADATA,sha256=gRjEdX_464eNRne7EwsNdM56qq2-0rSsLm62pchVLKo,9810
+cftime_rs-0.1.5.dist-info/WHEEL,sha256=1RqjO5zGKB2vJGMFuZvmP3Oe5Q6lKwjSmG1jMNmxESU,126
+cftime_rs-0.1.5.dist-info/license_files/LICENSE,sha256=PXiDk0J5v6X3ZjvVk8HIU4uy7OnLLzZQq0cGfjhBgZ4,34168
+cftime_rs/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/tests/test_functions.py,sha256=230KfxJWNyfM1O9HOlwn_9BjWrTXeym47RF4NgJv5dw,2148
+cftime_rs/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/__init__.py,sha256=33XF3Zdxr66hjmXRytx3Uf9Wziy1lIac2O0i0OyBowM,34
+cftime_rs/cftime_rs.pyi,sha256=pfcDxDZ2-giGIQzusDO9UqXDNUAZb06iWxOV9JnaRlM,17731
+cftime_rs/cftime_rs.pypy38-pp73-x86-linux-gnu.so,sha256=5qViKrDjcRdP5kcdqTHWZmINHJNShRK3iILLPuzk3Hs,4822288
+cftime_rs-0.1.5.dist-info/RECORD,,
