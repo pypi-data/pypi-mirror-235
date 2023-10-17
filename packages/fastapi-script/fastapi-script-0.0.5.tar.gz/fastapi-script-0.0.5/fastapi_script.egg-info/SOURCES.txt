@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+fastapi_script/__init__.py
+fastapi_script/commands.py
+fastapi_script/defaults.py
+fastapi_script.egg-info/PKG-INFO
+fastapi_script.egg-info/SOURCES.txt
+fastapi_script.egg-info/dependency_links.txt
+fastapi_script.egg-info/top_level.txt
