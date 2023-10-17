@@ -1,0 +1,12 @@
+sgid_client/IdTokenVerifier.py,sha256=uTOX8VMZWNHldl0WXfq-IG9_aBj1CeZeFqGa3aB9aDM,1127
+sgid_client/SgidClient.py,sha256=QnNaQh2wmIwsKLUbG9eFNGn6wSr5s_g1Whe4P1hSw-8,9337
+sgid_client/__init__.py,sha256=v7BQJSM_r-v2oH8s6FaqopETON0-r9hLdmxZHTJ2SqI,179
+sgid_client/decrypt_data.py,sha256=WsrPcJrqbpNZdSFkXJQ3SZZRYKayt6IMueGImJTv-wk,1183
+sgid_client/error.py,sha256=wxVuEWfLOVEpgagkWkKqf77JxQuVOtA0h6Uz13mSVfY,4628
+sgid_client/generators.py,sha256=mgHqpaM0E7Ljcf-5HVYzmk0TXsN2vDCYPFG8FdA7-kk,2094
+sgid_client/util.py,sha256=FKOk-q-1xVxRP-myEjYUPODExcpm8w3rO3tqCsJp1dQ,2777
+sgid_client/validation.py,sha256=QASkuvNspZ7Re6D-7BD4P0SqW1aF9598UnBL45Twsew,4584
+sgid_client-0.3.0.dist-info/LICENSE,sha256=IS0nN_V4jLwDxw5-ddUHH6HgS6qBMmgBQVyXpMPmYoY,1081
+sgid_client-0.3.0.dist-info/METADATA,sha256=KPhNRbna8tAcc4gppZ7lulXTaGbDXkwI9QdBV5URFlE,1412
+sgid_client-0.3.0.dist-info/WHEEL,sha256=7Z8_27uaHI_UZAc4Uox4PpBhQ9Y5_modZXWMxtUi4NU,88
+sgid_client-0.3.0.dist-info/RECORD,,
