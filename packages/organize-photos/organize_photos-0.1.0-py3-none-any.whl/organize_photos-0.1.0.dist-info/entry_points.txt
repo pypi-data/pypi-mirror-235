@@ -1,0 +1,3 @@
+[console_scripts]
+organize-photos = organize_photos.__main__:main
+
