@@ -1,0 +1,8 @@
+README.md
+setup.py
+meiqian/__init__.py
+meiqian/main.py
+meiqian.egg-info/PKG-INFO
+meiqian.egg-info/SOURCES.txt
+meiqian.egg-info/dependency_links.txt
+meiqian.egg-info/top_level.txt
