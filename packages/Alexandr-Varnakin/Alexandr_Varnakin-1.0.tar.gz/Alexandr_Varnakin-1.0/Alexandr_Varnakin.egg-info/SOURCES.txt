@@ -1,0 +1,8 @@
+setup.cfg
+setup.py
+Alexandr_Varnakin/Alexandr_Varnakin.py
+Alexandr_Varnakin.egg-info/PKG-INFO
+Alexandr_Varnakin.egg-info/SOURCES.txt
+Alexandr_Varnakin.egg-info/dependency_links.txt
+Alexandr_Varnakin.egg-info/not-zip-safe
+Alexandr_Varnakin.egg-info/top_level.txt
