@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "salestax"
+version = "1.0.0"
+license = "MIT"
+authors = [
+  { name="Justin Kumpe", email="jakumpe@kumpes.com" },
+]
+description = "Get Sales Tax Rates. Currently only supports Arkansas (because that is the only one I need) but I am open to pull requests for other states."
+readme = "README.md"
+requires-python = ">=3.9"
+repository = "https://github.com/kumpeapps/salestax-python"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Natural Language :: English"
+]
+dependencies = [
+  'requests',
+  'beautifulsoup4'
+]

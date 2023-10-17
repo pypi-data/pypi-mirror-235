@@ -1,0 +1,7 @@
+exclude: 
+  - development
+  - qa
+  - feature-*
+  - dev
+  - main
+delete_closed_pr: true
