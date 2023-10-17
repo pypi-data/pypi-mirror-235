@@ -1,0 +1,10 @@
+funpypi/__init__.py,sha256=dU2_762fMAhZb6yYZ9nWjXRTMAN5EhhxP1QoN-OTn14,71
+funpypi/script.py,sha256=ph_kO979Q6VlKt_xBYsKBqTAMuETga77rNkRXrkrxAw,709
+funpypi/setuptool.py,sha256=iFIMANLW8kmts2rxUtc4kg6Q00ODZaGCHaPnxz-P3nQ,1107
+funpypi/version.py,sha256=8LGO2Z491ycfB1oQGq9y3JuJ-3TRlYtMENhb56ZH0VM,1559
+funpypi-0.2.0.dist-info/LICENSE,sha256=k7rG2PlYhNPxoyOMI2HYQhXCTZ5D8k6P-NdUkPw3Yr8,11136
+funpypi-0.2.0.dist-info/METADATA,sha256=2_yynfxtOtmr1xgNuxgrIr8q8Xlmmqh88tBM88lbfxk,237
+funpypi-0.2.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+funpypi-0.2.0.dist-info/entry_points.txt,sha256=aF0_VoehbCNMeyztS-uhBhnLSqH_CKhvhmBtzkC31_Q,51
+funpypi-0.2.0.dist-info/top_level.txt,sha256=2rkKto7cv4986PnFSWWEb5_drnekEdNQaKASe0WqPsQ,8
+funpypi-0.2.0.dist-info/RECORD,,
