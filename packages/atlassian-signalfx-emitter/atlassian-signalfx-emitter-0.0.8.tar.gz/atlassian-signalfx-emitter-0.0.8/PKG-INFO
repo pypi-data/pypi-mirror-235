@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: atlassian-signalfx-emitter
+Version: 0.0.8
+Requires-Dist: embedded-hermes-dataclasses
+Requires-Dist: tag-db-verification

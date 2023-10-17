@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_signalfx_emitter.egg-info/PKG-INFO
+atlassian_signalfx_emitter.egg-info/SOURCES.txt
+atlassian_signalfx_emitter.egg-info/dependency_links.txt
+atlassian_signalfx_emitter.egg-info/requires.txt
+atlassian_signalfx_emitter.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
