@@ -1,0 +1,7 @@
+setup.py
+islab/__init__.py
+islab/aicup.py
+islab.egg-info/PKG-INFO
+islab.egg-info/SOURCES.txt
+islab.egg-info/dependency_links.txt
+islab.egg-info/top_level.txt
