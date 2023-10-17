@@ -1,0 +1,2 @@
+[gui_scripts]
+mazalib = mazalib.mazalib_gui:main
