@@ -1,0 +1,9 @@
+xxl_admin/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+xxl_admin/client.py,sha256=w55DDB8153ASYlmOT_bI5cOia0p_2fGh5eH3nLbJ7FQ,4372
+xxl_admin/core.py,sha256=a7AlLHYie4j1b6_HBZbEtd611Q0qeN_GTWeBJbQW8I8,2579
+xxl_admin/xxl.py,sha256=9TB5U5LPp00t62rkmBgXk-Rp1Nvj6fpz9tRNcjJiehk,14348
+xxl_admin_sh-0.0.1.dist-info/METADATA,sha256=aWm2rQ6O-tDesUe9f5blqkoDxe2fyw0IohJ6K4FquAg,344
+xxl_admin_sh-0.0.1.dist-info/WHEEL,sha256=C8f_gqhOWmHrh81n3Ukx5iURrqMhsHla81fuY1yuwvs,90
+xxl_admin_sh-0.0.1.dist-info/entry_points.txt,sha256=dt7bWUOVrvhHJn-PPguMFdHNMtat4Ba0cRSTf5TIDzs,51
+xxl_admin_sh-0.0.1.dist-info/licenses/LICENSE,sha256=Tw5G9m_aCA9FzR75Kedhcc6AiJp6vSQS2rUhN8XLws8,1065
+xxl_admin_sh-0.0.1.dist-info/RECORD,,
