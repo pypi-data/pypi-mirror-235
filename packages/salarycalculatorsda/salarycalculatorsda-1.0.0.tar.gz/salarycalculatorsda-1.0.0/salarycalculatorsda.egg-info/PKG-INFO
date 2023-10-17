@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: salarycalculatorsda
+Version: 1.0.0
+Summary: A package to calculate ypur salary
+Author: Eris Kanapari
+Author-email: eriskanapari9@gmail.com
+Keywords: Salary,SDA
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
