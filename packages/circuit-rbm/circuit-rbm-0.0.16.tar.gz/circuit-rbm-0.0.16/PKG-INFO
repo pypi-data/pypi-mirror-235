@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: circuit-rbm
+Version: 0.0.16
+Summary: Train a RKM
+Home-page: UNKNOWN
+Author: Simone Ciarella
+Author-email: <simoneciarella@gmail.com>
+License: UNKNOWN
+Keywords: python,statistical physics,machine learning,rbm
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+
+A Python package to simulate and train a RKM model
+
