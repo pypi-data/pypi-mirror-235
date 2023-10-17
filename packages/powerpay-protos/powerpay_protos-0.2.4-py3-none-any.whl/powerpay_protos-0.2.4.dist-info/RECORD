@@ -1,0 +1,9 @@
+powerpay_protos/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+powerpay_protos/telemetry/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+powerpay_protos/telemetry/measurement_pb2.py,sha256=nSnw5pLc0gH1TD1EwTVlIJU28RC0VOkZUD-n2-vMh1A,5273
+powerpay_protos/telemetry/measurement_pb2.pyi,sha256=HfUCEfOeuB3i5-sp4sShml4nbN9K64LQZKyzVDLnZ-4,7091
+powerpay_protos/telemetry/telemetry_pb2.py,sha256=0A554x4G3r1tyg5hSKUoHtG-XbECGlyyjrkDjE7-o7I,2180
+powerpay_protos/telemetry/telemetry_pb2.pyi,sha256=uT5Q1VzBed9UmaqRVeDVwdcVnUOnibUo1s-7ovoWIKU,2173
+powerpay_protos-0.2.4.dist-info/METADATA,sha256=_iq7Oo_qJQC1FUD6vbehP3ME0-v3ezh9LPrO5Yy7hdU,555
+powerpay_protos-0.2.4.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+powerpay_protos-0.2.4.dist-info/RECORD,,
