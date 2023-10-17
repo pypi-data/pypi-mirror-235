@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: siena-mes
+Version: 18
+Summary: Multimedia Environment for Students
+License: aGPLv3
+Author: Robin Flatland
+Author-email: flatland@siena.edu
+Requires-Python: >=3.10,<4.0
+Classifier: License :: Other/Proprietary License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: Pillow (>=10.1.0,<11.0.0)
+Requires-Dist: numpy (>=1.26.1,<2.0.0)
+Requires-Dist: pi-heif (>=0.13.1,<0.14.0)
+Requires-Dist: python-resize-image (>=1.1.20,<2.0.0)
+Requires-Dist: scipy (>=1.11.3,<2.0.0)
+Description-Content-Type: text/markdown
+
+# Siena-MES : Multimedia Environment for Students
+
+This is a pure python implementation of [gatech-csl/jes]([https://github.com/vuejs/vue](https://github.com/gatech-csl/jes)) with the goal to maintain API Compatibility between the implementations. It contains enhancements from the base implementations which are listed in further sections below. 
+This is a development environment designed for [Media Computation](http://web.eecs.umich.edu/~mjguz/mediacomp/mediaComp-teach/). The package can be imported into any Python 3.11 envornment to allow students to use the Python programming language to manipulate images, sounds, and videos.  The current API documentation is consistent with the usage of JES in the book, and the subset of functions implemented so far is published here. 
+The library is developed for The Introduction to Computer Science (CSIS 110) course at Siena College and the college's high school CS programs. 
+
+
