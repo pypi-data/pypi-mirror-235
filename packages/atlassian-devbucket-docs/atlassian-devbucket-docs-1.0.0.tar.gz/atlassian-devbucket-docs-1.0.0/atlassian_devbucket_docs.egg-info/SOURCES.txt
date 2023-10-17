@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_devbucket_docs.egg-info/PKG-INFO
+atlassian_devbucket_docs.egg-info/SOURCES.txt
+atlassian_devbucket_docs.egg-info/dependency_links.txt
+atlassian_devbucket_docs.egg-info/requires.txt
+atlassian_devbucket_docs.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
