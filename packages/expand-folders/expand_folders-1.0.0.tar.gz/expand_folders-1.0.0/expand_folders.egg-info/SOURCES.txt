@@ -1,0 +1,9 @@
+README.md
+setup.py
+expand_folders/__init__.py
+expand_folders/expand_folders.py
+expand_folders.egg-info/PKG-INFO
+expand_folders.egg-info/SOURCES.txt
+expand_folders.egg-info/dependency_links.txt
+expand_folders.egg-info/requires.txt
+expand_folders.egg-info/top_level.txt
