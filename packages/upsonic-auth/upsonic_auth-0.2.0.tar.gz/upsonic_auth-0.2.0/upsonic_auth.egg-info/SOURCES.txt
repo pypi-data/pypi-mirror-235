@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+./requirements.txt
+upsonic_auth/__init__.py
+upsonic_auth/upsonic_auth.py
+upsonic_auth.egg-info/PKG-INFO
+upsonic_auth.egg-info/SOURCES.txt
+upsonic_auth.egg-info/dependency_links.txt
+upsonic_auth.egg-info/not-zip-safe
+upsonic_auth.egg-info/requires.txt
+upsonic_auth.egg-info/top_level.txt
