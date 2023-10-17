@@ -1,0 +1,12 @@
+metaphor/models/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+metaphor/models/crawler_run_metadata.json,sha256=hwSHEIp3O5GcK7ClYtSVrUeVxHrOeJ0UMgIw1m7uv2M,2438
+metaphor/models/crawler_run_metadata.py,sha256=rKVUJzgrsWyXW31VoicYMp_HqDqJHov-BgiVJWU-m1o,5465
+metaphor/models/logical_id.json,sha256=q4cPxw2RHJQZCJlxPlMqq1BZ4aS0e5lFCtmn7pOSAi0,468
+metaphor/models/logical_id.py,sha256=8qHGg787LaYw7xYDffreO4wffC91-yEQ9gozPwDk-xw,1636
+metaphor/models/metadata_change_event.json,sha256=MTZNIWunNZKWwEVhEKljEjzN8j7vllr52sReq2gIJ8U,160169
+metaphor/models/metadata_change_event.py,sha256=xebnq5Fmzz594VJOw5tzNjSORf3F0EAJDr61REp6WBU,319759
+metaphor/models/parser_cache_item.json,sha256=krOQh3QbC48lB1jh7jqWDX3isYZl0yEbwtzhks4N5qs,159195
+metaphor/models/parser_cache_item.py,sha256=x7PxIjfBbWVxHv-8RSRH0qOM_jfDASA3WAMbpQ_kOp0,234854
+metaphor_models-0.27.4.dist-info/WHEEL,sha256=vVCvjcmxuUltf8cYhJ0sJMRDLr1XsPuxEId8YDzbyCY,88
+metaphor_models-0.27.4.dist-info/METADATA,sha256=rHYn1DY9EZOd_yrtLgGcxEQ1ju9xBNY_FuMX8Y5UMTY,395
+metaphor_models-0.27.4.dist-info/RECORD,,
