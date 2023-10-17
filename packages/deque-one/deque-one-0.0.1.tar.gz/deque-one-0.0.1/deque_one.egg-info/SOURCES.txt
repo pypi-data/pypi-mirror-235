@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+deque_one/__init__.py
+deque_one/_deque.c
+deque_one/_version.py
+deque_one/deque.pyi
+deque_one.egg-info/PKG-INFO
+deque_one.egg-info/SOURCES.txt
+deque_one.egg-info/dependency_links.txt
+deque_one.egg-info/requires.txt
+deque_one.egg-info/top_level.txt
+tests/test_deque.py
+tests/test_fuzzy.py
