@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: pythomate
+Version: 0.1
+Summary: Automatiza acionamento de fluxos Power Automate.
+Home-page: https://github.com/lab-mg/pythomate
+Author: O Laboratório de Inovação em Governo - LAB.mg
+Author-email: simplificacao@planejamento.mg.gov.br
+License: UNKNOWN
+Keywords: python,power automate,automate,automação
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENCE.txt
+
+# Pythomate
+
+Breve descrição do pacote
+
+## Instalação
+
+O `pythomate` está disponível no Python Package Index - [PyPI](https://pypi.org/project/pythomate/) e pode ser instalado utilizando-se o comando abaixo:
+
+```bash
+# Antes de executar o comando abaixo lembre-se que ambiente Python deverá estar ativo
+$ pip install pythomate
+```
+
+## Uso
+
+Breve descrição do uso do pacote
+
+### Atualizar versão
+
+Breve descrição de como atualizar a versão.
+
+## Licença
+
+O **pythomete** é licenciado sob a licença MIT.
+Veja o arquivo [`LICENSE.md`](LICENSE.md) para mais detalhes.
+
+
+# CHANGELOG - Controle de alterações
+
+Documentação das principais alterações deste repositório.
+Baseado na filosofia [Mantenha um Changelog](https://keepachangelog.com/pt-BR/1.0.0/).
+
+### [0.1] - 2023-10-16
+
+- Publicação estrutura inicial necessária para funcionamento do pacote. Sem nenhuma função implementada.
+
+
