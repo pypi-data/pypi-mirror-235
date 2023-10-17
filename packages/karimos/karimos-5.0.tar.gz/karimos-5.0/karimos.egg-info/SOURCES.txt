@@ -1,0 +1,7 @@
+setup.py
+karimos.egg-info/PKG-INFO
+karimos.egg-info/SOURCES.txt
+karimos.egg-info/dependency_links.txt
+karimos.egg-info/entry_points.txt
+karimos.egg-info/requires.txt
+karimos.egg-info/top_level.txt
