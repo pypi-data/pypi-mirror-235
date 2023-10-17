@@ -1,0 +1,13 @@
+seidr/__init__.py,sha256=-5kScorVd0GyE8RHUCkj2AVfVrP3tobuofFZBmATlK8,180
+seidr/dev.py,sha256=-oR4flIXVLy0V5092CWwxLSSizY0gFzSdk2VkFs_ALs,6180
+seidr/github.py,sha256=BFf69bFSIuiTkHkVd9bjtY3oRMfnD34NhkMsNRHzvbk,3478
+seidr/gpt.py,sha256=CermColfYOriMLG3TgMzdglimz5V2pTlnY1aiyCG6b0,4474
+seidr/prompt.py,sha256=PN2JhVxOkdHSOHG7LSHT6X_LHdgh90APqVe2kIq7m2Q,2890
+seidr/templates/commit.txt,sha256=otqRWk2WC-Vh5doz_UURwmoYr4T2wt0fBU19y8pt9N8,103
+seidr/templates/prompts.txt,sha256=KLxaSo7aKx0mOw1CAyfLS5IYv-2xm4MPMCGKOmmVayw,1056
+seidr/templates/template.cpp,sha256=wGdopQvKakOP7xQCQjeJQQTHJ_BAhjOxMncnDlI6tAI,242
+seidr/templates/template.java,sha256=2g3pSV1x1wZvQ9UJM26HIYTNzM0V2gmn-Ch87TsT_p8,303
+seidr/templates/template.py,sha256=c4fDXctFRlTYjXpP1-jgFPPOYpTecw6N0sUL07ue840,170
+seidr-1.0.4.dist-info/METADATA,sha256=Grvp6zF0-RigPyIklXq3j8uMgokdq06UCPL-1uqKkBI,3059
+seidr-1.0.4.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+seidr-1.0.4.dist-info/RECORD,,
