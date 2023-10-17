@@ -1,0 +1,6 @@
+mobly>=1.12.2
+portpicker==1.5.2
+psutil==5.9.5
+PyYAML==6.0.1
+numpy
+six==1.16.0
