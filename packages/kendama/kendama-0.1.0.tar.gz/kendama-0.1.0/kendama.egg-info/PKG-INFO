@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: kendama
+Version: 0.1.0
+Summary: 国税庁API
+Home-page: https://github.com/uichi/kendama-python
+Author: uichi
+Author-email: 37263474+uichi@users.noreply.github.com
+License: MIT
+Keywords: OpenAPI,OpenAPI-Generator,国税庁API
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+    国税庁が提供するインボイス制度適格請求書発行事業者公表システムWeb-APIを使用するためのクライアントAPI(https://www.invoice-kohyo.nta.go.jp/web-api/index.html)
+    
+
