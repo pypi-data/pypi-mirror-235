@@ -1,0 +1,16 @@
+malevich_coretools/__init__.py,sha256=zdIcHs3T_NZ8HYWts-O7OpBEWHIu779QDZMGF5HRCLg,35
+malevich_coretools/utils.py,sha256=GVuI6HzerOzkVL5awcXkGem84Jfpim7odnS-Ijg_ajg,50823
+malevich_coretools/abstract/__init__.py,sha256=ZWtP4gFLpNVFXzlMKXEK4iMnUqqMg07pL8yKGSJd6QI,38
+malevich_coretools/abstract/abstract.py,sha256=ElmocG9HAIir65Ja8eaXCr6uze_4k64C8cdxoZTM37U,8095
+malevich_coretools/funcs/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+malevich_coretools/funcs/funcs.py,sha256=YiuNRPRoi_3A8o21kckTEXZhlJ52qaUVGlzvPIlL-Wk,26962
+malevich_coretools/funcs/helpers.py,sha256=Y8v6uyawYl2_G0XmhmiVLqGIUzvxnkpKF0ODA9vrB3Y,1276
+malevich_coretools/secondary/__init__.py,sha256=048HqvG36_1WdDVZK_RuECmaf14Iq2fviUysG1inlaE,78
+malevich_coretools/secondary/config.py,sha256=b7RysQTkPKib8FEhfm3uU7TPvz8vgWLlqakvZN5NFs4,391
+malevich_coretools/secondary/const.py,sha256=C_PT-Zyr2YcKkc8CJ1QYVvk3HDTs8Kg3jcDLLUR3oUg,7431
+malevich_coretools/secondary/helpers.py,sha256=yQiaG_Q_5sw04RFpZccoSryPBuoA25BpSmvzSyQtwK0,2937
+malevich_coretools-0.2.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+malevich_coretools-0.2.1.dist-info/METADATA,sha256=xDrubhoqaXhxywqR17kBEskARiLAw0SKBk817TKnwFQ,236
+malevich_coretools-0.2.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+malevich_coretools-0.2.1.dist-info/top_level.txt,sha256=wDX3s1Tso0otBPNrFRfXqyNpm48W4Bp5v6JfbITO2Z8,19
+malevich_coretools-0.2.1.dist-info/RECORD,,
