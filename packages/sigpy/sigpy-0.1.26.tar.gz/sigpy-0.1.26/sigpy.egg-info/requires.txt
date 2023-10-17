@@ -1,0 +1,17 @@
+numpy
+pywavelets
+numba
+scipy
+tqdm
+
+[lint]
+ruff
+black
+isort
+sphinx
+sphinx_rtd_theme
+
+[test]
+pytest<5.0.0
+pytest-cov[all]
+coverage
