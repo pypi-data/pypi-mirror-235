@@ -1,0 +1,5 @@
+mkdocs>=1
+setuptools
+
+[tests]
+pytest
