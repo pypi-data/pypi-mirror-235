@@ -1,0 +1,4 @@
+opentelemetry/instrumentation/chromadb/__init__.py,sha256=gUQHLlwgluwW179IlQWiq6ZjoTPTY7qZgImCLmmQiSc,4375
+opentelemetry_instrumentation_chromadb-0.0.1a1.dist-info/METADATA,sha256=piKOW0d4gjTMolaZBpgMiWibUwZXZhTO6eo4smGLaMs,790
+opentelemetry_instrumentation_chromadb-0.0.1a1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+opentelemetry_instrumentation_chromadb-0.0.1a1.dist-info/RECORD,,
