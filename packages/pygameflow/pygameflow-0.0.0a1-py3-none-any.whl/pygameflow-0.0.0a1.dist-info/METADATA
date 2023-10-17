@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: pygameflow
+Version: 0.0.0a1
+Summary: PyGameFlow: Object Oriented, Modern and Developer-friendly wrapper for Pygame
+Home-page: https://github.com/ificiana/pygameflow
+License: AGPL-3.0-or-later
+Author: Ificiana
+Author-email: ificiana@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: pygame (>=2.5.2,<3.0.0)
+Project-URL: Documentation, https://github.com/ificiana/pygameflow
+Project-URL: Repository, https://github.com/ificiana/pygameflow
+Description-Content-Type: text/markdown
+
+# PyGameFlow
+
+Welcome to PyGameFlow Version 0.0.0!
+
+> [!NOTE]  
+> It's important to note that this project is currently in development. Please stay tuned for forthcoming updates and enhancements.
+
+
+## Install
+```sh
+pip install pygameflow
+```
+
