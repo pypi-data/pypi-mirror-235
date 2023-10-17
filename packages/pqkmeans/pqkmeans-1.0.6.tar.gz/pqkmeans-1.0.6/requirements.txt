@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+pipe<2.0
+scipy
+six
