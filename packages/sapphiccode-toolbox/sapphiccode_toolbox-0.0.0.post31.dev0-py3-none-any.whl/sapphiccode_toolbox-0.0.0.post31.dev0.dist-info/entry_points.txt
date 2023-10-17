@@ -1,0 +1,3 @@
+[console_scripts]
+ct=sc.toolbox._main:main
+
