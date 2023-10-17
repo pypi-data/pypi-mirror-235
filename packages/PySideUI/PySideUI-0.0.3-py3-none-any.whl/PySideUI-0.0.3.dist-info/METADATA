@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: PySideUI
+Version: 0.0.3
+Summary: A UI library for PySide
+Author-email: Arthur Chan <chenzhiguook@foxmail.com>
+Project-URL: Homepage, https://github.com/arthurchen1906/PySideUI
+Project-URL: Bug Tracker, https://github.com/arthurchen1906/PySideUI/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PySideUI
+
+customized ui components for Qt python bindings
+
+
+### 安装
+
+> pip install PySideUI
+
+或升级
+
+> pip install PySideUI --upgrade -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+### 使用
+#### Button
+```
+btn = PrimaryBtn('测试', {'color': 'red', 'background-color': 'pink'}, clicked=lambda:print('hello world'))
+# 通过字典设置样式，点击事件赋值给 clicked 参数
+
+btn.clickedFunc = lambda: print('hahah')
+```
+
