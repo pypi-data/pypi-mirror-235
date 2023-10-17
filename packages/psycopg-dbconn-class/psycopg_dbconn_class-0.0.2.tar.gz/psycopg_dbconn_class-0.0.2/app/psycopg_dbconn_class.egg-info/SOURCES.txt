@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+app/psycopg_dbconn_class/__init__.py
+app/psycopg_dbconn_class.egg-info/PKG-INFO
+app/psycopg_dbconn_class.egg-info/SOURCES.txt
+app/psycopg_dbconn_class.egg-info/dependency_links.txt
+app/psycopg_dbconn_class.egg-info/requires.txt
+app/psycopg_dbconn_class.egg-info/top_level.txt
+app/psycopg_dbconn_class/src/__init__.py
+app/psycopg_dbconn_class/src/psycopg_dbconn_class.py
