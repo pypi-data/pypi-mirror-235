@@ -1,0 +1,8 @@
+setup.py
+pracklrr/__init__.py
+pracklrr/pracklrr.py
+pracklrr.egg-info/PKG-INFO
+pracklrr.egg-info/SOURCES.txt
+pracklrr.egg-info/dependency_links.txt
+pracklrr.egg-info/not-zip-safe
+pracklrr.egg-info/top_level.txt
