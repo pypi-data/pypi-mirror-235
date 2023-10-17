@@ -1,0 +1,10 @@
+griffe_typingdoc-0.2.2.dist-info/METADATA,sha256=TpJ6lo9j-qPsbkzvrxQIeaF1ONj-HQOsQiBf99hygZQ,2816
+griffe_typingdoc-0.2.2.dist-info/WHEEL,sha256=C8f_gqhOWmHrh81n3Ukx5iURrqMhsHla81fuY1yuwvs,90
+griffe_typingdoc-0.2.2.dist-info/licenses/LICENSE,sha256=GZ4fS4Z6WtxHYD5ZqFT9vlpdOXvzm-cvjYmOIHXhqMc,754
+griffe_typingdoc/__init__.py,sha256=h0r6jspTA_4bx7QyCyS_6RLot8Kd35G4R72W8iL_6qw,240
+griffe_typingdoc/_docstrings.py,sha256=TM71WMiiPRmUeYy5LzmiyAbtWp8SxN2Gq2EZDw2osRg,4206
+griffe_typingdoc/_dynamic.py,sha256=mceB4dTPHa2487eEN9Hk8aaJoKErpRXh78Todv7S7Ag,1256
+griffe_typingdoc/_extension.py,sha256=kH9FyxSwBfWryaxC9I7YOMZXxam8J-y9Tb8AGOACTJs,3774
+griffe_typingdoc/_static.py,sha256=DI6SGkayFFmurq4JuCP1iawBbQSsLPrXp61bZx2UoAs,8999
+griffe_typingdoc/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+griffe_typingdoc-0.2.2.dist-info/RECORD,,
