@@ -1,0 +1,4 @@
+APScheduler==3.9.0
+fastapi==0.103.1
+PyJWT==2.4.0
+flask==2.2.2
