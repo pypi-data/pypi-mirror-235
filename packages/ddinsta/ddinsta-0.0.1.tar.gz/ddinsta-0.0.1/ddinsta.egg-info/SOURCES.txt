@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+ddinsta/__init__.py
+ddinsta/ddinsta.py
+ddinsta.egg-info/PKG-INFO
+ddinsta.egg-info/SOURCES.txt
+ddinsta.egg-info/dependency_links.txt
+ddinsta.egg-info/requires.txt
+ddinsta.egg-info/top_level.txt
