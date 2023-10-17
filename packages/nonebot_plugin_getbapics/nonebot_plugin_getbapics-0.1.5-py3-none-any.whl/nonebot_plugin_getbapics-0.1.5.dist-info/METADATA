@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: nonebot_plugin_getbapics
+Version: 0.1.5
+Summary: Get BlueArchive Pictures
+Home-page: https://github.com/hanasa2023/nonebot-plugin-getbapics
+License: MIT
+Author: hanasa2023
+Author-email: hanasakayui2022@gmail.com
+Requires-Python: >=3.10,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: aiofiles (>=23.2.1,<24.0.0)
+Requires-Dist: aiohttp (>=3.8.6,<4.0.0)
+Requires-Dist: nonebot-adapter-red (>=0.6.0,<0.7.0)
+Requires-Dist: nonebot2 (>=2.1.1,<3.0.0)
+Project-URL: Documentation, https://github.com/hanasa2023/nonebot-plugin-getbapics/blob/master/README.md
+Description-Content-Type: text/markdown
+
+# <center>nonebot-plugin-getbapics</center>
+## 使用方法
+* 输入```/setu+[tag]+[x|X|*][num]+量词```使用
+* tag自选， ```x``` ```X``` ```*```可选，num可选，量词可选```张``` ```个``` ```份```
+* 输入 /setu open/close/开启/关闭 r18/ai 开启/关闭 获取r18/ai图功能
+* 输入 /setu help|帮助 获取帮助
+### 例子
+* ```/setu```
+* ```/setu 4```
+* ```/setu 美游 x4张```
+* ```/setu x4张```
+* ```/setu 美游 x4个```
+* ```/setu 美游 4张```
+* ```/setu 美游 4```
+
+## 目前可公开的情报：
+```
+1. 支持群聊/私聊
+2. API流量有限制，不要过于频繁调用
+3. 图片过大可能发送时间较长，请耐心等待
+4. adapter-red没有获取发送者id的功能，所以没写r18/ai鉴权
+```
+~由于4.的原因群炸了和我无关~
+## TODO：
+
+- [x] 多图发送功能
+- [x] 自定义tag
+- [ ] 指定画师获取setu
+- [x] 允许开关是否发送AI图
+- [x] 允许开关是否发送r18图功能
+
