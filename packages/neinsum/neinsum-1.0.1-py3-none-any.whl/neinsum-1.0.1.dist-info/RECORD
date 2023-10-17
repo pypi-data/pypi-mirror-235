@@ -1,0 +1,8 @@
+neinsum/__about__.py,sha256=d4QHYmS_30j0hPN8NmNPnQ_Z0TphDRbu4MtQj9cT9e8,22
+neinsum/__init__.py,sha256=ozwUaebpWBVpGoPtZuy-fKYKs3I4ewXKEGb9--DSfcI,118
+neinsum/_named_einsum.py,sha256=xpgDm-jFbY40N9FT4_OJooAHmOk1lbZkm6uAyeGSNpA,2828
+neinsum-1.0.1.dist-info/LICENSE,sha256=ZQx67eUWBNhpVCLVSuk21Vz39sav2oTVJPt-EpnOjHs,1072
+neinsum-1.0.1.dist-info/METADATA,sha256=4vpg9IOXdgvRDaZxv8SNTD0K235Uy6k2ebVwHlf1-_U,2791
+neinsum-1.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+neinsum-1.0.1.dist-info/top_level.txt,sha256=YoJR5-vJOY4x7HK47_JnmlZCV86qsTeJXZth9yFVKL4,8
+neinsum-1.0.1.dist-info/RECORD,,
