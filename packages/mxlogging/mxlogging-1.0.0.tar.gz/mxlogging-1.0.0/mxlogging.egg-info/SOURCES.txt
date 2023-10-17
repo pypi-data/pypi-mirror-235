@@ -1,0 +1,8 @@
+LICENSE
+README.md
+mxlogging.py
+pyproject.toml
+mxlogging.egg-info/PKG-INFO
+mxlogging.egg-info/SOURCES.txt
+mxlogging.egg-info/dependency_links.txt
+mxlogging.egg-info/top_level.txt
