@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: promptflow-copilot
+Version: 0.1.0b1
+Summary: Azure Machine Learning Promptflow copilot
+Home-page: 
+Author-email: 
+License-File: LICENSE
+Requires-Dist: promptflow
+Requires-Dist: promptflow-tools
+
