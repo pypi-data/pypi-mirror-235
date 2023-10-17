@@ -1,0 +1,5 @@
+include ethercheck/configs/MAIN-stable.json
+include ethercheck/configs/GOERLI-stable.json
+include ethercheck/configs/KOVAN-stable.json
+include ethercheck/configs/RINKEBY-stable.json
+include ethercheck/configs/ROPSTEN-stable.json

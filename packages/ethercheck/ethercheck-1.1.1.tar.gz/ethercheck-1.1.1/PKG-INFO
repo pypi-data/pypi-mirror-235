@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ethercheck
+Version: 1.1.1
+Summary: A minimal, yet complete, python API for etherscan.io.
+Home-page: https://github.com/edwardcheck117/ethercheck
+Author: Edward Check
+Author-email: edwardcheck117@gmail.com
+License: MIT
+Requires-Dist: requests
