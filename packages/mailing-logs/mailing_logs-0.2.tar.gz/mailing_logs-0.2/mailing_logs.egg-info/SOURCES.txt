@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+README.rst
+setup.cfg
+setup.py
+mailing_logs/__init__.py
+mailing_logs/mailing_logs.py
+mailing_logs/tg_utils.py
+mailing_logs.egg-info/PKG-INFO
+mailing_logs.egg-info/SOURCES.txt
+mailing_logs.egg-info/dependency_links.txt
+mailing_logs.egg-info/requires.txt
+mailing_logs.egg-info/top_level.txt
