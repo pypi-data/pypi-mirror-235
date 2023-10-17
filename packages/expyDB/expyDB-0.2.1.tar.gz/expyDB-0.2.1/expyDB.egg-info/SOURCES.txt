@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+expyDB.egg-info/PKG-INFO
+expyDB.egg-info/SOURCES.txt
+expyDB.egg-info/dependency_links.txt
+expyDB.egg-info/requires.txt
+expyDB.egg-info/top_level.txt
