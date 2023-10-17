@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: package-onne
+Version: 0.0.0
+Summary: Test package
+Home-page: https://github.com/iPhosgen/package-one
+Author: Your Name
+Author-email: you@example.com
+License: MIT
+Classifier: Topic :: Internet
+Classifier: Programming Language :: Python
+
+# package-one
