@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/SKLMisc.egg-info/PKG-INFO
+src/SKLMisc.egg-info/SOURCES.txt
+src/SKLMisc.egg-info/dependency_links.txt
+src/SKLMisc.egg-info/top_level.txt
+src/sklm/__init__.py
+src/sklm/examples.py
+src/sklm/transforms.py
