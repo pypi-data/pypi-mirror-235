@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68.2.2", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "keytitan"
+version = "1.0.0"
+description = "Create and validate strong password"
+readme = "README.md"
+authors = [{ name = "Suryansh Pandey", email = "suryanshp1@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["security", "password", "authentication"]
+dependencies = [
+    'tomli; python_version < "3.11"',
+]
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+dev = ["black", "bumpver", "isort", "pip-tools"]
