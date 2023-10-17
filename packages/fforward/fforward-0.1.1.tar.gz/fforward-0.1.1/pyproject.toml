@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "fforward"
+version = "0.1.1"
+description = ""
+authors = ["TheGreen"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sqlalchemy = "^2.0.22"
+fastapi = "^0.103.2"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
