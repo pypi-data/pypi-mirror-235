@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mariamillet-de-toolkit"
+version = "0.1.0"
+description = ""
+authors = ["Maria Kosyuchenko <m.kosyuchenko@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+click = "^8.1.7"
+ipdb = "^0.13.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+deng = 'mariamillet_de_toolkit.main:cli'
