@@ -1,0 +1,8 @@
+setup.py
+kimolib/__init__.py
+kimolib.egg-info/PKG-INFO
+kimolib.egg-info/SOURCES.txt
+kimolib.egg-info/dependency_links.txt
+kimolib.egg-info/entry_points.txt
+kimolib.egg-info/requires.txt
+kimolib.egg-info/top_level.txt
