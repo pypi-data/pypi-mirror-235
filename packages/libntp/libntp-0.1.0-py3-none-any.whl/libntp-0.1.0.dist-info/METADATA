@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: libntp
+Version: 0.1.0
+Summary: A Python package for interfacing with the Network Time Protocol
+License: Apache-2.0
+Author: werdl
+Author-email: werdl_is_cool@outlook.com
+Requires-Python: >=3.6
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+
+## libntp
+### NTP for Python
+- An alternative to ntplib
+- Easy API
+- Simple include
+- No external dependencies 
+### An example
+```py
+from libntp import ntp
+myobj=ntp()
+myobj.request()
+print(myobj.iso8601)
+
+print(ntp.local_utc())
+```
+
