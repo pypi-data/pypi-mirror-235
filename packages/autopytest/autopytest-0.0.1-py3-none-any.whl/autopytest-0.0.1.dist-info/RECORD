@@ -1,0 +1,10 @@
+autopytest/__init__.py,sha256=8XE2o3GUpT43uqN8eZ3IpTRJ2ytU-5jEMLsK7KTHPSU,76
+autopytest/autotest.py,sha256=TTPHcZI1Ooiw8LIRNSxvY98hDYG51psIl1vEHNTpsbM,2189
+autopytest/cli.py,sha256=pknaGinmWiZkItZk5n9KjfZNUv8b6clHMgZbt79AXaQ,196
+autopytest/config.py,sha256=Qh9HcCWuXLcemks4rolUMa6FwTVEUY4uYJJXF5he47U,267
+autopytest/pytest_runner.py,sha256=bFGWG_SFmFshPwvItcy6whT0Tcd7SDCmeV61VigObRI,255
+autopytest-0.0.1.dist-info/METADATA,sha256=vjaG3NMTXbki_gGG3Sv2k9CVS5Tq_stV1jA1UJc-sV8,2315
+autopytest-0.0.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+autopytest-0.0.1.dist-info/entry_points.txt,sha256=Z1_-hAe07u18M1q4dSNpZ9UI1XzfissGkyATgiIWBws,51
+autopytest-0.0.1.dist-info/licenses/LICENSE,sha256=uOR7gTNeUlfd8eR6ZpY0j3Ry88bEtyDYoqDGmAdYd5U,1075
+autopytest-0.0.1.dist-info/RECORD,,
