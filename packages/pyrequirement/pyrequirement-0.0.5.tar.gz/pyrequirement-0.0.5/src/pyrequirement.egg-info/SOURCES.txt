@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/pyrequirement/__init__.py
+src/pyrequirement/main.py
+src/pyrequirement.egg-info/PKG-INFO
+src/pyrequirement.egg-info/SOURCES.txt
+src/pyrequirement.egg-info/dependency_links.txt
+src/pyrequirement.egg-info/entry_points.txt
+src/pyrequirement.egg-info/requires.txt
+src/pyrequirement.egg-info/top_level.txt

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyrequirement"
+version = "0.0.5"
+authors = [{name="gothictomato", email="gothictomato@gothictomato.io"}]
+description = "A simple tool to generate a requirements.txt from a pyproject.toml"
+readme = "README.md"
+dependencies = ['tomli']
+requires-python = ">=3.9"
+
+[project.scripts]
+pyrequirement = "pyrequirement.main:start"
+
+[project.urls]
+"Homepage" = "https://github.com/gothictomato/pyrequirement"
+"Bug Tracker" = "https://github.com/gothictomato/pyrequirement/issues"

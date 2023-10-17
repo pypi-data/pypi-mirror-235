@@ -1,0 +1,1 @@
+A simple command line tool for unpacking requirements lists from a pyproject.toml file to a requirements.txt file. Invoke by calling ```pyrequirement``` or ```pyrequirement <path-to-pyproject.toml>```.
