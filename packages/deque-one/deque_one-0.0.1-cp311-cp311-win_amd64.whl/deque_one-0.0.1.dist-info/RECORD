@@ -1,0 +1,10 @@
+deque_one/__init__.py,sha256=KuuT2zwHb1BQK0QakvzMZkMnWGLw-1DhYsFF-jLWjz4,26
+deque_one/_deque.c,sha256=_7ZKEgBCMoW7r_mbHDa4XioQsfH346x0GoKVooaOe1Y,17953
+deque_one/_version.py,sha256=ugyuFliEqtAwQmH4sTlc16YXKYbFWDmfyk87fErB8-8,21
+deque_one/deque.cp311-win_amd64.pyd,sha256=K3SVnzdZGmSMkJSlGWnCsVMtFIY-cOg9EjeSbkbavW8,18944
+deque_one/deque.pyi,sha256=9VHTa40SreZewqKY2_HSNYQjt8EbMaybuynPjoXyEdQ,74
+deque_one-0.0.1.dist-info/LICENSE,sha256=dsJmAzP6QqAsQaSfKfT-KiAJQYWbPqw6N-de4lNlzgY,1528
+deque_one-0.0.1.dist-info/METADATA,sha256=dsAcU7QTfi6pN65-cfeDo9xpPZC6jc9ayWgPkNz4p7o,2981
+deque_one-0.0.1.dist-info/WHEEL,sha256=badvNS-y9fEq0X-qzdZYvql_JFjI7Xfw-wR8FsjoK0I,102
+deque_one-0.0.1.dist-info/top_level.txt,sha256=tJxp5D-h0IiuEA54TSSaXiXzRiHIxkd8hmtQguNAeKs,10
+deque_one-0.0.1.dist-info/RECORD,,
