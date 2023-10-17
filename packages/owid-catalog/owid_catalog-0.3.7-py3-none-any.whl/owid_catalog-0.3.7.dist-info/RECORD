@@ -1,0 +1,17 @@
+owid/catalog/__init__.py,sha256=8Lz2WEd3CViU0uelXKiTIY1Hr080oZA3dRw0MX1iZwY,722
+owid/catalog/catalogs.py,sha256=m_eIFv_pZzh6lcTl702_-EksKYuFC9CpFvcQxjqo770,14728
+owid/catalog/datasets.py,sha256=GCTIuclMAftiHpQLb16ENazAgeUbv0unmKT5oIcdrgg,11989
+owid/catalog/meta.py,sha256=WNLdqctEy9VKsQghqdpEQ5YjPg3548zGYRg0NeryEcM,19770
+owid/catalog/processing.py,sha256=dlvtGEN83_R3xGs7tgWILh-p-jJY_kotcNqYyYdYcco,482
+owid/catalog/properties.py,sha256=0YSGoUGusmNRojRHO0W1ZMjgU4yM-toxOqH63h-vijk,449
+owid/catalog/s3_utils.py,sha256=5yto9oMueq2QZhpA_y6lmAJ3RVBMtbKEsB9KMkxoD3E,2991
+owid/catalog/schemas/table.json,sha256=9kngxMHP1bcjKRGK47Lyv1g7EJ5_vJASSwMW_A_vAdA,532
+owid/catalog/schemas/variable.json,sha256=XSw2JOrZ8-nKxtlI_5HrxsNu4J6CuLS4zWmUFmxAhaE,527
+owid/catalog/tables.py,sha256=CeDiRUn_A-KgmM2rgG-dDygcqN-Fu1RU2e3IofGzRa0,63410
+owid/catalog/utils.py,sha256=vd8SN9HJ3qYFAXhdDK_VZ7nWSZK9q8FgD0uxOcfLFIw,5592
+owid/catalog/variables.py,sha256=kUSI6BPb5fCUdlycl834WFhAR-c2nbwBiwz0LpOLfgM,27934
+owid/catalog/yaml_metadata.py,sha256=CJvOZwUt3AQrsTRbZnJy2OQZDRE0YSrSb8F9ln5vwmM,4962
+owid_catalog-0.3.7.dist-info/LICENSE,sha256=h3W2OEglx2jaOj145JoWav12nVTK1kHQm_vIsHayHyc,1079
+owid_catalog-0.3.7.dist-info/METADATA,sha256=6OV3v8AF3QmsNPxgfGbxNq3a6Rzr632UCo15iMgoqv4,9892
+owid_catalog-0.3.7.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+owid_catalog-0.3.7.dist-info/RECORD,,
