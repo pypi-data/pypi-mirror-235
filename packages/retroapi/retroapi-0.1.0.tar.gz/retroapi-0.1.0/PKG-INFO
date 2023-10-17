@@ -1,0 +1,77 @@
+Metadata-Version: 2.1
+Name: retroapi
+Version: 0.1.0
+Summary: retroapi for retrosynthesis routes and exploring reaction conditions
+Home-page: https://github.com/bruceunx/retrosynthesis
+Author: Bruceunx
+Author-email: bruceunx@gmail.com
+License: MIT License
+Project-URL: Source, https://github.com/bruceunx/retrosynthesis
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Internet
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >3.7,<3.12
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+## RetroSynthesis API
+
+- retroapi get predict routes given target molecule.
+
+- supply plausible value for all predicts.
+
+- predict conditions base on one reaction.
+
+### Usage
+
+```python
+
+from retroapi import RetroApi, Name2Smiles
+
+retro_api = RetroApi()
+
+# if you have simles of molecule.
+smiles = "COc1cccc(OC(=O)/C=C/c2cc(OC)c(OC)c(OC)c2)c1"
+
+# else:
+chemical_name = "4-Hydroxycoumarin"
+name2smiles = Name2Smiles()
+smiles = name2smiles.get_smiles(chemical_name)
+
+# check if smiles is valid or not
+is_valid_smiles = retro_api.validate_smiles(smiles)
+
+if is_valid_smiles:
+    routes = retro_api.predict_routes(smiles)
+    if routes is not None:
+        # work with routes
+        pass
+
+# check if chemical is buyable or not
+is_buyable = retro_api.check_stock(smiles)
+
+# check reaction conditions
+
+# first you should get product smile
+# second you should get reactants smile
+
+products = "COc1cc(C(=O)O)cc(OC)c1OC"
+reactants = "C=CC(=O)O.COc1cc(Br)cc(OC)c1OC"
+
+conds = retro_api.process_reaction(product, reactants)
+if conds is not None:
+    # check reaction condition with plausible
+    pass
+```
