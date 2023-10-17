@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: pyrequirement
+Version: 0.0.3
+Summary: A simple tool to generate a requirements.txt from a pyproject.toml
+Author: gothictomato
+License: MIT License
+License-File: LICENSE
+Requires-Dist: tomli
+
