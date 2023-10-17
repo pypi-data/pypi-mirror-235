@@ -1,0 +1,13 @@
+scipy
+ipython
+matplotlib
+tqdm
+numpy
+ephem
+astroquery
+plotly
+numpy
+spiceypy
+pyplanets
+astropy
+astroquery
