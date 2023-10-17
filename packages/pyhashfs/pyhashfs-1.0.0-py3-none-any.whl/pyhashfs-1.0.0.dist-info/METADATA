@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: pyhashfs
+Version: 1.0.0
+Summary: pyHashFS, A python implementation of HashFS
+Author-email: Irving Leonard <irvingleonard@gmail.com>
+License: BSD 3-Clause License
+Project-URL: homepage, https://github.com/irvingleonard/pyhashfs
+Project-URL: repository, https://github.com/irvingleonard/pyhashfs.git
+Keywords: hashfs,hash,file system
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: File Formats
+Classifier: Topic :: System :: Filesystems
+Classifier: Topic :: System :: Operating System
+Classifier: Topic :: Utilities
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: simplifiedapp
+Provides-Extra: google-drive
+Requires-Dist: google-api-python-client ; extra == 'google-drive'
+Requires-Dist: google-auth-httplib2 ; extra == 'google-drive'
+Requires-Dist: google-auth-oauthlib ; extra == 'google-drive'
+
+A hash file system (HashFS) is a content addressable file system, where the content (files) are identified by its metadata, as in hash sums (and other sums) instead of the classic file name (including the path). By using inmutable and directly related information to identify a file (content) some application problems are rendered moot, like file duplication.
