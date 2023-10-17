@@ -1,0 +1,3 @@
+[console_scripts]
+deng=mainlymarlin_de_toolkit.main:cli
+
