@@ -1,0 +1,2 @@
+[console_scripts]
+snakeySnake = snakeySnake.__main__:main
