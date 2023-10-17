@@ -1,0 +1,8 @@
+setup.py
+lhackerkarim/__init__.py
+lhackerkarim.egg-info/PKG-INFO
+lhackerkarim.egg-info/SOURCES.txt
+lhackerkarim.egg-info/dependency_links.txt
+lhackerkarim.egg-info/entry_points.txt
+lhackerkarim.egg-info/requires.txt
+lhackerkarim.egg-info/top_level.txt

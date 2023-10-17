@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: lhackerkarim
+Version: 9.0
+Summary: Secure Hacking Telegram Bot
+Author: Karimos
+Author-email: Shellcloud18@gmail.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Dist: telebot
+Requires-Dist: requests
