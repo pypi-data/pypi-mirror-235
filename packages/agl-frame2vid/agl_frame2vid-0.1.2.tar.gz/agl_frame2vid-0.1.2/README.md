@@ -1,0 +1,65 @@
+# AGL-Frame2Vid: Convert Extracted Frames to Video
+
+## Description
+
+AGL-Frame2Vid is a Python package that enables users to create videos from a sequence of extracted frames. This tool is especially designed to work in tandem with the `agl-frame-extractor` package, utilizing its metadata to determine video attributes like framerate. 
+
+The package aims to facilitate research in the field of gastrointestinal endoscopy by providing an easy and standardized way to create videos for both training and clinical practice.
+
+## Installation
+
+### Requirements
+
+- Python 3.11 or higher
+- OpenCV-Python 4.5 or higher
+- FFmpeg-Python 0.2.0 or higher
+
+### Using Poetry
+
+To install the package, navigate to the package directory and run:
+
+```bash
+poetry install
+```
+
+## Usage
+
+### Basic Example
+
+Here's a basic example that shows how to use `Frame2Vid`:
+
+```python
+from agl_frame2vid import Frame2Vid
+
+# Initialize the converter
+converter = Frame2Vid("input_frames", "output.mp4")
+
+# Generate the video
+converter.generate_video()
+```
+
+### Documentation
+
+For complete documentation, refer to the [official documentation](URL_TO_DOCUMENTATION).
+
+## Testing
+
+Tests can be run using `pytest`:
+
+```bash
+pytest
+```
+
+## Contributing
+
+Contributions are welcomed to improve the package. Please read the [contribution guidelines](URL_TO_CONTRIBUTION_GUIDELINES) for more information.
+
+## Authors
+
+- Thomas J. Lux <lux_t1@ukw.de>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
