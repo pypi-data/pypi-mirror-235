@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: slices
+Version: 1.4.1
+Summary: Invertible crystal representation (SLICES)
+Author: Hang Xiao
+Author-email: xiaohang07@live.cn
+License: GPL 2.1
+Platform: any
+Requires-Python: >=3.8
+License-File: LICENSE
+
+UNKNOWN
+
