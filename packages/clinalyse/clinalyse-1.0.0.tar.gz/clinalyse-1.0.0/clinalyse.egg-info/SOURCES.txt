@@ -1,0 +1,11 @@
+setup.py
+clinalyse/__init__.py
+clinalyse/equations.py
+clinalyse/fibonacci.py
+clinalyse/setup.py
+clinalyse/support_outputs.py
+clinalyse.egg-info/PKG-INFO
+clinalyse.egg-info/SOURCES.txt
+clinalyse.egg-info/dependency_links.txt
+clinalyse.egg-info/requires.txt
+clinalyse.egg-info/top_level.txt
