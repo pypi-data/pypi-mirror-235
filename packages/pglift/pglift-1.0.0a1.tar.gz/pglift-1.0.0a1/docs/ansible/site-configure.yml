@@ -1,0 +1,16 @@
+- name: pglift site configuration for the Ansible tutorial
+  hosts: localhost
+  tasks:
+    - name: The prefix path for all pglift data
+      ansible.builtin.tempfile:
+        state: directory
+        suffix: .pglift
+      register: pglift_prefix
+
+    - name: Install pglift site settings
+      ansible.builtin.template:
+        src: tutorial-settings.yaml.j2
+        dest: ~/.config/pglift/settings.yaml
+
+    - name: Perform site configuration
+      ansible.builtin.command: pglift site-configure install
