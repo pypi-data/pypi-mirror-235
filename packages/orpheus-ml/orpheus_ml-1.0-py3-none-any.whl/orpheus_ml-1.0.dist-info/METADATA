@@ -1,0 +1,406 @@
+Metadata-Version: 2.1
+Name: orpheus-ml
+Version: 1.0
+Summary: A package for automated ML model training and creation of pipelines capable of handling multiple estimators.
+Author: Vincent Ouwendijk
+License: All Rights Reserved
+Requires-Python: >=3.11.3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy >=1.24.1
+Requires-Dist: pandas >=1.5.2
+Requires-Dist: scikit-learn >=1.2.0
+Requires-Dist: matplotlib >=3.6.3
+Requires-Dist: featuretools >=1.23.0
+Requires-Dist: schema >=0.7.5
+Requires-Dist: joblib >=1.2.0
+Requires-Dist: ruamel.yaml >=0.17.21
+Requires-Dist: bayesian-optimization >=1.4.2
+Requires-Dist: lightgbm ==3.3
+Requires-Dist: xgboost >=1.7.3
+Requires-Dist: torch
+
+# Orpheus
+
+<img src="graphs/logo/Orpheus-logos/Orpheus-logos.jpeg" alt="Orpheus Logo" width="55%" height="auto">
+
+## What is Orpheus?
+
+**Orpheus** stands for **Optimized Robust Pipelines for Heuristic Ensemble Utilization and Selection**.
+
+It provides a tool for data scientists and machine learning engineers to automate pipeline construction and optimization, as well as experiment with various combinations of preprocessing techniques and estimators. Orpheus is build on top of the [scikit-learn](https://scikit-learn.org/stable/) library and is compatible with all scikit-learn estimators.
+
+It is a Python package designed to automate the process of building and optimizing machine learning pipelines. These pipelines are different from the conventional Pipeline class from Scikit-Learn, in the sense that a pipeline can contain multiple estimators instead of just one. This class inherits from the Scikit-Learn Pipeline class and is called `MultiEstimatorPipeline`.
+
+Some common use-cases for Orpheus include:
+
+- _Building and optimizing pipelines for regression and classification problems._
+- _Preprocessing data using a variety of techniques such as scaling, feature adding, and feature selection._
+- _Combining multiple estimators into a single pipeline._
+- _Evolving pipelines through stack generalization._
+- _Evaluating the performance of pipelines._
+- _Explanation of features_
+- _Support for custom metrics_
+- _Support for time-series_
+- _Support for PyTorch models_
+
+## How to Use Orpheus
+
+All steps can be controlled through a configuration file in YAML format, which is created when you first run the program with an instance of the `ComponentService` class. You can edit this file to change the settings of all the preprocessing components. Detailed explanations of the component settings are provided within the configuration file itself.
+
+The preprocessing components are performed in the following order:
+
+1. `Scaling` component: Identifies and applies the best scaler for the data.
+2. `Feature Adding` component: Adds recommended features to the data.
+3. `Feature Removing` component: Implements various algorithms to remove poorly performing or redundant features.
+4. `HyperTuner` component: Performs hyperparameter tuning through a three-round process, storing trained models and their performance. Each HyperTuner instance represents a single fold, acquired by the splits of an object which inherits from `BaseCrossValidator `class in Scikit-Learn (eg ._TimeSeriesSplit, KFold, ShuffleSplit_ etc.)
+
+In addition to the configuration file, you can control the enabled/disabled status of components using the parameters in the `ComponentService.initialize` method.
+
+
+## MultiEstimatorPipeline
+
+The `MultiEstimatorPipeline` class is a scikit-learn pipeline with additional functionality, the main one being the ability to add multiple estimators and make combined predictions with them. Estimators in the pipeline can be accessed by the `estimators` attribute, which is a list where the estimators are indexed by their score. The better the score, the higher the index of the estimator in the list. 
+
+The scores can be updated and can be used to determine the weights of the estimators when making predictions. This is done through the `score` method. How estimators are weighted scorewise, can be checked by the `get_weights` method.
+
+Pipelines can be saved to disk and loaded again using the `save` and `load` methods.
+
+## Common Parameters
+
+Most classes, including the components, share a common set of parameters:
+
+- `metric/scoring`: A callable that takes two `pd.Series` objects and returns a `float`. This is the metric that will be optimized during the pipeline execution. Examples include `sklearn.metrics.mean_squared_error` and `sklearn.metrics.accuracy_score`. Also, custom metricfunctions can be used. In this case, they need to be registered through the `PipelineOrchestrator.register_metric` static method.
+- `config_path`: A `str` representing the path to the configuration file of the components. This file specifies the hyperparameters and other settings for each component in the pipeline.
+- `maximize_scoring`: A `bool` indicating whether to maximize or minimize the `metric/scoring`. If `True`, the pipeline will try to maximize the metric. If `False`, the pipeline will try to minimize the metric.
+- `verbose`: An `int` representing the verbosity level. The higher the value, the more information will be printed to the console during the pipeline execution. The possible values are:
+  - `0`: No information will be printed to the console.
+  - `1` Only warnings, errors and critical messages will be printed to the console.
+  - `2`: Only important informative messages and errors will be printed to the console.
+  - `3:` All messages, including errors, will be printed to the console.
+
+In `PipelineOrchestrator`, if `log_file_path` is set, logging to this file will be done instead of printing to the console.
+
+## Tips
+
+If overfitting is a problem when using a classifier, consider adjusting the following settings in the YAML configurationfile for the HyperTuner component:
+
+- The `R2_weights` can be adjusted to prioritize regularization. A starting point may be `{"best_mean": 0.9, "lowest_stdev": 0.3, "amount_of_unique_vals": 0.3}`. It's important to understand these weights are applied on a per-estimator-population basis during the round 2 process. For instance, if the _RandomForestClassifier_ estimators had the highest mean _accuracy_ score of 0.85 in round 2, compared to all other trained estimator-populations, and "best*mean" has the highest weight, there's a significant chance that \_RandomForestClassifier* will be the estimator advancing to round 3.
+- `penalty_to_score_if_overfitting`: Increase the value to `1.0` to impose a heavy penalty on overfitting.
+
+If you encounter memory or performance issues due to a large dataset, consider utilizing the `random_subset` parameter in the YAML configurationfile. This parameter, available in the `Scaling`, `FeatureRemoving`, and `HyperTuner` components, extracts a random subset of the data. Note that the indices may vary with each fitting iteration, the sole exception being the `FeatureRemoving` component.
+
+If the program keeps on hanging, use the `log_cpu_memory_usage` parameter in the constructor of `PipelineOrchestrator` to keep track of memory and cpu-usage. If the hanging occurs in `PipelineOrchestrator.build()`, try the `timeout_duration` parameter.
+
+## Services
+ 
+### ComponentService
+
+`ComponentService` is the service class which binds all preprocessing-and training components together. It is responsible for all the preprocessing and training of the data. It also provides the ability to generate pipelines for the best base models and stacked models, found by the hyperparameter tuning process. These pipelines include the preprocessing steps and estimators. Before the scaling process, binary features are excluded from `Scaling` and `FeatureAdding` components. This is done to prevent the scaling and adding of features based on binary features, which is generally undesirable. Also, this allows for different preprocessing techniques to be used, like one-hot encoding.
+
+### Basic usage of the ComponentService class:
+
+```python
+import pandas as pd
+from sklearn.model_selection import ShuffleSplit, train_test_split
+from sklearn.datasets import make_regression
+
+from orpheus import ComponentService, PipelineEvolverService, MultiEstimatorPipeline
+
+config_path = "./configurations.yaml"
+
+# create a cross validation object. replace with your own cv object
+cv_obj = ShuffleSplit(n_splits=3)
+
+# create a synthetic dataset. replace with your own data
+X, y = make_regression(
+    n_samples=1000,
+    n_features=5,
+    random_state=42,
+)
+
+X = pd.DataFrame(X)
+X.columns = [f"feature_{N}" for N in range(1, X.shape[1] + 1)]
+y = pd.Series(y)
+
+# split into train and test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, shuffle=True)
+
+if __name__ == "__main__":
+    # initialize the compomnentservice.
+    # at first runtime, program will create a config file if it doesn't exist yet.
+    # you can edit this file to change the settings of all the preprocessing components
+    # before running the program again.
+    component_service = ComponentService(
+        X_train,
+        X_test,
+        y_train,
+        y_test,
+        config_path=config_path,
+        cv_obj=cv_obj,
+        n_jobs=-1,
+    )
+
+    # kick off the preprocessing and training process.
+    # settings per component are read from the config file and applied
+    # to the preprocessing and training process when running this method.
+    component_service.initialize(
+        scale=True,
+        add_features=True,
+        remove_features=True,
+    )
+
+    # generate fitted pipelines for best base models and stacked models,
+    # found by the hyperparameter tuning process.
+    # these include the preprocessing steps and estimators.
+    pipe_base: MultiEstimatorPipeline = component_service.generate_pipeline_for_base_models(top_n_per_tuner=5)
+    pipe_stacked: MultiEstimatorPipeline = component_service.generate_pipeline_for_stacked_models(
+        top_n_per_tuner_range=[3, 5]
+    )
+
+    # evolve the pipelines through stack generalization
+    evolver = PipelineEvolverService(pipe_stacked)
+    evolved_pipe_hv = evolver.evolve_voting(n_jobs=4, voting="hard")
+
+    evolved_pipe_hv.fit(X_train, y_train)
+    print(evolved_pipe_hv.score(X_test, y_test))
+
+    evolved_pipe_sv = evolver.evolve_voting(n_jobs=4, voting="soft")
+    evolved_pipe_sv.fit(X_train, y_train)
+    print(evolved_pipe_sv.score(X_test, y_test))
+
+```
+
+### PipelineOrchestrator
+
+For a simpler and more high-level user interface, you can utilize the `PipelineOrchestrator` class.
+
+This class provides full and easy control over the entire signalflow, from the preprocessing components to model validation (eg. `ComponentService` is being used under the hood). It assumes a heuristic approach where the dataset is split into 3 partitions: The train, test and validationsets. This to ensure the quality of the models afterwards.
+
+The trainset will be assigned the folds by the Scikit-Learn cross-validation object and should generally be the largest dataset.
+
+The second dataset, in this context called the testset, will be used to evaluate the models from the earlier training process. During this process, 3 generations of models will be created. You can change this by setting the `generations` parameter in the `PipelineOrchestrator.build()` method.
+
+The three generations are:
+
+_Generation 1: Base:_
+These are the top-performing base models discovered through the hyperparameter tuning process in the HyperTuner component.
+Each instantiated HyperTuner object serves as a "tuner" and also represents a single cross-validation fold.
+The number of models per tuner is determined by the _top_n_per_tuner_ parameter in the PipelineOrchestrator.build() method.
+
+_Generation 2: Stacked:_
+These meta-models are formed by combining the base models from generation 1 using various ensemble methods, such as voting, stacking, and averaging.
+
+_Generation 3: Evolved:_
+This is a single meta-model created by ensembling the models from generation 2.
+
+After utilizing the `PipelineOrchestrator.build()` method, models in the created pipelines can be validated by the `PipelineOrchestrator.fortify()` method. Here, stresstests will be executed on the models in all pipeline generations. Models which do not pass the stresstests, will be removed from their pipeline. For this process, the validationset will be used.
+
+### Hierarchy diagram
+
+This diagram provides a visual overview of how different components and services interact within the Orpheus framework:
+
+```mermaid
+flowchart TD
+    %% Services
+    orchestrator(PipelineOrchestrator):::service
+    orchestrator --> |initializes| orchestrator_init(+PipelineOrchestrator.__init__):::method
+    orchestrator_init --> |splits| dataSplit(Data is split into 3 partitions: Train, Test, Validation):::dataset
+    orchestrator_init --> |initializes| componentservice
+    componentservice(ComponentService):::service
+
+    %% Build Method
+    orchestrator --> |calls| build(+PipelineOrchestrator.build):::method
+    build --> |calls| initialize(+ComponentService.initialize):::method
+    initialize --> |uses| TrainTestPartition(Datapartitions used: Train, Test):::dataset
+    TrainTestPartition --> |to execute| scaling(Scaling: Identifies and applies the best scaler):::component
+    scaling --> |followed by| feature_adding(Feature Adding: Adds recommended features):::component
+    feature_adding --> |followed by| feature_removing(Feature Removing: Removes poorly performing or redundant features):::component
+    feature_removing --> |followed by| hypertuner(HyperTuner: Performs hyperparameter tuning and model training):::component
+    hypertuner --> |after which| generations(Three generations of MultiEstimatorPipelines are created):::process
+
+    %% Pipeline Generations
+    generations --> |starting with| pipeline_base(First generation: Base):::pipeline
+    pipeline_base --> |consists of| models_base(Multiple basemodels: best models per HyperTuner):::model
+    models_base --> |used to create| pipeline_stacked(Second generation: Stacked):::pipeline
+    pipeline_stacked --> |consists of| models_stacked(Multiple ensemblemodels: stacked, stacked_unfit, voting_hard, voting_hard_unfit, voting_soft, voting_soft_unfit, averaged, averaged_weighted):::model
+    models_stacked --> |used to create| pipeline_evolved(Third generation: Evolved):::pipeline
+    pipeline_evolved --> |consists of| models_evolved(Single voting model: Formed out of all compatible ensemblemodels from the stacked generation):::model
+    models_evolved ==> fortify
+
+    %% Fortify Method
+    orchestrator --> |calls| fortify(+PipelineOrchestrator.fortify):::method
+    fortify --> |uses| validationPartition(Datapartitions used: Validation):::dataset
+    validationPartition --> |to test| stressTest(Each created generation of MultiEstimatorPipeline is stresstested for robustness):::process
+    stressTest --> |removes| removal(A generation MultiEstimatorPipeline if it is not robust enough):::process
+
+    classDef service fill:red, color:black
+    classDef method fill:#e6f7e6, color:black
+    classDef component fill:brown, color:black
+    classDef model fill:#ffe6f0, color:black
+    classDef pipeline fill:green, color:black
+    classDef process fill:lightblue, color:black
+    classDef dataset fill:orange, color:black
+
+```
+
+### Flowchart
+
+Here is a concrete example what parts of the complete training process are automated by Orpheus:
+
+<img src="graphs\charts\orpheus_flowchart_2.drawio.svg" alt="Orpheus Flowchart" width="2000" height="550">
+
+### Basic usage of the PipelineOrchestrator class:
+
+```python
+import pandas as pd
+from sklearn.model_selection import ShuffleSplit, train_test_split
+from sklearn.datasets import make_regression
+from sklearn.metrics import r2_score
+
+from orpheus import PipelineOrchestrator, MultiEstimatorPipeline
+
+config_path = "./configurations.yaml"
+
+# create a cross-validation object. Replace with your own cv object
+cv_obj = ShuffleSplit(n_splits=4)
+
+# create a synthetic dataset. Replace with your own data
+X, y = make_regression(
+    n_samples=1000,
+    n_features=5,
+    random_state=42,
+)
+X = pd.DataFrame(X)
+X.columns = [f"feature_{N}" for N in range(1, X.shape[1] + 1)]
+y = pd.Series(y)
+
+# split into train and test
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42, shuffle=True
+)
+
+if __name__ == "__main__":
+    orchestrator = PipelineOrchestrator(
+        X_train,
+        y_train,
+        metric=r2_score,
+        config_path=config_path,
+        verbose=3,
+        n_jobs=4,
+        shuffle=True,
+        test_size=100,
+        validation_size=50,
+    )
+
+    (
+        orchestrator
+        .pre_optimize(max_splits=4)
+        .build(
+            scale=False,
+            add_features=False,
+            remove_features=False,
+        )
+        .fortify(
+            optimize_n_jobs=True,
+            threshold_score=0.90,
+            plot_explaining=True,
+        )
+    )
+
+    # make predictions
+    pred_base = orchestrator.pipelines["base"].predict(X_test)
+    pred_stacked = orchestrator.pipelines["stacked"].predict(X_test)
+    pred_evolved = orchestrator.pipelines["evolved"].predict(X_test)
+
+    # get an overview of the feature importances
+    explained_features = orchestrator.get_explained_features()
+
+    # save the pipelines to disk for later use
+    orchestrator.pipelines["base"].save("base_pipeline")
+    orchestrator.pipelines["stacked"].save("stacked_pipeline")
+    orchestrator.pipelines["evolved"].save("evolved_pipeline")
+
+```
+
+Because of its simpler interface, general advice is to use the PipelineOrchestrator class for all actions, unless you have a specific reason not to, like for example, if you want more fine-grained control.
+
+## Pytorch support
+
+Special support for Pytorch models is provided through the `PyTorchBase` class. This class inherits from both `nn.Module`, as well as the `BaseEstimator` class in Scikit-Learn and can be used in the same way as any other Scikit-Learn estimator. You just build your Pytorch model as you normally would, and then inherit from the `PyTorchBase` class.
+The `PyTorchBase` class adds both the `fit` and `predict` methods to the PyTorch model, which are required by Scikit-Learn estimators.
+
+`PyTorchBase` also provides several methods, which act as hooks during the trainingloop in `fit`.
+These methods can be overridden to add custom functionality. It is recommended to check out the source code of `PyTorchBase` to see what methods are available and how they are used in the trainingloop.
+
+Here is an example of how to use the `PyTorchBase` class:
+
+```python
+import torch.nn as nn
+from orpheus.experimental.pytorch.base import PyTorchBase
+
+
+INPUT_DIM = 13
+OUTPUT_DIM = 1
+HIDDEN_DIM1 = 64
+HIDDEN_DIM2 = 32
+
+
+# Just inherit from PyTorchBase and build your model as you normally would:
+class PyTorchNetExample(PyTorchBase):
+    def __init__(self, input_dim=INPUT_DIM, epochs=70, batch_size=32, dropout_prob=0.2, validation_size=0.2, device="cpu"):
+        super().__init__(
+            input_dim=input_dim,
+            output_dim=input_dim,
+            epochs=epochs,
+            learning_rate=0.01,
+            batch_size=batch_size,
+            early_stopping=True,
+            patience=10,
+            optimizer="Adam",
+            criterion=None,
+            validation_size=validation_size,
+            device=device,
+        )
+
+        # Model architecture
+        self.dropout_prob = dropout_prob
+        self.layer1 = nn.Linear(input_dim, HIDDEN_DIM1)
+        self.layer2 = nn.Linear(HIDDEN_DIM1, HIDDEN_DIM2)
+        self.layer3 = nn.Linear(HIDDEN_DIM2, OUTPUT_DIM)
+        self.relu = nn.ReLU()
+        self.dropout = nn.Dropout(p=self.dropout_prob)
+        self.name = self.__class__.__name__
+
+    # hooks for fit in PyTorchBase
+    def pre_train(self):
+        print(f"Pre-training in model {self.name} with id {id(self)} on device {self.device}")
+
+    def pre_epoch(self):
+        print(f"Pre-epoch in model {self.name} with id {id(self)} on device {self.device}")
+
+    def post_epoch(self):
+        print(f"Post-epoch in model {self.name} with id {id(self)} on device {self.device}")
+
+    def post_train(self):
+        print(f"Post-training in model {self.name} with id {id(self)} on device {self.device}")
+
+    def forward(self, x):
+        x = self.layer1(x)
+        x = self.relu(x)
+        x = self.dropout(x)
+
+        x = self.layer2(x)
+        x = self.relu(x)
+        x = self.dropout(x)
+
+        return self.layer3(x)
+```
+
+## Explanation of features
+Features can be explained through LIME (Local Interpretable Model-agnostic Explanations). Explanations are done on a per-sample basis.
+This is done by the `PipelineOrchestrator.fortify()` method. The `plot_explaining` parameter controls whether the explanations are plotted.
+Setting the `plot_explaining` parameter to `True` will plot the explanations for the best base model, the best stacked model, and the evolved model.
+
+## Custom metrics
+Custom metrics can be registered through the `PipelineOrchestrator.register_metric` static method. This method takes a callable as its only parameter. The callable should take two `pd.Series` objects as its parameters and return a `float`. The first `pd.Series` object represents the true values, while the second `pd.Series` object represents the predicted values.
