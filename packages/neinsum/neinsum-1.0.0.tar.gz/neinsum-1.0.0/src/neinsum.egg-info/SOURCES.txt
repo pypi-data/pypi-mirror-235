@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/neinsum/__about__.py
+src/neinsum/__init__.py
+src/neinsum/_named_einsum.py
+src/neinsum.egg-info/PKG-INFO
+src/neinsum.egg-info/SOURCES.txt
+src/neinsum.egg-info/dependency_links.txt
+src/neinsum.egg-info/requires.txt
+src/neinsum.egg-info/top_level.txt
+tests/test_named_einsum.py
