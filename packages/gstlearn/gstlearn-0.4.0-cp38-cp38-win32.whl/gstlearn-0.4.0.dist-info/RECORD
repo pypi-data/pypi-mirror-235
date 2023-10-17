@@ -1,0 +1,12 @@
+gstlearn-0.4.0.data/purelib/gstlearn/__init__.py,sha256=UO_A90LiF3LB5CHKZzzju-Cq2lg962Irtz2nz7q00KU,746876
+gstlearn-0.4.0.data/purelib/gstlearn/_gstlearn.pyd,sha256=wfiM4TrqpmYbswGHv06hsblITLYTRZIxDWXliTM43FQ,12085760
+gstlearn-0.4.0.data/purelib/gstlearn/plot.py,sha256=r8qWthn7VrLS2BV2iLS8Cy_1Joidb-HCYcF1o6bCXmM,84925
+gstlearn-0.4.0.data/purelib/gstlearn/plot3D.py,sha256=jjGuTAgb9JX07lBqohZME_cR5UfvfrRJxfkAG_J91po,16056
+gstlearn-0.4.0.data/purelib/gstlearn/proj.py,sha256=tBtZv6kXvH2QiOraWuRfkd4wlx-z6Xtms8Pt8wu1xOA,2345
+gstlearn-0.4.0.data/purelib/gstlearn/test.py,sha256=AX8jP84dATcjaSlijGGRPnHD75UubKqutNdlzJJUMRw,4045
+gstlearn-0.4.0.data/purelib/gstlearn/version.py,sha256=NYLFMwxLcIydKuD1NwokNjw7E4UDp4UJTuDmaf1i7JI,875
+gstlearn-0.4.0.data/purelib/gstlearn/widgets.py,sha256=QnQ3KwDwQ8l9sbgeb4vDa5CUO_l5DvP0rEfC82tZsV8,5746
+gstlearn-0.4.0.dist-info/METADATA,sha256=HodI7JmsVmSMArITkE9pUeHrln1hrQYF3oQBiSB0sdw,11532
+gstlearn-0.4.0.dist-info/WHEEL,sha256=y8qDGGdi2jzVmdhM7TFDumLpecKSDSzZ5cZMyFFuIFQ,96
+gstlearn-0.4.0.dist-info/top_level.txt,sha256=aUCj-eD1YZWtQYumdKHNjoFCIhtl6TwlWJOUl3wHo9Q,9
+gstlearn-0.4.0.dist-info/RECORD,,
