@@ -1,0 +1,12 @@
+program/__init__.py,sha256=97jNS4WZG7fnhey6vcTdSUFyhHC4qQ5xfMlXjlH6Gbw,57
+program/pato_gui.py,sha256=DyVwDypKhjP-NZvAFuEiVAcM1_pRWqQPqVpbbBlZPcA,8102
+utils/__init__.py,sha256=97jNS4WZG7fnhey6vcTdSUFyhHC4qQ5xfMlXjlH6Gbw,57
+utils/about.py,sha256=ZFgD8gao5Rws2xTaSQwsyHx9006yuPvdD2EXX_qItGs,631
+utils/pom.py,sha256=Nu6Lr0qB5znDbaxaVi7Ljhm9YZIjD_mDEbtPuHKFaB8,7496
+pato_gui-3.1.0.dist-info/LICENSE,sha256=3TW2s3_YyWxYPOwbWn-PS83Jc9VuPMGBogHcv3fTdqc,1088
+pato_gui-3.1.0.dist-info/METADATA,sha256=3cc5aM0OmCRMuoWseFzpKlE5yBgrU0H1DmSEMyLvhBQ,6051
+pato_gui-3.1.0.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+pato_gui-3.1.0.dist-info/entry_points.txt,sha256=ri0dQ7mFAO2ln1oXaVCIBvIuy6NgMc6dVLQ5zb-jRYI,48
+pato_gui-3.1.0.dist-info/top_level.txt,sha256=Vae_dI9RmqOQ_VSEfS56Dp_-ZPdtmggdvhW5M6ZXq-o,14
+pato_gui-3.1.0.dist-info/zip-safe,sha256=frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN_XKdLCPjaYaY,2
+pato_gui-3.1.0.dist-info/RECORD,,
