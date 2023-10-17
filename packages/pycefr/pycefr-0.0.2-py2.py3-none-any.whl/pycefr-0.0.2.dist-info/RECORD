@@ -1,0 +1,15 @@
+pycefr/ClassIterTree.py,sha256=0jxVqOPIGJzuWmx75vHM0LsH5CKfpKpBR83fXkVv6GQ,2835
+pycefr/__init__.py,sha256=lzExFzBMsy7iyjFMNK8mMGAXs5QbtWpNDc9LlhmyPPI,371
+pycefr/configuration.cfg,sha256=WrYZBdFQS5eZA3FozN-lDmrqU6mekdEtMcCX_mTmK44,1723
+pycefr/data.csv,sha256=Bg0d-FEF1xVB5UxngPLRSw5KO-fhPNFrmQKxbZwYo_s,7538
+pycefr/data.json,sha256=9cIDXJTera5d5bOAC_oRAYWyyI71IaUg0Gr5Z2sXlm4,35053
+pycefr/dicc.txt,sha256=UH06RBH3-DKx8Zz7lLvmY6_d_sDP49qQRRLIwOOos_4,2175
+pycefr/dict.py,sha256=7G9Of4_hrbrxAynYAZF2WV5UvL_eWGsRvP2IZofvFXk,668
+pycefr/getcsv.py,sha256=CrkifI4qGK6t32iYuxoLutbWyqaixolYdq3Dcwhmj1w,1648
+pycefr/getjson.py,sha256=krz2iYyph9uFAAM596TQuzX19JbHHCA-_3uJOXZ680E,4569
+pycefr/levels.py,sha256=nmHnf59y-U27Nr8s76EQ8svIEorqh7oochBEcGe62OY,23792
+pycefr/pycerfl.py,sha256=ZowD8y2nT5W8hEswgiD7TBWOS0qQsH3jNf4EuzYOOR8,6934
+pycefr-0.0.2.dist-info/LICENSE,sha256=ADAnLV-idH3CpkOve8c1ExQMIZ1QpfB8JU0uZ-iNiv4,1110
+pycefr-0.0.2.dist-info/WHEEL,sha256=Sgu64hAMa6g5FdzHxXv9Xdse9yxpGGMeagVtPMWpJQY,99
+pycefr-0.0.2.dist-info/METADATA,sha256=21fjZBluiAbHIy8zbt-2--e1I228bpNgnRnftYm-IjM,2011
+pycefr-0.0.2.dist-info/RECORD,,
