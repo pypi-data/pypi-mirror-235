@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pixeluxe/__init__.py
+src/pixeluxe/pixeluxe.py
+src/pixeluxe.egg-info/PKG-INFO
+src/pixeluxe.egg-info/SOURCES.txt
+src/pixeluxe.egg-info/dependency_links.txt
+src/pixeluxe.egg-info/top_level.txt
