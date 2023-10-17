@@ -1,0 +1,6 @@
+requests
+
+[dev]
+pre-commit
+black==23.9.1
+ruff==0.0.292
