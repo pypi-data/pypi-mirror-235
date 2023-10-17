@@ -1,0 +1,9 @@
+colorama
+jinja2
+pip-cache
+platformdirs
+pygls
+tree-sitter-requirements
+
+[dev]
+pytest-cov
