@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: hep-cli
+Version: 0.1.1
+Summary: A basic CLI app
+Author: Oguzhan Yilmaz
+Author-email: oguzhan@hepapi.com
+Requires-Python: >=3.10,<3.13
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Requires-Dist: rich (>=13.6.0,<14.0.0)
+Description-Content-Type: text/markdown
+
+# python-cli-template
+A template repository for creating CLI apps 
+
+
+## Dependencies
+
+- poetry https://python-poetry.org/
+- typer https://typer.tiangolo.com/
+
+
+## Commands
+
+```bash
+poetry new <package-name>
+
+poetry add <dep-package-name>
+```
