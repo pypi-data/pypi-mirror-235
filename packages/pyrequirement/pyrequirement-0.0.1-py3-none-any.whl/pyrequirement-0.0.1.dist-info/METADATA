@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pyrequirement
+Version: 0.0.1
+Author: gothictomato
+License: MIT License
+License-File: LICENSE
+Requires-Dist: tomli
+
