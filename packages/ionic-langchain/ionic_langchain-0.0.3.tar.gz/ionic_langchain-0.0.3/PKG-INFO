@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ionic-langchain
+Version: 0.0.3
+Summary: 
+Author: Owen Sims
+Author-email: owen@ionicapi.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: langchain (>=0.0.312,<0.0.313)
+Description-Content-Type: text/markdown
+
+# Ionic Langchain
+
+Pre-release. Do not use this.
+
+
+
