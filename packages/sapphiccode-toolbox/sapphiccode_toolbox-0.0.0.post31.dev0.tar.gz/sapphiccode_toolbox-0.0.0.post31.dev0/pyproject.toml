@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "sapphiccode-toolbox"
+version = "0.0.0.post31.dev0"
+description = ""
+authors = ["Cassandra <git@sapphicco.de>"]
+readme = "README.md"
+license = "EUPL-1.2"
+
+[[tool.poetry.packages]]
+include = "sc/toolbox"
+
+[tool.poetry.scripts]
+ct = "sc.toolbox._main:main"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+click = "^8.1.6"
+pillow = "^10"
+pydantic = "^2"
+pyyaml = "^6.0.1"
+structlog = ">=23.1.0"
+rich = "^13.5.2"
+tqdm = "^4.66.1"       # TODO: do we really need both? (neither are bad libraries, but Rich has a progress bar module- investigate)
+
+[tool.poetry.group.dev.dependencies]
+isort = "^5.12.0"
+black = "^23.7.0"
+ruff = "^0.0.290"
+ipython = "^8.14.0"
+pre-commit = "^3.3.3"
+mypy = "^1.5.1"
+
+[tool.poetry-dynamic-versioning]
+enable = false
+metadata = false
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning>=1.1.0,<2"]
+build-backend = "poetry_dynamic_versioning.backend"
+
+[tool.ruff]
+select = ["E", "F", "I"]
