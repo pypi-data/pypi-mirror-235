@@ -1,0 +1,13 @@
+vgpt/__init__.py,sha256=6L32_9BfVEPh73RW_a2GVzeYCuWhK4aZkwOibAaU3Sg,50
+vgpt/__main__.py,sha256=N8erX9xMc70A8Dq0Os-fZ1XJWN0XC1MkBHIdqzasjuI,44
+vgpt/app.py,sha256=eW7-vKZUjYlE-BaGVm56WBfXxBuHx-HSRrYJtEwXbqE,2917
+vgpt/config.py,sha256=aBK95Tar7BSws1OnQPotjZf4IIeGyKSl4yFkyUGm5f8,3400
+vgpt/gcp.py,sha256=d3EB4sthO00xmObQciBvzJ1iT0G945JZKoU3668anOA,1037
+vgpt/log.py,sha256=Yq3ssFnpQU6vTKS75aE4nsSZdnR_MexRduCeaPHIIgM,1743
+vgpt/roles.py,sha256=4v1VYQ1Gy3XJqdkP63EgzVwjA2YwYWWu5qTwAHi-Vf8,2364
+vgpt/version.py,sha256=8Oh3rtMx5wZQOywsF0yrUDTyzMrKcny5hKQ6_mtFpYk,275
+vgpt-0.2.0.dist-info/LICENSE,sha256=OXLcl0T2SZ8Pmy2_dmlvKuetivmyPd5m1q-Gyd-zaYY,35149
+vgpt-0.2.0.dist-info/METADATA,sha256=JdwimJMQNG1ZyzrUahcJzu2V0ik_8fWUDXeYZO6pkcs,2969
+vgpt-0.2.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+vgpt-0.2.0.dist-info/entry_points.txt,sha256=ZTknj7mUDwOCnuiqh18fGLdB5QumirKxz4d-EPHQA_M,33
+vgpt-0.2.0.dist-info/RECORD,,
