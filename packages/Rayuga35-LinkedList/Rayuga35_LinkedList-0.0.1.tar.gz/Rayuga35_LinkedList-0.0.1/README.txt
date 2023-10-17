@@ -1,0 +1,95 @@
+A pacakage consists of standard most used operations perform on Singly LinkedList Example: 
+
+NOTE: class name is: linkedlist.
+
+1. Insertion [ head , tail , Index]
+
+For Insertion of node
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: For Head: object.insert_at_head(value)
+      For Tail: object.insert_at_head(value)
+      For Index: object.insert_at_index(indexposition,value)
+
+############################################################
+
+2. Deletion [ head , tail , By value ]
+
+For deletion of node
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: For Head: object.delete_at_head()
+      For Tail: object.delete_at_tail()
+      For By Value: object.delete_by_value(value)
+
+############################################################
+
+3. Finding Length of linkedlist
+
+To find length of linkedlist
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: length = object.length(head)  # [ Send head as a paramter and it will return length ]
+
+############################################################
+
+4. Reversing a linkedlist
+
+To Reversing a linkedlist
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: object.reverse()
+
+############################################################
+
+5. Searching node in linkedlist
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: temp = object.search(value) [It will return index of value if found or else it will return -1]
+
+############################################################
+
+6. Finding Middle node of Linkedlist
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: object.middle() 
+[
+It will return two value:
+if length of linkedlist is even then it will return two value as a middle
+if length of linkedlist is odd it will return one middle value and another as a -1
+]
+
+############################################################
+
+7. Finding Occurence of Node in given LinkedList
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: total = object.occurence(value)
+
+[It will return total number of occurence of value]
+
+############################################################
+
+8. Finding Intersection of Two LinkedList
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: object.intersection(head1,head2)
+
+[IT will find the intersection between two 
+linkedlist and  return head of new linkedlist ]
+
+############################################################
+
+9. To Display LinkedList
+
+Use: Create Object of class name:
+Now: Call function:  
+Here: object.display(head)
