@@ -1,0 +1,8 @@
+download
+colorama
+setenvironment>=2.0.0
+appdirs>=1.4.4
+
+[test]
+pytest
+pytest-cov
