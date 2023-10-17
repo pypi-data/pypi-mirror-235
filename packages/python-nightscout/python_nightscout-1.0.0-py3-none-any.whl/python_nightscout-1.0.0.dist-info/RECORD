@@ -1,0 +1,8 @@
+nightscout/__init__.py,sha256=WEu5YtQOG1dTPU8vSOdouHretnF_HR2pfwCgETFJVlE,120
+nightscout/api.py,sha256=IjSuMFWbwBXew_mVQl2sRQr-hDWEUIMyKvQ7zPC-H90,2887
+nightscout/models.py,sha256=pZLaqTc3xAoKkDBe_Rn81smuzXZjFkFSzDoM66nV-TI,11690
+nightscout/schedule_test.py,sha256=Xt5bocm_AwxJOqULyGETt539HSmtQCSsn2fK-zZfXHY,1300
+python_nightscout-1.0.0.dist-info/METADATA,sha256=BSbC4vF4nkt7_lyDXSVCWWgd3qRT9yw2UZVM0dpW1po,2267
+python_nightscout-1.0.0.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+python_nightscout-1.0.0.dist-info/top_level.txt,sha256=rC-0_LfB68rmjn7Zb1Xc2rZjEUgds4SCDUTZvO0TNTw,11
+python_nightscout-1.0.0.dist-info/RECORD,,
