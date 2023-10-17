@@ -1,0 +1,10 @@
+measuring_tools/__init__.py,sha256=kbl7ktRnac8xwO1r17gvliIMFU4YfCcTgJSF2ERvD0I,1426
+measuring_tools/length.py,sha256=xYSFVZ38n_A76ABpbQ_JGbJ6QP7cf9sAPK3PUAFHfVM,8246
+measuring_tools/mass.py,sha256=AX1hvS0El-QYsvEw0m10R4XaXwpYF_jgwuh95Cwc6MI,8177
+measuring_tools/temperature.py,sha256=K4glPDKHsAOmEzcfP6PsngTiBo2nou9Kwfonoc9Bj5E,7210
+measuring_tools/volume.py,sha256=otZmfMmsNkdM7iFCu5OiqiLZGS1mmmV9dumsuWMiGX4,6725
+measuring_tools-0.6.0.dist-info/LICENSE,sha256=x54GUh4W15NP1LE7QFn0L0Al1s5gA2n5kPdv3KRH7WA,10758
+measuring_tools-0.6.0.dist-info/METADATA,sha256=rTawaeE7TypLBBkfm4msWbKWiQkZ7yZhLczhbjIttIU,1839
+measuring_tools-0.6.0.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+measuring_tools-0.6.0.dist-info/top_level.txt,sha256=TcnUKtUwENi7BkE9GefQ9Zd79Z-t9RzDqlTyz4mjNyE,16
+measuring_tools-0.6.0.dist-info/RECORD,,
