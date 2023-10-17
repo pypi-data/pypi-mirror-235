@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: unreachable
+Version: 0.1.0
+Summary: An exception for when logic takes a holiday.
+Home-page: https://gitlab.com/deepadmax/unreachable
+License: AGPL-3.0-or-later
+Author: Maximillian Strand
+Author-email: maxi@millian.se
+Requires-Python: >=3.11,<4.0
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Project-URL: Repository, https://gitlab.com/deepadmax/unreachable
+Description-Content-Type: text/markdown
+
+# Unreachable
+
+Have you concluded with perfect certainty that a part of your code may not, will not, *could not* logically be reached and you still feel anxious? Use this exception to cover all bases. When the laws of logic cease, your program will take note of it.
+
+```python
+from unreachable import Unreachable
+```
+
