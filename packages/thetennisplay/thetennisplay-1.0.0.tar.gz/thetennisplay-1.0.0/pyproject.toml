@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "thetennisplay"
+version = "1.0.0"
+description = "Automates tennis court reservation checks and notifications"
+authors = ["Jay Cho <jaycho1214@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/jaycho1214/thetennisplay"
+
+[tool.poetry.dependencies]
+python = ">3.8 <4.0"
+chime = "^0.7.0"
+typer = "^0.9.0"
+schedule = "^1.2.1"
+rich = "^13.6.0"
+selenium = "^4.14.0"
+beautifulsoup4 = "^4.12.2"
+
+[tool.poetry.scripts]
+thetennisplay = 'thetennisplay.skeleton:run'
+
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.5.0"
+black = "^23.9.1"
+isort = "^5.12.0"
+gitlint = "^0.19.1"
+
+[tool.black]
+line-length = 120
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+use_parentheses = true
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
