@@ -1,0 +1,8 @@
+LICENSE
+README.rst
+pyproject.toml
+src/squill/__init__.py
+src/squill.egg-info/PKG-INFO
+src/squill.egg-info/SOURCES.txt
+src/squill.egg-info/dependency_links.txt
+src/squill.egg-info/top_level.txt
