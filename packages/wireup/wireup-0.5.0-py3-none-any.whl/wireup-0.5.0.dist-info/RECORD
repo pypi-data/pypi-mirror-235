@@ -1,0 +1,15 @@
+wireup/__init__.py,sha256=g0rU7lFqRk346jaGLuzeRxuTMfglIzJUDP7v2d8QeWM,759
+wireup/annotation/__init__.py,sha256=oevUH8WS0DOi71ngfE6JsFfO-4kzcc7Rfu5rlsBqOu4,2289
+wireup/import_util.py,sha256=2EFrkVWhRkwYKK4US08cmPfUGu_iK1KviQingqOgC4A,2579
+wireup/ioc/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wireup/ioc/dependency_container.py,sha256=QYFcUdkgjFrWx2poxFb2ccUcoovDlSYI3k5HTyRVvZA,14318
+wireup/ioc/initialization_context.py,sha256=b_-K5JzXnCCveo5CEadE8BZxMQHq6uPXizhEq0IoPQM,2694
+wireup/ioc/parameter.py,sha256=yISvdRqjDphwR9r1zz6Yx0Vkimm5cesx8615b7yO3d8,3735
+wireup/ioc/proxy.py,sha256=5P5wtnT5TJ2QfmH8ZCPmLC37vL09C6zMd_O4yBnqRrY,1240
+wireup/ioc/service_registry.py,sha256=dLt8YWxv8Q0ybG_dn23SePgkzFA-DrecaFOZZph-5dQ,6943
+wireup/ioc/types.py,sha256=kDQaFhwBM1wLwAok-Wi95V3t7sdTfBTmyXWTnCJcTsM,3709
+wireup/ioc/util.py,sha256=MwsbE0uSQo0ssLnz_6XuoIIzUgQrpGmcPTMl2naiVoU,1255
+wireup/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wireup-0.5.0.dist-info/METADATA,sha256=9ZOABE8Yhw6gXfnwebGnNLhuRHYS6W9TiUyR_4ymm6M,2942
+wireup-0.5.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+wireup-0.5.0.dist-info/RECORD,,
