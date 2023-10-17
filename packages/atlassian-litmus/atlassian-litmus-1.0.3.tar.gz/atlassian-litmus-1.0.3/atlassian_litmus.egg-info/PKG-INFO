@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: atlassian-litmus
+Version: 1.0.3
+Requires-Dist: embedded-hermes-dataclasses
+Requires-Dist: tag-db-verification

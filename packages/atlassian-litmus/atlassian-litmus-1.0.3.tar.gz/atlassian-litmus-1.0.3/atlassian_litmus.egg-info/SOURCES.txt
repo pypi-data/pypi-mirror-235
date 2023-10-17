@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_litmus.egg-info/PKG-INFO
+atlassian_litmus.egg-info/SOURCES.txt
+atlassian_litmus.egg-info/dependency_links.txt
+atlassian_litmus.egg-info/requires.txt
+atlassian_litmus.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
