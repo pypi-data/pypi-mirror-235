@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pyscws
+Version: 0.0.1.1
+Summary: SCWS，但是python3
+Home-page: https://github.com/TsXor/pyscws
+Author: TsXor
+Author-email: zhang050525@qq.com
+License: MIT
+Keywords: tokenizing,Chinese word segementation
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: Chinese (Simplified)
+Classifier: Natural Language :: Chinese (Traditional)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Text Processing
+Classifier: Topic :: Text Processing :: Indexing
+
+======
+PySCWS
+======
+SCWS的python接口，用Cython3写成。  
+
+具体介绍
+========
+懒得用ReST再写一遍介绍了，请直接看 `github-pyscws <https://github.com/TsXor/pyscws>`_
