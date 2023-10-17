@@ -1,0 +1,10 @@
+iobm/__init__.py,sha256=cuKDslnXfhGu68llsoy8kquPzVEtBTathYvVAuPSWuA,94
+iobm/cgan_generate.py,sha256=1d5Otf3BPNqtSZOR6ca3b_3JL8b4_G7j-U5wKc99I4o,1703
+iobm/cgan_train.py,sha256=GdtaaVCyTGaFA6pXPpMtpMzl6AKk4QEcQURAA6u48BA,1758
+iobm/container.py,sha256=RC8Y5CHMWqFM7qdYlqy5FhuA-hr0a5_vQoUXt2X8mo4,26353
+iobm-0.3.16.dist-info/LICENSE,sha256=Yk9MBRCKCQTETv616OYoKhjfpDTYfTGRPDgSSy8iBBg,1080
+iobm-0.3.16.dist-info/METADATA,sha256=6a2-fnYjPTs6p7ZG2nAgeXEdzXu9KGKrdkS2vsjThEg,888
+iobm-0.3.16.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+iobm-0.3.16.dist-info/entry_points.txt,sha256=wN8bQk0eYVL_SDpJWVrfxAKBFACCd6-QmP2PP_kzvy8,120
+iobm-0.3.16.dist-info/top_level.txt,sha256=jltiHnSjuYg_2a0iOkguU3lZrkPz26oA9hdhpY7ACLU,5
+iobm-0.3.16.dist-info/RECORD,,
