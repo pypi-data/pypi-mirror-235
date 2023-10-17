@@ -1,0 +1,6 @@
+scipy
+xsarsea
+xarray
+xarray-datatree
+importlib_resources
+tqdm
