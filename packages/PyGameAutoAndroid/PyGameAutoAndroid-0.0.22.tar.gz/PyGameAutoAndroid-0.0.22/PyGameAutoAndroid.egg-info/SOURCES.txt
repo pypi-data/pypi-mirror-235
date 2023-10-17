@@ -1,0 +1,7 @@
+pygame_setup.py
+PyGameAutoAndroid.egg-info/PKG-INFO
+PyGameAutoAndroid.egg-info/SOURCES.txt
+PyGameAutoAndroid.egg-info/dependency_links.txt
+PyGameAutoAndroid.egg-info/top_level.txt
+xiaopy/__init__.py
+xiaopy/xiaopy.py
