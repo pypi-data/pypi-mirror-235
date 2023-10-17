@@ -1,0 +1,8 @@
+# Deployment virtualenv
+/venv
+
+# Compiled Python
+*.pyc
+__pycache__
+build/
+dist/
