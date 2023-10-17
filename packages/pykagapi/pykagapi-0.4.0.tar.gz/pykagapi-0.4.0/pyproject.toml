@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "pykagapi"
+version = "0.4.0"
+description = "pykagapi - python wrapper for King Arthur's Gold-related APIs"
+authors = ["moonburnt <moonburnt@disroot.org>"]
+license = "MIT"
+homepage = "https://github.com/moonburnt/pykagapi"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+aiohttp = "^3.8.6"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.9.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 80
+include = '(?:pykagapi|directory2)\/.*\.pyi?$'
