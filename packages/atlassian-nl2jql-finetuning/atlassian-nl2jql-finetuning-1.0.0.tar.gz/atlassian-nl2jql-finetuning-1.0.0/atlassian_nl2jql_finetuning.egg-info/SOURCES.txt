@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_nl2jql_finetuning.egg-info/PKG-INFO
+atlassian_nl2jql_finetuning.egg-info/SOURCES.txt
+atlassian_nl2jql_finetuning.egg-info/dependency_links.txt
+atlassian_nl2jql_finetuning.egg-info/requires.txt
+atlassian_nl2jql_finetuning.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
