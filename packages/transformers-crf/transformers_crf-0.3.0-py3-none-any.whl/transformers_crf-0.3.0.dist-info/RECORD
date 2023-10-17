@@ -1,0 +1,15 @@
+transformers_crf/__init__.py,sha256=ZHcl1cPDSsFcXwWeKWJfCWRjRKHqAD0nxhXb20NjvI8,992
+transformers_crf/bert_crf.py,sha256=k7lSmAP6xBCo7vqQWI8k7yAJYDlP34kjOSfkEHuLQNg,33154
+transformers_crf/crf.py,sha256=4bxbzS9w_uRnO86j7LfQ4y3DfM6qm_E20xVdaRT8BHY,46740
+transformers_crf/data_collator.py,sha256=yupx5FW4a59tMv6o4JTmSYRyccHGI7M9OvezlCC-GLw,8007
+transformers_crf/export_onnx.py,sha256=P9xqmmzw2ZIe16_4lGcbaTWpPuCruw74m54MOEzE0DM,15609
+transformers_crf/ort_model.py,sha256=38vAmLz8JGMnc1WcmtAsdAonk2S0XP3QePSM7S_tWJY,12089
+transformers_crf/tokenizer.py,sha256=kgORI1wBEXgaFrI1Iamq0Lr5A-CXJJeJ5NYP6bQ473c,6822
+transformers_crf/trainer.py,sha256=6lC3PZbrzHmffvld1fm3jMhW1k09KwRVf5Qs01cWRiY,13488
+transformers_crf/transformer_embedder.py,sha256=SSMhEv1UjvJ5MSAAHGR9Inx1ZV8ySUUP0KbQNTaEF2U,9216
+transformers_crf/util.py,sha256=lboOom9bEVLnoIJdS3XdKhVOKcizaFJvWC5iVImOdJU,11666
+transformers_crf/version.py,sha256=3wVEs2QD_7OcTlD97cZdCeizd2hUbJJ0GeIO8wQIjrk,22
+transformers_crf-0.3.0.dist-info/METADATA,sha256=orgnSHZsBEfjiwFc8OW-vRi25HHjuTb0zvp8cOVES34,3088
+transformers_crf-0.3.0.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+transformers_crf-0.3.0.dist-info/top_level.txt,sha256=sJuFZOHuQRyAU4_f4DrfWkVo9cV5mvRa5EdjSXjs9FM,17
+transformers_crf-0.3.0.dist-info/RECORD,,
