@@ -1,0 +1,29 @@
+tokens:
+  a: [vowel]
+  ' ': [whitespace]
+  b: [consonant]
+rules:
+  a: A
+  b: B
+  ' ': ' '
+  (<consonant> a) b (a <consonant>):  "!B!"
+onmatch_rules:
+  - <vowel> + <vowel>: ","
+whitespace:
+  consolidate: False
+  default: " "
+  token_class: whitespace
+metadata:
+  name: example
+  version: 1.0.0
+  description: "An Example Bundled Transliterator"
+  url: https://github.com/seanpue/graphtransliterator/tree/master/transliterator/sample
+  author: Author McAuthorson
+  author_email: author_mcauthorson@msu.edu
+  license: MIT License
+  keywords:
+    - example
+  project_urls:
+    Documentation: https://github.com/seanpue/graphtransliterator/tree/master/graphtransliterator/transliterators/example
+    Source: https://github.com/seanpue/graphtransliterator/tree/graphtransliterator/transliterators/example
+    Tracker: https://github.com/seanpue/graphtransliterator/issues
