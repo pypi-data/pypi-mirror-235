@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+atlassian_grimlock_commons.egg-info/PKG-INFO
+atlassian_grimlock_commons.egg-info/SOURCES.txt
+atlassian_grimlock_commons.egg-info/dependency_links.txt
+atlassian_grimlock_commons.egg-info/requires.txt
+atlassian_grimlock_commons.egg-info/top_level.txt
+enrolment-metainfo/__init__.py
+enrolment-metainfo/syndication.py
