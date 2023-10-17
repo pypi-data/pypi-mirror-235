@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: Sinhala
+Version: 1.0.0
+Summary: infomation Sinhala Prastha Pirulu , Theravili, Thun theravili 
+Home-page: https://github.com/dotLK/sinhala
+Author: DotLK
+Author-email: 
+License: MIT
+Keywords: Sinhala,Prastha Pirulu,Theravili,Thun theravili,sinhalen
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENCE.txt
+
+ï»¿sinhala Prasthawa Pirulu
+
+Developed by @dotLK from sasindu (c) 2020
+
+
+Check out: https://www.youtube.com/@sasindu
+
+
+Change Log
+=================
+
+1.0.0 (31/07/2022)
+-------------------
+- First Release
+
+1.0.1 (31/07/2023)
+-------------------
+- 2nd Release
