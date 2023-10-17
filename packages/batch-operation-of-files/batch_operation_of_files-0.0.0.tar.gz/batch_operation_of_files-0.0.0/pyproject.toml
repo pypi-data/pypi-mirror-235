@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "batch_operation_of_files"
+version = "0.0.0"
+description = " 文件的批量移动复制删除，可指定文件夹可操作层数与最大输出位置层数"
+authors = ["ziru-w <77319678+ziru-w@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "batch_operation_of_files"}]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.group.dev.dependencies]
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
