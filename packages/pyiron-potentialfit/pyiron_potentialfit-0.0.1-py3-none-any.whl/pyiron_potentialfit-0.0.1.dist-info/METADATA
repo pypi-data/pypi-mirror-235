@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pyiron-potentialfit
+Version: 0.0.1
+Summary: Repository for user-generated plugins to the pyiron IDE.
+Home-page: https://github.com/pyiron/pyiron_potentialfit
+Author: Max-Planck-Institut für Eisenforschung GmbH - Computational Materials Design (CM) Department
+Author-email: huber@mpie.de
+License: BSD
+Keywords: pyiron
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE
+Requires-Dist: ase >=3.22.1
+Requires-Dist: pyiron-atomistics >=0.3.4
+Requires-Dist: matplotlib >=3.8.0
+Requires-Dist: numpy >=1.26.0
+Requires-Dist: pyiron-base >=0.6.7
+Requires-Dist: scipy >=1.11.3
+
+http://pyiron.org
