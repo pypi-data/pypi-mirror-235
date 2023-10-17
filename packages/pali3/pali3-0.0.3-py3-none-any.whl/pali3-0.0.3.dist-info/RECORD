@@ -1,0 +1,8 @@
+pali3/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pali3/main.py,sha256=9VbbYv3m95ok7VMzlbaPOBy6P9t4VmdARdfPCBcY_Z4,3219
+pali3/train_vit_siglip.py,sha256=vB9tjsa4uVe8GvraG-CxOkOr6ZfcxMrxXAn0dFSclEU,2568
+pali3/ul2.py,sha256=tLFmdTX1KhxOYB3lBUnWJ_y4qTSlr3gXmB93fWUF5Eg,60692
+pali3-0.0.3.dist-info/LICENSE,sha256=GHYD0Vn7cqu6O1FibXB1ix_cx8js09uZI1rKjCjW5sY,1074
+pali3-0.0.3.dist-info/WHEEL,sha256=vVCvjcmxuUltf8cYhJ0sJMRDLr1XsPuxEId8YDzbyCY,88
+pali3-0.0.3.dist-info/METADATA,sha256=UnIfEfBtmnlW5v4-CMyiOKflgw8MgEFETveUGtke78Y,3564
+pali3-0.0.3.dist-info/RECORD,,
