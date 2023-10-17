@@ -1,0 +1,7 @@
+setup.py
+llogaritestax.egg-info/PKG-INFO
+llogaritestax.egg-info/SOURCES.txt
+llogaritestax.egg-info/dependency_links.txt
+llogaritestax.egg-info/top_level.txt
+taxllogarites/__init__.py
+taxllogarites/main.py
