@@ -1,0 +1,9 @@
+funtask/__init__.py,sha256=1An9ji9Yqij_SZdHEcVm8V_HRgpd_D9QbAro9bGklVw,25
+funtask/models/__init__.py,sha256=WanozeTJqTPVIpaXQzB5lvDI9XJLPoioyEKWB9RYwUQ,23
+funtask/models/base.py,sha256=1mPWWKfwU4upK1xUshwcSCFHecTWpbZ86-FJvOYDzd4,116
+funtask/task/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+funtask/task/task1.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+farfuntask-0.0.7.dist-info/METADATA,sha256=K8TK8ApO_qmHm9iaLWk2UrcUqHjugyN0PomIg7DoquM,225
+farfuntask-0.0.7.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+farfuntask-0.0.7.dist-info/top_level.txt,sha256=svcT_-fhz7u77X8wJYILLorz0fp2LjdYljx7QGa6ieg,8
+farfuntask-0.0.7.dist-info/RECORD,,
