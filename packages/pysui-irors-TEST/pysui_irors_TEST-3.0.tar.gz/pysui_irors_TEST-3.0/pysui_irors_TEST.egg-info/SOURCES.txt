@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pysui_irors_TEST/__init__.py
+pysui_irors_TEST/version.py
+pysui_irors_TEST.egg-info/PKG-INFO
+pysui_irors_TEST.egg-info/SOURCES.txt
+pysui_irors_TEST.egg-info/dependency_links.txt
+pysui_irors_TEST.egg-info/not-zip-safe
+pysui_irors_TEST.egg-info/top_level.txt
