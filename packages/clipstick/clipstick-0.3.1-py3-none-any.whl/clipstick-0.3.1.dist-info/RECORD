@@ -1,0 +1,12 @@
+clipstick/__init__.py,sha256=EJGVy0ovHGtZ7CiwcBHQ9O5h9v49R7NvWFPoFjgOHgM,96
+clipstick/_annotations.py,sha256=1GawBRo8e5lfXQTvqNbfe4sC-y1EHYWjBbyAqesoyI4,378
+clipstick/_clipstick.py,sha256=cjfCLZfCK0bWK-Lpe_fydVcPv5-K9cclXUD_rbaWNS0,948
+clipstick/_docstring.py,sha256=URA8XfjTzaH6eG8eex7u5bK9rlUgyW1uBJbRpa4E1gk,1130
+clipstick/_exceptions.py,sha256=3DgQ4Y6FufkzAk-bhu9kC41y0Xoa18MZn_goQ6BWik0,503
+clipstick/_help.py,sha256=zEjJjgMRfgVQPyDwQc7pQcYtkXTVBqtz9q6i_aakqlg,5227
+clipstick/_parse.py,sha256=yVZa6q_sELJxwGWbbmy0UIt5YSY5n4FGCTnMk_MtPjo,3669
+clipstick/_tokens.py,sha256=wssvbpJHoWTZCJ9y78aeD3X1SCXAaw4AYtK7TgRy5MA,11997
+clipstick-0.3.1.dist-info/LICENSE,sha256=IPVEtkhXwwEf14Fx8o8W1OqphIkAxEMebbQoSzIx3fg,1073
+clipstick-0.3.1.dist-info/METADATA,sha256=KW7E-l7vISlcVYRXfi9NZHEpWq-DArP3ySO6BkJveLk,9446
+clipstick-0.3.1.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+clipstick-0.3.1.dist-info/RECORD,,
