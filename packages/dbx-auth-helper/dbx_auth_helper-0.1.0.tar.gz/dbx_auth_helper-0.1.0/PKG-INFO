@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: dbx_auth_helper
+Version: 0.1.0
+Summary: Dropbox authentication and refresh/access code helper.
+Home-page: https://github.com/Ceiling-Fan-Studios/Dropbox-Authentication-Helper
+Author: Micah Crandell
+Author-email: micah1crandell@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
+The Dropbox Authentication Helper is a Python package designed to streamline the process of managing Dropbox application tokens. It offers an intuitive and user-friendly solution for developers to effortlessly obtain and refresh access tokens, simplifying the integration of Dropbox's API into their projects.
+
