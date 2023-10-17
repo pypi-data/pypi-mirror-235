@@ -1,0 +1,8 @@
+setup.py
+testlambda/__init__.py
+testlambda/lambda.py
+testlambda.egg-info/PKG-INFO
+testlambda.egg-info/SOURCES.txt
+testlambda.egg-info/dependency_links.txt
+testlambda.egg-info/requires.txt
+testlambda.egg-info/top_level.txt
