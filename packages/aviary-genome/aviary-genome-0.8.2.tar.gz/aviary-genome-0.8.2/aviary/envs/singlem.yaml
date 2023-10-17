@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pip
+  - python
+  - singlem == 0.13.2 # Otherwise https://github.com/rhysnewell/aviary/issues/157
+  - pip:
+      - bird-tool-utils
