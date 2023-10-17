@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+src/bg_task_queue.egg-info/PKG-INFO
+src/bg_task_queue.egg-info/SOURCES.txt
+src/bg_task_queue.egg-info/dependency_links.txt
+src/bg_task_queue.egg-info/top_level.txt
