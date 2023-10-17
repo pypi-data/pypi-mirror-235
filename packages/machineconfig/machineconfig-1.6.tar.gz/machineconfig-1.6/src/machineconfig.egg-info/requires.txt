@@ -1,0 +1,7 @@
+rich
+paramiko
+gitpython
+pudb
+pyfzf
+clipboard
+psutil
