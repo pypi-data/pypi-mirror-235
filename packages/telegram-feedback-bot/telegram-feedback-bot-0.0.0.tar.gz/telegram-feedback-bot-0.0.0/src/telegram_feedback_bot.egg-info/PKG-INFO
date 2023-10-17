@@ -1,0 +1,80 @@
+Metadata-Version: 2.1
+Name: telegram-feedback-bot
+Version: 0.0.0
+Summary: Advanced multi-channel file-sharing tool
+Home-page: https://github.com/le-p0pug-labs/telegram-feedback-bot
+Author: LE POPUG
+Author-email: fixions@protonmail.com
+Project-URL: Bug Reports, https://github.com/le-p0pug-labs/telegram-feedback-bot/issues
+Project-URL: Source, https://github.com/le-p0pug-labs/telegram-feedback-bot
+Keywords: file-sharing,ngrok,flask
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Other Audience
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.6, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pyngrok
+Requires-Dist: python-telegram-bot
+
+# Telegram Feedback Bot: Your Telegram Feedback Companion
+Gather invaluable feedback from your audience via Telegram with Telegram Feedback Bot.
+
+## Setting Up
+
+### Using Docker
+
+#### Pull Pre-built Image
+Download the pre-compiled Docker image with the following command:
+```bash
+docker pull lep0puglabs/telegram-feedback-bot:latest
+```
+
+#### Build Your Own
+Alternatively, build the Docker image manually:
+```bash
+docker build -t telegram-feedback-bot -f ./Dockerfile .
+```
+
+#### Run the Container
+Initiate the Docker container:
+```bash
+docker run --rm -it telegram-feedback-bot
+```
+
+### Using Python Package Manager
+Install the bot directly using pip:
+```bash
+pip install telegram-feedback-bot
+```
+
+## Configuration
+
+### Environment Variables
+Duplicate the example environment file and fill in the required values:
+```bash
+cp .env.example .env
+nano .env
+```
+
+### Run Telegram Feedback Bot
+Start the bot either using the command-line interface:
+```bash
+telegram-feedback-bot
+```
+or using Docker:
+```bash
+docker run --rm -it telegram-feedback-bot
+```
+
+And there you go! Your Telegram feedback channel, powered by Telegram Feedback Bot, is now up and running. Feel free to share your thoughts!

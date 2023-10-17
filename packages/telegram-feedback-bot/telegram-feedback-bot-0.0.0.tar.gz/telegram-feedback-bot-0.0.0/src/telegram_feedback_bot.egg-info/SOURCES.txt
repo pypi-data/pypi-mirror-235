@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+./src/telegram_feedback_bot.egg-info/PKG-INFO
+./src/telegram_feedback_bot.egg-info/SOURCES.txt
+./src/telegram_feedback_bot.egg-info/dependency_links.txt
+./src/telegram_feedback_bot.egg-info/entry_points.txt
+./src/telegram_feedback_bot.egg-info/requires.txt
+./src/telegram_feedback_bot.egg-info/top_level.txt
+./src/telegramfeedbackbot/__init__.py
+./src/telegramfeedbackbot/telegram_feedback_bot.py
