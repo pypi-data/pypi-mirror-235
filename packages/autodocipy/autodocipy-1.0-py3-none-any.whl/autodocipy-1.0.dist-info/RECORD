@@ -1,0 +1,11 @@
+autodocipy/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+autodocipy/autodoc.py,sha256=u8nMGVd4RLvtHr04EiX3dQp2qTZ0fJACsFgo0SdosFg,4995
+autodocipy/thirdparty.py,sha256=e-omUM6tjeAJyXLmfoxQTKUJDTzcLZzAtWeHeROHAC0,636
+mypackage/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+mypackage/autodoc.py,sha256=Wmoc79FIyndDWUcl8yXK6j9rPjrTwZK9pImk6xzKeSw,5193
+mypackage/thirdparty.py,sha256=e-omUM6tjeAJyXLmfoxQTKUJDTzcLZzAtWeHeROHAC0,636
+autodocipy-1.0.dist-info/METADATA,sha256=iW7zy6JSudFZ5b1YdNI9H6dwJNaWuSHzg-ygWWq8V5c,75
+autodocipy-1.0.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+autodocipy-1.0.dist-info/entry_points.txt,sha256=1gT3Z8bXpinYB5j3mZ1gbeSRUU_EnehPoHvG5zfFX7A,180
+autodocipy-1.0.dist-info/top_level.txt,sha256=VVQJPuv0nBJMiSFn61AZCFBlOOG9eSwC7ewub1Zt5BI,11
+autodocipy-1.0.dist-info/RECORD,,

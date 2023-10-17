@@ -1,0 +1,139 @@
+import os
+import re
+import os
+import shutil
+import openai
+import argparse
+from tqdm import tqdm
+import time
+from dotenv import load_dotenv
+load_dotenv()
+
+class AutoDocPy:
+    def __init__(self, source_dir, output_dir):
+        self.source_dir = source_dir
+        self.output_dir = output_dir
+
+    def should_ignore(self, path):
+        ignore_list = [".git", "__pycache__"]
+        for item in ignore_list:
+            if item in path:
+                return True
+        return False
+
+    def parse_comments(self, file_path):
+        comments = {}
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+
+        current_item = None
+        docstring = None
+        in_docstring = False
+
+        for line in lines:
+            if re.match(r'\s*def\s+\w+\(.*\):', line) or re.match(r'\s*class\s+\w+\(.*\):', line):
+                current_item = line.strip()
+                docstring = ""
+                in_docstring = False
+
+            if current_item:
+                if not in_docstring:
+                    if line.strip().startswith('"""') or line.strip().startswith("'''"):
+                        docstring = line.strip('"\'').strip()
+                        in_docstring = True
+                elif in_docstring:
+                    docstring += line.strip() + '\n'
+                    if line.strip().endswith('"""') or line.strip().endswith("'''"):
+                        in_docstring = False
+                        comments[current_item] = docstring.strip('"\'').strip()
+        return comments
+
+    def generate_documentation(self):
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir)
+        for root, _, files in os.walk(self.source_dir):
+            if self.should_ignore(root): 
+                continue
+            folder_name = root.split("/")[-1]
+            for file in files:
+                if file.endswith('.py'):
+                    file_path = os.path.join(root, file)
+                    comments = self.parse_comments(file_path)
+                    if comments != {}:
+                        self.generate_file_documentation(file, comments, folder_name)
+        self.create_and_build_mkdocs_project("autodoc")
+
+
+    def generate_file_documentation(self, file_name, comments, folder_name):
+        module_dir = os.path.join(self.output_dir, folder_name)
+        if not os.path.exists(module_dir):
+            os.makedirs(module_dir)
+
+        output_path = os.path.join(module_dir, f"{os.path.splitext(file_name)[0]}.md")
+
+        with open(output_path, 'w') as output_file:
+            output_file.write(f"# Documentation for file {file_name} in Folder {folder_name}\n\n")
+            
+            for item, comment in comments.items():
+                output_file.write(f"## {item}\n")
+                output_file.write(f"{comment[:-3]}\n\n")
+        if not os.path.exists("autodoc/alldoc"):
+            os.makedirs("autodoc/alldoc")
+        module_dir = os.path.join("autodoc/alldoc")
+        output_path = os.path.join(module_dir, "all.md")
+        with open(output_path, 'a') as output_file:
+            output_file.write(f"# Documentation for file {file_name} in Folder {folder_name}\n\n")
+            for item, comment in comments.items():
+                output_file.write(f"## {item}\n")
+                output_file.write(f"{comment[:-3]}\n\n")
+
+    def create_and_build_mkdocs_project(self, mkdocs_project_dir):
+        os.system(f"mkdocs new {mkdocs_project_dir}")
+        shutil.rmtree(os.path.join(mkdocs_project_dir, 'docs')) 
+        shutil.move(self.output_dir, os.path.join(mkdocs_project_dir, 'docs'))
+        os.chdir(mkdocs_project_dir)
+
+    def generate_readme(self):
+        text = ""
+        with open("autodoc/alldoc/all.md", 'r') as file:
+            text = file.read()
+        if text is None:
+            return
+        openai.api_key = os.getenv("OPENAI_KEY")
+        completion = openai.ChatCompletion.create(
+        model="gpt-3.5-turbo", messages=[{"role": "user", "content": text+"\n\n\n Write a README.md using above information for github."}]
+        )
+        gpt_response = (
+            completion.get("choices", [{}])[0].get(
+                "message", {}).get("content", "").strip()
+        )
+        with open("AUTODOCREADME.md", 'w') as output_file:
+            output_file.write(gpt_response)
+
+def generate_documentation():
+    source_dir = "."
+    output_dir = "docs"
+    autodoc = AutoDocPy(source_dir, output_dir)
+    autodoc.generate_documentation()
+
+def generate_readme():
+    source_dir = "."
+    output_dir = "docs"
+    autodoc = AutoDocPy(source_dir, output_dir)
+    num_steps = 10
+    with tqdm(total=num_steps, desc="Generating README") as pbar:
+        autodoc.generate_readme()
+        for _ in range(num_steps):
+            time.sleep(1) 
+            pbar.update(1)  
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("command", choices=["doc", "readme"], help="Command to execute")
+    # parser.add_argument("--key", help="OpenAI API Key")
+    args = parser.parse_args()
+    if args.command == "doc":
+        generate_documentation()
+    elif args.command == "readme":
+        generate_readme()
+       
