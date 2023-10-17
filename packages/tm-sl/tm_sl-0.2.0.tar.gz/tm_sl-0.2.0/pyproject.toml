@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "tm-sl"
+version = "0.2.0"
+description = "A Library for interacting with the snaplogic API"
+authors = ["Gene Myslinsky <Gene.Myslinsky@insightsoftware.com>"]
+license = "proprietary - private"
+# readme = "README.md"
+packages = [{include = "tm_sl"}]
+
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+click = "^8.1.7"
+tenacity = "^8.2.3"
+python-dotenv = "^1.0.0"
+rich = "^13.6.0"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.4.2"
+mkdocs = "^1.5.3"
+mkdocstrings = "^0.23.0"
+mkdocstrings-python = "^1.7.3"
+mkdocs-material = "^9.4.6"
+mkdocs-gen-files = "^0.5.0"
+mkdocs-literate-nav = "^0.6.1"
+mkdocs-section-index = "^0.3.8"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+tm-sl = "tm_sl.cli:cli"
+
+[tool.poe.tasks]
+dev = "tm_sl.cli:cli"
+test = "pytest -vvv -s -k"
+tests = "pytest"
+docs = { shell = "mkdocs build && mkdocs serve" }
+build-docs = "mkdocs build"
