@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: notebook-connector
+Version: 0.0.1
+Summary: Components, tools, APIs, and configurations in order to connect Jupyter notebooks to various other systems.
+License: MIT
+Author: Christoph Kuhnke
+Author-email: christoph.kuhnke@exasol.com
+Requires-Python: >=3.8.0,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: exasol-toolbox (>=0.5.0,<0.6.0)
+Requires-Dist: sqlcipher3-binary (>=0.5.0)
