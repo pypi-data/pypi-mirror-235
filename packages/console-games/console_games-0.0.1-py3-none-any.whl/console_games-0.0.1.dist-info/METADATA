@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: console-games
+Version: 0.0.1
+Summary: Cool games for your terminal!
+Home-page: https://github.com/maxzheng/console-games
+Author: Max Zheng
+Author-email: maxzheng.os@gmail.com
+License: MIT
+Keywords: games terminal console
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.5
+
+games
+===========
+
+No games yet. Come back soon!
+
+To install::
+
+    pip install games
+
+
+
