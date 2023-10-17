@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: disretrieve
+Version: 0.0.1
+Summary: Retrieving data from discord via token
+Author: Mr Black
+Keywords: python,discord
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
