@@ -1,0 +1,8 @@
+xfastertransformer/__init__.py,sha256=oLNtEVCxGF8inwa7Kxgr137OMJ2Nea0osNCN9ev-5Uk,162
+xfastertransformer/automodel.py,sha256=5LB6gME1aGAumPY8dhUcUox3XAXLpYO4ChzgZYTIAts,2475
+xfastertransformer/libxfastertransformer_pt.so,sha256=elZOWRl0HzT3rkcUDMCAVYNTjmbdhQoXVenNBEEI-nA,81817544
+xfastertransformer-1.0.0.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+xfastertransformer-1.0.0.dist-info/METADATA,sha256=L1goHuzfnrHoXv-Q1DRsgfvJehgbkoE2YocbGVU1Kh8,12890
+xfastertransformer-1.0.0.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+xfastertransformer-1.0.0.dist-info/top_level.txt,sha256=1_CJJPteHDUMscWZl8vv8rdG02Uzaut0jE6aFjC7njs,19
+xfastertransformer-1.0.0.dist-info/RECORD,,
