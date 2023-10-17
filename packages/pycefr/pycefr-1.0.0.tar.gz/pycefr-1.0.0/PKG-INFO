@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: pycefr
+Version: 1.0.0
+Summary: A tool to measure code competency levels based on CEFR model
+Author-email: "Raula G. Kula" <raula-k@is.naist.jp>
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Software Development :: Build Tools
+Project-URL: Home, https://raux.github.io/
+
+# **pycefrl**
+## *Identifying Python3 Code Level Using the CERFL Framework as Inspiration*
+
+### What is this project about?
+The goal of pycefrl is to create a tool capable of obtaining an evaluation inspired by the [''Common European Framework of Reference for Languages''](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) for code written in the Python programming language, version 3.
+
+With this tool it is possible to analyze the level of GitHub repositories (and their developers) or code snippets in Python3.
+
+### How does it work?
+
+from pycefr import pycerfl
+from pycefr import getcsv as pd2
+import os
+
+pycerfl.read_Directory('C:/Users/raula/Documents/GitHub/requests/', 'requests')
+pycerfl.summary_Levels()
