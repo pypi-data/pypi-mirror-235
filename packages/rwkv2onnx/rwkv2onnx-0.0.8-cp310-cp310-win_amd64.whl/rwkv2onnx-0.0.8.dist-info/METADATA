@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: rwkv2onnx
+Version: 0.0.8
+Summary: RWKV to ONNX (powered by Faster RWKV)
+Author-email: daquexian <daquexian566@gmail.com>
+Keywords: deep-learning,RWKV
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: importlib-resources
+Requires-Dist: numpy
+
