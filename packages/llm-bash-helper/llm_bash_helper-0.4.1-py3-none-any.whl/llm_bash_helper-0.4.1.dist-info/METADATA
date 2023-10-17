@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: llm-bash-helper
+Version: 0.4.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: llama-cpp-python
+Requires-Dist: rich
+Requires-Dist: langchain
+
+UNKNOWN
+

@@ -1,0 +1,8 @@
+llmterm/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+llmterm/llms.py,sha256=pvCJJ9V2AGm2wfpHVUCt9II9sjxDPhaGn6TKTSPGi5o,1388
+llmterm/llmterm.py,sha256=5B02o8tyerNh1lPSvAhT_7GQipcThWgLt4tUNZ3dsyM,1708
+llm_bash_helper-0.4.1.dist-info/METADATA,sha256=UTdGFGO4-CEQTXP7C3GcGOAXL4lCH0p0SjKNnstcGns,217
+llm_bash_helper-0.4.1.dist-info/WHEEL,sha256=2wepM1nk4DS4eFpYrW1TTqPcoGNfHhhO_i5m4cOimbo,92
+llm_bash_helper-0.4.1.dist-info/entry_points.txt,sha256=fzU-KnEGLD4xPcPam2N3--hhO28PneSCcmOxcbHGxKY,46
+llm_bash_helper-0.4.1.dist-info/top_level.txt,sha256=mDQ-doQNLfP_fEd7glVZn2xizFFUr26pPsSVv1MBmWE,8
+llm_bash_helper-0.4.1.dist-info/RECORD,,
