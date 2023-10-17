@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: datastore-package
+Version: 0.1.0
+Summary: A package for creating, reading, and editing JSON files.
+Home-page: https://github.com/ErrorThree/datastore_package
+Author: Error Two
+Author-email: errortwoo@gmail.com
+
+A Python package for handling JSON data files.
