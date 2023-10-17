@@ -1,0 +1,7 @@
+README.md
+setup.py
+prosemirror_py.egg-info/PKG-INFO
+prosemirror_py.egg-info/SOURCES.txt
+prosemirror_py.egg-info/dependency_links.txt
+prosemirror_py.egg-info/requires.txt
+prosemirror_py.egg-info/top_level.txt
