@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: fast-flet-test
+Version: 0.2.1
+Summary: 🔥 Fast-Flet is a package built as a complement to Flet, designed for newbies which facilitates the handling of flet events, designed to work with numerous pages and be customizable.
+Home-page: https://github.com/Jrxvx/Fast-Flet
+Download-URL: https://github.com/Jrxvx/Fast-Flet
+Author: Jrxvx
+License: Apache-2.0
+Project-URL: Bug Tracker, https://github.com/Jrxvx/Fast-Flet/issues
+Keywords: python web template,flet,app python,flet mvc,fast flet mvc,fast flet,flet-fastapi,flutter python,flet personalized,web application,development
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Internet
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typer[all]
+Requires-Dist: flet
+Requires-Dist: flet_fastapi
+Requires-Dist: uvicorn
+
+test
