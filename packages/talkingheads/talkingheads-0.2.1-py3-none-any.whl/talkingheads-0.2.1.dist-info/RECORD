@@ -1,0 +1,12 @@
+talkingheads/__init__.py,sha256=JvZjeNt__qDFybzsQbhagiJoo8QYKBzeU4msd98_PMI,71
+talkingheads/model_library/__init__.py,sha256=Rk1w8TVjWrZfnyI0oKlOKuUCEJVftYGX84UZrRK6tNg,106
+talkingheads/model_library/bard.py,sha256=VGAEWv0eZIPRc62fjJF_zlhT3psxOuL0cbw7VtZl_p8,5147
+talkingheads/model_library/base_browser.py,sha256=EVde40mL62FcbcoCXQ7Unqa-WxlraYI0nBFKpKEFisU,9902
+talkingheads/model_library/chatgpt.py,sha256=4OEiqM5_9sN_r8Koi31TF8WzelZpnkOsI13aDC5x618,11148
+talkingheads/model_library/helpers.py,sha256=LQDNSDteelGsAsiOzsaipJSynkdTQsNA_NnykRzxlY8,1162
+talkingheads/model_library/huggingchat.py,sha256=VdLLs8XdHoUd9BvYdU6md59T5Ap5TISdnjCdwpbGYC4,6098
+talkingheads-0.2.1.dist-info/LICENSE,sha256=3LTff5l3SKmZawkTZ9HPcQRYbSnwBx7ouerlPUIk11g,1066
+talkingheads-0.2.1.dist-info/METADATA,sha256=Ffaadx6K7uS9ilfPuaarlVLou1rblBQvoiHJWp7DnnA,2921
+talkingheads-0.2.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+talkingheads-0.2.1.dist-info/top_level.txt,sha256=j1KJ8sqYTCQ_xWA5F9ArqzVOmvTaRXQyd9IIpLCe8LE,13
+talkingheads-0.2.1.dist-info/RECORD,,
