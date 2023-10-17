@@ -1,0 +1,2 @@
+[console_scripts]
+telegram-feedback-bot = telegramfeedbackbot.telegram_feedback_bot:main
