@@ -1,0 +1,10 @@
+pluginlab_admin/__init__.py,sha256=TUTCYTUB1-7X5LHEUgXAiSNJDWqIqi7kBIp-4kRjTnE,99
+pluginlab_admin/app.py,sha256=5GpJqewzDzX1VwSKnKG3C5DmomFqbyHd0MZ3NCzK99U,1670
+pluginlab_admin/auth.py,sha256=boimVXuO6-iQWUGVh3A-BXa0CfH-GPCVyWy-dfzm1RU,8349
+pluginlab_admin/event.py,sha256=iBuDQOXx2WD-xezkHx7ih1QsrFoixes-kc-RtrlPYZo,1570
+pluginlab_admin/monetization.py,sha256=svxU9nplUVq8ww2iWS4HeWZe9DRw_WtpNl3XuBg9mQw,1681
+pluginlab_admin/token_verifier.py,sha256=zgxXRBe677ssR9N_1PZcLciJLNF5gugqNsplhGV9mOA,1646
+pluginlab_admin/webhook.py,sha256=6-wRD9Z9aDgEiPTFAyVXB8fP4cNR7AdqekvI6YHviso,894
+pluginlab_admin-0.4.0.dist-info/METADATA,sha256=rAimONXo6zv_4oCloVrOwSUtNtviA0zC7lfTXKlly14,8432
+pluginlab_admin-0.4.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+pluginlab_admin-0.4.0.dist-info/RECORD,,
