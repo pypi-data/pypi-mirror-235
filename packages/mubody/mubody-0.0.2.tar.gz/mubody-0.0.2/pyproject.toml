@@ -1,0 +1,59 @@
+[build-system]
+requires = [
+    "setuptools>=61"
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mubody"
+version = "0.0.2"
+description = "Multi-body dynamics in libration points"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE.txt"}
+keywords = ["libration points", "nonkeplerian", "multi-body dynamics", "astrodynamics"]
+authors = [
+    {name = "Juan Bermejo", email = "juan.bermejo@protonmail.com"}
+    ]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering"
+]
+dependencies =  [
+    "numpy",
+    "scipy",
+    "pandas",
+    "matplotlib",
+    "tqdm",
+    "astropy",
+    "spiceypy",
+    "numba",
+    "requests"
+]
+
+[project.urls]
+homepage = "https://gitlab.com/mubody/mubody"
+documentation = "https://mubody.readthedocs.io/"
+repository = "https://gitlab.com/mubody/mubody"
+tracker = "https://gitlab.com/mubody/mubody/-/issues"
+
+[project.optional-dependencies]
+jupyter = ["notebook", "ipywidgets>=7.6"]
+test = [
+    "pytest",
+    "flake8",
+    "black",
+    "mypy"
+    ]
+doc = [
+    "sphinx",
+    "sphinx_rtd_theme",
+    "myst-parser"
+]
+
+[tool.mypy]
+ignore_missing_imports = true

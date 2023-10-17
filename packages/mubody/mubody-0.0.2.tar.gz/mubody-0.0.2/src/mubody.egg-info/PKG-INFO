@@ -1,0 +1,136 @@
+Metadata-Version: 2.1
+Name: mubody
+Version: 0.0.2
+Summary: Multi-body dynamics in libration points
+Author-email: Juan Bermejo <juan.bermejo@protonmail.com>
+License: The MIT License (MIT)
+        
+        Copyright (c) 2019 Juan Bermejo
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy
+        of this software and associated documentation files (the "Software"), to deal
+        in the Software without restriction, including without limitation the rights
+        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        copies of the Software, and to permit persons to whom the Software is
+        furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all
+        copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        SOFTWARE.
+        
+Project-URL: homepage, https://gitlab.com/mubody/mubody
+Project-URL: documentation, https://mubody.readthedocs.io/
+Project-URL: repository, https://gitlab.com/mubody/mubody
+Project-URL: tracker, https://gitlab.com/mubody/mubody/-/issues
+Keywords: libration points,nonkeplerian,multi-body dynamics,astrodynamics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+License-File: AUTHORS.rst
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: tqdm
+Requires-Dist: astropy
+Requires-Dist: spiceypy
+Requires-Dist: numba
+Requires-Dist: requests
+Provides-Extra: jupyter
+Requires-Dist: notebook; extra == "jupyter"
+Requires-Dist: ipywidgets>=7.6; extra == "jupyter"
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Requires-Dist: flake8; extra == "test"
+Requires-Dist: black; extra == "test"
+Requires-Dist: mypy; extra == "test"
+Provides-Extra: doc
+Requires-Dist: sphinx; extra == "doc"
+Requires-Dist: sphinx_rtd_theme; extra == "doc"
+Requires-Dist: myst-parser; extra == "doc"
+
+mubody
+======
+
+Author
+======
+
+Juan Bermejo Ballesteros (juan.bermejo@protonmail.com)
+
+
+Description
+===========
+
+mubody is an astrodynamics open-source Python library focused on the
+libration points and the dynamics of the multi-body regime from which
+they emerge. Its aim is to be used as a tool for the design and the
+analysis of space missions in the libration points. It has been
+developed by students from the Technical University from Madrid (Spain).
+
+
+Installation
+============
+
+Please check the [Installation Guide](https://gitlab.com/juan.b/mubody/-/wikis/Installation%20Guide) in the project [wiki](https://gitlab.com/juan.b/mubody/-/wikis).
+
+
+
+Documentation
+=============
+
+Basic documentation can be found [here](https://mubody.readthedocs.io/) and some examples can also be found in the project [wiki](https://gitlab.com/juan.b/mubody/-/wikis).
+
+
+Contributing
+=============
+
+mubody is open to contributions and collaborations. If you want to
+participate as part of your Bachelor dissertation, Master's thesis, or
+just as a hobby, contact us [here](mubody@proton.me)!
+
+
+Problems
+========
+
+If you find any problem using mubody (quite probable to be fair), please
+open an issue in the [issue tracker](https://gitlab.com/mubody/mubody/-/issues).
+
+
+Citation
+========
+
+If you have used mubody, please cite us using:
+
+    Bermejo Ballesteros, J. [et al.]. Mubody, an astrodynamics open-source Python library focused on libration points. A: "4th Symposium on Space Educational Activities". Universitat Politècnica de Catalunya, 2022
+
+
+License
+=======
+
+mubody is released under the MIT license, hence allowing commercial
+use of the library. Please refer to the
+[LICENSE](https://gitlab.com/mubody/mubody/-/blob/master/LICENSE.txt) file
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://gitlab.com/mubody/mubody/-/blob/master/LICENSE.txt)
+
+
+Contact
+=======
+
+For any questions you can contact us using:
+
+    mubody@proton.me
+
