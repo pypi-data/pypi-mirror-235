@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: orquestra-python-dev
+Version: 0.3.0
+Summary: "Orquestra Python Development tools"
+Home-page: https://github.com/zapatacomputing/orquestra-python-dev
+Author: Zapata Computing Inc.
+Author-email: info@zapatacomputing.com,
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Topic :: Scientific/Engineering
+Requires-Python: !=3.9.7,>=3.9
+Description-Content-Type: text/markdown; charset=UTF-8
+License-File: LICENSE
+Requires-Dist: black ~=22.3
+Requires-Dist: flake8 ~=3.9.0
+Requires-Dist: Flake8-pyproject >=0.9.0
+Requires-Dist: isort ~=5.9.0
+Requires-Dist: mypy ~=0.910
+Requires-Dist: pytest ~=6.2
+Requires-Dist: pytest-cov >=2.12
+
+# orquestra-python-dev
+This is a meta-package collecting all development libraries needed in other, Python-based, 
+Orquestra packages. The tools which this package tracks versions of are:
+
+- black
+- flake8
+- Flake8-pyproject
+- isort
+- mypy
+- pytest
+- pytest-cov
