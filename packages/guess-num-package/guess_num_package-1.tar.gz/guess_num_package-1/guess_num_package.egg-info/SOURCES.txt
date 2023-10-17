@@ -1,0 +1,7 @@
+README.rst
+setup.py
+guess_num_package.egg-info/PKG-INFO
+guess_num_package.egg-info/SOURCES.txt
+guess_num_package.egg-info/dependency_links.txt
+guess_num_package.egg-info/requires.txt
+guess_num_package.egg-info/top_level.txt
