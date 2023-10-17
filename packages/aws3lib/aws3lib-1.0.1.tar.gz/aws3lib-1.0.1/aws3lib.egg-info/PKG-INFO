@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: aws3lib
+Version: 1.0.1
+Summary: Library for working with AWS S3 storage
+Home-page: https://github.com/prooxyyy/aws3lib
+Author: pro0xy
+Author-email: nosammy09@gmail.com
+Project-URL: Documentation, https://github.com/prooxyyy/aws3lib/blob/master/example.py
+Keywords: aws3 aws s3 awss3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: boto3
+
+# aws3lib - Fast library for working with AWS S3 storage on Python
+
+Usage: https://github.com/prooxyyy/aws3lib/blob/master/example.py
+PyPi:
