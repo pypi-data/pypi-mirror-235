@@ -1,0 +1,9 @@
+README.md
+setup.py
+EasyEval/__init__.py
+EasyEval/eval.py
+easyeval_tool.egg-info/PKG-INFO
+easyeval_tool.egg-info/SOURCES.txt
+easyeval_tool.egg-info/dependency_links.txt
+easyeval_tool.egg-info/requires.txt
+easyeval_tool.egg-info/top_level.txt
