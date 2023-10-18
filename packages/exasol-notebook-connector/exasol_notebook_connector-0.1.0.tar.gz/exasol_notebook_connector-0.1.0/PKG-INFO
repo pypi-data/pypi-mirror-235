@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: exasol-notebook-connector
+Version: 0.1.0
+Summary: Components, tools, APIs, and configurations in order to connect Jupyter notebooks to Exasol and various other systems.
+License: MIT
+Author: Christoph Kuhnke
+Author-email: christoph.kuhnke@exasol.com
+Maintainer: Christoph Kuhnke
+Maintainer-email: christoph.kuhnke@exasol.com
+Requires-Python: >=3.8.0,<4.0
+Classifier: Development Status :: 3 - Alpha
+Classifier: Framework :: Jupyter :: JupyterLab :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Security :: Cryptography
+Requires-Dist: exasol-toolbox (>=0.5.0,<0.6.0)
+Requires-Dist: sqlcipher3-binary (>=0.5.0)
+Project-URL: Documentation, https://github.io/exasol/notebook-connector
+Project-URL: Homepage, https://github.io/exasol/notebook-connector
+Project-URL: Issues, https://github.io/exasol/notebook-connector/issues
+Project-URL: Source, https://github.io/exasol/notebook-connector
+Description-Content-Type: text/markdown
+
+# notebook-connector
+Connection configuration management and additional tools for Jupyter notebooks.
+
