@@ -1,0 +1,5 @@
+setup.py
+pytwinx.egg-info/PKG-INFO
+pytwinx.egg-info/SOURCES.txt
+pytwinx.egg-info/dependency_links.txt
+pytwinx.egg-info/top_level.txt
