@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: fake-harmony-module
+Version: 0.0.2
+Summary: Fake harmony module
+Author: Tristan Languebien
+Author-email: <tlanguebien@gmail.com>
+Keywords: python,toonboom,harmony
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+This repository contains a fake ToonBoom package featuring a Harmony module that includes all the classes used within Harmony's Python interface. Its primary purpose is to provide autocompletion, access to docstrings, and accurate type hints in your preferred IDE.
+
+All classes have been written based on Harmony's Python documentation, which can be found at <https://docs.toonboom.com/help/harmony-22/scripting/pythonmodule/index.html>.
+
+Please note that this fake module may contain inconsistencies, missing return types, and typos. Unfortunately, most of these issues stem from faithfully transcribing Harmony's flawed documentation.
