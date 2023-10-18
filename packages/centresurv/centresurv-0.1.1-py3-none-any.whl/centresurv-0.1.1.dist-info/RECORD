@@ -1,0 +1,10 @@
+centresurv/__innit__.py,sha256=rnuSWnAUekl12u3qeE-cPHzmXoJqpRLa_IzxQkSDqPA,94
+centresurv/analyse.py,sha256=gF0mcJDr5pBnppQpunOCGPDOhjPiHum1fcJ1z1v9VkI,29968
+centresurv/maps.py,sha256=_fRkSgqJCceDyOiQiOZnfb4kH6xE698wZkeB6GNbxiY,7634
+centresurv/postcode_setup.py,sha256=JpGgbng1A43XQEXA62jcuBecHPNeah-v25ddZRvNaDg,31538
+centresurv/setup.py,sha256=tTSZ9WtYEvMey-mmTxzAAkOg99LplDdMRgnMF3_YB2I,391
+centresurv-0.1.1.dist-info/METADATA,sha256=KURWiLHW1ABPo1HJXRkmmCE3WwNq83ReMfCPoWPldYA,2715
+centresurv-0.1.1.dist-info/WHEEL,sha256=sb4ZHsmozXdkdXRvpMHZmhxsxQvL8DERDUEGA9tAfc8,83
+centresurv-0.1.1.dist-info/entry_points.txt,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+centresurv-0.1.1.dist-info/license_files/LICENSE,sha256=ixuiBLtpoK3iv89l7ylKkg9rs2GzF9ukPH7ynZYzK5s,35148
+centresurv-0.1.1.dist-info/RECORD,,
