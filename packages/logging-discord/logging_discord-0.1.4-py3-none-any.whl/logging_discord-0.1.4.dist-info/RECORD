@@ -1,0 +1,8 @@
+logging_discord/__init__.py,sha256=AkH-3hpEe3kbhyvREMyaBIFWUViftWlj8RWKlELsF6Y,37
+logging_discord/default.py,sha256=hvqMfCkoXwKD16AiSkhhBQ_0yJxnQd29aWvIZftCKks,694
+logging_discord/dynaconf_config.py,sha256=95PlXt84bgZErNUE5diDjWDLNRYiTPc6pjONIuzAul0,358
+logging_discord/send_discord.py,sha256=mv-IP5qmoVNqzmRHamIKxnF-dfR4iBH2ThX624Kqal8,8682
+logging_discord-0.1.4.dist-info/METADATA,sha256=OUrhsPShs_21joTn07RmxNkZvHjhhHDMiBwigE5q3UQ,5399
+logging_discord-0.1.4.dist-info/WHEEL,sha256=vVCvjcmxuUltf8cYhJ0sJMRDLr1XsPuxEId8YDzbyCY,88
+logging_discord-0.1.4.dist-info/LICENSE,sha256=ACwmltkrXIz5VsEQcrqljq-fat6ZXAMepjXGoe40KtE,1069
+logging_discord-0.1.4.dist-info/RECORD,,
