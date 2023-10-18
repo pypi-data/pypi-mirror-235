@@ -1,0 +1,7 @@
+atyp
+ropts
+idfunc
+ispec
+pstr
+
+[dev]
