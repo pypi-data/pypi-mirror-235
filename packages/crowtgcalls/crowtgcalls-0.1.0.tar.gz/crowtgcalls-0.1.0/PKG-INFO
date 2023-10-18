@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: crowtgcalls
+Version: 0.1.0
+Summary: 
+Author: Aero
+Author-email: tmpaero@protonmail.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
