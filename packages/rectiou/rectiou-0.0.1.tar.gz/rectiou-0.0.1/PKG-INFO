@@ -1,0 +1,74 @@
+Metadata-Version: 2.1
+Name: rectiou
+Version: 0.0.1
+Summary: rectiou: vectorized 2d rectangle intersection with pytorch
+Author-email: Luca Bonfiglioli <luca.bonfiglioli@gmail.com>
+License-Expression: Unlicense
+License-File: LICENSE
+Keywords: bounding box,efficient,fast,intersection,pytorch,rectangles,vectorized
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: The Unlicense (Unlicense)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
+Requires-Python: >=3.8
+Requires-Dist: torch
+Provides-Extra: build
+Requires-Dist: build; extra == 'build'
+Requires-Dist: hatch; extra == 'build'
+Provides-Extra: dev
+Requires-Dist: black; extra == 'dev'
+Requires-Dist: flake8; extra == 'dev'
+Provides-Extra: tests
+Requires-Dist: numpy; extra == 'tests'
+Requires-Dist: opencv-python; extra == 'tests'
+Requires-Dist: pytest; extra == 'tests'
+Requires-Dist: pytest-cov; extra == 'tests'
+Description-Content-Type: text/markdown
+
+# rectiou
+
+Rectiou is a pytorch implementation of the intersection over union (IoU) between two rotated rectangles.
+
+Supports:
+- ✅ Works with rotated rectangles: can handle rectangles with any angle.
+- ✅ Batched computation: No for loops, if statements, or other control flow. Can have as many batch dimensions as you want.
+- ✅ Fast: faster than OpenCV's implementation.
+- ✅ Differentiable: Can be used in a pytorch model and backpropagated through.
+- ✅ GPU: can be run on the GPU.
+- ✅ No weird stuff: everything is implemented in plain pytorch, no weird custom CUDA kernels or anything like that.
+
+## Example
+
+Usage is simple:
+```python
+
+import torch
+import rectiou
+
+# Rectangles: [x, y, w, h, radians]
+rect_a = torch.tensor([0.0, 0.0, 1.0, 1.0, 0.0])
+rect_b = torch.tensor([0.2, 0.1, 1.1, 0.8, torch.pi / 4])
+
+# Intersection over union
+iou = rectiou.compute_iou(rect_a, rect_b)
+```
+
+## Installation
+
+```bash
+pip install rectiou
+```
+
+To test that everything is working correctly, run:
+```bash
+pip install rectiou[tests]
+pytest
+```
