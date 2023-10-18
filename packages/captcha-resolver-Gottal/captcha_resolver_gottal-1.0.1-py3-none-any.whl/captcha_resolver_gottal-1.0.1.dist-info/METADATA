@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: captcha_resolver_Gottal
+Version: 1.0.1
+Summary: A package for resolving captcha in web pages
+Author-email: Gabriel Silva Mariano <silva.mariano@aluno.ifsp.edu.br>
+License-File: LICENSE
+Keywords: Gottal
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.11.2
+Requires-Dist: pydub
+Requires-Dist: requests
+Requires-Dist: selenium
+Requires-Dist: speechrecognition
+Description-Content-Type: text/markdown
+
+This is a package for solving captchas in web pages
