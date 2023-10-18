@@ -1,0 +1,8 @@
+asyncio_pause/__init__.py,sha256=1CsfAoImPUC4XhDTNIwvfhuDVIFAYW2px_MwhTvZAYQ,3353
+asyncio_pause/tests/__init__.py,sha256=XGO16D1geVKPDJ_bnVFSAmlm_8WeKewGc8a8HaTjC7o,56
+asyncio_pause/tests/test_pause.py,sha256=y_ONqrGFCz195d0HA-pKa7Uf0kLWJNAHIiEXl6riMOg,4872
+asyncio_pause-0.5.dist-info/LICENSE.txt,sha256=d-qlsL3Io-p9e9-1zV78fH4AZ1R0jhRhEz9NcFE1vCw,1095
+asyncio_pause-0.5.dist-info/METADATA,sha256=1ns2mREX6nDAAvEm4r3AJShOjTNk-lX4XMfHAAniCdQ,3636
+asyncio_pause-0.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+asyncio_pause-0.5.dist-info/top_level.txt,sha256=t4-L3TEXKolHezQ4RqHXFeXm_KjOpUttDJwsknwdH7c,14
+asyncio_pause-0.5.dist-info/RECORD,,
