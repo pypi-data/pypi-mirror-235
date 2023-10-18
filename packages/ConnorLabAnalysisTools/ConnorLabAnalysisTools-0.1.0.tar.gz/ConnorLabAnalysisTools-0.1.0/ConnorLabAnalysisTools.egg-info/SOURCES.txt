@@ -1,0 +1,6 @@
+setup.py
+ConnorLabAnalysisTools.egg-info/PKG-INFO
+ConnorLabAnalysisTools.egg-info/SOURCES.txt
+ConnorLabAnalysisTools.egg-info/dependency_links.txt
+ConnorLabAnalysisTools.egg-info/requires.txt
+ConnorLabAnalysisTools.egg-info/top_level.txt
