@@ -1,0 +1,14 @@
+numpy
+magicgui
+qtpy
+napari-matplotlib>=1.1.0
+napari-skimage-regionprops
+cmap
+
+[testing]
+tox
+pytest
+pytest-cov
+pytest-qt
+napari
+pyqt5
