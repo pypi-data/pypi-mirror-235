@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: encryption-jsv
+Version: 0.0.1
+Summary: This (CLI) application is a file encryption tool that provides a simple and secure way to encrypt files using the AES or DES encryption algorithms
+Author: valan
+Author-email: sahayavalanj1@gmail.com
