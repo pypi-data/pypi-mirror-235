@@ -1,0 +1,6 @@
+src/captcha_solver_Gottal/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/captcha_solver_Gottal/captcha_resolver.py,sha256=Tt6zd_W4_B45AwOfPdqNon13v7GKiFOP63Tfxyg8qPo,3677
+captcha_resolver_gottal-1.0.2.1.dist-info/METADATA,sha256=M75YIW5cQ6lNt6wRc2B3PhaSaw3aOTAEiYQrWbLzLCI,598
+captcha_resolver_gottal-1.0.2.1.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+captcha_resolver_gottal-1.0.2.1.dist-info/licenses/LICENSE,sha256=LgyBkahl_pG1wIi4mMdVa5DaoysFmmylNB8KbSX0AfQ,1077
+captcha_resolver_gottal-1.0.2.1.dist-info/RECORD,,
