@@ -1,0 +1,4 @@
+libvirt-python>=6.0.0
+pyasn1-lextudio>=1.1.0
+pyasn1-modules-lextudio>=0.2.0
+pysnmp-lextudio>=5.0.0
