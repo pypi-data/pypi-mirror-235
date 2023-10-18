@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: u_d_adj_ret
+Version: 2.0.0
+Author-email: Mahdi Mir <imahdimir@gmail.com>
+Requires-Dist: fastparquet==2023.8.0
+Requires-Dist: githubdata==16.1.2
+Requires-Dist: mirutil==25.1.0
+Requires-Dist: mtok==1.3.0
+Requires-Dist: namespace-mahdimir==3.3.0
+Requires-Dist: pandas==2.1.1
+Requires-Dist: pyarrow==13.0.0
+Requires-Dist: run-py==2.0.1
+Description-Content-Type: text/markdown
+
+Updates TSE Daily Adjusted Returns
