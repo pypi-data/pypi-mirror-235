@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: check-print
+Version: 0.1.5
+Summary: pre-commit check print function usage
+Author: Alex
+Author-email: xsami82@gmail.com
+License: MIT
+
+# check-print
+
+Check that in python files used "print" function
+Recomendation use logger
