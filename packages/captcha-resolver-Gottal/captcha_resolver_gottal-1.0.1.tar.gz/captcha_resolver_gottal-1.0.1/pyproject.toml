@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "captcha_resolver_Gottal"
+version = "1.0.1"
+authors = [
+    {name = "Gabriel Silva Mariano", email = "silva.mariano@aluno.ifsp.edu.br"}
+]
+description = "A package for resolving captcha in web pages"
+readme = "README.md"
+requires-python = ">=3.11.2"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "selenium",
+    "requests",
+    "pydub",
+    "speechrecognition",
+]
+keywords = ["Gottal"]
