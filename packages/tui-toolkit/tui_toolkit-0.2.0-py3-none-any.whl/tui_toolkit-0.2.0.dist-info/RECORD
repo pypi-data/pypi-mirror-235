@@ -1,0 +1,9 @@
+examples/__init__.py,sha256=Zkp2UUcORHT5vqmL9nxrLThV-xpBXWH_8E4ZFxRwOLo,206
+examples/chat.py,sha256=99HD3w6ypNknASQ2Dv5GCub-6GUSfOC0vEmdthFQ6WY,1390
+examples/filtre.py,sha256=-PzAzWA30SQ9Mwh5GxOoMF4FSKPveSaNun2mH73nVC0,1411
+examples/selector.py,sha256=O7wfVKKzCz9qW4dON0hI0uLIkTSaedX8262J_PR6CvM,1782
+examples/styling.py,sha256=rx1e_svZKzUaZRjdQi8Lbb4JhW310nL1CzF-zcTcLKo,2874
+tui_toolkit-0.2.0.dist-info/METADATA,sha256=rD25XL8tl6X-K4zMBc_zO3tfa224ZlLjfLpcdYfr4Nc,576
+tui_toolkit-0.2.0.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+tui_toolkit-0.2.0.dist-info/entry_points.txt,sha256=9EFthi6K-lgsIeaE6SGI6FB9hTSYMIPWkFo-S38Hf9o,125
+tui_toolkit-0.2.0.dist-info/RECORD,,
