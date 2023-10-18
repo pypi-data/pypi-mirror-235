@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: tolonteria
+Version: 0.0.1
+Summary: Package that converts int into roman numbers and vice versa
+Author: Felipe Kautzmann
+Author-email: <recuerdaesto@gmail.com>
+Keywords: python,first package
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+If at some point you are stucked because your programming teacher asked you to create a programmthat turns ints to roman numbers and vice versa, you can just use this
