@@ -1,0 +1,9 @@
+dirgh/__init__.py,sha256=Ldko7grnGiyKx1uqt_rgRR6UA97ENXE7yJs-1Hs8qFg,52
+dirgh/cli.py,sha256=70NWqyZOpBG4jEqLJYwBvISLKplBT3n4Igf_ZUF0tU8,4188
+dirgh/cli_helper.py,sha256=US-VBxqQdStyGuQVjdfu3ghzPQqyM_rESZ5pv7NoG5Q,507
+dirgh/download.py,sha256=nqRVEcv4EFfcWlxz0uzrGwif1GlP599o6toztK4zXac,5218
+dirgh/main.py,sha256=43HOQU5GvA53_N4y7EfP8I1LwK0OdCU6IbNXHOyPTmY,495
+dirgh-0.3.0.dist-info/WHEEL,sha256=vVCvjcmxuUltf8cYhJ0sJMRDLr1XsPuxEId8YDzbyCY,88
+dirgh-0.3.0.dist-info/METADATA,sha256=ZM7EnBICb-ZfAG9CgHPsusZkIK8wDGP9EefxEhQR4kI,2506
+dirgh-0.3.0.dist-info/entry_points.txt,sha256=K4UNyHID-N17tmpZfsPk5YG8vKiCQ9_8i2g03hM6kyM,39
+dirgh-0.3.0.dist-info/RECORD,,
