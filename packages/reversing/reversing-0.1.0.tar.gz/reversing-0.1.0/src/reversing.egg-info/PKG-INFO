@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: reversing
+Version: 0.1.0
+Summary: Reversing module for easier scripting
+Home-page: https://github.com/lephuduc/reversing
+Download-URL: https://github.com/lephuduc/reversing/archive/reversing-0.0.0.tar.gz
+Author: lephuduc
+Author-email: lephuduc111@gmail.com
+License: MIT
+Project-URL: Bug Tracker, https://github.com/lephuduc/reversing/issues
+Keywords: REV,REVERSING,SCRIPTING
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: pycryptodome
+Requires-Dist: arc4
+
+# Reverse module for easier scripting
