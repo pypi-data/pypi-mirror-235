@@ -1,0 +1,11 @@
+gamspy_shot/__init__.py,sha256=WNtus2yz7_nb0_Qzbqb0x5bRK232MQidFaQcZsKoH_A,406
+gamspy_shot/libgurobi100.dylib,sha256=W4mVUoExyU1BHSxD7wbPmkQQ8MYQPoyW8a63JrMm2B4,7877904
+gamspy_shot/libiomp5.dylib,sha256=T4S_M9vaZrvgo0LscrdknXKYzRSE5mUPSBBGiEGFnWI,1868400
+gamspy_shot/libipopt64.dylib,sha256=j4x6F9-weWx8R5A3fXwJfFFYbCaSWpzU2a1RWOzQz-o,6243384
+gamspy_shot/libmkl_gams.dylib,sha256=OKBnoiBEW2CbLNP6zUws1H6L-4gt0BQ7kT0QTVVRrm4,81315392
+gamspy_shot/libshtcclib64.dylib,sha256=EGaUQ8e5oDasMEWYOiGj1AzsipQ20Jc6bCIKKbuKWvg,38013288
+gamspy_shot/version.py,sha256=iMbdPRwE5Whwp6P3uq8zNiQrjx9vR97WVqki-DYTX_Q,22
+gamspy_shot-45.1.0.dist-info/METADATA,sha256=Hrzk_DnNGM5k9QoAhkQX_S-uWtYUyD33-4nGf39CRv4,57
+gamspy_shot-45.1.0.dist-info/WHEEL,sha256=p-U8PwIc27I4_oMZeXUn0Gk6WcwXHaGG5DdjDVAV7Go,110
+gamspy_shot-45.1.0.dist-info/top_level.txt,sha256=gusCdxO7iASg7Gt5S2fDZID7IyLftCEceNg_cQGrwKA,12
+gamspy_shot-45.1.0.dist-info/RECORD,,
