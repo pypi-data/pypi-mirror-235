@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: encryption-jsv
+Version: 0.1.2
+Summary: This (CLI) application is a file encryption tool that provides a simple and secure way to encrypt files using the AES or DES encryption algorithms
+Author: valan
+Author-email: sahayavalanj1@gmail.com
+Description-Content-Type: markdown
+
+# Project description
+
+## File Encryption Tool
+
+The File Encryption Tool is a command-line app for encrypting files using popular encryption algorithms such as AES (Advanced Encryption Standard) and DES (Data Encryption Standard).
+
+### Features
+
+- **File Encryption:** 
+
+- **Choice of Encryption Algorithm:** 
+
+- **Secret Key:** 
+
+- **Straightforward Usage:** 
+
+### Usage
+
+To use the File Encryption Tool, follow these steps:
+
+1. **Clone or download the repository:** Get the source code for the tool by cloning the repository or downloading it as a ZIP file.
+
+2. **Install dependencies:** Ensure you have the necessary dependencies, including the `cryptography` library.
+
+```bash
+pip install encryption_jsv
