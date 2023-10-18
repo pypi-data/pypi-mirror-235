@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: funcflow
+Version: 0.0.3
+Summary: 
+Author: Kasper Junge
+Requires-Python: >=3.9,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: aiohttp (>=3.8.5,<4.0.0)
+Requires-Dist: asyncio (>=3.4.3,<4.0.0)
+Requires-Dist: jinja2 (>=3.1.2,<4.0.0)
+Requires-Dist: litellm (>=0.8.6,<0.9.0)
+Requires-Dist: openai (>=0.28.1,<0.29.0)
+Description-Content-Type: text/markdown
+
+# funcflow 🍉
+
+## Usage Examples 👩‍💻
+How to use funcflow for swift prompt development.
+
