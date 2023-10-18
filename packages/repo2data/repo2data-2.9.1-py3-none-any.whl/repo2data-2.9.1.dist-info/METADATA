@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: repo2data
+Version: 2.9.1
+Summary: To download data from a variety of providers.
+Home-page: https://github.com/SIMEXP/Repo2Data
+Author: Loic TETREL
+Author-email: roboneurolibre@gmail.com
+License: MIT
+Download-URL: https://github.com/SIMEXP/Repo2Data/archive/v2.9.1.tar.gz
+Platform: UNKNOWN
+License-File: LICENSE
+Requires-Dist: awscli
+Requires-Dist: datalad
+Requires-Dist: gdown
+Requires-Dist: osfclient
+Requires-Dist: patool
+Requires-Dist: requests
+Requires-Dist: zenodo-get
+
+UNKNOWN
+
