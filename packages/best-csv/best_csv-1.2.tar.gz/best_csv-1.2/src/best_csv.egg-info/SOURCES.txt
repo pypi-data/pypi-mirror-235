@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/best_csv/__init__.py
+src/best_csv/csv_to_dict.py
+src/best_csv.egg-info/PKG-INFO
+src/best_csv.egg-info/SOURCES.txt
+src/best_csv.egg-info/dependency_links.txt
+src/best_csv.egg-info/top_level.txt
