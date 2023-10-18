@@ -1,0 +1,3 @@
+[console_scripts]
+deng=mattrousseau_de_toolkit.main:cli
+
