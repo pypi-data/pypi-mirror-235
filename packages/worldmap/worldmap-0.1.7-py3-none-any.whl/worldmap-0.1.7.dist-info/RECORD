@@ -1,0 +1,14 @@
+worldmap/__init__.py,sha256=cGWmuw4QThR-PkdqjjOnX69I2im-huOWYLXyb8Z2ivg,904
+worldmap/examples.py,sha256=jFVeIyE25yqjtO0Zx4QM78bPaD1RyZfHmkLwgb-CwDs,1271
+worldmap/worldmap.py,sha256=NA7iYI5BjjrNtPuOuhXmQXmDRiodqJK9bf7wAsFdACw,13866
+worldmap/data/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+worldmap/utils/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+worldmap/utils/deepStringMatching.py,sha256=RoHnGwz5W5Q9go_e_FGfy5cGoEk5cL7_aRPiAUbqxG8,12474
+worldmap/utils/stringPreprocessing.py,sha256=-4DI0MkJCQHsX70SOcE9KQ1wLxCCENWSAqcJkdv8dp8,10273
+worldmap/utils/strtricks.py,sha256=XVpefM9VTDGzsSHesu9aygzlJA28jEIoEE45_cZ5-pY,2162
+worldmap/utils/zip_extract.py,sha256=eAoJMCcnP9wBjs8-jUT5JjWtxmKIVsaCDm-u8vm4WO8,1972
+worldmap-0.1.7.dist-info/LICENSE,sha256=eHSenha-4rIDekANbzVp0MIOrDSjJG3WSxNwDKfdm-M,1121
+worldmap-0.1.7.dist-info/METADATA,sha256=-pTj03gxYQZWvz3ZnBN67C_lZSuYe-5O29hW_yZWEsQ,4489
+worldmap-0.1.7.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+worldmap-0.1.7.dist-info/top_level.txt,sha256=tQ1lU9VJHphD-1aFOE0rxQy8cdrEc5LozllAKmW88eo,9
+worldmap-0.1.7.dist-info/RECORD,,
