@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: alt_text
+Version: 0.0.1
+Summary: A package used for finding, generating, and setting alt-text for images in HTML and EPUB files.
+Project-URL: Homepage, https://github.com/EbookFoundation/alt-text
+Author-email: Jack Byrne <jbyrne4@stevens.edu>, David Cruz <dcruz2@stevens.edu>, Jared Donnelly <jdonnel3@stevens.edu>, Ethan Kleschinsky <ekleschi@stevens.edu>, Tyler Lane <tlane@stevens.edu>, Carson Lee <clee27@stevens.edu>
+Maintainer-email: David Cruz <dcruz2@stevens.edu>, Eric Hellman <eric@hellman.net>
+License-File: LICENSE
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Alt-Text
+
+## Who are we?
+
+### Contact Information
+
+## APIs, Tools, & Libraries Used
+
+Alt-Text is developed using an assortment of modern Python tools...
+
+### Development Tools
+
+Alt-Text is developed using...
+
+- [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+
+### Packaging/Distribution Tools
+
+Alt-Text is distributed using...
+
+- [PyPi](https://pypi.org/)
+- [Hatchling](https://pypi.org/project/hatchling/)
