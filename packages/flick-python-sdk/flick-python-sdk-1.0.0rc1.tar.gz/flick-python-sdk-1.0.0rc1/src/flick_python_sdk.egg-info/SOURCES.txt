@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/flick/__init__.py
+src/flick/api_service.py
+src/flick/bills.py
+src/flick_python_sdk.egg-info/PKG-INFO
+src/flick_python_sdk.egg-info/SOURCES.txt
+src/flick_python_sdk.egg-info/dependency_links.txt
+src/flick_python_sdk.egg-info/requires.txt
+src/flick_python_sdk.egg-info/top_level.txt
