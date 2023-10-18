@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: rut-miit-api
+Version: 0.0.1.dev2
+Summary: Wrapper for rut miit app api
+Home-page: https://github.com/user424242420/rut-miit-api
+Keywords: rut-miit
+Author: user424242420
+Author-email: 142989209+user424242420@users.noreply.github.com
+Requires-Python: >=3.11,<4.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Requires-Dist: logging (>=0.4.9.6,<0.5.0.0)
+Requires-Dist: requests-cache (>=1.1.0,<2.0.0)
+Project-URL: Repository, https://github.com/user424242420/rut-miit-api
+Description-Content-Type: text/markdown
+
+# Rut miit api
+
+Api from rut miit app
+
