@@ -1,0 +1,8 @@
+xia_actor_openai/__init__.py,sha256=N5EEzqv7qvp38Vkbr5bj8kXOAwiHS9ZwRrBdpREN_JU,244
+xia_actor_openai/actor.cpython-311-darwin.so,sha256=rl4Ajflb73F_wJkL37wqZH8SAwgOajAIDL57z2Cs_bw,339912
+xia_actor_openai/graphist.cpython-311-darwin.so,sha256=LEvK44TLKEwcNQ-3SLdH7LCfqCzdwTbLz_J7wLwh1kQ,322584
+xia_actor_openai-0.1.0.dist-info/LICENSE.txt,sha256=acfisNP7eGyC12wEJebDnGs-4E_4-FYjTwMe5NB_owk,156
+xia_actor_openai-0.1.0.dist-info/METADATA,sha256=KoaXOUFpa9bdvWp4RBGs7cEfSv2NWdHsBpZO9rrhDZw,416
+xia_actor_openai-0.1.0.dist-info/WHEEL,sha256=h6AHtO7cSDs0NqJlOU-pxFlAjKPuMapTPklGT2yNXZQ,109
+xia_actor_openai-0.1.0.dist-info/top_level.txt,sha256=k9NoqYtVmOCdOz8nQ1x-GCx2vf_ZSwEHuXHYTNOLjrk,17
+xia_actor_openai-0.1.0.dist-info/RECORD,,
