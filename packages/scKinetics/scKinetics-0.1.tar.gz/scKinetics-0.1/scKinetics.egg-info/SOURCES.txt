@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+scKinetics.egg-info/PKG-INFO
+scKinetics.egg-info/SOURCES.txt
+scKinetics.egg-info/dependency_links.txt
+scKinetics.egg-info/requires.txt
+scKinetics.egg-info/top_level.txt
+sckinetics/__init__.py
+sckinetics/kinetics.py
+sckinetics/layers.py
