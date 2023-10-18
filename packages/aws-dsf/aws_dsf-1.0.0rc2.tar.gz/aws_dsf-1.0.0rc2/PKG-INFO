@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: aws_dsf
+Version: 1.0.0rc2
+Summary: L3 CDK Constructs used to build data solutions with AWS
+Home-page: https://awslabs.github.io/aws-data-solutions-framework/
+Author: Amazon Web Services
+License: MIT-0
+Project-URL: Source, https://github.com/awslabs/aws-data-solutions-framework.git
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: JavaScript
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Typing :: Typed
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: License :: OSI Approved
+Requires-Python: ~=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AWS Data Solutions Framework
+
+![ADSF logo](../website/static/img/adsf-logo-light.png)
+
+AWS Data Solutions Framework (AWS DSF) is a framework for implementation and delivery of analytics solutions with built-in AWS best practices. AWS DSF is an abstraction atop AWS services based on [AWS Cloud Development Kit](https://aws.amazon.com/cdk/) (CDK) L3 constructs, packaged as a library.
+
+➡️ **More information on our [website](https://awslabs.github.io/aws-data-solutions-framework)**
