@@ -1,0 +1,74 @@
+# TeXCLIques
+
+A CLI that provides a set of utilities for working with scientific LaTeX documents.
+
+## Installation
+
+This module is available on [PyPI](https://pypi.org/project/texcliques/). To install it, run:
+
+```bash
+pip install texcliques
+```
+
+## Usage
+
+This module provides a command-line interface (CLI) through the `texcliques` script. To use it, run:
+
+```bash
+texcliques [OPTIONS] COMMAND [ARGS]...
+```
+
+## Commands
+
+- [`extract-citations`](#extract-citations): Extract bibliography entries from a LaTeX document or sections thereof given a BibTeX file.
+
+> [!NOTE]
+> For more information on a specific command, run:
+>
+> ```bash
+> texcliques COMMAND --help
+> ```
+
+### Extract Citations
+
+#### Positional Arguments
+
+- **`TEXFILE`**: The LaTeX file to extract citations from.
+
+- **`BIBFILE`**: The BibTeX file to extract citations from.
+
+---
+
+#### Optional Arguments
+
+- **`-s`, `--section`**: Specifies the section from which to extract the citations. If not specified, the entire `TEXFILE` is used.
+
+- **`-p`, `--pattern`**: The Regex pattern to use for identifying citations in the `TEXFILE`.
+  - **Default**: `\\cite[tp]?{([^}]+)}`
+  > [!IMPORTANT]
+  > The pattern must contain a single capturing group that matches the reference ID.
+
+- **`--sort`**: Sort the citations in natural order based on their key.
+
+- **`-o`, `--output`**: The base name of the output file(s).
+  - **Default**: `citations`
+
+- **`--fields` (FIELDS)**: The fields to extract from the `BIBFILE`.
+  - **Default**: `id`, `title`, `author`
+
+- **`--formats`**: The output formats to save the citations into.
+  - **Default/Supported**: `toml`, `yaml`, `json`
+
+## Contributing
+
+To contribute to texcliques:
+
+1. Fork this repository.
+2. Create a new branch following the naming convention `<username>/branch-name`.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Create a [pull request](https://github.com/dimboump/texcliques/compare) to this repository.
+
+## License
+
+This module is licensed under the MIT License. See the `LICENSE` file for more information.
