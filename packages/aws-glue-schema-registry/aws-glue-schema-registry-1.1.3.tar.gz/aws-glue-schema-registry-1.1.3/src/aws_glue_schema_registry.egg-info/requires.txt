@@ -1,0 +1,19 @@
+boto3>=1.17.102
+fastavro>=1.4.5
+fastjsonschema~=2.15
+
+[:python_version < "3.11"]
+orjson~=3.6.0
+
+[:python_version < "3.8"]
+typing-extensions>=3.7.4.3
+
+[:python_version >= "3.11"]
+orjson>=3.7.7
+
+[dev]
+pytest>=6
+flake8>=3
+
+[kafka-python]
+kafka-python>=2
