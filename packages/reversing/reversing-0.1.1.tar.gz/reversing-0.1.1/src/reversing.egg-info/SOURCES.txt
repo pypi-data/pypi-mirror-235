@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/reversing/Brute.py
+src/reversing/Util.py
+src/reversing/__init__.py
+src/reversing.egg-info/PKG-INFO
+src/reversing.egg-info/SOURCES.txt
+src/reversing.egg-info/dependency_links.txt
+src/reversing.egg-info/requires.txt
+src/reversing.egg-info/top_level.txt
+test/test_per.py
+test/test_thread.py
