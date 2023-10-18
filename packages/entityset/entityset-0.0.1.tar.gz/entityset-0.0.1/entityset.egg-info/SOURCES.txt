@@ -1,0 +1,10 @@
+README.md
+setup.py
+benchmark/__init__.py
+entityset/__init__.py
+entityset/util.py
+entityset.egg-info/PKG-INFO
+entityset.egg-info/SOURCES.txt
+entityset.egg-info/dependency_links.txt
+entityset.egg-info/requires.txt
+entityset.egg-info/top_level.txt
