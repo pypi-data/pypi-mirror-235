@@ -1,0 +1,17 @@
+[build-system]
+requires=["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "mattsollamatools"
+version = "0.0.6"
+authors = [{name="Matt Williams", email="m@technovangelist.com"}]
+description="Tools for working with Ollama"
+readme = "README.md"
+requires-python=">=3.6"
+classifiers=[
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent"
+]
+[project.urls]
+"Homepage" = "https://technovangelist.com"

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mattsollamatools
+Version: 0.0.6
+Summary: Tools for working with Ollama
+Project-URL: Homepage, https://technovangelist.com
+Author-email: Matt Williams <m@technovangelist.com>
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Matt's Ollama Tools
