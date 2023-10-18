@@ -1,0 +1,10 @@
+wordx/__init__.py,sha256=iKpShkTQoP8nnZ3Q_iRv1qGrP2Vv8PqGvT6EGG52ikg,109
+wordx/mixins.py,sha256=mggIr-R3X9Hwk205G0bjaKrKFsX95HXJbU6KTT3RoeY,1864
+wordx/sheet.py,sha256=jfvu736GUcEEo89vupDb863Z7FSl2YmsQegSpYnaHH4,1476
+wordx/word_file.py,sha256=XPXFfOOLqkVO-AolrGn_zJZBua28ZYmdICFDRbkdHvM,3669
+wordx/utils/fake_zip.py,sha256=7AYx5BJybROrTZpXFgMXynpT1Sz-1gNkycnOKaZ2HhI,1176
+wordx/utils/tree.py,sha256=Z74XIeVL5au6a72Sk0zvbGA9mc0ezXWgJnrfiIDa_Jw,587
+wordx-0.4.0.dist-info/METADATA,sha256=nm8u_ClJrFQEDSdJJUjQ36NJ5u4zVbkCdFFds1gnei4,1124
+wordx-0.4.0.dist-info/WHEEL,sha256=KGYbc1zXlYddvwxnNty23BeaKzh7YuoSIvIMO4jEhvw,87
+wordx-0.4.0.dist-info/licenses/LICENSE,sha256=6kbiFSfobTZ7beWiKnHpN902HgBx-Jzgcme0SvKqhKY,1091
+wordx-0.4.0.dist-info/RECORD,,
