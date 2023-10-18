@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+PyBypass
+ffmpeg-python
+pypdl
+torrentp
+pyrogram
+gTTS
