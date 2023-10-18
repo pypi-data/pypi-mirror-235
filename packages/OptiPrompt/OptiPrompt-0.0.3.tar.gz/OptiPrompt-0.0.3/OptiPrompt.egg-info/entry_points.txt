@@ -1,0 +1,2 @@
+[console_scripts]
+OptiPrompt = optiprompt.main:main
