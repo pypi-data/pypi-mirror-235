@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+st-img-carousel/__init__.py
+st_img_carousel.egg-info/PKG-INFO
+st_img_carousel.egg-info/SOURCES.txt
+st_img_carousel.egg-info/dependency_links.txt
+st_img_carousel.egg-info/requires.txt
+st_img_carousel.egg-info/top_level.txt
