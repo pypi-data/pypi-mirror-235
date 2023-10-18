@@ -1,0 +1,8 @@
+README.md
+setup.py
+asteroid_info.egg-info/PKG-INFO
+asteroid_info.egg-info/SOURCES.txt
+asteroid_info.egg-info/dependency_links.txt
+asteroid_info.egg-info/top_level.txt
+test/test_integration.py
+test/test_unit.py
