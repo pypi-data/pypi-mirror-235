@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pigmento
+Version: 0.0.3
+Summary: Colorful and Prefix-supported Print Toolkit
+Home-page: https://github.com/Jyonn/printi
+Author: Jyonn Liu
+Author-email: i@6-79.cn
+License: MIT Licence
+Keywords: print,color
+Platform: any
+Description-Content-Type: text/markdown
+
+# Pigmento: Colorful Printing
+
+
