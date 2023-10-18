@@ -1,0 +1,3 @@
+[console_scripts]
+tvts=tacview_timesync.tvts:main
+
