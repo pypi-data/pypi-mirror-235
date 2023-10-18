@@ -1,0 +1,4 @@
+[airflow.plugins]
+starship=astronomer_starship.starship.main:StarshipPlugin
+starship_aeroscope=astronomer_starship.aeroscope.plugins:AeroscopePlugin
+
