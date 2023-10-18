@@ -1,0 +1,1 @@
+This is a package for solving captchas in web pages
