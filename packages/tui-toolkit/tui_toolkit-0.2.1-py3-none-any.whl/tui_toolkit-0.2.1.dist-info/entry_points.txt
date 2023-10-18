@@ -1,0 +1,6 @@
+[console_scripts]
+ex_chat=examples:chat
+ex_filtre=examples:filtre
+ex_selector=examples:selector
+ex_styling=examples:styling
+
