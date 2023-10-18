@@ -1,0 +1,16 @@
+aws_schema_registry/__init__.py,sha256=-88JUKVm3kdS88w6zYK4_lXzPvYkZ3IsiC9eci1uJ-s,521
+aws_schema_registry/avro.py,sha256=EaCYZj_2CTQ82XSaXM2llE1vZ64l0wTH0kJ3m0rnS58,2377
+aws_schema_registry/client.py,sha256=jRT3ksuOS1Y2vj2EbJE9tNPGMzs1rhcYW2axxufIqDo,13645
+aws_schema_registry/codec.py,sha256=XGmNxbdpiHRe6buOM9JjqGVIvS26ipz7-GJA-ZoKWlQ,4108
+aws_schema_registry/exception.py,sha256=jsR_AGq_HJvIB1Q8FNK0cCjuOamGNvsywJsVuc-Jaa8,51
+aws_schema_registry/jsonschema.py,sha256=WLoPr7I0e-w1CQIC-nct6qBYhDbqtyYFCT4NzKlYg1o,1527
+aws_schema_registry/naming.py,sha256=r0uy9vaTrmmSRYw-q7VOLkEmYhs8H2K5iVQXVCWPss4,2298
+aws_schema_registry/schema.py,sha256=Wa4Tdio1EtiC-xxEp2gJCGufMbh4aHF5kND7mCvIdk8,2334
+aws_schema_registry/serde.py,sha256=71MEAclcnDCbfcpobNfDJ9kQBgOdldb7QaGrKpunAB0,5704
+aws_schema_registry/adapter/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+aws_schema_registry/adapter/kafka.py,sha256=p0TkbIHTKr_UyuVEV6JuoH3byT2EwM2x9JcxV2VjJfM,736
+aws_glue_schema_registry-1.1.3.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+aws_glue_schema_registry-1.1.3.dist-info/METADATA,sha256=BJcXITp77eRQyyL_wLq0bMQH243rUansleGPsPlhUzo,7804
+aws_glue_schema_registry-1.1.3.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+aws_glue_schema_registry-1.1.3.dist-info/top_level.txt,sha256=JYzbLPpZbbkbWGNpl13FsKdwx95aNUSl8KVWdYi7BD8,20
+aws_glue_schema_registry-1.1.3.dist-info/RECORD,,
