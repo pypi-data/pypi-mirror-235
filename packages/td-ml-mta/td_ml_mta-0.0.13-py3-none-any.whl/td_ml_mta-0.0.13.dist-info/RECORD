@@ -1,0 +1,7 @@
+td_ml_mta/__init__.py,sha256=2LBCbte4ABYS6cMJlHOk56r4pdUMOHLcqKeiH6LmOTE,46
+td_ml_mta/markov.py,sha256=2_WRwiihFfCS6DMDbB2ilnXqxRTVr6zDwmtLI8OcWwQ,3375
+td_ml_mta/shapley.py,sha256=O_bGgaVo5z8fJClwWWKkzUXeGL50axeEOy7AnhuIQUQ,2830
+td_ml_mta-0.0.13.dist-info/METADATA,sha256=kpw19YnCFjh3-hxSnqn4C3gs8kgVXOudwvTwueudrOU,1847
+td_ml_mta-0.0.13.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+td_ml_mta-0.0.13.dist-info/licenses/LICENSE,sha256=gZsIcQvSVwL8_lwngxEY2WCJLzbBvVOYwe_w8lx8B6g,78
+td_ml_mta-0.0.13.dist-info/RECORD,,
