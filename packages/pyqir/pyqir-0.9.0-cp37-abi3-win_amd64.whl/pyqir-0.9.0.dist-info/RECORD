@@ -1,0 +1,14 @@
+pyqir-0.9.0.dist-info/METADATA,sha256=N30p4YHtVpNRT6MxY_6-EochJGlpifIEZkU4eeE1f5w,4330
+pyqir-0.9.0.dist-info/WHEEL,sha256=EOMNtrT_gKkmhndb21X5-Kx7YThUf3BfKaagKjbmQiw,94
+pyqir-0.9.0.dist-info/license_files/LICENSE,sha256=p9YvyG5_PCAnSUxIM4x4E6IRmt2LBE_1WZKrO865gtc,1090
+pyqir-0.9.0.dist-info/license_files/NOTICE-WHEEL.txt,sha256=K8PbxlNgUb8BfeRpHO3keLq3oO0Xn_oHyp7uEhJrDE0,354241
+pyqir/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyqir/qis.py,sha256=iCyhXjXR-ROOonHEs2EGahAAvCfsq_bzQ1lG44MfU9E,543
+pyqir/rt.py,sha256=TzpBeW32kdrjwJNIVlWKrdwg_r9Pk8Vd0_5xxV51adQ,327
+pyqir/_basicqis.py,sha256=RhgoIUUrNTAd3Kx_c_2HL5GKbcmyk7Ug3TnDkMf5z1A,4852
+pyqir/_entry_point.py,sha256=K8cZ14uHKXJt1Ns_L9AMnN0hiQRjci0JP0Po3fmBCD4,1678
+pyqir/_native.pyi,sha256=OLikPWWIXbNERLkKNCmops3-R6wdCA_-YDLXAVhz710,34783
+pyqir/_simple.py,sha256=aKiZKdxvRGeU50MwQUzjZSpUo32XlKG9kMdXKg5oLSo,3855
+pyqir/__init__.py,sha256=VqfQiahSM9lcCLHbSn3cFY5BwPZpHbozR0f2WzmNqCM,2357
+pyqir/_native.pyd,sha256=bFKCQGQv6dM3FJmAxLdI0_5GrLfV_fGFb29ldMpBMRk,3693056
+pyqir-0.9.0.dist-info/RECORD,,
