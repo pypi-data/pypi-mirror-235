@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: dynamic-content-generator
+Version: 0.1.0
+Summary: A module to generate dynamic content based on specific patterns
+Home-page: https://github.com/jaseppan/dynamic_content_generator
+Author: Janne Seppänen
+Author-email: j.v.seppanen@gmail.com
+Keywords: faker content generator
+License-File: LICENSE
+Requires-Dist: faker
+
