@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: moneybox
+Version: 0.0.6
+Summary: MoneyBox
+Home-page: https://github.com/moneybox-ai/django-moneybox
+Author: Faithdev21,error0x001,ArtemWhiter,tanja-ovc,Eugene-Bykovsky,maxahist,stanislav-losev
+Author-email: team@openapitools.org
+Keywords: OpenAPI,OpenAPI-Generator,MoneyBox
+Description-Content-Type: text/markdown
+
+    MoneyBox will help you better understand your finances, improve financial literacy, and achieve financial goals.
+    
