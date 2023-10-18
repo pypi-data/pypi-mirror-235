@@ -1,0 +1,4 @@
+[console_scripts]
+nstimes=nstimes.main:app
+nstimes_server=nstimes.server:start
+
