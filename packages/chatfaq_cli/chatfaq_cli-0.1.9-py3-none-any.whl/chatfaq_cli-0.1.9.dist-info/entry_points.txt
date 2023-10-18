@@ -1,0 +1,3 @@
+[console_scripts]
+chatfaq=chatfaq_cli.__main__:main
+
