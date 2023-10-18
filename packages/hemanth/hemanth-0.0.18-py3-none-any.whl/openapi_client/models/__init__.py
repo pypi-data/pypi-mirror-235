@@ -1,0 +1,25 @@
+# flake8: noqa
+
+# import all models into this package
+# if you have many models here with many references from one model to another this may
+# raise a RecursionError
+# to avoid this, import only the models that you directly need like:
+# from from openapi_client.model.pet import Pet
+# or import this package, but before doing it, use:
+# import sys
+# sys.setrecursionlimit(n)
+
+from openapi_client.model.error_response import ErrorResponse
+from openapi_client.model.error_response_errors import ErrorResponseErrors
+from openapi_client.model.resume_request import ResumeRequest
+from openapi_client.model.resume_response import ResumeResponse
+from openapi_client.model.resume_response_data import ResumeResponseData
+from openapi_client.model.resume_response_data_resume_data import ResumeResponseDataResumeData
+from openapi_client.model.resume_response_data_resume_data_educationhisory import ResumeResponseDataResumeDataEducationhisory
+from openapi_client.model.resume_response_data_resume_data_experiencesummary import ResumeResponseDataResumeDataExperiencesummary
+from openapi_client.model.resume_response_data_resume_data_internetaddress import ResumeResponseDataResumeDataInternetaddress
+from openapi_client.model.resume_response_data_resume_data_mobile import ResumeResponseDataResumeDataMobile
+from openapi_client.model.resume_response_data_resume_data_personname import ResumeResponseDataResumeDataPersonname
+from openapi_client.model.resume_response_data_resume_data_postaladdress import ResumeResponseDataResumeDataPostaladdress
+from openapi_client.model.resume_response_data_resume_data_skilltaxonomy import ResumeResponseDataResumeDataSkilltaxonomy
+from openapi_client.model.resume_response_data_resume_data_workhistory import ResumeResponseDataResumeDataWorkhistory
