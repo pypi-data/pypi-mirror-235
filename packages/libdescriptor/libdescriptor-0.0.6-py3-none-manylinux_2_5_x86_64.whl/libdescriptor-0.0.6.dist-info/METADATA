@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: libdescriptor
+Version: 0.0.6
+Author: Amit Gupta
+Requires-Dist: numpy
+Requires-Dist: ase
+Requires-Dist: pybind11
+
