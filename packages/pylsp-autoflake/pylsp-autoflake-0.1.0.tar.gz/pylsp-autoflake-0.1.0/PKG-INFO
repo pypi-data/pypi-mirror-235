@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pylsp-autoflake
+Version: 0.1.0
+Summary: autoflake plugin for the Python LSP Server
+Author-email: bdvllrs <bdvllrs@gmail.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: python-lsp-server
+Requires-Dist: autoflake>=2.2.1
+
+# Python LSP Server autoflake plugin
