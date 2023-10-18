@@ -1,0 +1,5 @@
+typing_extensions<5.0,>=4.8.0
+
+[tests]
+hypothesis<7.0,>=6.88.0
+pytest<8.0,>=7.4.2
