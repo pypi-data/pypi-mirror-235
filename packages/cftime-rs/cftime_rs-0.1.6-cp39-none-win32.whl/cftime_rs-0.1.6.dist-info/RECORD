@@ -1,0 +1,10 @@
+cftime_rs-0.1.6.dist-info/METADATA,sha256=-nw-fK-Xym36HS11G-QEkB1N_fPRrqyHyx3JgWLSfLM,10087
+cftime_rs-0.1.6.dist-info/WHEEL,sha256=as35cayRaav5DMGdKmjhy4EdZBDrbVtTq4EDy86S5NE,90
+cftime_rs-0.1.6.dist-info/license_files/LICENSE,sha256=ppSWHk6iDmN_Avg-c5wYvDKGrn_NTejMT7p2RAcdVwQ,34821
+cftime_rs/cftime_rs.pyi,sha256=a3zSEwMpgQFxt_gEPAlxQG0XL4bjsqO4zy7SV1AhtDU,18324
+cftime_rs/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/tests/test_functions.py,sha256=XntlvNG0a1Et7Nm_sSTRiVnhnO2vS71Jhzdpqf9FjwU,3783
+cftime_rs/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+cftime_rs/__init__.py,sha256=mXLJTWOne9UcIF2SBw6DfSMP05RsfvjG9fW844fxQ4A,35
+cftime_rs/cftime_rs.cp39-win32.pyd,sha256=SflS0WjTuCl7xhE9J6b0wVh1POiisyxYqGvmWWr_MV8,493568
+cftime_rs-0.1.6.dist-info/RECORD,,
