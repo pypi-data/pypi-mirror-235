@@ -1,0 +1,11 @@
+econdata/BCRP.py,sha256=w35au7kjeSIqeaBwfXH9oqT8R-SCUqyzcJcvrCmhv1g,6390
+econdata/FRED.py,sha256=LElB0rGVho4OtTNH9TuuX0USzkhlMg5sZUok2efs-js,4034
+econdata/IMF.py,sha256=QsxLm8DWMOsTGcr7ervf_m0x-5jKV83yqX0j9C_zBgE,4272
+econdata/OECD.py,sha256=bQWN1bdPUFctDraYSQb1S4OOkHdgaDVPO_dlv6jXUKI,2154
+econdata/WB.py,sha256=bgZ9Wnt0neRNiyFcrL6gBRfO_ZtzwhEhBFE5GboCk0c,2853
+econdata/YFinance.py,sha256=4C9qEzuBUHB_T9DEQIxwnqUTFykGYxD26E-bVHb8tO8,3717
+econdata/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+econdata-1.0.7.dist-info/METADATA,sha256=tZ2n-maWht_XPcColKJBbOlYEJTKA3jK2Sz4UaX6S-o,7621
+econdata-1.0.7.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+econdata-1.0.7.dist-info/top_level.txt,sha256=zjZ_dNrjFWjIvlYzFzRTs9WTcUZM1mZ79HMrYcBpnT0,9
+econdata-1.0.7.dist-info/RECORD,,
