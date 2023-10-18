@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: asteroid_info
+Version: 0.1.0
+Summary: Package
+Author: FAM
+Author-email: m.zarantonello2@campus.unimib.it
+License: MIT
+Description-Content-Type: text/markdown
+
+## Nome
+AsteroidsInfo - first_assignment
+
+## Descrizione
+La seguente applicazione ha lo scopo di fornire all'utente una serie di informazioni riguardanti asteroidi in una data specificata. Le informazioni riportate sono:
+* Numero di asteroidi che nella data selezionata orbitano vicino alla Terra
+* Nome dell'asteroide
+* Diametro (in metri) dell'asteroide 
+* Volume (in metri cubi) dell'asteroide
+* Superficie (in metri quadri) dell'asteroide
+* Se ci sono stati asteroidi potenzialmente pericolosi nella data specificata
+
+## Utilizzo
+All'avvio dell'applicazione si aprira' un calendario nella quale l'utente potra' selezionare una data. Cliccando su "Ottieni informazioni", si avra' accesso ai dati degli asteroidi.
+
+## Roadmap
+Nelle prossime versioni verranno implementate ulteriori informazioni quali, ad esempio, le caratteristiche di altri corpi celesti.
+
+## Autori
+* Massimo Zarantonello - MAT. 866457
+* Anna Marika Biasco - MAT. 865873
+* Francesca Pulera' - MAT. 870005
+
+## Licenza
+Licenza utilizzata: MIT 
