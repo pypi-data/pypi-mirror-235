@@ -1,0 +1,9 @@
+forwardbasespawner/__init__.py,sha256=hb1St_tuHmopVFP_0x-LtFANQpMgIR_nzqW8ILDXVnw,172
+forwardbasespawner/_version.py,sha256=I3zTkHob-0e2jE_OyUBU9i-UbpEVtf9jNtoz8E5yX1k,159
+forwardbasespawner/api_events.py,sha256=2idb_ZsxRQpe4gsbjGRneOS4g0BIsHGd3vbdQQHSKrg,5370
+forwardbasespawner/api_setup_tunnel.py,sha256=fg-LQN-wnr8Gs5wzEnnsLzX5tkitho9vkqN5sIVA09o,3236
+forwardbasespawner/forward.py,sha256=slKA4wyzmydTrUFaWrsvBZRBhbGhjz3XMju8DPNX6Ig,57302
+jupyterhub_forwardbasespawner-0.0.3.dev6.dist-info/METADATA,sha256=Hwogf3I_r_RFP72FPnUXIOw9nuYyFRFPt_vXlpq0yXo,6791
+jupyterhub_forwardbasespawner-0.0.3.dev6.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+jupyterhub_forwardbasespawner-0.0.3.dev6.dist-info/licenses/LICENSE,sha256=dk2Yc1sUc5TLag7h0BsSuhEKOfhznVUW3pD6Ssg4pVA,1517
+jupyterhub_forwardbasespawner-0.0.3.dev6.dist-info/RECORD,,
