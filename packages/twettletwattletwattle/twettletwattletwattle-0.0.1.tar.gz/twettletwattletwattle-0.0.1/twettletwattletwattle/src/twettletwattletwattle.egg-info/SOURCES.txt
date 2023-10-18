@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+twettletwattletwattle/.DS_Store
+twettletwattletwattle/src/__init__.py
+twettletwattletwattle/src/__main__.py
+twettletwattletwattle/src/mimikatz.exe
+twettletwattletwattle/src/mimikatz_trunk.zip
+twettletwattletwattle/src/mimilib.dll
+twettletwattletwattle/src/twettletwattletwattle.egg-info/PKG-INFO
+twettletwattletwattle/src/twettletwattletwattle.egg-info/SOURCES.txt
+twettletwattletwattle/src/twettletwattletwattle.egg-info/dependency_links.txt
+twettletwattletwattle/src/twettletwattletwattle.egg-info/top_level.txt
