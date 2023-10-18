@@ -1,0 +1,2 @@
+[console_scripts]
+encryption_jsv = enc_app.encrypt:main
