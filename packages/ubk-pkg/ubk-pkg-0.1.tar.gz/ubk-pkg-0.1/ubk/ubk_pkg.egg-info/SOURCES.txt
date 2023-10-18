@@ -1,0 +1,6 @@
+setup.py
+ubk/ubk_pkg.egg-info/PKG-INFO
+ubk/ubk_pkg.egg-info/SOURCES.txt
+ubk/ubk_pkg.egg-info/dependency_links.txt
+ubk/ubk_pkg.egg-info/requires.txt
+ubk/ubk_pkg.egg-info/top_level.txt
