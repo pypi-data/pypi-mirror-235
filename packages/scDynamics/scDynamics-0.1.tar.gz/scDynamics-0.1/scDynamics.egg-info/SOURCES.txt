@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+scDynamics.egg-info/PKG-INFO
+scDynamics.egg-info/SOURCES.txt
+scDynamics.egg-info/dependency_links.txt
+scDynamics.egg-info/requires.txt
+scDynamics.egg-info/top_level.txt
+scdynamics/__init__.py
+scdynamics/kinetics.py
+scdynamics/layers.py
