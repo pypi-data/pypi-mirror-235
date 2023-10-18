@@ -1,0 +1,8 @@
+benchmark/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+entitybase/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+entitybase/util.py,sha256=jLkvcuqwJHifzZcz3PrCPsmaX_SN7A1TgRXgQGkmGiw,857
+entitybase-0.0.1.dist-info/LICENSE,sha256=xx0jnfkXJvxRnG63LTGOxlggYnIysveWIZ6H3PNdCrQ,11357
+entitybase-0.0.1.dist-info/METADATA,sha256=KukLzWnHlP2doKwiKbN5x9N_AyK616cl0sDF2MEaA1w,359
+entitybase-0.0.1.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+entitybase-0.0.1.dist-info/top_level.txt,sha256=A7OVlRr-2SrZ94mk0wUhNnMLKGyg2fJER8Lm6NEQICg,21
+entitybase-0.0.1.dist-info/RECORD,,
