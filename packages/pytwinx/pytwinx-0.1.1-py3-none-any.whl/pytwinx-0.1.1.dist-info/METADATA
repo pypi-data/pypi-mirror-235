@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pytwinx
+Version: 0.1.1
+Summary: twinx package
+Requires-Python: >=3.6
+
