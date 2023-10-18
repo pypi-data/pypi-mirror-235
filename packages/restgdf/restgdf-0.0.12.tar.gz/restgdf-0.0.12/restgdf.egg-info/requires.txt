@@ -1,0 +1,15 @@
+aiohttp
+geopandas
+pandas
+pyogrio
+requests
+
+[dev]
+bumpver
+coverage
+coverage-badge
+pre-commit
+pytest
+pytest-asyncio
+sphinx
+sphinx-rtd-theme
