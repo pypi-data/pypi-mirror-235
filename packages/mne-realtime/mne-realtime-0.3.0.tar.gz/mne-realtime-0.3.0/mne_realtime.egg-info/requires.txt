@@ -1,0 +1,17 @@
+numpy
+scipy
+mne>=1.0.0
+
+[docs]
+sphinx
+sphinx-gallery
+pydata-sphinx-theme
+sphinx_copybutton
+sphinxcontrib-bibtex
+numpydoc
+matplotlib
+memory_profiler
+
+[tests]
+pytest
+pytest-cov
