@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "numpy", "pandas"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyrqp"
+version = "0.0.2"
+authors = [
+  { name="Pau Juan-Garcia", email="Pau.JuanGarcia@atkinsrealis.com" },
+]
+description = "An open source version of the Environment Agency's River Quality Planning software written in Python. It aims to be transparent, extendable and easy to automate."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/PauJuan/PyRQP"
+"Bug Tracker" = "https://github.com/PauJuan/PyRQP/issues"
