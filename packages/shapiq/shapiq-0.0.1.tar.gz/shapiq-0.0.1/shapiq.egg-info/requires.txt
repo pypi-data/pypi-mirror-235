@@ -1,0 +1,12 @@
+shap
+numpy
+
+[docs]
+shap
+numpy
+sphinx
+nbsphinx
+pandoc
+furo
+sphinx-copybutton
+myst-parser

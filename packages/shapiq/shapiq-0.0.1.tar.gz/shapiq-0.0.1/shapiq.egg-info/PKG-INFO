@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: shapiq
+Version: 0.0.1
+Summary: SHAPley Interaction Quantification (SHAP-IQ) for Explainable AI
+Home-page: https://github.com/mmschlk/shapiq
+Author: Fabian Fumagalli and Maximilian Muschalik
+Author-email: maximilian.muschalik@ifi.lmu.de
+License: MIT
+Project-URL: Tracker, https://github.com/mmschlk/shapiq/issues?q=is%3Aissue+label%3Abug
+Project-URL: Source, https://github.com/mmschlk/shapiq
+Keywords: python,machine learning,shap,xai,interaction
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: shap
+Requires-Dist: numpy
+Provides-Extra: docs
+Requires-Dist: shap; extra == "docs"
+Requires-Dist: numpy; extra == "docs"
+Requires-Dist: sphinx; extra == "docs"
+Requires-Dist: nbsphinx; extra == "docs"
+Requires-Dist: pandoc; extra == "docs"
+Requires-Dist: furo; extra == "docs"
+Requires-Dist: sphinx-copybutton; extra == "docs"
+Requires-Dist: myst-parser; extra == "docs"
+
+
+# SHAPley Interaction Quantification (SHAP-IQ)
+
+# Install
+
+# Quickstart
