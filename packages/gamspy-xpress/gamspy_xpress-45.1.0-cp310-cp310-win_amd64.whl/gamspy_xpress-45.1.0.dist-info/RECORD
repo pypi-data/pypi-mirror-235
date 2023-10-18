@@ -1,0 +1,11 @@
+gamspy_xpress/__init__.py,sha256=zHuQS2zcbA7Ug9ZE0Jq1mHBQsJYLHglwIPy8OMh6jIc,420
+gamspy_xpress/optxpress.def,sha256=eaA02L87t9SZvksgkW5oJxyVbfqceNB48eT4oZYmsS8,117633
+gamspy_xpress/version.py,sha256=iMbdPRwE5Whwp6P3uq8zNiQrjx9vR97WVqki-DYTX_Q,22
+gamspy_xpress/xpauth.xpr,sha256=bs5ndkxwyiUX3LGPnheV1ASDTKGRsg1_drRzDsrNVeg,470
+gamspy_xpress/xprl.dll,sha256=Hr50T1ngjaFfw9Zlcj-F59QzDDaaaZH6ZgiSRNZ8PEw,1159168
+gamspy_xpress/xprs.dll,sha256=NbFXVvQ8LET5QsRnjsE8Bj_XjGtxlIyzs9z4YhKsCbI,55315456
+gamspy_xpress/xpxcclib64.dll,sha256=O4gYrIbATmnS5DkCwHN0WN2omBzUHI5v5dunnINLIBI,679424
+gamspy_xpress-45.1.0.dist-info/METADATA,sha256=k8O5qXUqFKBvEaiLk8Gl0ApntLkfibiD-BJ9JN1ZW9Y,63
+gamspy_xpress-45.1.0.dist-info/WHEEL,sha256=yrvteVAZzxQvtDnzdCRh4dP01sPIxYhLXIXplC7o50E,102
+gamspy_xpress-45.1.0.dist-info/top_level.txt,sha256=Qm1c_bADQJ0s3xzALK5pOrKhRu7IGmlmAb5BPK6axvs,14
+gamspy_xpress-45.1.0.dist-info/RECORD,,
