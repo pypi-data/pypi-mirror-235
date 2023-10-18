@@ -1,0 +1,10 @@
+chatfaq_sdk/__init__.py,sha256=_yYFZzFnBXvuo1M7HBBw9UXtzyGRocLQ5-25PEWMH6c,11993
+chatfaq_sdk/api/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+chatfaq_sdk/api/messages.py,sha256=GXNaaWmMMETC1mQB3BHXPVsp9wkwfHHH42-M2GZxF0A,310
+chatfaq_sdk/conditions/__init__.py,sha256=PThVcmxuHnhYW4HWjqCJY57eP8XHGznC8gaiTIV9JLc,872
+chatfaq_sdk/fsm/__init__.py,sha256=c_r9cO0slL-J9xmIX9a_l-K4LrVSHXX6j4C3xWGzl-g,3533
+chatfaq_sdk/layers/__init__.py,sha256=09NH37Cu6kxsQEnEx3J9hxnaSBKA8z21zTr0_pjllfU,3121
+chatfaq_sdk/settings.py,sha256=YVzzEycdXjfd5GSuqwN4_ard71xPm_sa96-dPCeKVHU,371
+chatfaq_sdk-0.1.7.dist-info/METADATA,sha256=2XDi8bz50qjfZLIr6MzNPajeG9NMIQmRqm-nXIEcREg,5262
+chatfaq_sdk-0.1.7.dist-info/WHEEL,sha256=Zb28QaM1gQi8f4VCBhsUklF61CTlNYfs9YAZn-TOGFk,88
+chatfaq_sdk-0.1.7.dist-info/RECORD,,
