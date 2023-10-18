@@ -1,0 +1,6 @@
+gen_regex/__init__.py,sha256=daEdpEyAJIa8b2VkCqSKcw8PaExcB6Qro80XNes_sHA,2
+gen_regex/core.py,sha256=XLcMPgBryzfWcJEiCbA-cW2eCALRImpkYyuyKwx6am0,10585
+gen_regex/test.py,sha256=xBA3uTJgXY86kGpsZ8rbPjced-ETGVZnwaSMUc18vVY,3022
+gen_regex-0.1.2.dist-info/METADATA,sha256=zjHgDVX-D-g4sRr48q64oUVaHtssAJK8m1OgWFBwApc,368
+gen_regex-0.1.2.dist-info/WHEEL,sha256=9QBuHhg6FNW7lppboF2vKVbCGTVzsFykgRQjjlajrhA,87
+gen_regex-0.1.2.dist-info/RECORD,,
