@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: modern-sudoku
+Version: 1.0.0
+Summary: a sudoku package
+Home-page: https://github.com/riverlis/sudoku-solver
+Author: riverlis
+Author-email: tienduy0123@gmail.com
