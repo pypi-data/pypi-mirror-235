@@ -1,0 +1,13 @@
+texcliques/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+texcliques/__main__.py,sha256=hqjihj5iI-VNt9D-6_RzuNj34n0fFjCOXmO3wnOada0,126
+texcliques/color.py,sha256=M_Ua4Z4umsnIAdOxMDGGTmHsJEEkchfZUyRfPijEu5M,663
+texcliques/constants.py,sha256=9NFqHg56r5dxkipXjkjU9eZRYflfvSoKzAY5vsCVKDU,638
+texcliques/main.py,sha256=Z6tIPKNrklYeT_K1UUi9sz4vf8mTPz-3MONeq3DPvJw,3090
+texcliques/commands/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+texcliques/commands/extract_citations.py,sha256=B9xuINWu8F1nqT3R2ydPOa7W-u4BFFd7vCJR9O1AgRM,5560
+TeXCLIques-0.0.5.dist-info/LICENSE,sha256=wXacTG4Xi3bcFhxewRTqdan-4a_bAX3ZnLEkjRlT9hg,1075
+TeXCLIques-0.0.5.dist-info/METADATA,sha256=Yuwp_uQrWQnLxxF6_lMby3ae2qhgY3C-DYrj7RP1s0Q,2593
+TeXCLIques-0.0.5.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+TeXCLIques-0.0.5.dist-info/entry_points.txt,sha256=8RD4Bqw4J2XU_RZvZ60dPtYyE6DxO-_9mX5K9MYGmZI,52
+TeXCLIques-0.0.5.dist-info/top_level.txt,sha256=eqEeVnnd5GaFmHdZnw036aymvtiIvunLTfUW21fmwmc,11
+TeXCLIques-0.0.5.dist-info/RECORD,,
