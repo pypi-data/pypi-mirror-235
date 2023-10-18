@@ -1,0 +1,9 @@
+pyfilehandling/__init__.py,sha256=U2Iw_BGG7J-JT5VRHhqJsCdfB8gsm6WfOatPC-jIGc4,32
+pyfilehandling/fileio.py,sha256=oUiW2HBfFUB1P5qx1VYTEDJwOxYyrWXTRV4p6GYF0GU,336
+pyfilehandling/fileio.pyi,sha256=AD4gT2zRiJZJ7vH5Hc8Oty5Gt9wCOD6kJy01UZdCP0o,706
+pyfilehandling/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pyfilehandling-2.0.2.dist-info/LICENSE.txt,sha256=1n6dEOJpFXjYWnCQhx2BWWdB_SD9UmeHwmukE9_7n0Y,1070
+pyfilehandling-2.0.2.dist-info/METADATA,sha256=kgL2-LQB7dHi-Y0QylE3YHKkTRlCAxIO1B4GuhqMV4k,1932
+pyfilehandling-2.0.2.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+pyfilehandling-2.0.2.dist-info/top_level.txt,sha256=OPmT_hTfbVw63Vzzi5p7soLghvreoStMsVRy5HD4f48,15
+pyfilehandling-2.0.2.dist-info/RECORD,,
