@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pygamevideo.py
+setup.py
+pygamevideo.egg-info/PKG-INFO
+pygamevideo.egg-info/SOURCES.txt
+pygamevideo.egg-info/dependency_links.txt
+pygamevideo.egg-info/requires.txt
+pygamevideo.egg-info/top_level.txt
