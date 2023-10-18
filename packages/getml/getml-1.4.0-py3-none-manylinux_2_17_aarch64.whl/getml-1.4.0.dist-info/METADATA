@@ -1,0 +1,67 @@
+Metadata-Version: 2.1
+Name: getml
+Version: 1.4.0
+Summary: Python API for getML
+Author-email: getML <getml@getml.com>
+License: Elastic License 2.0 (ELv2)
+Project-URL: Hompage, https://getml.com
+Project-URL: Documentation, https://docs.getml.com/1.4.0
+Project-URL: Bug Tracker, https://github.com/getml/getml-community/issues
+Project-URL: Download, https://getml.com/product/download/
+Project-URL: Source Code, https://github.com/getml/getml-community
+Keywords: AutoML,feature learning
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Telecommunications Industry
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Manufacturing
+Classifier: Intended Audience :: Healthcare Industry
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: pyarrow <11.1,>=11.0
+Requires-Dist: numpy >=1.22
+Requires-Dist: jinja2
+Requires-Dist: scipy
+Provides-Extra: development
+Requires-Dist: black ; extra == 'development'
+Requires-Dist: mypy ; extra == 'development'
+Requires-Dist: pylint ; extra == 'development'
+Provides-Extra: test
+Requires-Dist: pytest ; extra == 'test'
+Requires-Dist: pyspark ; extra == 'test'
+
+# getML - Automated Feature Engineering for Relational Data and Time Series
+
+getML ([https://getml.com](https://getml.com)) is a tool for automating feature engineering on relational data and time series. Unlike similar tools, it includes a database engine 
+that has been customized for this very purpose.
+
+Because of this customized database engine, it is very fast. In fact, it is
+between 60x to 1000x faster than other open-source tools for automated
+feature engineering.
+
+This is the official python client for the getML engine.
+
+Documentation and more details at [https://docs.getml.com/1.4.0](https://docs.getml.com/1.4.0)
+
+
+### Build
+
+To build the package install
+```bash
+pip install build
+```
+
+and run
+```bash
+python3 -m build .
+```
