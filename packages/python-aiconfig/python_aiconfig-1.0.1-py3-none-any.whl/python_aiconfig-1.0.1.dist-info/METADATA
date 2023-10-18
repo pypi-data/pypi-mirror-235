@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: python-aiconfig
+Version: 1.0.1
+Summary: Python library for LastMile AI API
+Author-email: Sarmad Qadri <sarmad@lastmileai.dev>
+Project-URL: Homepage, https://github.com/lastmile-ai/aiconfig
+Project-URL: Bug Tracker, https://github.com/lastmile-ai/aiconfig/issues
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests ==2.30.0
+
+## Running Locally
+0. Create a conda environment
+1. Navigate to the aiconfig_tools directory
+2. Install required testing dependencies `pip install -r requirements.txt`
+3. "install" the aiconfig source package with `pip install -e .` The -e flag links the package to your local src. Any changes made are automatically updated.
+
+
+## Testing
+
+To run the tests in this repo,
+
+1. Navigate to the aiconfig_tools directory
+2. Install required testing dependencies `pip install -r requirements_dev.txt`
+3. "install" the aiconfig source package with `pip install -e .` The -e flag links the package to your local src. Any changes made are automatically updated.
+4. run tests `pytest`
+5. run linter `flake8`
+
+feel free to run ` black <path_to_src>` or `black .` , to format code, but this is not required. It is easier to use a vscode extension which will automatically format your code on save.
+
+TODO: build a github action workflow to automatically test and lint code.
