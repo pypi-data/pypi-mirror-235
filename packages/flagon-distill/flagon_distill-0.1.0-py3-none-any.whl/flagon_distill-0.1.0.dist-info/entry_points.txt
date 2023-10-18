@@ -1,0 +1,3 @@
+[console_scripts]
+dev=distill.server:dev_server
+
