@@ -1,0 +1,12 @@
+scrapy_selenium/__init__.py,sha256=1QrfJkCk-JE3Ya1PWNlY-axEUN3ywV3YZrk39KcjXVI,210
+scrapy_selenium/http.py,sha256=bAHLuR2-m-7JG6qo0_zAKIF4iUyEbQzb7JI_q25vS-8,1243
+scrapy_selenium/middlewares.py,sha256=4hC298w8A3nYFk5lj_srcwurxuMxT4IxBPhWuDWdAik,4874
+scrapy_selenium/selenium_utilities.py,sha256=5rHqHCvPvr2wpE4QSVKnnLu4TGUDhfMemjyi-q2sFTs,3290
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/test_cases.py,sha256=3ahx5qZT5BjaIm6ecCFubRyakFV_zkp-SZbNUJX8gYU,840
+tests/test_middlewares.py,sha256=mi6MIdbXmkVQqo53KQzXzWy61A_kTZlAoxfJ64vswNE,5301
+scrapy_selenium_mm-0.1.1.dist-info/LICENCE,sha256=VzAt9GJl8wprzZMgm0aUCJkGBlYQxyrW-3QO0xgCksk,496
+scrapy_selenium_mm-0.1.1.dist-info/METADATA,sha256=UWiz0P5qJPR5Mq8er2dfinNWBDoJQlGEzYngKohP1_I,4067
+scrapy_selenium_mm-0.1.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+scrapy_selenium_mm-0.1.1.dist-info/top_level.txt,sha256=gupgvSE1XY3D_xmAIZwFS0dnrnfklauT9eoqCsh3pOQ,22
+scrapy_selenium_mm-0.1.1.dist-info/RECORD,,
