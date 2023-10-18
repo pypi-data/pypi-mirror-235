@@ -1,0 +1,11 @@
+src/slackers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/slackers/hooks.py,sha256=BundpiARbTsVavNREcs44Ktq_-O-d-NyUrnY_cGL32o,971
+src/slackers/models.py,sha256=SfwcZh3ZBVPJhNXsq4z8xzA7_S10GZ4jhNSiUvQ7oEk,1074
+src/slackers/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+src/slackers/registry.py,sha256=hdEcML_6kBGh5Yuo5uPKe1iV1wGHjlf0ISvAJR9G7UE,327
+src/slackers/server.py,sha256=-gdK5G0xxpDGeksMz3uFfsOoxayKeh8Xa39GZ4TbjrE,3450
+src/slackers/verification.py,sha256=rCMJVOG4UfP6sMrOYmX4L-prR8pFMeLrcQWAWrt7Kqc,1335
+grishjan_slackers-1.0.4.dist-info/LICENSE,sha256=Vhwl_LM5tuHM64PtmvQuHUYHuZCAjYmCvRShdcuEo7Q,1075
+grishjan_slackers-1.0.4.dist-info/METADATA,sha256=d8OZI_vLzCrJAv1L4z1CXrLezvaHpc6VRM0BAkRfKoM,8745
+grishjan_slackers-1.0.4.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+grishjan_slackers-1.0.4.dist-info/RECORD,,
