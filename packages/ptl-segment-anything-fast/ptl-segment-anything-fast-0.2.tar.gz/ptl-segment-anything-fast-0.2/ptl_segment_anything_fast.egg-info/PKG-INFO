@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ptl-segment-anything-fast
+Version: 0.2
+Summary: A pruned, quantized, compiled, nested and batched implementation of segment-anything
+Home-page: https://github.com/pytorch-labs/segment-anything-fast
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE

@@ -1,0 +1,6 @@
+torch>=2.2.0.dev20231015
+torchvision>=0.17.0.dev20231015
+diskcache
+pycocotools
+scipy
+scikit-image
