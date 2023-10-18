@@ -1,0 +1,9 @@
+LICENSE.txt
+setup.py
+numtoword_amiri/__init__.py
+numtoword_amiri/en.py
+numtoword_amiri/fa.py
+numtoword_amiri.egg-info/PKG-INFO
+numtoword_amiri.egg-info/SOURCES.txt
+numtoword_amiri.egg-info/dependency_links.txt
+numtoword_amiri.egg-info/top_level.txt
