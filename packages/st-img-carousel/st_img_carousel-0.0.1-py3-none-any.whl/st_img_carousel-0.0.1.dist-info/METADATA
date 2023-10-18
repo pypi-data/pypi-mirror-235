@@ -1,0 +1,47 @@
+Metadata-Version: 2.1
+Name: st-img-carousel
+Version: 0.0.1
+Summary: Streamlit component that allows to create image carousel
+Home-page: 
+Author: Ahsanul Haque
+Author-email: ahsanul.haque.ovi@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit (>=0.63)
+Provides-Extra: devel
+Requires-Dist: wheel ; extra == 'devel'
+Requires-Dist: pytest (==7.4.0) ; extra == 'devel'
+Requires-Dist: playwright (==1.36.0) ; extra == 'devel'
+Requires-Dist: requests (==2.31.0) ; extra == 'devel'
+Requires-Dist: pytest-playwright-snapshot (==1.0) ; extra == 'devel'
+Requires-Dist: pytest-rerunfailures (==12.0) ; extra == 'devel'
+
+### Streamlit st-img-carousel component
+
+Streamlit component for image-carousel:
+
+#### Installation:
+
+Install the component with : `pip install st-img-carousel`
+
+
+#### Example:
+
+```python
+
+from st_img_carousel import img_carousel
+
+def main():
+
+    image_urls = [
+
+    ]
+    selected_img_url = img_carousel(image_urls=image_urls, height=200)
+
+    if selected_img_url is not None:
+        st.image(selected_img_url)
+
+if __name__ == "__main__":
+    main()
+```
+
