@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cromshell"
+# Version number is automatically set via bumpversion. DO NOT MODIFY:
+version = "2.1.1"
+readme = "README.md"
+
+
+[project.urls]
+"Homepage" = "https://github.com/broadinstitute/cromshell"
+"Bug Tracker" = "https://github.com/broadinstitute/cromshell/issues"

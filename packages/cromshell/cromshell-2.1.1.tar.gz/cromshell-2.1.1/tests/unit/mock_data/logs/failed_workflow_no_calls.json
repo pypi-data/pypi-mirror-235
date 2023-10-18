@@ -1,0 +1,40 @@
+{
+    "actualWorkflowLanguage": "WDL",
+    "actualWorkflowLanguageVersion": "1.0",
+    "calls": {},
+    "end": "2022-10-04T21:14:45.696Z",
+    "failures": [
+        {
+            "causedBy": [
+                {
+                    "causedBy": [],
+                    "message": "Failed to evaluate input 'workflow_out_floats' (reason 1 of 1): For input string: \"test_output:PBCCSWholeGenome.aligned_read_length_N50\""
+                }
+            ],
+            "message": "Workflow input processing failed"
+        }
+    ],
+    "id": "67d23358-2c45-4dd3-a735-c13e7384040c",
+    "inputs": {},
+    "labels": {
+        "cromwell-workflow-id": "cromwell-67d23358-2c45-4dd3-a735-c13e7384040c"
+    },
+    "outputs": {},
+    "start": "2022-10-04T21:14:45.608Z",
+    "status": "Failed",
+    "submission": "2022-10-04T21:14:36.376Z",
+    "workflowProcessingEvents": [
+        {
+            "cromwellId": "cromid-c37b45e",
+            "cromwellVersion": "80-6a026f3",
+            "description": "PickedUp",
+            "timestamp": "2022-10-04T21:14:45.607Z"
+        },
+        {
+            "cromwellId": "cromid-c37b45e",
+            "cromwellVersion": "80-6a026f3",
+            "description": "Finished",
+            "timestamp": "2022-10-04T21:14:45.696Z"
+        }
+    ]
+}

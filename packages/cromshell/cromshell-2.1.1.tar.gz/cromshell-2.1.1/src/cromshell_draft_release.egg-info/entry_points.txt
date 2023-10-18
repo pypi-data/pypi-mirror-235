@@ -1,0 +1,2 @@
+[console_scripts]
+cromshell = cromshell.__main__:main_entry
