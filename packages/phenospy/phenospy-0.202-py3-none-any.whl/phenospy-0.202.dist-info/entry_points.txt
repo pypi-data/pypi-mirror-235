@@ -1,0 +1,2 @@
+[console_scripts]
+phenospy-cli = phenospy.cli:main
