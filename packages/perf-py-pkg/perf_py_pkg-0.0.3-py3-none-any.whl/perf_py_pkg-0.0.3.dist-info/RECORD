@@ -1,0 +1,11 @@
+perf_py_pkg/__init__.py,sha256=ob4wN94WbIk1ggPH8bjaekjPsaRF-Swku2TZ4Ko-8qQ,30
+perf_py_pkg/core.py,sha256=FaMiawh-cR0RbcmeH7PAglJ01aFwmmPba58k80a0hXQ,950
+perf_py_pkg/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+perf_py_pkg/utils.py,sha256=iuIaUejvDhz_GEIFoz7HH9NXsy-iVJdMi_wUaJKYKnA,39
+perf_py_pkg/value/__init__.py,sha256=E-xY8jDZQsTYfFkP0UDD0F5P1-EDlYe2bdO12qYlxcQ,21
+perf_py_pkg/value/book_to_price.py,sha256=aPCTexisSntkqEC59nzqq7kuKCt2JSly81FcGg0e7zI,1024
+perf_py_pkg-0.0.3.dist-info/LICENSE,sha256=J0qb42BP8PWuehcVBYkburfTeTpIzoeSDhrD9Yr2N3A,1067
+perf_py_pkg-0.0.3.dist-info/METADATA,sha256=XXAjXARzg9N5UKBVNlptPH5WwbYpNjXjA4T8Eid7Ozg,4532
+perf_py_pkg-0.0.3.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+perf_py_pkg-0.0.3.dist-info/entry_points.txt,sha256=tt2xzGzeXNnkKGlL1AM9KBPznfecs7K8oIE0h4_Yuzs,57
+perf_py_pkg-0.0.3.dist-info/RECORD,,
