@@ -1,0 +1,1 @@
+Complete refactorization of the SP solar gain task.
