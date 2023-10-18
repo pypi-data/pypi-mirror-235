@@ -1,0 +1,15 @@
+interfacy_web/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+interfacy_web/class_card.py,sha256=VzYygTVPCPSDHgXSMWJuYhEuLRYYew4xECt2NItPxvc,6411
+interfacy_web/draggable_card.py,sha256=fwa4CCG3ASa1dQ0gMMYI1qasq8mtRsK_9SFMDhtwmaI,3686
+interfacy_web/elements.py,sha256=xkhFllxLZv22tW_gm6zNqmc_EBlr96rwvPkCEqgC5qA,7952
+interfacy_web/file_picker.py,sha256=GSMxj3prIM46G3BKPQr_7YxjhTleH3qkls0_ttIJEIg,7910
+interfacy_web/icons.py,sha256=np8wOBCZEWEztDoIJpl6eqLMvxA_yHjPiHiOHa5BorU,550
+interfacy_web/logger.py,sha256=cxI4NDnTLWjkoM9DptWv6Pl8arwvSikushULGBEwN08,180
+interfacy_web/magic_card.py,sha256=PR4Yz3SLrzjzVs3XM-8QtYVU5cfDzaRLGi6f8qxjJ_M,5670
+interfacy_web/parser.py,sha256=lTQ0slL-Z5XEW0xt5_AFY_VM3n_9XGs0-8lSvepQaaM,845
+interfacy_web/util.py,sha256=PzS77EDCy-FhYCIxbe7gviIA8AHFYRNpuKEMHx98uW0,1975
+interfacy_web-0.0.1.dist-info/LICENSE,sha256=QZDpZpY8EeSqcJeD9h21EnBz9IcIMlPaIhoxjYuDKzE,1071
+interfacy_web-0.0.1.dist-info/METADATA,sha256=KEDwoWg2cZxffZuDi5Q6zfUCsLZ4_kP-zEbrZYw-Pt0,1669
+interfacy_web-0.0.1.dist-info/WHEEL,sha256=yQN5g4mg4AybRjkgi-9yy4iQEFibGQmlz78Pik5Or-A,92
+interfacy_web-0.0.1.dist-info/top_level.txt,sha256=0i_1NnDzOVPs2mzhCV_TWHpHg9E0GRqxxFXIWj783mQ,14
+interfacy_web-0.0.1.dist-info/RECORD,,
