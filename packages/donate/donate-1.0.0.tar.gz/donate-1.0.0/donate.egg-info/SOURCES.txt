@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.cfg
+setup.py
+donate/__init__.py
+donate.egg-info/PKG-INFO
+donate.egg-info/SOURCES.txt
+donate.egg-info/dependency_links.txt
+donate.egg-info/top_level.txt
