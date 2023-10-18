@@ -1,0 +1,18 @@
+prefix: "{{ pglift_prefix.path }}"
+run_prefix: "{{ pglift_prefix.path }}/run"
+postgresql:
+  auth:
+    local: md5
+    host: md5
+    passfile: "{{ pglift_prefix.path }}/.pgpass"
+  surole:
+    pgpass: true
+  backuprole:
+    pgpass: true
+  replrole: replication
+pgbackrest:
+  repository:
+    mode: path
+    path: "{{ pglift_prefix.path }}/backups"
+prometheus:
+  execpath: /usr/bin/prometheus-postgres-exporter

@@ -1,0 +1,10 @@
+- name: A DBA role
+  dalibo.pglift.role:
+    name: dba
+    pgpass: true
+    login: true
+    connection_limit: 10
+    validity: 2025-01-01T00:00
+    in_roles:
+      - pg_read_all_stats
+      - pg_signal_backend

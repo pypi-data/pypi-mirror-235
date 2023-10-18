@@ -1,0 +1,56 @@
+{
+  "examples": "- name: A Prometheus postgres_exporter monitoring dbserver.example.net:5444\n  dalibo.pglift.postgres_exporter:\n    name: app\n    port: 9188\n    dsn: host=dbserver.example.net port=5444 user=monitor\n    password: '{{ monitor_role_password }}'\n",
+  "options": {
+    "dsn": {
+      "description": [
+        "connection string of target instance"
+      ],
+      "required": true,
+      "type": "str"
+    },
+    "name": {
+      "description": [
+        "locally unique identifier of the service"
+      ],
+      "required": true,
+      "type": "str"
+    },
+    "password": {
+      "description": [
+        "connection password"
+      ],
+      "no_log": true,
+      "type": "str"
+    },
+    "port": {
+      "description": [
+        "TCP port for the web interface and telemetry"
+      ],
+      "required": true,
+      "type": "int"
+    },
+    "state": {
+      "choices": [
+        "started",
+        "stopped",
+        "absent"
+      ],
+      "default": "started",
+      "description": [
+        "runtime state"
+      ]
+    }
+  },
+  "return values": {
+    "change_state": {
+      "choices": [
+        "created",
+        "changed",
+        "dropped"
+      ],
+      "description": [
+        "Define the change applied (created, changed or dropped) to a manipulated object"
+      ]
+    }
+  }
+}

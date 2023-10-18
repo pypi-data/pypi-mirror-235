@@ -1,0 +1,11 @@
+postgresql:
+  auth:
+    host: scram-sha-256
+pgbackrest:
+  repository:
+    path: /srv/backups
+    mode: path
+prometheus:
+  execpath: /usr/bin/prometheus-postgres-exporter
+powa: {}
+systemd: {}
