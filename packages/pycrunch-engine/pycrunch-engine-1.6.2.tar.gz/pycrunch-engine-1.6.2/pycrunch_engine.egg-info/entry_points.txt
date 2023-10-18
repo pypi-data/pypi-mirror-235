@@ -1,0 +1,2 @@
+[console_scripts]
+pycrunch-engine = pycrunch.main:run
