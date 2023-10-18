@@ -1,0 +1,5 @@
+setup.py
+mattsollamatools.egg-info/PKG-INFO
+mattsollamatools.egg-info/SOURCES.txt
+mattsollamatools.egg-info/dependency_links.txt
+mattsollamatools.egg-info/top_level.txt
