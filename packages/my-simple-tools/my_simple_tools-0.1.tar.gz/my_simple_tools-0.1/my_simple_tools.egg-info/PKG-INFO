@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: my-simple-tools
+Version: 0.1
+Summary: Projeto simples com funções usuais do dia a dia como enviar emails smtp e validar emails
+Author: Camilo Costa de Carvalho
+Author-email: camilo.costa1993@gmail.com
+License: MIT
+Keywords: tools,email-tools,email-validation
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+License-File: LICENSE
+
+# simple readme initial

@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+my_simple_tools/__init__.py
+my_simple_tools/helloworld.py
+my_simple_tools.egg-info/PKG-INFO
+my_simple_tools.egg-info/SOURCES.txt
+my_simple_tools.egg-info/dependency_links.txt
+my_simple_tools.egg-info/top_level.txt
