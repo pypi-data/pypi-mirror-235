@@ -1,0 +1,2 @@
+[console_scripts]
+check-print = check_print.main:main

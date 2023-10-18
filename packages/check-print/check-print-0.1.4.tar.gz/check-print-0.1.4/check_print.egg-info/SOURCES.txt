@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+check_print/__init__.py
+check_print/main.py
+check_print.egg-info/PKG-INFO
+check_print.egg-info/SOURCES.txt
+check_print.egg-info/dependency_links.txt
+check_print.egg-info/entry_points.txt
+check_print.egg-info/top_level.txt
+tests/__init__.py
+tests/test.py
