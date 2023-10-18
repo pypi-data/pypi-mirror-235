@@ -1,0 +1,11 @@
+[project]
+name = "integrations"
+version = "0.0.2"
+authors = [{ name = "Dofamin" }]
+description = "Integrations for other systems"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
