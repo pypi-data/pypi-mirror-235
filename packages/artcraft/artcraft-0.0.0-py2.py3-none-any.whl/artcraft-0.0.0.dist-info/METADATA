@@ -1,0 +1,69 @@
+Metadata-Version: 2.1
+Name: artcraft
+Version: 0.0.0
+Summary: Image generation based on diffusers
+Author: Yajun
+Author-email: skyblueice234@gmail.com
+License: Apache License 2.0
+Keywords: diffusers,stable diffusion
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: gradio ==3.41.2
+Requires-Dist: huggingface-hub ==0.16.4
+Requires-Dist: modelscope ==1.8.3
+Requires-Dist: Pillow ==10.0.0
+Requires-Dist: opencv-python ==4.8.0.76
+Requires-Dist: diffusers ==0.20.0
+Requires-Dist: accelerate ==0.21.0
+Requires-Dist: torch ==2.0.1
+Requires-Dist: transformers ==4.31.0
+
+
+## Introduction
+artcraft provides image generation based on [diffusers](https://github.com/huggingface/diffusers).
+
+## Features
+* Text2Image/Image2Image
+* Lora/Text Inversion/ControlNet support
+* Image Processors
+* Model Manager
+
+## Install
+make sure your python>=3.9.
+```shell
+pip install git+https://github.com/yinyajun/artcraft
+```
+you will see
+```shell
+Collecting git+https://github.com/yinyajun/artcraft
+  Cloning https://github.com/yinyajun/artcraft to /private/var/folders/gj/h8cqw2g54kq535tngpnjt1cw0000gn/T/pip-req-build-_pbbuwmw
+  Running command git clone --filter=blob:none --quiet https://github.com/yinyajun/artcraft /private/var/folders/gj/h8cqw2g54kq535tngpnjt1cw0000gn/T/pip-req-build-_pbbuwmw
+  Resolved https://github.com/yinyajun/artcraft to commit ff6fe76ce1086f7abcf9de46723023268fce8530
+  Preparing metadata (setup.py) ... done
+Building wheels for collected packages: artcraft
+  Building wheel for artcraft (setup.py) ... done
+  Created wheel for artcraft: filename=artcraft-0.0.1-py3-none-any.whl size=56473 sha256=870b110cd02eb4e0010219660564523e54e14f42a145f7a9c4ba9f5ac1c67f4d
+  Stored in directory: /private/var/folders/gj/h8cqw2g54kq535tngpnjt1cw0000gn/T/pip-ephem-wheel-cache-oai9ijti/wheels/38/ed/be/67b8e7c02a70ba6c15cfe94fe81df0cf1bb22bd0feb3169a46
+Successfully built artcraft
+Installing collected packages: artcraft
+Successfully installed artcraft-0.0.1
+```
+
+## Uninstall
+```shell
+pip uninstall artcraft
+```
+
+## Launch WebUI
+make sure you have installed artcraft successfully.
+```shell
+artcraft
+```
+you will see
+```shell
+Running on local URL:  http://127.0.0.1:7860
+
+To create a public link, set `share=True` in `launch()`.
+```
+![web ui](./docs/webui.png)
