@@ -1,0 +1,11 @@
+gslackers/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gslackers/hooks.py,sha256=BundpiARbTsVavNREcs44Ktq_-O-d-NyUrnY_cGL32o,971
+gslackers/models.py,sha256=SfwcZh3ZBVPJhNXsq4z8xzA7_S10GZ4jhNSiUvQ7oEk,1074
+gslackers/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+gslackers/registry.py,sha256=hdEcML_6kBGh5Yuo5uPKe1iV1wGHjlf0ISvAJR9G7UE,327
+gslackers/server.py,sha256=hPA_LkX__Mzhd1NUwvhKW9P5VvporM8FZ0s8ocDv2aw,3454
+gslackers/verification.py,sha256=rCMJVOG4UfP6sMrOYmX4L-prR8pFMeLrcQWAWrt7Kqc,1335
+gslackers-1.0.4.dist-info/LICENSE,sha256=Vhwl_LM5tuHM64PtmvQuHUYHuZCAjYmCvRShdcuEo7Q,1075
+gslackers-1.0.4.dist-info/METADATA,sha256=DyZn_PNsExFRxzpQivJCO66bFQmSmy85BxzWwXb26OY,8737
+gslackers-1.0.4.dist-info/WHEEL,sha256=d2fvjOD7sXsVzChCqf0Ty0JbHKBaLYwDbGQDwQTnJ50,88
+gslackers-1.0.4.dist-info/RECORD,,
