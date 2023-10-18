@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+dynamic_content_generator.egg-info/PKG-INFO
+dynamic_content_generator.egg-info/SOURCES.txt
+dynamic_content_generator.egg-info/dependency_links.txt
+dynamic_content_generator.egg-info/requires.txt
+dynamic_content_generator.egg-info/top_level.txt
+generated_content/__init__.py
+generated_content/generator.py
+generated_content/methods.py
+tests/test.py
