@@ -1,0 +1,3 @@
+[console_scripts]
+greeter-cli=greeter.cli:cli
+
