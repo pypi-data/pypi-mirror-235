@@ -1,0 +1,21 @@
+[project]
+name = "hello-dj-26"
+version = "0.1.0"
+description = "hello dj26 first pypi"
+authors = [
+    { name = "pysatellite", email = "pysatellite@gmail.com" },
+]
+dependencies = []
+requires-python = ">=3.8"
+readme = "README.md"
+
+[project.license]
+text = "MIT"
+
+[build-system]
+requires = [
+    "pdm-backend",
+]
+build-backend = "pdm.backend"
+
+[tool]
